@@ -7,7 +7,7 @@
 
 $l['nav_register'] = "Registrovat";
 $l['nav_activate'] = "Aktivovat";
-$l['nav_resendactivation'] = "Znovu poslat aktivační e-mail";
+$l['nav_resendactivation'] = "Znovu poslat aktivační email";
 $l['nav_lostpw'] = "Obnova ztraceného hesla";
 $l['nav_resetpassword'] = "Resetovat heslo";
 $l['nav_login'] = "Přihlásit se";
@@ -21,9 +21,9 @@ $l['activate_account'] = "Aktivovat účet";
 $l['activation_code'] = "Aktivační kód:";
 
 $l['email_user'] = "Napsat uživateli {1} email";
-$l['email_subject'] = "Předmět e-mailu";
+$l['email_subject'] = "Předmět emailu";
 $l['email_message'] = "Zpráva emailu";
-$l['send_email'] = "Poslat e-mail";
+$l['send_email'] = "Poslat email";
 $l['error_hideemail'] = "Příjemce se rozhodl svoji emailovou adresu nezobrazovat, takže mu nelze email zaslat.";
 $l['error_no_email_subject'] = "Je nutné zadat předmět emailu";
 $l['error_no_email_message'] = "Je nutné napsat do emailu nějakou zprávu";
