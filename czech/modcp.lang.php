@@ -58,7 +58,7 @@ $l['report_reason_other'] = "Jiný důvod";
 $l['report_info_post'] = "<a href=\"{1}\">Příspěvek</a> od {2}";
 $l['report_info_post_thread'] = "<br /><span class=\"smalltext\">V <a href=\"{1}\">{2}</a></span>";
 $l['report_info_profile'] = "Profil {1}";
-$l['report_info_reputation'] = "<a href=\"{1}\">Hodnocení</a> from {2}";
+$l['report_info_reputation'] = "<a href=\"{1}\">Hodnocení</a> od {2}";
 $l['report_info_rep_profile'] = "<br /><span class=\"smalltext\">V profilu {1}</span>";
 $l['report_info_lastreporter'] = "{1}<br />od {2}";
 
