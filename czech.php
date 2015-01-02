@@ -6,7 +6,7 @@
  */
 
 // The friendly name of the language
-$langinfo['name'] = "Czech";
+$langinfo['name'] = "Čeština";
 
 // The author of the language
 $langinfo['author'] = "Cu8eeeR /Elfew/ & Stary";
