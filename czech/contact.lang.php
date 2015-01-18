@@ -15,7 +15,7 @@ $l['contact_subject_desc'] = 'Uveďte stručně předmět zprávy.';
 $l['contact_message'] = 'Zpráva';
 $l['contact_message_desc'] = 'Popište podrobně svůj problém.';
 $l['contact_email'] = 'Email';
-$l['contact_email_desc'] = 'Zadejte svůj e-mail, abychom Vás mohli kontaktovat.';
+$l['contact_email_desc'] = 'Zadejte svůj email, abychom Vás mohli kontaktovat.';
 $l['contact_send'] = 'Odeslat';
 $l['image_verification'] = "Ověření obrázku";
 $l['verification_note'] = "Prosím zadejte text z obrázku do textového pole pod ním. Tento postup je nutný na ochranu před roboty.";
@@ -25,6 +25,6 @@ $l['subject_too_long'] = 'Předmět je moc dlouhý. Uveďte prosím kratší ne�
 $l['message_too_short'] = 'Text zprávy je moc krátký. Uveďte prosím zprávu delší než {1} znaků (nyní má {2}).';
 $l['message_too_long'] = 'Text zpráva je moc dlouhý. Uveďte prosím zprávu kratší než {1} znaků (nyní má {2}).';
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Váš e-mail či IP adresa je na seznamu spamerů - Vaše kontaktní údaje byly zablokovany.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, Váš email či IP adresa je na seznamu spamerů - Vaše kontaktní údaje byly zablokovany.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to prosím později.';
 
