@@ -7,7 +7,7 @@
 
 $l['nav_usercp'] = "Panel uživatele";
 $l['nav_profile'] = "Upravit profil";
-$l['nav_options'] = "Změnit možnosti";
+$l['nav_options'] = "Upravit možnosti fóra";
 $l['nav_email'] = "Změnit email";
 $l['nav_password'] = "Změnit heslo";
 $l['nav_changename'] = "Změnit uživatelské jméno";
