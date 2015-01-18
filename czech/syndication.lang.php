@@ -9,5 +9,5 @@ $l['all_forums'] = "Všechna fóra";
 $l['forum'] = "Fórum:";
 $l['posted_by'] = "Příspěvky od:";
 $l['on'] = "dne";
-$l['portal'] = "Brána";
+$l['portal'] = "Portál";
 
