@@ -9,10 +9,10 @@ $l['nav_calendar'] = "Kalendář";
 $l['nav_viewevent'] = "Zobrazit událost";
 $l['nav_dayview'] = "Denní přehled";
 $l['nav_addevent'] = "Přidat událost";
-$l['nav_editevent'] = "Editovat událost";
+$l['nav_editevent'] = "Upravit událost";
 $l['nav_move_event'] = "Přesunout událost";
 
-$l['calendar_disabled'] = "Nemůžete používat funkci kalendáře, protože to administrátor zakázal.";
+$l['calendar_disabled'] = "Nemůžete používat funkci kalendáře, protože ji administrátor zakázal.";
 
 // In some languages these months need to be slightly different than those defined in global.lang.php
 $l['alt_month_1'] = "Leden";
@@ -59,7 +59,7 @@ $l['edit_event'] = "Editovat událost";
 $l['view_event'] = "Zobrazit událost";
 $l['no_events'] = "Tento den nemá přiřazenou žádnou událost.<p>Pro vytvoření události na tento den buď klikněte na '<a href=\"calendar.php?action=addevent&amp;calendar={1}&amp;day={2}&amp;month={3}&amp;year={4}\">Přidat veřejnou událost</a>', nebo na '<a href=\"calendar.php?action=addevent&amp;private=1&amp;calendar={1}&amp;day={2}&amp;month={3}&amp;year={4}\">Přidat soukromou událost</a>'.</p>";
 $l['years_old'] = "{1} roků";
-$l['alt_edit'] = "Editovat tuto událost";
+$l['alt_edit'] = "Upravit tuto událost";
 $l['alt_delete'] = "Odstranit tuto událost";
 $l['moderator_options'] = "Možnosti moderátora";
 $l['approve_event'] = "Schválit událost";
