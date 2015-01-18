@@ -22,7 +22,7 @@ $l['fwd_pm'] = "Přeposlat zprávu";
 $l['pms_disabled'] = "Administrátor neumožňuje používat službu soukromých zpráv.";
 
 $l['private_messaging'] = "Soukromé zprávy";
-$l['inbox'] = "Doručená pošta";
+$l['inbox'] = "Doručené zprávy";
 $l['compose_message2'] = "Napsat zprávu";
 $l['manage_folders'] = "Správa složek";
 $l['pm_search_results'] = "Výsledky prohledávání soukromých zpráv";
