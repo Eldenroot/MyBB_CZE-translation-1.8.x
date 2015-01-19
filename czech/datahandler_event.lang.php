@@ -10,12 +10,12 @@ $l['eventdata_missing_description'] = 'Chybí popis události. Prosím, zadejte 
 
 $l['eventdata_invalid_start_date'] = 'Datum začátku události je neplatné. Ujistěte se, že máte dobře zadaný den, měsíc i rok. Pamatujte například, že ne každý měsíc má 31 dnů.';
 $l['eventdata_invalid_start_year'] = "Události lze vytvářet pouze s pětiletým předstihem. Vyberte si proto rok začátku události, který tomuto omezení odpovídá.";
-$l['eventdata_invalid_start_month'] = 'Měsíc, ve kterém má událost začít, není správný. Prosím, opravte to.';
+$l['eventdata_invalid_start_month'] = 'Měsíc, ve kterém má událost začít, není správný. Prosím, opravte jej.';
 
 $l['eventdata_invalid_end_date'] = 'Datum konce události je neplatné. Ujistěte se, že máte dobře zadaný den, měsíc i rok.';
 $l['eventdata_invalid_end_year'] = "Události lze vytvářet pouze s pětiletým předstihem. Vyberte si proto rok ukončení události, který tomuto omezení odpovídá.";
-$l['eventdata_invalid_end_month'] = 'Měsíc, ve kterém má událost skončit, není správný. Prosím, opravte to.';
-$l['eventdata_invalid_end_day'] = 'Den, ve kterém má událost začít, není správný. Pravděpodobně není v daném měsíci tolik dnů, kolik jste zadali. Prosím, opravte to.';
+$l['eventdata_invalid_end_month'] = 'Měsíc, ve kterém má událost skončit, není správný. Prosím, opravte jej.';
+$l['eventdata_invalid_end_day'] = 'Den, ve kterém má událost začít, není správný. Pravděpodobně není v daném měsíci tolik dnů, kolik jste zadali. Prosím, opravte jej.';
 
 $l['eventdata_cant_specify_one_time'] = "Pokud uvádíte čas začátku události, musíte uvést i čas její konce";
 $l['eventdata_start_time_invalid'] = "Čas začátku události není platný. Příklady platného zadání jsou 12am, 12:01am, 00:01.";
