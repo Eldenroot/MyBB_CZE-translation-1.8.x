@@ -5,8 +5,8 @@
  *
  */
 
-$l['nav_editpost'] = "Editovat příspěvek";
-$l['edit_post'] = "Editovat příspěvek";
+$l['nav_editpost'] = "Upravit příspěvek";
+$l['edit_post'] = "Upravit příspěvek";
 $l['delete_post'] = "Odstranit příspěvek";
 $l['delete_q'] = "Odstranit?";
 $l['delete_1'] = "Pro odstranění příspěvku zatrhněte checkbox nalevo a pak klikněte na tlačítko vpravo.";
@@ -14,7 +14,7 @@ $l['delete_2'] = "<b>Poznámka:</b> Pokud je tento příspěvek prvním přísp�
 $l['subject'] = "Předmět:";
 $l['your_message'] = "Obsah zprávy";
 $l['post_options'] = "Možnosti příspěvku:";
-$l['editreason'] = "Důvod editace:";
+$l['editreason'] = "Důvod úpravy:";
 $l['options_sig'] = "<strong>Podpis:</strong> vložit podpis (pouze pro registrované uživatele).";
 $l['options_emailnotify'] = "<strong>Oznámení emailem:</strong> dostávat oznámení o nových odpovědích emailem (pouze pro registrované uživatele)";
 $l['options_disablesmilies'] = "<strong>Zablokovat smajlíky:</strong> v tomto příspěvku nebudou zobrazováni smajlíci.";
