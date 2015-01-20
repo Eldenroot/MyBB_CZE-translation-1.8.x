@@ -27,4 +27,4 @@ $l['success_report_voted'] = "Děkujeme za ohlášený příspěvek.<br />Moder�
 $l['error_report_length'] = "Uveďte prosím důvod vašeho ohlášení.";
 $l['error_invalid_report'] = "Tento příspěvek buď neexistuje, nebo jej nelze ohlásit.";
 $l['error_report_duplicate'] = "Tento příspěvek již byl ohlášen jiným členem fóra.<br />Mužete jej také níže ohlásit.";
-$l['report_reason_other_description'] = "Pokud zvolíte 'Ostatní', prosím uveďte důvod k ohlášení tohoto příspěvek.";
+$l['report_reason_other_description'] = "Pokud zvolíte možnost 'Ostatní', uveďte prosím důvod k ohlášení tohoto příspěvku.";
