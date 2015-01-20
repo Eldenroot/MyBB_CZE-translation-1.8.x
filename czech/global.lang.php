@@ -299,7 +299,7 @@ $l['redirect'] = "Budete přesměrováni";
 $l['unknown_error'] = "Nastala neznámá chyba.";
 $l['post_fetch_error'] = 'Chyba při načítání příspěvků.';
 
-$l['smilieinsert'] = "Smajlíky";
+$l['smilieinsert'] = "Smajlíci";
 $l['smilieinsert_getmore'] = "další";
 $l['on'] = "zapnuté";
 $l['off'] = "vypnuté";
