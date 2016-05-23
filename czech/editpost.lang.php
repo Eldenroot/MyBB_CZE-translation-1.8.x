@@ -27,7 +27,7 @@ $l['num_options'] = "Počet možností:";
 $l['max_options'] = "(Maximum: {1})";
 $l['delete_now'] = "Odstranit";
 $l['edit_time_limit'] = "Nemůžete již editovat svůj příspěvek. Příspěvky lze editovat pouze do {1} minut po jejich odeslání.";
-$l['no_prefix'] = "Bez prefixu";
+$l['no_prefix'] = "Bez předpony";
 
 $l['redirect_nodelete'] = "Příspěvek nebyl odstraněn, neboť jste nezaškrtli checkbox \"Odstranit\".";
 $l['redirect_norestore'] = "Příspěvek nebyl obnoven, neboť jste nezaškrtli checkbox \"Obnovit\".";
@@ -46,7 +46,7 @@ $l['error_already_delete'] = "Tento příspěvek je již odstraněn.";
 
 $l['thread_deleted'] = "Trvale odstraněné téma";
 $l['post_deleted'] = "Trvale odstraněný příspěvek";
-$l['thread_soft_deleted'] = "Dočasně odstraněná téma";
+$l['thread_soft_deleted'] = "Dočasně odstraněné téma";
 $l['post_soft_deleted'] = "Dočasně odstraněný příspěvek";
 $l['thread_restored'] = "Obnovené téma";
 $l['post_restored'] = "Obnovený příspěvek";
