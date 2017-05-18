@@ -4,7 +4,7 @@
  * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
-
+$l['new_forum'] = "Nové fórum";
 $l['post_thread'] = "Nové téma";
 $l['moderated_by'] = "Moderátor:";
 $l['nothreads'] = "V tomto fóru se nenacházejí žádná témata, která odpovídají specifikovanému časovému rozmezí.";
