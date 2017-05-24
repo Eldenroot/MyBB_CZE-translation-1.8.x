@@ -19,6 +19,7 @@ $l['bottomlinks_contactus'] = "Kontakty";
 $l['bottomlinks_returntop'] = "Nahoru";
 $l['bottomlinks_syndication'] = "RSS";
 $l['bottomlinks_litemode'] = "Odlehčený režim";
+$l['bottomlinks_markread'] = "Označit všechna fóra jako přečtená";
 
 $l['welcome_usercp'] = "Nastavení uživatele";
 $l['welcome_modcp'] = "Moderování";
