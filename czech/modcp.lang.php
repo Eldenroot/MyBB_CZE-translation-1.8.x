@@ -94,6 +94,7 @@ $l['action'] = "Akce";
 $l['all_moderators'] = "Všichni moderátoři";
 $l['ip'] = "IP adresa";
 $l['info_on_ip'] = "Informace o této IP adrese";
+$l['search_ip_sfs']  = "Vyhledat tuto IP adresu na Stop Forum Spam databázi";
 $l['information']  = "Informace";
 $l['filter_modlogs'] = "Filtrovat logy moderátora";
 $l['forum'] = "Fórum";

@@ -23,7 +23,7 @@ $l['close_thread'] = "<strong>Uzavřít téma:</strong> znemožňuje publikaci d
 $l['stick_thread'] = "<strong>Přilepit téma:</strong> toto téma bude přilepeno na začátek fóra.";
 $l['forum_rules'] = "{1} - Pravidla";
 $l['thread_review'] = "Náhled témat (nejdříve nové)";
-$l['thread_review_more'] = "Toto téma má více než {1} příspěvků. <a href=\"{2}\">Přečíst celé téma.</a>";
+$l['thread_review_more'] = "Toto téma má více než {1} příspěvků. <a href=\"{2}\" target=\"_blank\">Přečíst celé téma.</a>";
 $l['posted_by'] = "Napsal(a)";
 $l['draft_saved'] = "Nový příspěvek byl úspěšně uložen do konceptů.<br />Nyní budete přesměrováni do seznamu konceptů.";
 $l['image_verification'] = "Obrázková verifikace";
