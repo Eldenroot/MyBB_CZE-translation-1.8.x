@@ -132,8 +132,8 @@ $l['no_subscribe_notification'] = "Přihlásit k odběru bez ohlašováním odpo
 $l['instant_email_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi emailem";
 $l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes SZ";
 
-$l['today'] = "dnes";
-$l['yesterday'] = "včera";
+$l['today'] = "<span title=\"{1}\">dnes</span>";
+$l['yesterday'] = "<span title=\"{1}\">včera</span>";
 $l['error'] = "Zpráva fóra";
 
 $l['multipage_pages'] = "Stránky ({1}):";
@@ -341,7 +341,7 @@ $l['seconds_short'] = "s";
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "";
 $l['rel_less_than'] = "méně než ";
-$l['rel_time'] = "{1}{2} {3} {4}";
+$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "hodina";
