@@ -9,7 +9,7 @@
 $langinfo['name'] = "Čeština";
 
 // The author of the language
-$langinfo['author'] = "Cu8eeeR /Elfew/ & Stary & uzbugg";
+$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Stary & uzbugg";
 
 // The language authors website
 $langinfo['website'] = "https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x";
