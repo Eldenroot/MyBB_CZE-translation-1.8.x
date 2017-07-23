@@ -6,53 +6,53 @@
  */
 
 
-$l['database_backups'] = "Database Backups";
-$l['database_backups_desc'] = "Here you find a listing of the database backups that are currently stored on your web server in the MyBB Backups directory.";
-$l['new_database_backup'] = "New Database Backup";
-$l['new_backup'] = "New Backup";
-$l['new_backup_desc'] = "Here you can backup a copy of your database.";
-$l['backups'] = "Backups";
-$l['existing_database_backups'] = "Existing Database Backups";
+$l['database_backups'] = "Zálohy databáze";
+$l['database_backups_desc'] = "Zde můžeš najít seznam záloh databáze, které se nachazejí na tvém webovém serveru ve složce backups (která se nachází v /admin)";
+$l['new_database_backup'] = "Nová záloha databáze";
+$l['new_backup'] = "Vytvořit novou zálohu databáze";
+$l['new_backup_desc'] = "Zde si můžeš vytvořit zálohu databáze.";
+$l['backups'] = "Zálohy";
+$l['existing_database_backups'] = "Existující zálohy databáze";
 
-$l['backup_saved_to'] = "The backup was saved to:";
-$l['download'] = "Download";
-$l['table_selection'] = "Table Selection";
-$l['backup_options'] = "Backup Options";
-$l['table_select_desc'] = "You may select the database tables you wish to perform this action on here. Hold down CTRL to select multiple tables.";
-$l['select_all'] = "Select All";
-$l['deselect_all'] = "Deselect All";
-$l['select_forum_tables'] = "Select Forum Tables";
-$l['file_type'] = "File Type";
+$l['backup_saved_to'] = "Záloha byla uložena do:";
+$l['download'] = "Stáhnout";
+$l['table_selection'] = "Vybrat tabulku(y)";
+$l['backup_options'] = "Nastavení zálohy";
+$l['table_select_desc'] = "Můžeš vybrat databazázovouYou may select the database tables you wish to perform this action on here. Hold down CTRL to select multiple tables.";
+$l['select_all'] = "Označit všechny";
+$l['deselect_all'] = "Odebrat všechna označení";
+$l['select_forum_tables'] = "Vybrat jednotlivé tabulky";
+$l['file_type'] = "Typ souboru";
 $l['file_type_desc'] = "Select the file type you would like the database backup saved as.";
-$l['gzip_compressed'] = "GZIP Compressed";
-$l['plain_text'] = "Plain Text";
-$l['save_method'] = "Save Method";
-$l['save_method_desc'] = "Select the method you would like to use to save the backup.";
-$l['backup_directory'] = "Backup Directory";
-$l['backup_contents'] = "Backup Contents";
-$l['backup_contents_desc'] = "Select the information that you would like included in the backup.";
-$l['structure_and_data'] = "Structure and Data";
-$l['structure_only'] = "Structure Only";
-$l['data_only'] = "Data only";
-$l['analyze_and_optimize'] = "Analyze and Optimize Selected Tables";
-$l['analyze_and_optimize_desc'] = "Would you like the selected tables to be analyzed and optimized during the backup?";
-$l['perform_backup'] = "Perform Backup";
-$l['backup_filename'] = "Backup Filename";
-$l['file_size'] = "File Size";
-$l['creation_date'] = "Creation Date";
-$l['no_backups'] = "There are currently no backups made yet.";
+$l['gzip_compressed'] = "GZIP komprese";
+$l['plain_text'] = "Bez komprese - plain text";
+$l['save_method'] = "Metoda uložení";
+$l['save_method_desc'] = "Vyber motodu, kterou si přeješ použít k uložit zálohu";
+$l['backup_directory'] = "Složka pro zálohy";
+$l['backup_contents'] = "Obsah zálohy";
+$l['backup_contents_desc'] = "Vyber informaci, která má být obsažena v záloze";
+$l['structure_and_data'] = "Struktura a Data";
+$l['structure_only'] = "Pouze Struktura";
+$l['data_only'] = "Pouze Data";
+$l['analyze_and_optimize'] = "Analyzovat a optimalizovat vybrané tabulky.";
+$l['analyze_and_optimize_desc'] = "Chtěl bys, aby vybrané tabulky byly analyzovány a optimalizovány během zálohy?";
+$l['perform_backup'] = "Vytvořit zálohu";
+$l['backup_filename'] = "Název zálohy";
+$l['file_size'] = "Velikost";
+$l['creation_date'] = "Vytvořena dne";
+$l['no_backups'] = "Zatím nebyli vytvořeny žádné zálohy databáze.";
 
-$l['error_file_not_specified'] = "You did not specify a database backup to download.";
-$l['error_invalid_backup'] = "The back up file you selected is either invalid or does not exist.";
-$l['error_backup_doesnt_exist'] = "The specified backup does not exist";
-$l['error_backup_not_deleted'] = "The backup has not been deleted.";
-$l['error_tables_not_selected'] = "You did not select any tables to backup.";
-$l['error_no_zlib'] = "The zlib library for PHP is not enabled - you cannot create GZIP compressed backups.";
+$l['error_file_not_specified'] = "Nevybral si zálohu databáze ke stažení.";
+$l['error_invalid_backup'] = "Soubor, který si označil je buď neplatný nebo neexistuje.";
+$l['error_backup_doesnt_exist'] = "Požadovaná záloha bohužel neexistuje.";
+$l['error_backup_not_deleted'] = "Záloha nebyla vymazána.";
+$l['error_tables_not_selected'] = "Nevybral si tabulku, která by se měla zálohovat.";
+$l['error_no_zlib'] = "Knihovna zlib pro PHP není povolena - nemůžeš vytvořit kompresovanou GZIP zálohu.";
 
-$l['alert_not_writable'] = "Your backups directory (within the Admin CP directory) is not writable. You cannot save backups on the server.";
+$l['alert_not_writable'] = "Tvá složka s názvem backups (která se nachází ve složce /admin) není zapisovatelná. Skript nemůže zálohovat tvojí databázi na server.";
 
-$l['confirm_backup_deletion'] = "Are you sure you wish to delete this backup?";
+$l['confirm_backup_deletion'] = "Jsi si jistý, že chceš smazat tuto zálohu?";
 
-$l['success_backup_deleted'] = "The backup has been deleted successfully.";
-$l['success_backup_created'] = "The backup has been created successfully.";
+$l['success_backup_deleted'] = "Záloha byla úspěšně vymazána.";
+$l['success_backup_created'] = "Záloha byla úspešně vytvořena.";
 
