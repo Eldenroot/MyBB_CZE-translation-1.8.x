@@ -5,42 +5,42 @@
  *
  */
 
-$l['banning'] = "Banning";
-$l['banned_ips'] = "Banned IPs";
-$l['banned_ips_desc'] = "Here you can manage IP addresses which are banned from accessing your board.";
+$l['banning'] = "Sekce banů";
+$l['banned_ips'] = "Zabanové IP adresy";
+$l['banned_ips_desc'] = "Zde můžeš upravit zabanované IP adresy.";
 $l['banned_accounts'] = "Zabanované účty";
-$l['disallowed_usernames'] = "Disallowed Usernames";
-$l['disallowed_usernames_desc'] = "Here you manage a list of usernames which cannot be registered or used by users. This feature is also particularly useful for reserving usernames.";
-$l['disallowed_email_addresses'] = "Disallowed Email Addresses";
-$l['disallowed_email_addresses_desc'] = "Here you manage a list of email addresses which cannot be registered or used by users.";
+$l['disallowed_usernames'] = "Nepovolené přezdívky";
+$l['disallowed_usernames_desc'] = "Zde můžeš spravovat list uživatelským jmen, které se nemohou zaregistrovat nebo nemohou být použity. Tato funkce může být také určeno pro zarezervování přezdívek.";
+$l['disallowed_email_addresses'] = "Nepovolené emailové adresy";
+$l['disallowed_email_addresses_desc'] = "Zde můžeš spravovat list emailových adres, které se nemohou zaregistrovan a nebo být použity uživately.";
 
-$l['banned_ip_addresses'] = "Banned IP Addresses";
+$l['banned_ip_addresses'] = "Zabanové IP adresy";
 $l['username'] = "Přezdívka";
 $l['date_disallowed'] = "Date Disallowed";
 $l['last_attempted_use'] = "Last Attempted Use";
 $l['email_address'] = "Emailová adresa";
 $l['ip_address'] = "IP adresa";
-$l['ban_date'] = "Ban Date";
+$l['ban_date'] = "Datum banu";
 $l['last_access'] = "Poslední příhlášení";
-$l['no_bans'] = "There are no bans currently set at this time.";
-$l['add_disallowed_username'] = "Add a Disallowed Username";
-$l['username_desc'] = "Note: To indicate a wild card match, use *";
-$l['disallow_username'] = "Disallow Username";
-$l['add_disallowed_email_address'] = "Add a Disallowed Email Address";
-$l['email_address_desc'] = "Note: To indicate a wild card match, use *";
-$l['disallow_email_address'] = "Disallow Email Address";
-$l['ban_an_ip_address'] = "Ban an IP Address";
-$l['ip_address_desc'] = "Note: To ban a range of IP addresses use * (Ex: 127.0.0.*) or CIDR notation (Ex: 127.0.0.0/8)";
-$l['ban_ip_address'] = "Ban IP Address";
+$l['no_bans'] = "Zatím si nikoho nezabanoval.";
+$l['add_disallowed_username'] = "Přidat nepovolenou přezdívku";
+$l['username_desc'] = "Poznámka: To indicate a wild card match, use *";
+$l['disallow_username'] = "Zakázat přezdívku";
+$l['add_disallowed_email_address'] = "Přidat nepovolenou emailovou adresu";
+$l['email_address_desc'] = "Poznámka: To indicate a wild card match, use *";
+$l['disallow_email_address'] = "Zakazané emailové adresy";
+$l['ban_an_ip_address'] = "Zabanovat IP adresu";
+$l['ip_address_desc'] = "Poznámka: Pro zabanování rozsahu IP adresy použí  * (například: 127.0.0.*) případně CIDR notation (Ex: 127.0.0.0/8)";
+$l['ban_ip_address'] = "Zabanovat IP adresy";
 
-$l['error_missing_ban_input'] = "You did not enter a value to ban.";
-$l['error_invalid_filter'] = "The specified filter does not exist.";
-$l['error_filter_already_banned'] = "The filter you entered is already banned.";
+$l['error_missing_ban_input'] = "Nezadal si hodnotu pro zabanování.";
+$l['error_invalid_filter'] = "Tvůj specifikovaný filtr neexistuje.";
+$l['error_filter_already_banned'] = "Filtr, který si zadal už je zabanovaný.";
 
-$l['success_ip_banned'] = "The IP address has been banned successfully.";
-$l['success_username_disallowed'] = "The username has been disallowed successfully.";
-$l['success_email_disallowed'] = "The email address has been disallowed successfully.";
-$l['success_ban_deleted'] = "The specified ban has been deleted successfully.";
+$l['success_ip_banned'] = "Tato IP address byla úspešně zabanována.";
+$l['success_username_disallowed'] = "Přezdívka byla úspešně zakázána. ";
+$l['success_email_disallowed'] = "Emailová adresa byla úspešně zakázána.";
+$l['success_ban_deleted'] = "Ban byl úspešně smazán.";
 
-$l['confirm_ban_deletion'] = "Are you sure you wish to delete this ban?";
+$l['confirm_ban_deletion'] = "Jsi si jistý naprosto, že chceš zrušit tento ban?";
 
