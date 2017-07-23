@@ -8,11 +8,11 @@
 $l['report_reasons'] = "Důvody nahlášení příspěvku";
 $l['report_reasons_desc'] = "Zde můžeš vytvořit a upravit důvody nahlášení příspěvku, které mohou být zvoleny, když uživatel bude chtít nahlásit nevhodný obsah.";
 $l['add_new_reason'] = "Přidat nový důvod";
-$l['add_new_reason_desc'] = "Add a new reason for users to select when reporting content.";
+$l['add_new_reason_desc'] = "Přidej nový důvod pro uživatele, aby ho mohli vybrat při nahlášení nevhodného obsahu.";
 $l['edit_reason'] = "Upravit důvod nahlášení příspěvku";
-$l['edit_reason_desc'] = "Edit a reason for users to select when reporting content.";
+$l['edit_reason_desc'] = "Upraví důvod nahlášení příspěvku.";
 
-$l['applies_to'] = "Aplikuje se pro";
+$l['applies_to'] = "Aplikovat pro";
 $l['order'] = "Pořadí";
 $l['extra_comment'] = "Vyžadují komentář?";
 $l['options'] = "Nastavení";
@@ -20,19 +20,19 @@ $l['delete_reason'] = "Smazat důvod";
 $l['no_report_reasons'] = "Nejsou zde žádné důvody pro nahlášení příspěvku v tuto chíli.";
 
 $l['reason_title'] = "Název";
-$l['reason_title_desc'] = "Zde zadej nadpis důvodu pro nahlášení příspěvku.";
+$l['reason_title_desc'] = "Zde zadej název důvodu pro nahlášení příspěvku.";
 $l['requires_extra'] = "Vyžadují komentář?";
-$l['requires_extra_desc'] = "Vyžaduje, aby uživatel zadal komentář, když je tento důvod vybraný?";
-$l['save_reason'] = "Uložit důvod";
+$l['requires_extra_desc'] = "Vyžaduje, aby uživatel zadal komentář, když vybere tento důvod?";
+$l['save_reason'] = "Uložit";
 
 $l['content_colon'] = "Obsah:";
 
-$l['all_content'] = "Všechen obsah";
+$l['all_content'] = "Vše";
 $l['select_content'] = "Vybrat pro";
 
 // Content types
 $l['report_content_'] = "Žádný";
-$l['report_content_all'] = "Všechen";
+$l['report_content_all'] = "Vše";
 $l['report_content_post'] = "Příspěvek";
 $l['report_content_profile'] = "Profil";
 $l['report_content_reputation'] = "Reputaci";
