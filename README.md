@@ -4,9 +4,9 @@
 Soubory zkopíruj do /inc/languages
 
 ## Autoři Češtiny
-Cu8eeeR /Eldenroot/
-Stary
-uzbugg
+Cu8eeeR /Eldenroot/  
+Stary  
+uzbugg  
 Josef Schlehofer (Pepe) - převážně administrace
 
 ## Kontakt
