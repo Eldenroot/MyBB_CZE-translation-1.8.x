@@ -5,15 +5,15 @@
  *
  */
 
-$l['forums_and_posts'] = "Forums &amp; Posts";
+$l['forums_and_posts'] = "Fóra &amp; Příspěvky";
 
-$l['forum_management'] = "Forum Management";
-$l['forum_announcements'] = "Forum Announcements";
-$l['moderation_queue'] = "Moderation Queue";
-$l['attachments'] = "Attachments";
+$l['forum_management'] = "Správa fóra";
+$l['forum_announcements'] = "Oznámení fóra";
+$l['moderation_queue'] = "Moderátorská kvóta";
+$l['attachments'] = "Přílohy";
 
-$l['can_manage_forums'] = "Can manage forums?";
-$l['can_manage_forum_announcements'] = "Can manage forum announcements?";
-$l['can_moderate'] = "Can moderate posts, threads, and attachments?";
-$l['can_manage_attachments'] = "Can manage attachments?";
+$l['can_manage_forums'] = "Můžeš spravovat fóra?";
+$l['can_manage_forum_announcements'] = "Můžeš spravovat oznámení fóra?";
+$l['can_moderate'] = "Můžeš moderovat příspěvky, vlákna a přílohy?";
+$l['can_manage_attachments'] = "Můžeš spravovat přílohy?";
 
