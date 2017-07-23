@@ -59,11 +59,13 @@ $l['error_missing_description'] = "Nezadal si popis pro naplánovanou úlohu.";
 $l['error_invalid_task_file'] = "Soubor úlohy, který si vybral neexistuje.";
 $l['error_invalid_minute'] = "Minuty, které si zadal jsou ve špatném formátu.";
 $l['error_invalid_hour'] = "Hodiny, které si zadal jsou ve špatném formátu.";
-$l['error_invalid_day'] = "Dny, které si zadal jsou ve špatném formátu. ";
+$l['error_invalid_day'] = "Dny, které si zadal jsou ve špatném formátu.";
 $l['error_invalid_weekday'] = "Všechny dny, které jsi vybral jsou neplatné.";
+$l['error_invalid_month'] = "Měsíc, který si vybral je neplatný.";
 
 $l['success_task_created'] = "Úloha byla úspěšně vytvořena.";
 $l['success_task_updated'] = "Vybraná úloha byla úspěšně aktualizována.";
+$l['success_task_deleted'] = "Vybraná úloha byla úspěšně vymazána.";
 $l['success_task_enabled'] = "Vybraná úloha byla úspěšně povolena.";
 $l['success_task_disabled'] = "Vybraná úloha byla úspěšně zakázána.";
 $l['success_task_run'] = "Vybraná úloha se úspěšně spustila.";
