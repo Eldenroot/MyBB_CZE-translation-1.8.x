@@ -18,7 +18,7 @@ $l['backup_saved_to'] = "Záloha byla uložena do:";
 $l['download'] = "Stáhnout";
 $l['table_selection'] = "Vybrat tabulku(y)";
 $l['backup_options'] = "Nastavení zálohy";
-$l['table_select_desc'] = "Můžeš vybrat databazázovouYou may select the database tables you wish to perform this action on here. Hold down CTRL to select multiple tables.";
+$l['table_select_desc'] = "Můžeš vybrat databázové tabulky u kterých si přeješ provést zálohu. Podrž tlačítko CTRL, aby si vybral více tabulek.";
 $l['select_all'] = "Označit všechny";
 $l['deselect_all'] = "Odebrat všechna označení";
 $l['select_forum_tables'] = "Vybrat jednotlivé tabulky";
@@ -40,7 +40,7 @@ $l['perform_backup'] = "Vytvořit zálohu";
 $l['backup_filename'] = "Název zálohy";
 $l['file_size'] = "Velikost";
 $l['creation_date'] = "Vytvořena dne";
-$l['no_backups'] = "Zatím nebyli vytvořeny žádné zálohy databáze.";
+$l['no_backups'] = "Zatím nebyly vytvořeny žádné zálohy databáze.";
 
 $l['error_file_not_specified'] = "Nevybral si zálohu databáze ke stažení.";
 $l['error_invalid_backup'] = "Soubor, který si označil je buď neplatný nebo neexistuje.";
