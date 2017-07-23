@@ -3,15 +3,15 @@
 ## Instalace
 Soubory zkopíruj do /inc/languages
 
-## Autoři Češtiny
+## Překladatelé
 Cu8eeeR /Eldenroot/  
 Stary  
 uzbugg  
-Josef Schlehofer (Pepe) - převážně administrace
+Josef Schlehofer (Pepe) - převážně administrační rozhraní
 
 ## Kontakt
-Narazil si na nějaký nedostatek? Napiš nám prosím do vlákna na fóru MyBB
+Narazil si na nějaký nedostatek? Napiš nám, prosím, do vlákna na fóru MyBB
 
 https://community.mybb.com/thread-161793.html
 
-Případně, uvítáme, také pull request, když nám pomůžeš! :-)
+Budeme rádi, když nám pomůžeš zdokonalit náš překlad. :-)

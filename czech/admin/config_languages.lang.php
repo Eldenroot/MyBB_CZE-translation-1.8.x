@@ -5,7 +5,7 @@
  *
  */
 
-$l['languages'] = "Languages";
+$l['languages'] = "Jazyky";
 $l['languages_desc'] = "The language packs you have installed on your forum are shown below. You can choose to edit the language files, edit the files with another language, or edit the language's properties.";
 $l['find_language_packs'] = "Find Language Packs";
 $l['language_files'] = "Language Files";
@@ -29,12 +29,12 @@ $l['charset'] = "Character Set";
 $l['admin'] = "Contains Admin CP language variables?";
 $l['rtl'] = "Right-To-Left?";
 
-$l['quickphrases_agreement'] = 'Registration Agreement - Title';
-$l['quickphrases_agreement_1'] = 'Registration Agreement - Paragraph 1';
-$l['quickphrases_agreement_2'] = 'Registration Agreement - Paragraph 2';
-$l['quickphrases_agreement_3'] = 'Registration Agreement - Paragraph 3';
-$l['quickphrases_agreement_4'] = 'Registration Agreement - Paragraph 4';
-$l['quickphrases_agreement_5'] = 'Registration Agreement - Paragraph 5';
+$l['quickphrases_agreement'] = 'Registrační podmínky - Nadpis';
+$l['quickphrases_agreement_1'] = 'Registrační podmínky - Odstavec č. 1';
+$l['quickphrases_agreement_2'] = 'Registrační podmínky - Odstavec č. 2';
+$l['quickphrases_agreement_3'] = 'Registrační podmínky - Odstavec č. 3';
+$l['quickphrases_agreement_4'] = 'Registrační podmínky - Odstavec č. 4';
+$l['quickphrases_agreement_5'] = 'Registrační podmínky - Odstavec č. 5';
 
 $l['quickphrases_error_nopermission_guest_1'] = 'No Permissions Message - Paragraph 1';
 $l['quickphrases_error_nopermission_guest_2'] = 'No Permissions Message - Paragraph 2';
