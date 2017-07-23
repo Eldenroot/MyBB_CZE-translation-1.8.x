@@ -5,7 +5,7 @@
  *
  */
 
-$l['warning_system'] = "Warning System";
+$l['warning_system'] = "Systém napomenutí";
 $l['warning_types'] = "Warning Types";
 $l['warning_types_desc'] = "Here you can manage the list of different warning types staff are allowed to issue to users.";
 $l['add_warning_type'] = "Add New Warning Type";

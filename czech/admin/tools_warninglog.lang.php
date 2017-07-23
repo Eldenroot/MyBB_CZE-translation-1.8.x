@@ -6,7 +6,7 @@
  */
 
 
-$l['warning_logs'] = "Warning Logs";
+$l['warning_logs'] = "Historie napomenutí";
 $l['warning_logs_desc'] = "This section allows you to view a history of warnings issued to users.";
 $l['warned_user'] = "Warned User";
 $l['warning'] = "Warning";
