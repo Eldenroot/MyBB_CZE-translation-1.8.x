@@ -6,8 +6,8 @@
  */
 
 $l['attachment_types'] = "Typy příloh";
-$l['attachment_types_desc'] = "Here you can create and manage attachment types which define which types of files users can attach to posts.";
-$l['add_new_attachment_type'] = "Add New Attachment Type";
+$l['attachment_types_desc'] = "V této sekci můžeš vytvořit a upravovat přípony, kterými definuješ typy souborů, které mohou uživatelé přiložit k příspěvku.";
+$l['add_new_attachment_type'] = "Přidat novou příponu přílohy";
 $l['add_attachment_type'] = "Add Attachment Type";
 $l['add_attachment_type_desc'] = "Adding a new attachment type will allow members to attach files of this type to their posts. You have the ability to control the extension, MIME type, maximum size and show a small icon for each attachment type.";
 $l['edit_attachment_type'] = "Edit Attachment Type";
@@ -17,18 +17,18 @@ $l['extension'] = "Extension";
 $l['maximum_size'] = "Maximum Size";
 $l['no_attachment_types'] = "There are no attachment types on your forum at this time.";
 
-$l['name'] = "Name";
-$l['name_desc'] = "Enter the name of the attachment type.";
-$l['file_extension'] = "File Extension";
+$l['name'] = "Název";
+$l['name_desc'] = "Napiš název jména typu přílohy.";
+$l['file_extension'] = "Přípona souboru";
 $l['file_extension_desc'] = "Enter the file extension you wish to allow uploads for here (Do not include the period before the extension) (Example: txt)";
 $l['mime_type'] = "MIME Type";
 $l['mime_type_desc'] = "Enter the MIME type sent by the server when downloading files of this type (<a href=\"http://www.freeformatter.com/mime-types-list.html\">See a list here</a>)";
-$l['maximum_file_size'] = "Maximum File Size (Kilobytes)";
-$l['maximum_file_size_desc'] = "The maximum file size for uploads of this attachment type in Kilobytes (1 MB = 1024 KB)";
-$l['limit_intro'] = "Please ensure the maximum file size is below the smallest of the following PHP limits:";
+$l['maximum_file_size'] = "Maximální velikost (v KB)";
+$l['maximum_file_size_desc'] = "Největší možná velikost souboru v Kilobytech (1 MB = 1024 KB)";
+$l['limit_intro'] = "Ujisti se, že maximální velikost odpovídá následujícím limitům PHP:";
 $l['limit_post_max_size'] = "Max Post Size: {1}";
 $l['limit_upload_max_filesize'] = "Upload Max File Size: {1}";
-$l['attachment_icon'] = "Attachment Icon";
+$l['attachment_icon'] = "Ikona přílohy";
 $l['attachment_icon_desc'] = "If you wish to show a small attachment icon for attachments of this type then enter the path to it here. {theme} will be replaced by the image directory for the viewers theme allowing you to specify per-theme attachment icons.";
 $l['save_attachment_type'] = "Save Attachment Type";
 
@@ -46,8 +46,8 @@ $l['success_activated_attachment_type'] = 'The selected attachment type has been
 $l['success_deactivated_attachment_type'] = 'The selected attachment type has been deactivated successfully.';
 
 $l['enabled'] = "Povolit?";
-$l['avatar_file'] = 'Avatar File';
-$l['avatar_file_desc'] = 'Do you want to allow this attachment type to be used for avatars?';
+$l['avatar_file'] = 'Přípona pro avatar';
+$l['avatar_file_desc'] = 'Chceš nastavit tento typ přílohy, aby byl použitelný pro avatary?';
 
-$l['available_to_groups'] = 'Available to groups';
-$l['available_in_forums'] = 'Available in forums';
+$l['available_to_groups'] = 'Povolené pro skupiny';
+$l['available_in_forums'] = 'Povolené pro fóra';
