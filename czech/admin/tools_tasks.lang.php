@@ -1,39 +1,39 @@
 <?php
 /**
- * MyBB 1.8.12 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
-$l['task_manager'] = "Task Manager";
-$l['add_new_task'] = "Add New Task";
-$l['add_new_task_desc'] = "Here you can create new scheduled tasks which are automatically run on your board.";
-$l['edit_task'] = "Edit Task";
-$l['edit_task_desc'] = "Below you can edit the various settings for this scheduled task.";
-$l['task_logs'] = "Task Logs";
-$l['view_task_logs'] = "View Task Logs";
-$l['view_task_logs_desc'] = "When a task is run and logging is enabled, any results or errors will be listed below. Entries older than 30 days are automatically deleted.";
-$l['scheduled_tasks'] = "Scheduled Tasks";
-$l['scheduled_tasks_desc'] = "Here you can manage tasks which are automatically run on your board. To run a task now click the icon to the right of the task.";
+$l['task_manager'] = "Správce úloh";
+$l['add_new_task'] = "Přidat novou úlohu";
+$l['add_new_task_desc'] = "Zde můžeš naplánovat úlohu, která se automaticky spustí ve tvém fóru.";
+$l['edit_task'] = "Upravit úlohu";
+$l['edit_task_desc'] = "Níže můžeš upravit různé nastavení pro tuhle naplánovanou úlohu. ";
+$l['task_logs'] = "Záznamy úloh";
+$l['view_task_logs'] = "Ukázat záznamy úloh.";
+$l['view_task_logs_desc'] = "Pokud je úloha spuštěna, tak její protokol je zaznamenám a jakýkoliv výsledek či chyba bude níže vypsána. Záznamy starší než 30 dní jsou automaticky vymazány.";
+$l['scheduled_tasks'] = "Naplánované úlohy";
+$l['scheduled_tasks_desc'] = "Zde můžeš spravovat úlohy, které se automaticky spustí ve zvolený čas ve tvém fóru. Pokud chceš spustit úlohu, hned teď, tak klikni na ikonku vpravo od úlohy.";
 
-$l['title'] = "Title";
-$l['short_description'] = "Short Description";
-$l['task_file'] = "Task File";
+$l['title'] = "Název";
+$l['short_description'] = "Krátký popis";
+$l['task_file'] = "Soubor úlohy";
 $l['task_file_desc'] = "Select the task file you wish this task to run.";
-$l['time_minutes'] = "Time: Minutes";
+$l['time_minutes'] = "Čas: Minuty";
 $l['time_minutes_desc'] = "Enter a comma separated list of minutes (0-59) for which this task should run on. Enter '*' if this task should run on every minute.";
-$l['time_hours'] = "Time: Hours";
+$l['time_hours'] = "Čas: Hodiny";
 $l['time_hours_desc'] = "Enter a comma separated list of hours (0-23) for which this task should run on. Enter '*' if this task should run on every hour.";
-$l['time_days_of_month'] = "Time: Days of Month";
+$l['time_days_of_month'] = "Čas: Dny v měsíci";
 $l['time_days_of_month_desc'] = "Enter a comma separated list of days (1-31) for which this task should run on. Enter '*' if this task should run on every day or you wish to specify a weekday below.";
-$l['every_weekday'] = "Every Weekday";
-$l['sunday'] = "Sunday";
-$l['monday'] = "Monday";
-$l['tuesday'] = "Tuesday";
-$l['wednesday'] = "Wednesday";
-$l['thursday'] = "Thursday";
-$l['friday'] = "Friday";
-$l['saturday'] = "Saturday";
+$l['every_weekday'] = "Každý všední den";
+$l['sunday'] = "Neděle";
+$l['monday'] = "Pondělí";
+$l['tuesday'] = "Úterý";
+$l['wednesday'] = "Středa";
+$l['thursday'] = "Čtvrtek";
+$l['friday'] = "Pátek";
+$l['saturday'] = "Sobota";
 $l['time_weekdays'] = "Time: Weekdays";
 $l['time_weekdays_desc'] = "Select which weekdays this task should run on. Holding down CTRL selects multiple weekdays. Select 'Every weekday' if you want this task to run each weekday or you have entered a predefined day above.";
 $l['every_month'] = "Every Month";

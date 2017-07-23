@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  * Website: http://www.mybb.com
  * License: http://www.mybb.com/about/license
