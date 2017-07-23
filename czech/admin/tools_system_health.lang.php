@@ -5,19 +5,19 @@
  *
  */
 
-$l['system_health'] = "System Health";
-$l['system_health_desc'] = "Here you can view information on your system's health.";
-$l['utf8_conversion'] = "UTF-8 Conversion";
-$l['utf8_conversion_desc'] = "You are currently converting a database table to the UTF-8 format. Be aware that this process may take up to several hours depending on the size of your forum and this table. When the process is complete, you will be returned to the UTF-8 Conversion main page.";
-$l['utf8_conversion_desc2'] = "This tool checks the database tables to make sure they are in the UTF-8 format and allows you to convert them if they are not.";
+$l['system_health'] = "Stav fóra";
+$l['system_health_desc'] = "Zde můžeš najít informace, které Ti mohou zlepšit zdraví fóru.";
+$l['utf8_conversion'] = "UTF-8 konverze";
+$l['utf8_conversion_desc'] = "Nyní převádíš databázi na formátu UTF-8. Tento proces může trvat až několik hodin, což záleží na velikosti tvého fóra a vybrané tabulky. Jakmile tento proces bude kompletní, tak budeš přesměrovaný na hlavní stránku UTF-8 konverze.";
+$l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak ti pomůže je převést formát UTF-8.";
 
-$l['convert_all'] = "Convert All";
-$l['converting_to_utf8'] = "MyBB is currently converting \"{1}\" table to UTF-8 language encoding from {2} encoding.";
+$l['convert_all'] = "Převést vše";
+$l['converting_to_utf8'] = "MyBB převádí \"{1}\" tabulku na podporu UTF-8 z {2}.";
 $l['convert_to_utf8'] = "You are about to convert the \"{1}\" table to UTF-8 language encoding from {2} encoding.";
 $l['convert_all_to_utf'] = "You are about to convert ALL tables to UTF-8 language encoding from {1} encoding.";
 $l['convert_all_to_utf8mb4'] = "You are about to convert ALL tables to 4-Byte UTF-8 Unicode language encoding from {1} encoding.";
 $l['converting_to_utf8mb4'] = "MyBB is currently converting \"{1}\" table to 4-Byte UTF-8 Unicode language encoding from {2} encoding.";
-$l['please_wait'] = "Please wait...";
+$l['please_wait'] = "Prosím, počkej.";
 $l['converting_table'] = "Converting Table:";
 $l['convert_table'] = "Convert Table";
 $l['convert_tables'] = "Convert All Tables";
@@ -25,7 +25,7 @@ $l['convert_database_table'] = "Convert Database Table";
 $l['convert_database_tables'] = "Convert All Database Tables";
 $l['table'] = "Table";
 $l['status_utf8'] = "UTF-8 Status";
-$l['status_utf8mb4'] = "4-Byte UTF-8 Support<br />(requires MySQL 5.5.3 or above)";
+$l['status_utf8mb4'] = "4-Byte UTF-8 Support<br />(vyžaduje MySQL 5.5.3 a vyšší)";
 $l['not_available'] = "Not available";
 $l['all_tables'] = "All Tables";
 $l['convert_now'] = "Convert Now";
@@ -40,17 +40,17 @@ $l['average_attachment_size'] = "Average Attachment Size";
 $l['stats'] = "Stats";
 $l['task'] = "Task";
 $l['run_time'] = "Run Time";
-$l['next_3_tasks'] = "Next 3 Tasks";
+$l['next_3_tasks'] = "Následující 3 procesy";
 $l['no_tasks'] = "There are no tasks running at this time.";
 $l['backup_time'] = "Backup Time";
 $l['no_backups'] = "There are currently no backups made yet.";
 $l['existing_db_backups'] = "Existing Database Backups";
-$l['writable'] = "Writable";
-$l['not_writable'] = "Not Writable";
-$l['please_chmod_777'] = "Please CHMOD to 777.";
+$l['writable'] = "Zapisovatelné";
+$l['not_writable'] = "Není zapisovatelné";
+$l['please_chmod_777'] = "Prosím, úprav CHMOD na 777.";
 $l['chmod_info'] = "Please change the CHMOD settings to the ones specified with the file below. For more information on CHMODing, see the";
-$l['file'] = "File";
-$l['location'] = "Location";
+$l['file'] = "Soubor";
+$l['location'] = "Umístění";
 $l['settings_file'] = "Settings File";
 $l['config_file'] = "Configuration File";
 $l['file_upload_dir'] = "File Uploads Directory";
@@ -62,7 +62,7 @@ $l['themes_dir'] = "Themes Directory";
 $l['chmod_files_and_dirs'] = "CHMOD Files and Directories";
 
 $l['notice_process_long_time'] = "This process may take up to several hours depending on the size of your forum and this table. <strong>It is highly recommend to create a database backup as this process can't be undone.</strong>";
-$l['notice_mb4_warning'] = "4-Byte UTF-8 Support requires MySQL 5.5.3 or above. You will not be able to import your database on a MySQL server with another version.";
+$l['notice_mb4_warning'] = "4 bitová podpora UTF-8 vyžaduje MySQL 5.5.3 a vyšší. You will not be able to import your database on a MySQL server with another version.";
 
 $l['check_templates'] = "Check Templates";
 $l['check_templates_desc'] = "Checks all installed templates for known security issues.";
