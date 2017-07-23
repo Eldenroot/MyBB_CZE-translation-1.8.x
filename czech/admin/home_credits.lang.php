@@ -5,10 +5,10 @@
  *
  */
 
-$l['mybb_credits'] = "MyBB Credits";
-$l['mybb_credits_description'] = "These people have contributed their time and effort to create MyBB.";
-$l['about_the_team'] = "About the Team";
-$l['check_for_updates'] = "Check for Updates";
-$l['error_communication'] = "There was a problem downloading the latest credits. Please try again in a few minutes.";
-$l['no_credits'] = "No stored MyBB credits. <a href=\"index.php?module=home-credits&amp;fetch_new=1\">Check for Updates</a>.";
-$l['success_credits_updated'] = 'The MyBB credits cache has been successfully updated.';
+$l['mybb_credits'] = "Autoři systému MyBB";
+$l['mybb_credits_description'] = "Tito lidé věnovali svůj čas a snahu vytvořit MyBB.";
+$l['about_the_team'] = "O týmu";
+$l['check_for_updates'] = "Zkontrolovat aktualizace autorů MyBB";
+$l['error_communication'] = "Nastal zde problém se stažením novějších zásluh členů MyBB. Vydrž, prosím, chvíli a zkus to znova.";
+$l['no_credits'] = "Žádné uložené informace ohledně autorů a vyvojářů MyBB. <a href=\"index.php?module=home-credits&amp;fetch_new=1\">Načíst údaje</a>.";
+$l['success_credits_updated'] = 'Mezipaměť zásluh autorům MyBB byla úspěšně aktualizována.';
