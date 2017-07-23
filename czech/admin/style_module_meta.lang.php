@@ -5,11 +5,11 @@
  *
  */
 
-$l['templates_and_style'] = "Templates &amp; Style";
+$l['templates_and_style'] = "Vzhledy &amp; Šablony";
 
-$l['themes'] = "Themes";
-$l['templates'] = "Templates";
+$l['themes'] = "Vzhledy";
+$l['templates'] = "Šablony";
 
-$l['can_manage_themes'] = "Can manage themes?";
-$l['can_manage_templates'] = "Can manage templates?";
+$l['can_manage_themes'] = "Můžeš spravovat vzhledy?";
+$l['can_manage_templates'] = "Můžeš upravovat šablony?";
 
