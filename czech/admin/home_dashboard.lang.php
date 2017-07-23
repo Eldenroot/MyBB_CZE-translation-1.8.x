@@ -6,7 +6,7 @@
  */
 
 $l['dashboard'] = "Nástěnka";
-$l['dashboard_description'] = "Tato sekce ti ukáže statistiky tvého fóra. Také zde můžeš přidat poznámku pro ostatní administrátory.";
+$l['dashboard_description'] = "Tato sekce ti ukáže statistiky tvého fóra. Také zde můžeš přidat poznámky pro ostatní administrátory.";
 
 $l['mybb_server_stats'] = "MyBB a informace webového a databazového serveru";
 $l['forum_stats'] = "Statistiky fóra";

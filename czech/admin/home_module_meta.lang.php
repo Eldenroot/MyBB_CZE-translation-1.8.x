@@ -8,7 +8,6 @@
 $l['home'] = "Domov";
 
 $l['dashboard'] = "Nástěnka";
-$l['preferences'] = "Vlastnosti / Předvolby";
 $l['mybb_credits'] = "Autoři MyBB";
 
 $l['add_new_forum'] = "Vytvořit nové fórum";
@@ -20,5 +19,5 @@ $l['database_backups'] = "Zálohy databáze";
 $l['quick_access'] = "Quick Access";
 $l['online_admins'] = "Přítomní administrátoři";
 $l['ipaddress'] = "IP adresa:";
-$l['mybb_documentation'] = "MyBB dokumentace";
+$l['mybb_documentation'] = "MyBB dokumentace (v angličtině)";
 
