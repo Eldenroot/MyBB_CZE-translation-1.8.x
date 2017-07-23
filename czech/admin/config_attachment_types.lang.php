@@ -13,8 +13,8 @@ $l['add_attachment_type_desc'] = "Adding a new attachment type will allow member
 $l['edit_attachment_type'] = "Edit Attachment Type";
 $l['edit_attachment_type_desc'] = "You have the ability to control the extension, MIME type, maximum size and show a small MIME type for this attachment type.";
 
-$l['extension'] = "Extension";
-$l['maximum_size'] = "Maximum Size";
+$l['extension'] = "Přípona";
+$l['maximum_size'] = "Maximální velikost";
 $l['no_attachment_types'] = "There are no attachment types on your forum at this time.";
 
 $l['name'] = "Název";
@@ -36,11 +36,11 @@ $l['error_invalid_attachment_type'] = "You have selected an invalid attachment t
 $l['error_missing_mime_type'] = "You did not enter a MIME type for this attachment type";
 $l['error_missing_extension'] = "You did not enter a file extension for this attachment type";
 
-$l['success_attachment_type_created'] = "The attachment type has been created successfully.";
-$l['success_attachment_type_updated'] = "The attachment type has been updated successfully.";
-$l['success_attachment_type_deleted'] = "The attachment type has been deleted successfully.";
+$l['success_attachment_type_created'] = "Přípona přílohy byla úspěšně vytvořena.";
+$l['success_attachment_type_updated'] = "Typ přílohy byl úspěšně aktualizován.";
+$l['success_attachment_type_deleted'] = "Typ přílohy byl úspěšně vymazán.";
 
-$l['confirm_attachment_type_deletion'] = "Are you sure you wish to delete this attachment type?";
+$l['confirm_attachment_type_deletion'] = "Jsi si jistý, že si přeješ smazat tento typ přípony?";
 
 $l['success_activated_attachment_type'] = 'The selected attachment type has been activated successfully.';
 $l['success_deactivated_attachment_type'] = 'The selected attachment type has been deactivated successfully.';
