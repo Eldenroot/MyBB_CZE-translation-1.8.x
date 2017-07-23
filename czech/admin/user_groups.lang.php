@@ -5,7 +5,7 @@
  *
  */
 
-$l['user_groups'] = "User Groups";
+$l['user_groups'] = "Uživatelské skupiny";
 $l['manage_user_groups'] = "Manage User Groups";
 $l['manage_user_groups_desc'] = "Here you can manage the various user groups on your board. In addition, for staff groups, you can manage their display order on the forum team page. Leave all as \"0\" sorts the group alphabetically. If you change the order of these groups, be sure to submit the form at the bottom of the page.";
 $l['add_user_group'] = "Add New User Group";
