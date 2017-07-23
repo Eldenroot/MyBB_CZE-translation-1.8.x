@@ -1,17 +1,20 @@
-# Čeština pro MyBB 1.8 (Czech translation for MyBB 1.8.x)
+Czech official translation for MyBB open source forum software - v1.8.X - https://mybb.com/
+========================================
 
-## Instalace
-Soubory zkopíruj do /inc/languages
+Czech translation for MyBB 1.8.x
 
-## Překladatelé
-Cu8eeeR /Eldenroot/  
-Stary  
-uzbugg  
-Josef Schlehofer (Pepe) - převážně administrační rozhraní
+- kompatibilita až do verze MyBB v1.8.12
+- překlad včetně administrace
+- více informací + download nejnovější vydané verze na MyBB Extend site: https://community.mybb.com/mods.php?action=view&pid=280
 
-## Kontakt
-Narazil si na nějaký nedostatek? Napiš nám, prosím, do vlákna na fóru MyBB
+Autoři překladu:
+- Eldenroot /@Cu8eeeR/
+- Stary
+- uzbugg /@uzbugg/
+- Josef Schlehofer (Pepe) /@BKPepe/ - ACP
+(momentálně ve vývoji více v pull requestu: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x/pull/24)
 
-https://community.mybb.com/thread-161793.html
+*V případě chyby, dotazu, návrhu nebo připomínky prosím vytvořte ticket s popisem zde na GitHub issue trackeru - https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x/issues
 
-Budeme rádi, když nám pomůžeš zdokonalit náš překlad. :-)
+Děkujeme!
+
