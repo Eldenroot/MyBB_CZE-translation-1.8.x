@@ -189,7 +189,7 @@ $l['timezone_gmt_minus_500'] = "(GMT -5:00) Eastern Time, Bogota, Lima, Quito";
 $l['timezone_gmt_minus_450'] = "(GMT -4:30) Caracas";
 $l['timezone_gmt_minus_400'] = "(GMT -4:00) Atlantic Time, La Paz, Halifax";
 $l['timezone_gmt_minus_350'] = "(GMT -3:30) Newfoundland";
-$l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazil, Buenos Aires, Georgetown, Falkland Is.";
+$l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazílie, Buenos Aires, Georgetown, Falkland Is.";
 $l['timezone_gmt_minus_200'] = "(GMT -2:00) Mid-Atlantic, South Georgia and the South Sandwich Islands";
 $l['timezone_gmt_minus_100'] = "(GMT -1:00) Azores, Cape Verde Islands";
 $l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londýn, Lisbon, Monrovia";
@@ -305,11 +305,11 @@ $l['editor_maximize'] = "Maximize";
 
 $l['missing_task'] = "Chyba: Soubor úlohy neexistuje.";
 $l['task_backup_cannot_write_backup'] = "Chyba: Úloha - Databázové zálohy nemmůže zapisovat do složky backups (nachází se v /admin).";
-$l['task_backup_ran'] = "Naplánovaná úloha: Databázové úlohy úspěšně proběhla.";
+$l['task_backup_ran'] = "Naplánovaná úloha - Databázové úlohy úspěšně proběhla.";
 $l['task_checktables_ran'] = "The check tables task successfully ran with no corrupted tables found.";
 $l['task_checktables_ran_found'] = "Notice: The check tables task successfully ran and repaired the {1} table(s).";
-$l['task_dailycleanup_ran'] = "The daily cleanup task successfully ran.";
-$l['task_hourlycleanup_ran'] = "The hourly cleanup task successfully ran.";
+$l['task_dailycleanup_ran'] = "Úloha - denní pročištění fóra: Úspěšně proběhla.";
+$l['task_hourlycleanup_ran'] = "Úloha - hodinové pročištění fóra: Úspěšně proběhla.";
 $l['task_logcleanup_ran'] = "The log cleanup task successfully ran and pruned any old logs.";
 $l['task_promotions_ran'] = "The promotions task successfully ran.";
 $l['task_threadviews_ran'] = "The thread views task successfully ran.";
@@ -319,20 +319,20 @@ $l['task_userpruning_ran'] = "The user pruning task successfully ran.";
 $l['task_delayedmoderation_ran'] = "The delayed moderation task successfully ran.";
 $l['task_massmail_ran_errors'] = "One or more problems occurred sending to \"{1}\":
 {2}";
-$l['task_versioncheck_ran'] = "The version check task successfully ran.";
-$l['task_versioncheck_ran_errors'] = "Could not connect to MyBB for a version check.";
+$l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB proběhla v pořádku.";
+$l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit se serverem MyBB pro kontrolu verze fóra.";
 $l['task_recachestylesheets_ran'] = 'Re-cached {1} stylesheets.';
 
-$l['massmail_username'] = "Username";
-$l['email_addr'] = "Email Address";
-$l['board_name'] = "Board Name";
-$l['board_url'] = "Board URL";
+$l['massmail_username'] = "Přezdívka";
+$l['email_addr'] = "Emailová adresa";
+$l['board_name'] = "Název fóra";
+$l['board_url'] = "URL (odkaz) fóra";
 
 // Unlock ACP
-$l['lockout_unlock'] = "Unlock Admin Control Panel";
-$l['enter_username_and_token'] = "Please enter your username and the activation code to continue.";
-$l['unlock_token'] = "Activation code:";
-$l['unlock_account'] = "Unlock Account";
+$l['lockout_unlock'] = "Odemknout administrační rozhraní fóra";
+$l['enter_username_and_token'] = "Prosím, zadej svojí přezdívku a aktivační kód pro pokračování.";
+$l['unlock_token'] = "Aktivační kód:";
+$l['unlock_account'] = "Odemknout účet";
 
 // Email message for if an admin account has been locked out
 $l['locked_out_subject'] = "Administrator Account Locked Out at {1}";
@@ -353,11 +353,11 @@ Username: {1}
 Activation Code: {6}
 
 Thank you,
-{2} Staff";
+{2} Vedení fóra";
 
 $l['comma'] = ", ";
 
-$l['search_for_a_user'] = "Search for a user";
+$l['search_for_a_user'] = "Hledat uživatele";
 
 $l['mybb_engine'] = "MyBB Engine";
 
@@ -366,7 +366,7 @@ $l['mybb_engine'] = "MyBB Engine";
 // $l['login_field_width'] = "0";
 
 $l['my2fa'] = "Two-Factor Authentication";
-$l['my2fa_failed'] = "The code was incorrect, you're logged out now";
-$l['my2fa_code'] = "Please enter the authentication code";
-$l['my2fa_label'] = "Authentication code:";
-$l['my2fa_no_codes'] = "Note: you've used all of your recovery codes. Please visit the <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">recovery codes page</a> to generate a new set.";
+$l['my2fa_failed'] = "Tvůj kod byl špatně zadán, tak si byl odhlášen.";
+$l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
+$l['my2fa_label'] = "Autorizační kód:";
+$l['my2fa_no_codes'] = "Poznámka: Použil si všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navšiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
