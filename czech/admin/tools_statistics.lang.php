@@ -5,23 +5,23 @@
  *
  */
 
-$l['statistics'] = "Statistics";
-$l['overall_statistics'] = "Overall Statistics";
-$l['overall_statistics_desc'] = "Here you can view overall statistics on your forum. All times are in UTC.";
+$l['statistics'] = "Statistiky";
+$l['overall_statistics'] = "Celkové statistiky";
+$l['overall_statistics_desc'] = "Zde můžeš vidět celkové staistiky ve tvém foru. Všechny časy jsou uvedeny v UTC.";
 
-$l['date_range'] = "Date Range";
+$l['date_range'] = "Časové období";
 
-$l['date'] = "Date";
-$l['users'] = "Users";
-$l['threads'] = "Threads";
-$l['posts'] = "Posts";
+$l['date'] = "Datum";
+$l['users'] = "Uživatelé";
+$l['threads'] = "Vlákna";
+$l['posts'] = "Příspěvky";
 
-$l['from'] = "From";
-$l['to'] = "to";
+$l['from'] = "Od";
+$l['to'] = "do";
 
 $l['increase'] = "Increase";
 $l['no_change'] = "No Change";
 $l['decrease'] = "Decrease";
 
-$l['error_no_results_found_for_criteria'] = "We could not find any results for the date range you provided. Please try a different date range.";
-$l['error_no_statistics_available_yet'] = "We're sorry, there are currently no statistics data available for your forum yet.";
+$l['error_no_results_found_for_criteria'] = "Nemohli jsme najít žádné výsledky pro časové období, které si zvolil. Prosím, použí jiné časové období.";
+$l['error_no_statistics_available_yet'] = "Je nám líto, ale momentálně zde nejsou žádné dostupné statistiky pro tvé fórum.";
