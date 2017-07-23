@@ -9,7 +9,7 @@
 $langinfo['name'] = "Čeština";
 
 // The author of the language
-$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Stary & uzbugg";
+$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Stary & uzbugg & Pepe";
 
 // The language authors website
 $langinfo['website'] = "https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x";
@@ -18,7 +18,7 @@ $langinfo['website'] = "https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x";
 $langinfo['version'] = "1812";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
-$langinfo['admin'] = 0;
+$langinfo['admin'] = 1;
 
 // Sets if the language is RTL (Right to Left) (1 = yes, 0 = no)
 $langinfo['rtl'] = 0;
