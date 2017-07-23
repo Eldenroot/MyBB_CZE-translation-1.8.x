@@ -5,61 +5,61 @@
  *
  */
 
-$l['report_reasons'] = "Report Reasons";
-$l['report_reasons_desc'] = "Here you can create and manage reasons that can be selecting when users report content.";
-$l['add_new_reason'] = "Add New Reason";
+$l['report_reasons'] = "Důvody nahlášení příspěvku";
+$l['report_reasons_desc'] = "Zde můžeš vytvořit a upravit důvody nahlášení příspěvku, které mohou být zvoleny, když uživatel bude chtít nahlásit nevhodný obsah.";
+$l['add_new_reason'] = "Přidat nový důvod";
 $l['add_new_reason_desc'] = "Add a new reason for users to select when reporting content.";
-$l['edit_reason'] = "Edit Reason";
+$l['edit_reason'] = "Upravit důvod nahlášení příspěvku";
 $l['edit_reason_desc'] = "Edit a reason for users to select when reporting content.";
 
-$l['applies_to'] = "Applies To";
-$l['order'] = "Order";
-$l['extra_comment'] = "Require Comment?";
-$l['options'] = "Options";
-$l['delete_reason'] = "Delete Reason";
-$l['no_report_reasons'] = "There are no report reasons on your forum at this time.";
+$l['applies_to'] = "Aplikuje se pro";
+$l['order'] = "Pořadí";
+$l['extra_comment'] = "Vyžadují komentář?";
+$l['options'] = "Nastavení";
+$l['delete_reason'] = "Smazat důvod";
+$l['no_report_reasons'] = "Nejsou zde žádné důvody pro nahlášení příspěvku v tuto chíli.";
 
-$l['reason_title'] = "Title";
-$l['reason_title_desc'] = "Enter the title of the reason for reporting the content.";
-$l['requires_extra'] = "Require An Extra Comment?";
-$l['requires_extra_desc'] = "Require the user to enter an additional comment when this reason is selected?";
-$l['save_reason'] = "Save Reason";
+$l['reason_title'] = "Název";
+$l['reason_title_desc'] = "Zde zadej nadpis důvodu pro nahlášení příspěvku.";
+$l['requires_extra'] = "Vyžadují komentář?";
+$l['requires_extra_desc'] = "Vyžaduje, aby uživatel zadal komentář, když je tento důvod vybraný?";
+$l['save_reason'] = "Uložit důvod";
 
-$l['content_colon'] = "Content:";
+$l['content_colon'] = "Obsah:";
 
-$l['all_content'] = "All content";
-$l['select_content'] = "Select content";
+$l['all_content'] = "Všechen obsah";
+$l['select_content'] = "Vybrat pro";
 
 // Content types
-$l['report_content_'] = "None";
-$l['report_content_all'] = "All";
-$l['report_content_post'] = "Post";
-$l['report_content_profile'] = "Profile";
-$l['report_content_reputation'] = "Reputation";
+$l['report_content_'] = "Žádný";
+$l['report_content_all'] = "Všechen";
+$l['report_content_post'] = "Příspěvek";
+$l['report_content_profile'] = "Profil";
+$l['report_content_reputation'] = "Reputaci";
 
 // Content reasons
-$l['report_reason_rules'] = "Breaks Forum Rules";
-$l['report_reason_bad'] = "Inappropriate Content";
-$l['report_reason_spam'] = "Spam Content";
-$l['report_reason_wrong'] = "Wrong Forum";
-$l['report_reason_other'] = "Other";
+$l['report_reason_rules'] = "Porušení pravidel fóra";
+$l['report_reason_bad'] = "Nevhodný obsah";
+$l['report_reason_spam'] = "Spam";
+$l['report_reason_wrong'] = "Špatná kategorie";
+$l['report_reason_other'] = "Ostatní";
 
-$l['default_report_reason'] = "Default";
-$l['custom_report_reason'] = "Custom";
+$l['default_report_reason'] = "Vychozí";
+$l['custom_report_reason'] = "Jiný důvod";
 
-$l['update_reasons_order'] = "Update Reasons Order";
+$l['update_reasons_order'] = "Aktualizovat pořadí důvodů.";
 
-$l['error_cannot_modify_reason'] = "You cannot modify this reason.";
-$l['error_cannot_delete_reason'] = "You cannot delete this reason.";
-$l['error_invalid_reason'] = "You have selected an invalid reason.";
-$l['error_missing_title'] = "You did not enter a title for this reason.";
+$l['error_cannot_modify_reason'] = "Nemůžeš upravit tento důvod.";
+$l['error_cannot_delete_reason'] = "Nemůžeš smazat tento důvod.";
+$l['error_invalid_reason'] = "Vybral si neplatný (nesprávný?) důvod.";
+$l['error_missing_title'] = "Nezadal si název pro tento důvod.";
 //$l['error_missing_applies_to'] = "You did not select what content this reason applies to.";
-$l['error_missing_extra'] = "You did not select if you want extra information for this reason.";
+$l['error_missing_extra'] = "Nevybral si možnost, jestli chceš uživatelský komentář pro tento důvod.";
 
-$l['success_reasons_disporder_updated'] = "The report reason display orders have been updated successfully.";
-$l['success_reason_created'] = "The reason has been created successfully.";
-$l['success_reason_updated'] = "The reason has been updated successfully.";
-$l['success_reason_deleted'] = "The reason has been deleted successfully.";
+$l['success_reasons_disporder_updated'] = "Pořadí důvodů pro nahlášení příspěvku bylo úspěšně aktualizováno.";
+$l['success_reason_created'] = "Důvod byl úspěšně vytvořen.";
+$l['success_reason_updated'] = "Důvod byl úspěšně upraven.";
+$l['success_reason_deleted'] = "Důvod byl úspěšně vymazaný.";
 
-$l['confirm_reason_deletion'] = "Are you sure you wish to delete this reason?";
+$l['confirm_reason_deletion'] = "Určitě si přeješ smazat tento důvod?";
 
