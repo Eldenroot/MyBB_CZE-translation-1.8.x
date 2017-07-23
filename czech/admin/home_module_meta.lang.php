@@ -8,6 +8,7 @@
 $l['home'] = "Domov";
 
 $l['dashboard'] = "Nástěnka";
+$l['preferences'] = "Nastavení ACP a osobní poznámky";
 $l['mybb_credits'] = "Autoři MyBB";
 
 $l['add_new_forum'] = "Vytvořit nové fórum";
