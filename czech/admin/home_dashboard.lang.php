@@ -8,7 +8,7 @@
 $l['dashboard'] = "Nástěnka";
 $l['dashboard_description'] = "Tato sekce ti ukáže statistiky tvého fóra. Také zde můžeš přidat poznámku pro ostatní administrátory.";
 
-$l['mybb_server_stats'] = "MyBB a statistiky serveru";
+$l['mybb_server_stats'] = "MyBB a informace webového a databazového serveru";
 $l['forum_stats'] = "Statistiky fóra";
 $l['mybb_version'] = "MyBB verze";
 $l['threads'] = "Témata";
@@ -26,7 +26,7 @@ $l['server_load'] = "Zatížení serveru";
 $l['attachments'] = "Přílohy";
 $l['used'] = "Used";
 $l['reported_posts'] = "Nahlášené příspěvky";
-$l['unread_reports'] = "Nepřečtené reportys";
+$l['unread_reports'] = "Nepřečtené reporty";
 
 $l['version_check'] = "Zkontrolovat aktualizace";
 $l['last_update_check_two_weeks'] = "Naposledy si <a href=\"{1}\">zkontroloval verzi MyBB</a> před více než 2 týdny!";

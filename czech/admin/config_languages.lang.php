@@ -6,9 +6,9 @@
  */
 
 $l['languages'] = "Jazyky";
-$l['languages_desc'] = "The language packs you have installed on your forum are shown below. You can choose to edit the language files, edit the files with another language, or edit the language's properties.";
-$l['find_language_packs'] = "Find Language Packs";
-$l['language_files'] = "Language Files";
+$l['languages_desc'] = "Které balíčky máš nainstalované můžeš vidět níže. Můžeš si vybrat mezi upravení jazykových souborů případně je také můžeš upravit jiným jazykem nebo změnit nastavení jazyka.";
+$l['find_language_packs'] = "Najít jazykové balíky";
+$l['language_files'] = "Jazykové soubory";
 $l['language_files_desc'] = "Below are the files within the selected language, for both the front-end and the admin control panel. Here you can choose to edit these files.";
 $l['quick_phrases'] = "Quick Phrases";
 $l['quick_phrases_desc'] = "Quick access to commonly modified language phrases.";
@@ -41,7 +41,7 @@ $l['quickphrases_error_nopermission_guest_2'] = 'No Permissions Message - Paragr
 $l['quickphrases_error_nopermission_guest_3'] = 'No Permissions Message - Paragraph 3';
 $l['quickphrases_error_nopermission_guest_4'] = 'No Permissions Message - Paragraph 4';
 
-$l['no_languages'] = "No Languages";
+$l['no_languages'] = "Žádné jazyky";
 $l['no_language_files_front_end'] = "There are no Front End Language files found.";
 $l['no_language_files_admin_cp'] = "There are no Admin CP Language files found.";
 
