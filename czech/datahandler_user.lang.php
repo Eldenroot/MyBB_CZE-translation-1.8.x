@@ -41,3 +41,8 @@ $l['userdata_invalid_checkfield'] = "Zdá se, že tento formulář vyplnil spamo
 $l['userdata_invalid_postnum'] = "Zadaný počet příspěvků je chybný. Zkuste prosím zadat jiný, nebo nechte toto pole prázdné.";
 $l['userdata_invalid_threadnum'] = "Zadaný počet témat je chybný. Zkuste prosím zadat jiný, nebo nechte toto pole prázdné.";
 
+$l['userdata_too_many_sig_images'] = "Je nám líto, ale bohužel není možné aktualizovat tvůj podpis, protože obsahuje příliš mnoho obrázků. Prosím odstraň některé obrázky z tvého podpisu pro pokračování.";
+$l['userdata_too_many_sig_images2'] = "<strong>Poznámka:</strong> Maximální počet obrázku v podpisu je: {1}.";
+$l['userdata_sig_too_long'] = "Nemůžeš aktualizovat svůj podpis, protože je příliš dlouhý. Maximální počet znaků v podpisu je: {1} ";
+$l['userdata_sig_remove_chars_plural'] = "Prosím odstraň {1} znaků a zkus to znovu. ";
+$l['userdata_sig_remove_chars_singular'] = "Prosím odstraň 1 znak a zkus to znovu.";

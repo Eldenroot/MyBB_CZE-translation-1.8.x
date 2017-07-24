@@ -61,7 +61,7 @@ $l['icq_number'] = "ICQ číslo:";
 $l['aim_screenname'] = "AIM jméno:";
 $l['yahoo_id'] = "Yahoo ID:";
 $l['skype_id'] = "Skype ID:";
-$l['google_id'] = "Google Talk ID:";
+$l['google_id'] = "Google Hangouts ID:";
 $l['avatar']  = "Avatar:";
 $l['warning_level'] = "Úroveň varování:";
 $l['warn'] = "Varování";
@@ -256,4 +256,4 @@ zaregistroval se nový uživatel do {2} a čeká na aktivaci administrátorem.
 Uživatelské jméno: {3}
 
 Děkujeme,
-obsluha fóra {2}";
+vedení fóra {2}";
