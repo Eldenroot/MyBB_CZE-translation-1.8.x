@@ -5,30 +5,30 @@
  *
  */
 
-$l['themes'] = "Themes";
-$l['themes_desc'] = "Here you can manage the themes set up on your forum. Themes allow you to customize the appearance of your forum. A list of the themes currently set up are shown below.";
+$l['themes'] = "Vzhledy";
+$l['themes_desc'] = "V této části můžeš spravovat vzhledy, které můžeš vytvořit případně naimportovat. Také můžeš si přizpůsobit vzhledy pro tvé fórum. Seznam vzhledů, které máš nainstalované najdeš níže.";
 
-$l['create_new_theme'] = "Create New Theme";
-$l['create_new_theme_desc'] = "Here you can create a new theme based on the default. <strong>Template sets, stylesheets, and other settings are inherited from the parent theme.</strong>";
+$l['create_new_theme'] = "Vytvořit nový vzhled";
+$l['create_new_theme_desc'] = "Zde si můžeš vytvořit skin, který bude založen na výchozím vzhledu MyBB.<strong>Template sets, stylesheets, and other settings are inherited from the parent theme.</strong>";
 
-$l['import_a_theme'] = "Import a Theme";
-$l['import_a_theme_desc'] = "Here you can import new themes. You may import a theme from your computer, or a remote URL.";
+$l['import_a_theme'] = "Import nového vzhledu";
+$l['import_a_theme_desc'] = "Zde můžeš naimportovat nový vzhled. Vzhled můžeš naimportovat ze svého počítače případně přes vzdálenou adresu URL.";
 
-$l['edit_stylesheets'] = "Edit Stylesheets";
+$l['edit_stylesheets'] = "Upravit CSS";
 $l['edit_stylesheets_desc'] = "Here you can easily manage the stylesheets in use by this theme. Stylesheets are based on CSS and define the fonts, colors and other visual aspects for this theme. A list of stylesheets attached to this theme is below.";
 
 $l['add_stylesheet'] = "Add Stylesheet";
 $l['add_stylesheet_desc'] = "Here you can add a new stylesheet to this theme. A stylesheet contains CSS that allows you to customize the appearance of this theme. You will be taken to the stylesheet edit page following creation.";
 
-$l['browse_themes'] = "Browse Themes";
-$l['browse_themes_desc'] = "Here you may browse the official MyBB modifications site for themes compatible with your series of MyBB.";
+$l['browse_themes'] = "Najít vzhled";
+$l['browse_themes_desc'] = "Zde si můžeš projít a případně stáhnout vzhled(y) z oficiální modifikační stránky MyBB,  <strong>které jsou kompatibilní s tvojí verzí MyBB.</strong>";
 
-$l['browse_all_themes'] = "Browse All Themes";
+$l['browse_all_themes'] = "Najít všechny vzhledy i ty nekompatibilní. (Budeš přesměrován na oficiální modifikační stránku MyBB.)";
 
-$l['export_theme'] = "Export Theme";
+$l['export_theme'] = "Export vzhledu";
 $l['export_theme_desc'] = "Here you can export your themes and customized templates. Exporting themes is useful if you wish to share them with others or import them to another forum.";
 
-$l['duplicate_theme'] = "Duplicate Theme";
+$l['duplicate_theme'] = "Dumplikovat vzhled";
 $l['duplicate_theme_desc'] = "Here you can duplicate your themes. This helps you if you want to develop another version of it.";
 
 $l['colors_manage'] = "Manage Colors";
@@ -52,22 +52,22 @@ $l['edit_stylesheet_simple_mode_desc'] = "Here you can easily edit your theme's 
 $l['edit_stylesheet_advanced_mode'] = "Edit Stylesheet: Advanced Mode";
 $l['edit_stylesheet_advanced_mode_desc'] = "Here you can edit this stylesheet like a flat file. The contents of the CSS stylesheet is shown in the text area below.";
 
-$l['theme'] = "Theme";
-$l['num_users'] = "# Users";
-$l['edit_theme'] = "Edit Theme";
-$l['delete_theme'] = "Delete Theme";
-$l['set_as_default'] = "Set as Default";
-$l['default_theme'] = "Default Theme";
+$l['theme'] = "Název vzhledu";
+$l['num_users'] = "# Uživatelé";
+$l['edit_theme'] = "Upravit vzhled";
+$l['delete_theme'] = "Smazat vzhled";
+$l['set_as_default'] = "Nastavit jako vychozí";
+$l['default_theme'] = "Výchozí vzhled";
 $l['force_on_users'] = "Force on Users";
 $l['delete_revert'] = "Delete / Revert";
 
-$l['local_file'] = "Local File";
+$l['local_file'] = "Místní soubor";
 $l['url'] = "URL";
-$l['import_from'] = "Import from";
-$l['import_from_desc'] = "Select a file to import. You can either import the theme file from your computer or from a URL.";
+$l['import_from'] = "Import z";
+$l['import_from_desc'] = "Vybrat soubor k importu. Můžeš naimportovat soubor vzhledu ze svého počítače nebo z URL.";
 $l['parent_theme'] = "Parent Theme";
 $l['parent_theme_desc'] = "Select the theme this theme should be a child of.";
-$l['new_name'] = "New Name";
+$l['new_name'] = "Nový název";
 $l['new_name_desc'] = "A new name for the imported theme. If left blank, the name in the theme file will be used.";
 $l['advanced_options'] = "Advanced Options";
 $l['ignore_version_compatibility'] = "Ignore Version Compatibility";
@@ -76,7 +76,7 @@ $l['import_stylesheets'] = "Import Stylesheets";
 $l['import_stylesheets_desc'] = "If this theme contains custom stylesheets should they be imported?";
 $l['import_templates'] = "Import Templates";
 $l['import_templates_desc'] = "If this theme contains custom templates should they be imported?";
-$l['import_theme'] = "Import Theme";
+$l['import_theme'] = "Import vzhledu";
 
 $l['new_name_duplicate_desc'] = "A new name for the duplicated theme.";
 $l['duplicate_stylesheets'] = "Duplicate Stylesheets";
@@ -84,12 +84,12 @@ $l['duplicate_stylesheets_desc'] = "If this theme contains custom stylesheets sh
 $l['duplicate_templates'] = "Duplicate Templates";
 $l['duplicate_templates_desc'] = "If this theme contains custom templates should they be duplicated?";
 
-$l['create_a_theme'] = "Create a Theme";
-$l['name'] = "Name";
+$l['create_a_theme'] = "Vytvořit nový vzhled";
+$l['name'] = "Název";
 $l['name_desc'] = "Specify a name for the new theme.";
-$l['display_order'] = "Order";
+$l['display_order'] = "Pořadí";
 
-$l['edit_theme_properties'] = "Edit Theme Properties";
+$l['edit_theme_properties'] = "Upravit vlastnosti vzhledu";
 $l['name_desc_edit'] = "Specify a name for the theme.";
 $l['allowed_user_groups'] = "Allowed User Groups";
 $l['allowed_user_groups_desc'] = "Specify which user groups are allowed to use this theme. Selecting 'All User Groups' will override any other selection. Hold down the CTRL key to select multiple user groups.";
@@ -109,17 +109,17 @@ $l['inner_border_desc'] = "The amount of padding between each table cell, in pix
 $l['save_theme_properties'] = "Save Theme Properties";
 $l['save_stylesheet_order'] = "Save Stylesheet Orders";
 
-$l['background'] = "Background";
+$l['background'] = "Pozadí (background)";
 $l['extra_css_atribs'] = "Extra CSS Attributes";
-$l['color'] = "Color";
-$l['width'] = "Width";
+$l['color'] = "Barva";
+$l['width'] = "Šířka";
 $l['text_decoration'] = "Text Decoration";
 $l['font_family'] = "Font Family";
-$l['font_size'] = "Font Size";
-$l['font_style'] = "Font Style";
+$l['font_size'] = "Velikost písma";
+$l['font_style'] = "Styl písma";
 $l['font_weight'] = "Font Weight";
 
-$l['stylesheets'] = "Stylesheets";
+$l['stylesheets'] = "Kaskádové styly (CSS)";
 $l['inherited_from'] = "Inherited from";
 $l['attached_to'] = "Attached to";
 $l['attached_to_nothing'] = "Attached to nothing";
@@ -143,11 +143,11 @@ $l['edit_stylesheet_properties_for'] = "Edit Stylesheet Properties for";
 $l['file_name'] = "File Name";
 $l['file_name_desc'] = "Name for the stylesheet, usually ending in <strong>[.css]</strong>";
 $l['save_stylesheet_properties'] = "Save Stylesheet Properties";
-$l['saved'] = "Saved";
-$l['editing'] = "Editing";
+$l['saved'] = "Uloženo";
+$l['editing'] = "Upravuji";
 $l['selector'] = "Selector";
-$l['save_changes'] = "Save Changes";
-$l['save_changes_and_close'] = "Save Changes & Close";
+$l['save_changes'] = "Uložit změny";
+$l['save_changes_and_close'] = "Uložit změny & Zavřít";
 $l['save_changes_js'] = "Do you want to save your changes first?";
 $l['delete_confirm_js'] = "Are you sure you want to delete this?";
 $l['import_stylesheet_from'] = "Import from another stylesheet in this theme";
@@ -157,16 +157,16 @@ $l['add_stylesheet_to'] = "Add Stylesheet to";
 
 $l['full_stylesheet_for'] = "Full Stylesheet for";
 
-$l['recommended_themes_for_mybb'] = "Recommended Themes for MyBB {1}";
+$l['recommended_themes_for_mybb'] = "Doporučené vzhledy pro MyBB {1}";
 $l['browse_results_for_mybb'] = "Browse Results for MyBB {1}";
-$l['search_for_themes'] = "Search for Themes";
-$l['search'] = "Search";
-$l['download'] = "Download";
-$l['created_by'] = "Created by";
+$l['search_for_themes'] = "Najít vzhledy";
+$l['search'] = "Hledat";
+$l['download'] = "Stáhnout";
+$l['created_by'] = "Vytvořeno uživatelem";
 
-$l['error_invalid_stylesheet'] = "You have selected an invalid stylesheet.";
-$l['error_invalid_theme'] = "You have selected an invalid theme.";
-$l['error_missing_name'] = "Please enter a name for this theme.";
+$l['error_invalid_stylesheet'] = "Vybral si neplatný CSS soubor.";
+$l['error_invalid_theme'] = "Vybral si neplatný vzhled.";
+$l['error_missing_name'] = "Prosím, zadej název pro tento vzhled.";
 $l['error_missing_url'] = "Please enter a valid url to import a theme from.";
 $l['error_theme_already_exists'] = "A theme with the same name already exists. Please specify a different name.";
 $l['error_theme_security_problem'] = "A potential security issue was found in the theme. It was not imported. Please contact the Author or MyBB Group for support.";
@@ -216,5 +216,5 @@ $l['confirm_theme_forced'] = "Are you sure you want to force this theme on all u
 $l['theme_info_fetch_error'] = 'There was an error fetching the style info.';
 $l['theme_info_save_error'] = 'There was an error saving the style info.';
 
-$l['saving'] = 'Saving...';
+$l['saving'] = 'Ukládám...';
 

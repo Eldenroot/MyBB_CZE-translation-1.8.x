@@ -5,22 +5,22 @@
  *
  */
 
-$l['board_settings'] = "Board Settings";
-$l['change_settings'] = "Change Settings";
-$l['change_settings_desc'] = "This section allows you to manage all of the various settings relating to your board. To begin, select a group below to manage settings relating to that group.";
-$l['add_new_setting'] = "Add New Setting";
-$l['add_new_setting_desc'] = "This section allows you to add a new setting to your board.";
-$l['modify_existing_settings'] = "Modify Settings";
+$l['board_settings'] = "Nastavení fora";
+$l['change_settings'] = "Změnit nastavení";
+$l['change_settings_desc'] = "Tato část ti umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
+$l['add_new_setting'] = "Přidat nové nastavení.";
+$l['add_new_setting_desc'] = "V této části můžeš přidat nové nastavení pro tvé fórum.";
+$l['modify_existing_settings'] = "Upravit nastavení";
 $l['modify_existing_settings_desc'] = "This section allows you to modify an existing setting on your forum.";
 $l['add_new_setting_group'] = "Add New Setting Group";
 $l['add_new_setting_group_desc'] = "This section allows you to create a setting group to categorize individual settings.";
 $l['edit_setting_group'] = "Edit Setting Group";
 $l['edit_setting_group_desc'] = "This section allows you to edit an existing setting group.";
 
-$l['title'] = "Title";
-$l['description'] = "Description";
-$l['group'] = "Group";
-$l['display_order'] = "Display Order";
+$l['title'] = "Název";
+$l['description'] = "Popis";
+$l['group'] = "Kategorie";
+$l['display_order'] = "Zobrazit pořadí";
 $l['name'] = "Identifier";
 $l['name_desc'] = "This unique identifier is used in the settings array to reference this setting (in scripts, translations, and templates).";
 $l['group_name_desc'] = "This unique identifier is used for the translation system.";
@@ -40,33 +40,33 @@ $l['group_selection_single'] = "Single Group Selection Box";
 $l['adminlanguage'] = "Administration Language Selection Box";
 $l['cpstyle'] = "Control Panel Style Selection Box";
 $l['php'] = "Evaluated PHP";
-$l['type'] = "Type";
+$l['type'] = "Typ";
 $l['extra'] = "Extra";
 $l['extra_desc'] = "If this setting is a select, radio or check box enter a key paired (key=Item) list of items to show. Separate items with a new line. If PHP, enter the PHP to be evaluated.";
 $l['value'] = "Value";
-$l['insert_new_setting'] = "Insert New Setting";
-$l['edit_setting'] = "Edit Setting";
-$l['delete_setting'] = "Delete Setting";
-$l['setting_configuration'] = "Setting Configuration";
-$l['update_setting'] = "Update Setting";
-$l['save_settings'] = "Save Settings";
+$l['insert_new_setting'] = "Vložit nové nastavení";
+$l['edit_setting'] = "Upravit nastavení";
+$l['delete_setting'] = "Smazat nastavení";
+$l['setting_configuration'] = "Konfigurace nastavení";
+$l['update_setting'] = "Aktualizovat nastavení";
+$l['save_settings'] = "Uložit nastavení";
 $l['setting_groups'] = "Setting Groups";
-$l['bbsettings'] = "Settings";
+$l['bbsettings'] = "Nastavení";
 $l['insert_new_setting_group'] = "Insert New Setting Group";
 $l['setting_group_setting'] = "Setting Group / Setting";
-$l['order'] = "Order";
+$l['order'] = "Pořadí";
 $l['delete_setting_group'] = "Delete Setting Group";
 $l['save_display_orders'] = "Save Display Orders";
 $l['update_setting_group'] = "Update Setting Group";
 $l['modify_setting'] = "Modify Setting";
-$l['search'] = "Search";
-$l['plugin_settings'] = "Plugin Settings";
+$l['search'] = "Hledat";
+$l['plugin_settings'] = "Nastavení pluginu";
 
 $l['show_all_settings'] = "Show All Settings";
 $l['settings_search'] = "Search For Settings";
 
 $l['confirm_setting_group_deletion'] = "Are you sure you wish to delete this setting group?";
-$l['confirm_setting_deletion'] = "Are you sure you wish to delete this setting?";
+$l['confirm_setting_deletion'] = "Jsi si naprosto jistý, že chceš smazat tohle nastavení?";
 
 $l['error_missing_title'] = "You did not enter a title for this setting";
 $l['error_missing_group_title'] = "You did not enter a title for this setting group";
@@ -85,8 +85,8 @@ $l['error_ajax_search'] = "There was a problem searching for settings:";
 $l['error_ajax_unknown'] = "An unknown error occurred while searching for settings.";
 $l['error_chmod_settings_file'] = "The settings file \"./inc/settings.php\" isn't writable. Please CHMOD to 777.<br />For more information on CHMODing, see the <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\">MyBB Docs</a>.";
 
-$l['success_setting_added'] = "The setting has been created successfully.";
-$l['success_setting_updated'] = "The setting has been updated successfully.";
+$l['success_setting_added'] = "Nastavení bylo úspěšně přidáno.";
+$l['success_setting_updated'] = "Nastavení bylo úspěšně upraveno";
 $l['success_setting_deleted'] = "The selected setting has been deleted successfully.";
 $l['success_settings_updated'] = "The settings have been updated successfully.";
 $l['success_settings_updated_hiddencaptchaimage'] = '<div class="smalltext" style="font-weight: normal;">Please note that the <strong>Hidden CAPTCHA field</strong> setting was reverted to <strong>{1}</strong> due to a conflict with the <strong>{2}</strong> field in the registration form.</div>';
@@ -99,7 +99,7 @@ $l['success_setting_group_updated'] = "The setting group has been updated succes
 $l['success_setting_group_deleted'] = "The selected setting group has been deleted successfully.";
 $l['success_duplicate_settings_deleted'] = "All duplicate setting groups have been deleted successfully.";
 
-$l['searching'] = 'Searching...';
+$l['searching'] = 'Hledám...';
 $l['search_error'] = 'There was an error fetching your search results:';
-$l['search_done'] = 'Done!';
+$l['search_done'] = 'Hotovo!';
 
