@@ -16,9 +16,9 @@ $l['report_reason_profile'] = "Ohlásit profil";
 $l['report_reason_reputation'] = "Ohlásit hodnocení";
 
 // Content reasons
+$l['report_reason_rules'] = "Porušení pravidel fóra";
 $l['report_reason_bad'] = "Nevhodný příspěvek";
 $l['report_reason_spam'] = "Spam";
-$l['report_reason_rules'] = "Porušení pravidel fóra";
 $l['report_reason_wrong'] = "Špatně zařazené fórum";
 $l['report_reason_other'] = "Ostatní";
 
@@ -26,5 +26,7 @@ $l['success_report_voted'] = "Děkujeme za ohlášený příspěvek.<br />Moder�
 
 $l['error_report_length'] = "Uveďte prosím důvod vašeho ohlášení.";
 $l['error_invalid_report'] = "Tento příspěvek buď neexistuje, nebo jej nelze ohlásit.";
+$l['error_invalid_report_reason'] = "Uvedený důvod je neplatný.";
+$l['error_comment_required'] = "Je vyžadován komentář pro zvolený důvod.";
 $l['error_report_duplicate'] = "Tento příspěvek již byl ohlášen jiným členem fóra.<br />Mužete jej také níže ohlásit.";
-$l['report_reason_other_description'] = "Pokud zvolíte možnost 'Ostatní', uveďte prosím důvod k ohlášení tohoto příspěvku.";
+$l['report_reason_other_description'] = "Uveďte, prosím, informace proč ohlašujete tento příspěvěk.";
