@@ -6,24 +6,24 @@
  */
 
 
-$l['mod_logs'] = "Moderator Logs";
+$l['mod_logs'] = "Záznamy moderátorů";
 $l['mod_logs_desc'] = "Here you can view, prune, and search the moderator logs. These logs contain the actions any user may take (deletion of their own posts/threads) and all other actions by moderators.";
 $l['prune_mod_logs'] = "Prune Moderator Logs";
 $l['prune_mod_logs_desc'] = "Here you can prune the moderator logs matching a specified criteria.";
 
 $l['no_modlogs'] = "There are no log entries with the selected criteria.";
 
-$l['username'] = "Username";
-$l['date'] = "Date";
-$l['action'] = "Action";
-$l['information'] = "Information";
-$l['ipaddress'] = "IP Address";
+$l['username'] = "Přezdívka";
+$l['date'] = "Datum";
+$l['action'] = "Akce";
+$l['information'] = "Informace";
+$l['ipaddress'] = "IP adresa";
 
 $l['forum'] = "Forum:";
-$l['thread'] = "Thread:";
-$l['post'] = "Post:";
-$l['user_info'] = "User:";
-$l['announcement'] = "Announcement:";
+$l['thread'] = "Vlákno:";
+$l['post'] = "Příspěvek:";
+$l['user_info'] = "Uživatel:";
+$l['announcement'] = "Oznámení:";
 
 $l['filter_moderator_logs'] = "Filter Moderator Logs";
 $l['forum_moderator'] = "Forum Moderator:";
