@@ -256,4 +256,4 @@ zaregistroval se nový uživatel do {2} a čeká na aktivaci administrátorem.
 Uživatelské jméno: {3}
 
 Děkujeme,
-obsluha fóra {2}";
+vedení fóra {2}";
