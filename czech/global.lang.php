@@ -268,6 +268,11 @@ $l['postbit_currently_ignoring_user'] = "Obsah této zprávy není vidět, proto
 $l['postbit_warning_level'] = "Úroveň varování:";
 $l['postbit_warn'] = "Varovat autora tohoto příspěvku";
 $l['postbit_purgespammer'] = "Odstranit spamera";
+$l['postbit_post_deleted'] = "Tento příspěvek byl smazán.";
+$l['postbit_post_unapproved'] = "Tento příspěvek čeká na schválení.";
+$l['postbit_thread_deleted'] = "Tohle vlákno bylo smazáno.";
+$l['postbit_thread_unapproved'] = "Tohle vlákno čeká na schválení.";
+$l['postbit_deleted_post_user'] = "Příspěvek od {1} byl smazán.";
 
 $l['postbit_button_reputation_add'] = 'Hodnotit';
 $l['postbit_button_website'] = 'Web';
