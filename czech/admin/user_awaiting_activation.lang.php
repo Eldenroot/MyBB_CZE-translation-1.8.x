@@ -5,7 +5,7 @@
  *
  */
 
-$l['awaiting_activation'] = "Čekající na potvrzení";
+$l['awaiting_activation'] = "Čekající na aktivaci";
 
 /**
  TO-DO: nezapomenout při korekci správne dopřeložit souvětí
