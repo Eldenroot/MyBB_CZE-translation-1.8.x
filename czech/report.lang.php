@@ -29,4 +29,4 @@ $l['error_invalid_report'] = "Tento příspěvek buď neexistuje, nebo jej nelze
 $l['error_invalid_report_reason'] = "Uvedený důvod je neplatný.";
 $l['error_comment_required'] = "Je vyžadován komentář pro zvolený důvod.";
 $l['error_report_duplicate'] = "Tento příspěvek již byl ohlášen jiným členem fóra.<br />Mužete jej také níže ohlásit.";
-$l['report_reason_other_description'] = "Uveďte, prosím, informace proč ohlašujete tento příspěvěk.";
+$l['report_reason_other_description'] = "Uveďte, prosím, více informací proč ohlašujete tento příspěvěk.";
