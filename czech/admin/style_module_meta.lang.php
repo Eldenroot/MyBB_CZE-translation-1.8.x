@@ -10,6 +10,6 @@ $l['templates_and_style'] = "Vzhledy &amp; Šablony";
 $l['themes'] = "Vzhledy";
 $l['templates'] = "Šablony";
 
-$l['can_manage_themes'] = "Můžeš spravovat vzhledy?";
-$l['can_manage_templates'] = "Můžeš upravovat šablony?";
+$l['can_manage_themes'] = "Může spravovat vzhledy?";
+$l['can_manage_templates'] = "Může upravovat šablony?";
 
