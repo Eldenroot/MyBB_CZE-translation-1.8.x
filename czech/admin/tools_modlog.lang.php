@@ -30,7 +30,7 @@ $l['forum_moderator'] = "Forum Moderator:";
 $l['sort_by'] = "Sort By:";
 $l['results_per_page'] = "Results Per Page:";
 $l['all_moderators'] = "All Moderators";
-$l['older_than'] = "Older than ";
+$l['older_than'] = "Starší než ";
 
 $l['forum_name'] = "Forum Name";
 $l['thread_subject'] = "Thread Subject";

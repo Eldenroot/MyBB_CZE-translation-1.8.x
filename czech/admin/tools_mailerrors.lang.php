@@ -22,10 +22,10 @@ $l['email'] = "Email";
 $l['date_sent'] = "Datum odeslání";
 $l['error_message'] = "Chybová zpráva";
 $l['fine'] = "Najít";
-$l['no_logs'] = "There are no log entries with the selected criteria.";
+$l['no_logs'] = "Není zde žádný záznam s vybranými kritérii.";
 $l['subject_contains'] = "Předmět obsahuje";
-$l['error_message_contains'] = "Error Message contains";
+$l['error_message_contains'] = "Chybová zpráva obsahuje";
 $l['to_address_contains'] = "To Address contains";
 $l['from_address_contains'] = "From Address contains";
-$l['find_emails_to_addr'] = "Find all emails sent to this address";
+$l['find_emails_to_addr'] = "Najít všechny emaily zaslané této emailové adrese";
 

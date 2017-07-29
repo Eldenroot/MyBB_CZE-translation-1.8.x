@@ -6,7 +6,7 @@
  */
 
 $l['smilies'] = "Smajlíci";
-$l['manage_smilies'] = "Správa emotikonů";
+$l['manage_smilies'] = "Správa smajlíků";
 $l['manage_smilies_desc'] = "V této části můžeš přidat/upravit a smazat smajlíky.";
 $l['add_smilie'] = "Přidat nového smajlíka";
 $l['add_smilie_desc'] = "Zde můžeš přidat jednoho smajlíka.";

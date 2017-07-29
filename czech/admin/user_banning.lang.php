@@ -6,7 +6,7 @@
  */
 
 // Tabs
-$l['banning'] = "Banning";
+$l['banning'] = "Banování";
 $l['banned_accounts'] = "Banned Accounts";
 $l['banned_accounts_desc'] = "Here you can manage user accounts which are banned from access to the board.";
 $l['ban_a_user'] = "Ban a User";

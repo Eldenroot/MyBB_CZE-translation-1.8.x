@@ -6,12 +6,12 @@
  */
 
 // Tabs
-$l['moderation_queue'] = "Moderation Queue";
-$l['threads'] = "Threads";
+$l['moderation_queue'] = "Moderátorská kvóta";
+$l['threads'] = "Vlákno";
 $l['threads_desc'] = "Here you can view and approve threads in the moderation queue.";
-$l['posts'] = "Posts";
+$l['posts'] = "Příspěvky";
 $l['posts_desc'] = "Here you can view and approve posts in the moderation queue.";
-$l['attachments'] = "Attachments";
+$l['attachments'] = "Přílohy";
 $l['attachments_desc'] = "Here you can view and approve attachments in the moderation queue.";
 $l['threads_awaiting_moderation'] = "Threads Awaiting Moderation";
 $l['posts_awaiting_moderation'] = "Posts Awaiting Moderation";
@@ -28,22 +28,22 @@ $l['success_posts'] = "The selected posts have been moderated successfully.";
 $l['success_attachments'] = "The selected attachments have been moderated successfully.";
 
 // Pages
-$l['subject'] = "Subject";
-$l['author'] = "Author";
+$l['subject'] = "Předmět";
+$l['author'] = "Autor";
 $l['posted'] = "Posted";
 $l['ignore'] = "Ignore";
-$l['approve'] = "Approve";
+$l['approve'] = "Schválit";
 $l['forum'] = "Forum:";
-$l['thread'] = "Thread:";
-$l['post'] = "Post:";
+$l['thread'] = "Vlákno:";
+$l['post'] = "Příspěvek:";
 $l['re'] = "RE:";
-$l['filename'] = "File Name";
-$l['uploadedby'] = "Uploaded by";
-$l['controls'] = "Controls";
+$l['filename'] = "Název souboru";
+$l['uploadedby'] = "Nahrán uživatelem";
+$l['controls'] = "Nastavení";
 
 // Buttons
-$l['mark_as_ignored'] = "Mark all as ignored";
-$l['mark_as_deleted'] = "Mark all for deletion";
-$l['mark_as_approved'] = "Mark all as approved";
-$l['perform_action'] = "Perform Actions";
+$l['mark_as_ignored'] = "Označit všechny jako ignorované";
+$l['mark_as_deleted'] = "Označit všechny pro smazání";
+$l['mark_as_approved'] = "Označit všechny jako schválené";
+$l['perform_action'] = "Provést akce";
 
