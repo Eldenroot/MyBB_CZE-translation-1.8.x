@@ -12,8 +12,8 @@ $l['forum_announcements'] = "Oznámení fóra";
 $l['moderation_queue'] = "Moderátorská kvóta";
 $l['attachments'] = "Přílohy";
 
-$l['can_manage_forums'] = "Můžeš spravovat fóra?";
-$l['can_manage_forum_announcements'] = "Můžeš spravovat oznámení fóra?";
-$l['can_moderate'] = "Můžeš moderovat příspěvky, vlákna a přílohy?";
-$l['can_manage_attachments'] = "Můžeš spravovat přílohy?";
+$l['can_manage_forums'] = "Může spravovat fóra?";
+$l['can_manage_forum_announcements'] = "Může spravovat oznámení fóra?";
+$l['can_moderate'] = "Může moderovat příspěvky, vlákna a přílohy?";
+$l['can_manage_attachments'] = "Může spravovat přílohy?";
 
