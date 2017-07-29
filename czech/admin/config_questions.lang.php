@@ -25,10 +25,10 @@ $l['question'] = "Otázka";
 $l['question_desc'] = "Zadej otázku na kterou chceš odpověď při registraci.";
 $l['answers'] = "Odpověd(i)";
 $l['answers_desc'] = "Zadej odpověď(i) k výše uvedené otázce. Prosím zadej každou odpověď na samostatný řádek.";
-$l['active'] = "Active";
+$l['active'] = "Povolit otázku";
 $l['save_question'] = "Uložit otázku";
 
-$l['error_invalid_question'] = "You have selected an invalid question.";
+$l['error_invalid_question'] = "Vybral si neplatnou otázku.";
 $l['error_missing_question'] = "Nezadal si otázku pro tuhle otázku.";
 $l['error_missing_answer'] = "Nezadal si žádné odpovědi pro tuhle otázku.";
 
