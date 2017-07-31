@@ -289,23 +289,23 @@ $l['admin_log_user_titles_add'] = "Přidal default user title #{1} ({2}) at {3} 
 $l['admin_log_user_titles_edit'] = "Upravil default user title #{1} ({2}) at {3} posts";
 $l['admin_log_user_titles_delete'] = "Smazal default user title #{1} ({2}) at {3} posts";
 
-$l['admin_log_user_users_avatar_gallery'] = "Selected a new avatar for user #{1} ({2})";
-$l['admin_log_user_users_activate_user'] = "Activated user #{1} ({2})";
+$l['admin_log_user_users_avatar_gallery'] = "Vybral uživateli #{1} ({2}) nového avatara";
+$l['admin_log_user_users_activate_user'] = "Aktivoval uživatele #{1} ({2})";
 $l['admin_log_user_users_add'] = "Vytvořil uživatele #{1} ({2})";
-$l['admin_log_user_users_edit'] = "Upravil user #{1} ({2})";
-$l['admin_log_user_users_delete'] = "Smazal user #{1} ({2})";
+$l['admin_log_user_users_edit'] = "Upravil uživatele #{1} ({2})";
+$l['admin_log_user_users_delete'] = "Smazal uživatele #{1} ({2})";
 $l['admin_log_user_users_ipaddresses'] = "Viewed IP addresses associated with user #{1} ({2})";
 $l['admin_log_user_users_merge'] = "Sloučil uživatele #{1} ({2}) do účtu #{3} ({4})";
 
 $l['admin_log_user_users_inline_usergroup'] = "Upravil {1} user(s) primary / additional / display usergroup";
 $l['admin_log_user_users_inline_delete'] = "Smazal {1} user(s)";
-$l['admin_log_user_users_inline_banned_perm'] = "Banned {1} user(s) permanently";
-$l['admin_log_user_users_inline_banned_temp'] = "Banned {1} user(s) until {2}";
-$l['admin_log_user_users_inline_activated'] = "Activated {1} user(s)";
+$l['admin_log_user_users_inline_banned_perm'] = "Zabanoval {1} uživatele doživotně";
+$l['admin_log_user_users_inline_banned_temp'] = "Zabanoval {1} uživatele do {2}";
+$l['admin_log_user_users_inline_activated'] = "Aktivoval {1} uživatele";
 $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 
 $l['admin_log_user_mass_mail_delete'] = "Smazal hromadný email (newsletter) #{1} ({2})";
 
-$l['admin_log_admin_locked_out'] = 'Po mnoha neúspěšných pokusech o přihlášení administrátora byl účet  #{1} ({2}) uzamknut.';
+$l['admin_log_admin_locked_out'] = 'Po mnoha neúspěšných pokusech o přihlášení do administrátorského panelu #{1} ({2}) byl jeho/její účet uzamknut z bezpečnostních důvodů';
 
 
