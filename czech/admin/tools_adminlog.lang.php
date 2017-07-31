@@ -6,17 +6,17 @@
  */
 
 
-$l['admin_logs'] = "Administrator Logs";
+$l['admin_logs'] = "Historie Administrátorů";
 $l['admin_logs_desc'] = "Here you can view, prune, and search the actions administrators have taken in the control panel.";
 $l['prune_admin_logs'] = "Prune Administrator Logs";
 $l['prune_admin_logs_desc'] = "Here you can prune the administrator logs matching a specified criteria.";
 
 $l['no_adminlogs'] = "There are no log entries with the selected criteria.";
 
-$l['username'] = "Username";
-$l['date'] = "Date";
-$l['information'] = "Information";
-$l['ipaddress'] = "IP Address";
+$l['username'] = "Přezdívka";
+$l['date'] = "Datum";
+$l['information'] = "Informace";
+$l['ipaddress'] = "IP adresa";
 
 $l['filter_administrator_logs'] = "Filter Administrator Logs";
 $l['administrator'] = "Administrator:";
@@ -24,8 +24,8 @@ $l['sort_by'] = "Sort By:";
 $l['results_per_page'] = "Results Per Page:";
 $l['all_administrators'] = "All Administrators";
 $l['all_modules'] = "All Modules";
-$l['older_than'] = "Older than ";
-$l['days'] = "days";
+$l['older_than'] = "Starší než ";
+$l['days'] = "dny";
 
 $l['prune_administrator_logs'] = "Prune Administrator Logs";
 $l['date_range'] = "Date range:";
@@ -40,161 +40,161 @@ $l['order'] = "order";
 $l['success_pruned_admin_logs'] = "The administrator logs have been pruned successfully.";
 $l['note_logs_locked'] = "For security reasons, logs less than 24 hours old cannot be pruned.";
 
-$l['admin_log_config_attachment_types_add'] = "Added attachment extension #{1} ({2})";
-$l['admin_log_config_attachment_types_edit'] = "Edited attachment extension #{1} ({2})";
-$l['admin_log_config_attachment_types_delete'] = "Deleted attachment extension #{1} ({2})";
+$l['admin_log_config_attachment_types_add'] = "Přidal příponu přílohy #{1} ({2})";
+$l['admin_log_config_attachment_types_edit'] = "Upravil příponu přílohy #{1} ({2})";
+$l['admin_log_config_attachment_types_delete'] = "Smazal příponu přílohy #{1} ({2})";
 $l['admin_log_config_attachment_types_toggle_status'] = "Toggled attachment status #{1} ({2})";
 
-$l['admin_log_config_badwords_add'] = "Added word filter #{1} ({2})";
-$l['admin_log_config_badwords_edit'] = "Edited word filter #{1} ({2})";
-$l['admin_log_config_badwords_delete'] = "Deleted word filter #{1} ({2})";
+$l['admin_log_config_badwords_add'] = "Přidal filtr sprostých slov #{1} ({2})";
+$l['admin_log_config_badwords_edit'] = "Upravil filtr sprostých slov #{1} ({2})";
+$l['admin_log_config_badwords_delete'] = "Smazal filtr sprostých slov #{1} ({2})";
 
-$l['admin_log_config_banning_add_ip'] = "Added IP ban #{1} ({2})";
-$l['admin_log_config_banning_add_username'] = "Added disallowed username #{1} ({2})";
-$l['admin_log_config_banning_add_email'] = "Added disallowed email #{1} ({2})";
-$l['admin_log_config_banning_delete_ip'] = "Removed IP ban #{1} ({2})";
-$l['admin_log_config_banning_delete_username'] = "Removed disallowed username #{1} ({2})";
-$l['admin_log_config_banning_delete_email'] = "Removed disallowed email #{1} ({2})";
+$l['admin_log_config_banning_add_ip'] = "Přidal IP ban #{1} ({2})";
+$l['admin_log_config_banning_add_username'] = "Přidal nepovolenou přezdívku #{1} ({2})";
+$l['admin_log_config_banning_add_email'] = "Přidal disallowed email #{1} ({2})";
+$l['admin_log_config_banning_delete_ip'] = "Smazal IP ban #{1} ({2})";
+$l['admin_log_config_banning_delete_username'] = "Smazal nepovolenou přezdívku #{1} ({2})";
+$l['admin_log_config_banning_delete_email'] = "Smazal nepovolenou přezdívku #{1} ({2})";
 
-$l['admin_log_config_calendars_add'] = "Added calendar #{1} ({2})";
+$l['admin_log_config_calendars_add'] = "Přidal calendar #{1} ({2})";
 $l['admin_log_config_calendars_permissions'] = "Modified permissions for calendar #{1} ({2})";
-$l['admin_log_config_calendars_edit'] = "Edited calendar #{1} ({2})";
-$l['admin_log_config_calendars_delete'] = "Deleted calendar #{1} ({2})";
+$l['admin_log_config_calendars_edit'] = "Upravil calendar #{1} ({2})";
+$l['admin_log_config_calendars_delete'] = "Smazal calendar #{1} ({2})";
 $l['admin_log_config_calendars_update_order'] = "Updated calendar display order";
 
-$l['admin_log_config_help_documents_add_section'] = "Added help section #{1} ({2})";
-$l['admin_log_config_help_documents_add_document'] = "Added help document #{1} ({2})";
-$l['admin_log_config_help_documents_edit_section'] = "Edited help section #{1} ({2})";
-$l['admin_log_config_help_documents_edit_document'] = "Edited help document #{1} ({2})";
-$l['admin_log_config_help_documents_delete_section'] = "Deleted help section #{1} ({2})";
-$l['admin_log_config_help_documents_delete_document'] = "Deleted help document #{1} ({2})";
+$l['admin_log_config_help_documents_add_section'] = "Přidal help section #{1} ({2})";
+$l['admin_log_config_help_documents_add_document'] = "Přidal help document #{1} ({2})";
+$l['admin_log_config_help_documents_edit_section'] = "Upravil help section #{1} ({2})";
+$l['admin_log_config_help_documents_edit_document'] = "Upravil help document #{1} ({2})";
+$l['admin_log_config_help_documents_delete_section'] = "Smazal help section #{1} ({2})";
+$l['admin_log_config_help_documents_delete_document'] = "Smazal help document #{1} ({2})";
 
-$l['admin_log_config_languages_edit_properties'] = "Edited properties for language pack: {1}";
-$l['admin_log_config_languages_edit'] = "Edited {2} in language pack: {1}";
-$l['admin_log_config_languages_edit_admin'] = "Edited admin/{2} in language pack: {1}";
-$l['admin_log_config_languages_quick_phrases'] = "Edited quick phrases in language pack: {1}";
+$l['admin_log_config_languages_edit_properties'] = "Upravil properties for language pack: {1}";
+$l['admin_log_config_languages_edit'] = "Upravil {2} in language pack: {1}";
+$l['admin_log_config_languages_edit_admin'] = "Upravil admin/{2} in language pack: {1}";
+$l['admin_log_config_languages_quick_phrases'] = "Upravil quick phrases in language pack: {1}";
 
-$l['admin_log_config_mod_tools_delete_post_tool'] = "Deleted post moderation tool #{1} ({2})";
-$l['admin_log_config_mod_tools_delete_thread_tool'] = "Deleted thread moderation tool #{1} ({2})";
-$l['admin_log_config_mod_tools_edit_post_tool'] = "Edited post moderation tool #{1} ({2})";
-$l['admin_log_config_mod_tools_edit_thread_tool'] = "Edited thread moderation tool #{1} ({2})";
-$l['admin_log_config_mod_tools_add_post_tool'] = "Added post moderation tool #{1} ({2})";
-$l['admin_log_config_mod_tools_add_thread_tool'] = "Added thread moderation tool #{1} ({2})";
+$l['admin_log_config_mod_tools_delete_post_tool'] = "Smazal příspěvek pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_delete_thread_tool'] = "Smazal vlákno pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_edit_post_tool'] = "Upravil příspěvek pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_edit_thread_tool'] = "Upravil vlákno pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_add_post_tool'] = "Přidal příspěvek pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_add_thread_tool'] = "Přidal vlákno pomocí nástrojů moderátora #{1} ({2})";
 
-$l['admin_log_config_mycode_toggle_status_enabled'] = "Enabled custom MyCode #{1} ({2})";
+$l['admin_log_config_mycode_toggle_status_enabled'] = "Povolil custom MyCode #{1} ({2})";
 $l['admin_log_config_mycode_toggle_status_disabled'] = "Disabled custom MyCode #{1} ({2})";
-$l['admin_log_config_mycode_add'] = "Added custom MyCode #{1} ({2})";
-$l['admin_log_config_mycode_edit'] = "Edited custom MyCode #{1} ({2})";
-$l['admin_log_config_mycode_delete'] = "Deleted custom MyCode #{1} ({2})";
+$l['admin_log_config_mycode_add'] = "Přidal custom MyCode #{1} ({2})";
+$l['admin_log_config_mycode_edit'] = "Upravil custom MyCode #{1} ({2})";
+$l['admin_log_config_mycode_delete'] = "Smazal custom MyCode #{1} ({2})";
 
 $l['admin_log_config_plugins_activate'] = "Activated plugin: {1}";
 $l['admin_log_config_plugins_activate_install'] = "Activated and installed plugin: {1}";
 $l['admin_log_config_plugins_deactivate'] = "Deactivated plugin: {1}";
 $l['admin_log_config_plugins_deactivate_uninstall'] = "Deactivated and uninstalled plugin: {1}";
 
-$l['admin_log_config_post_icons_add'] = "Added post icon #{1} ({2})";
-$l['admin_log_config_post_icons_add_multiple'] = "Added multiple post icons";
-$l['admin_log_config_post_icons_edit'] = "Edited post icon #{1} ({2})";
-$l['admin_log_config_post_icons_delete'] = "Deleted post icon #{1} ({2})";
+$l['admin_log_config_post_icons_add'] = "Přidal post icon #{1} ({2})";
+$l['admin_log_config_post_icons_add_multiple'] = "Přidal multiple post icons";
+$l['admin_log_config_post_icons_edit'] = "Upravil post icon #{1} ({2})";
+$l['admin_log_config_post_icons_delete'] = "Smazal post icon #{1} ({2})";
 
-$l['admin_log_config_profile_fields_add'] = "Added custom profile field #{1} ({2})";
-$l['admin_log_config_profile_fields_edit'] = "Edited custom profile field #{1} ({2})";
-$l['admin_log_config_profile_fields_delete'] = "Deleted custom profile field #{1} ({2})";
+$l['admin_log_config_profile_fields_add'] = "Přidal custom profile field #{1} ({2})";
+$l['admin_log_config_profile_fields_edit'] = "Upravil custom profile field #{1} ({2})";
+$l['admin_log_config_profile_fields_delete'] = "Smazal custom profile field #{1} ({2})";
 
-$l['admin_log_config_questions_add'] = "Added question #{1} ({2})";
-$l['admin_log_config_questions_edit'] = "Edited question #{1} ({2})";
-$l['admin_log_config_questions_delete'] = "Deleted question #{1} ({2})";
-$l['admin_log_config_questions_enable'] = "Enabled question #{1} ({2})";
+$l['admin_log_config_questions_add'] = "Přidal question #{1} ({2})";
+$l['admin_log_config_questions_edit'] = "Upravil question #{1} ({2})";
+$l['admin_log_config_questions_delete'] = "Smazal question #{1} ({2})";
+$l['admin_log_config_questions_enable'] = "Povolil question #{1} ({2})";
 $l['admin_log_config_questions_disable'] = "Disabled question #{1} ({2})";
 
-$l['admin_log_config_report_reasons_add'] = "Added report reason #{1} ({2})";
-$l['admin_log_config_report_reasons_edit'] = "Edited report reason #{1} ({2})";
-$l['admin_log_config_report_reasons_delete'] = "Deleted report reason #{1} ({2})";
+$l['admin_log_config_report_reasons_add'] = "Přidal report reason #{1} ({2})";
+$l['admin_log_config_report_reasons_edit'] = "Upravil report reason #{1} ({2})";
+$l['admin_log_config_report_reasons_delete'] = "Smazal report reason #{1} ({2})";
 
-$l['admin_log_config_settings_delete_duplicates'] = "Deleted duplicate settings and setting groups";
-$l['admin_log_config_settings_addgroup'] = "Added setting group #{1} ({2}) properties ";
-$l['admin_log_config_settings_editgroup'] = "Edited setting group #{1} ({2}) properties ";
-$l['admin_log_config_settings_deletegroup'] = "Deleted setting group #{1} ({2})";
-$l['admin_log_config_settings_add'] = "Added setting #{1} ({2}) properties ";
-$l['admin_log_config_settings_edit'] = "Edited setting #{1} ({2}) properties ";
-$l['admin_log_config_settings_delete'] = "Deleted setting #{1} ({2})";
+$l['admin_log_config_settings_delete_duplicates'] = "Smazal duplicate settings and setting groups";
+$l['admin_log_config_settings_addgroup'] = "Přidal setting group #{1} ({2}) properties ";
+$l['admin_log_config_settings_editgroup'] = "Upravil setting group #{1} ({2}) properties ";
+$l['admin_log_config_settings_deletegroup'] = "Smazal setting group #{1} ({2})";
+$l['admin_log_config_settings_add'] = "Přidal setting #{1} ({2}) properties ";
+$l['admin_log_config_settings_edit'] = "Upravil setting #{1} ({2}) properties ";
+$l['admin_log_config_settings_delete'] = "Smazal setting #{1} ({2})";
 $l['admin_log_config_settings_manage'] = "Updated setting and setting group orders";
 $l['admin_log_config_settings_change'] = "Changed board settings";
 
-$l['admin_log_config_smilies_add'] = "Added smilie #{1} ({2})";
-$l['admin_log_config_smilies_edit'] = "Edited smilie #{1} ({2})";
-$l['admin_log_config_smilies_delete'] = "Deleted smilie #{1} ({2})";
-$l['admin_log_config_smilies_add_multiple'] = "Added multiple smilies";
-$l['admin_log_config_smilies_mass_edit'] = "Edited multiple smilies";
+$l['admin_log_config_smilies_add'] = "Přidal smilie #{1} ({2})";
+$l['admin_log_config_smilies_edit'] = "Upravil smilie #{1} ({2})";
+$l['admin_log_config_smilies_delete'] = "Smazal smilie #{1} ({2})";
+$l['admin_log_config_smilies_add_multiple'] = "Přidal multiple smilies";
+$l['admin_log_config_smilies_mass_edit'] = "Upravil multiple smilies";
 
-$l['admin_log_config_spiders_add'] = "Added spider #{1} ({2})";
-$l['admin_log_config_spiders_edit'] = "Edited spider #{1} ({2})";
-$l['admin_log_config_spiders_delete'] = "Deleted spider #{1} ({2})";
+$l['admin_log_config_spiders_add'] = "Přidal spider #{1} ({2})";
+$l['admin_log_config_spiders_edit'] = "Upravil spider #{1} ({2})";
+$l['admin_log_config_spiders_delete'] = "Smazal spider #{1} ({2})";
 
-$l['admin_log_config_thread_prefixes_add_prefix'] = 'Added thread prefix #{1} ({2})';
-$l['admin_log_config_thread_prefixes_edit_prefix'] = 'Edited thread prefix #{1} ({2})';
-$l['admin_log_config_thread_prefixes_delete_prefix'] = 'Deleted thread prefix #{1} ({2})';
+$l['admin_log_config_thread_prefixes_add_prefix'] = 'Přidal thread prefix #{1} ({2})';
+$l['admin_log_config_thread_prefixes_edit_prefix'] = 'Upravil thread prefix #{1} ({2})';
+$l['admin_log_config_thread_prefixes_delete_prefix'] = 'Smazal thread prefix #{1} ({2})';
 
-$l['admin_log_config_warning_add_level'] = "Added warning level #{1} at {2}%";
-$l['admin_log_config_warning_edit_level'] = "Edited warning level #{1} at {2}%";
-$l['admin_log_config_warning_delete_level'] = "Deleted warning level #{1} at {2}%";
-$l['admin_log_config_warning_add_type'] = "Added warning type #{1} ({2})";
-$l['admin_log_config_warning_edit_type'] = "Edited warning type #{1} ({2})";
-$l['admin_log_config_warning_delete_type'] = "Deleted warning type #{1} ({2})";
+$l['admin_log_config_warning_add_level'] = "Přidal warning level #{1} at {2}%";
+$l['admin_log_config_warning_edit_level'] = "Upravil warning level #{1} at {2}%";
+$l['admin_log_config_warning_delete_level'] = "Smazal warning level #{1} at {2}%";
+$l['admin_log_config_warning_add_type'] = "Přidal warning type #{1} ({2})";
+$l['admin_log_config_warning_edit_type'] = "Upravil warning type #{1} ({2})";
+$l['admin_log_config_warning_delete_type'] = "Smazal warning type #{1} ({2})";
 
-$l['admin_log_forum_announcements_add'] = "Added announcement #{1} ({2})";
-$l['admin_log_forum_announcements_edit'] = "Edited announcement #{1} ({2})";
-$l['admin_log_forum_announcements_delete'] = "Deleted announcement #{1} ({2})";
+$l['admin_log_forum_announcements_add'] = "Přidal announcement #{1} ({2})";
+$l['admin_log_forum_announcements_edit'] = "Upravil announcement #{1} ({2})";
+$l['admin_log_forum_announcements_delete'] = "Smazal announcement #{1} ({2})";
 
-$l['admin_log_forum_attachments_delete_post'] = "Deleted attachment #{1} ({2}) from post #{3}";
-$l['admin_log_forum_attachments_delete'] = "Deleted attachment #{1} ({2})";
-$l['admin_log_forum_attachments_delete_orphans'] = "Deleted orphaned attachments";
+$l['admin_log_forum_attachments_delete_post'] = "Smazal attachment #{1} ({2}) from post #{3}";
+$l['admin_log_forum_attachments_delete'] = "Smazal attachment #{1} ({2})";
+$l['admin_log_forum_attachments_delete_orphans'] = "Smazal orphaned attachments";
 
 $l['admin_log_forum_management_copy'] = "Copied settings from forum #{1} ({2}) to forum #{3} ({4})";
 $l['admin_log_forum_management_copy_with_permissions'] = "Copied settings and group permissions for usergroups #{5} from forum #{1} ({2}) to forum #{3} ({4})";
-$l['admin_log_forum_management_editmod'] = "Edited moderator #{3} ({4}) on forum #{1} ({2})";
-$l['admin_log_forum_management_permissions'] = "Edited group permissions for forum #{1} ({2})";
-$l['admin_log_forum_management_add'] = "Added forum #{1} ({2})";
-$l['admin_log_forum_management_edit'] = "Edited forum #{1} ({2})";
-$l['admin_log_forum_management_deletemod'] = "Deleted moderator #{1} ({2}) from forum #{3} ({4})";
-$l['admin_log_forum_management_delete'] = "Deleted forum #{1} ({2})";
+$l['admin_log_forum_management_editmod'] = "Upravil moderator #{3} ({4}) on forum #{1} ({2})";
+$l['admin_log_forum_management_permissions'] = "Upravil group permissions for forum #{1} ({2})";
+$l['admin_log_forum_management_add'] = "Přidal forum #{1} ({2})";
+$l['admin_log_forum_management_edit'] = "Upravil forum #{1} ({2})";
+$l['admin_log_forum_management_deletemod'] = "Smazal moderator #{1} ({2}) from forum #{3} ({4})";
+$l['admin_log_forum_management_delete'] = "Smazal forum #{1} ({2})";
 $l['admin_log_forum_management_orders'] = "Updated root forum orders";
 $l['admin_log_forum_management_orders_sub'] = "Updated forum orders within forum #{2} ({3})";
-$l['admin_log_forum_management_addmod'] = "Added moderator #{2} ({3}) to forum #{4} ({5})";
+$l['admin_log_forum_management_addmod'] = "Přidal moderator #{2} ({3}) to forum #{4} ({5})";
 $l['admin_log_forum_management_quickpermissions'] = "Updated quick forum permissions for forum #{2} ({3})";
 
 $l['admin_log_forum_moderation_queue_threads'] = "Moderated unapproved threads";
 $l['admin_log_forum_moderation_queue_posts'] = "Moderated unapproved posts";
 $l['admin_log_forum_moderation_queue_attachments'] = "Moderated unapproved attachments";
 
-$l['admin_log_home_preferences_enabled'] = "Enabled Two-Factor Authentication";
+$l['admin_log_home_preferences_enabled'] = "Povolil Two-Factor Authentication";
 $l['admin_log_home_preferences_disabled'] = "Disabled Two-Factor Authentication";
 
-$l['admin_log_style_templates_delete_set'] = "Deleted template set #{1} ({2})";
-$l['admin_log_style_templates_delete_template'] = "Deleted template #{1} ({2}) from template set #{3} ({4})";
-$l['admin_log_style_templates_delete_template_global'] = "Deleted template #{1} ({2}) from the global template set";
-$l['admin_log_style_templates_add_set'] = "Added template set #{1} ({2})";
-$l['admin_log_style_templates_add_template'] = "Added template #{1} ({2}) from template set #{3} ({4})";
-$l['admin_log_style_templates_edit_set'] = "Edited template set #{1} ({2})";
-$l['admin_log_style_templates_edit_template'] = "Edited template #{1} ({2}) from template set #{3} ({4})";
-$l['admin_log_style_templates_edit_template_global'] = "Edited template #{1} ({2}) from the global template set";
+$l['admin_log_style_templates_delete_set'] = "Smazal template set #{1} ({2})";
+$l['admin_log_style_templates_delete_template'] = "Smazal template #{1} ({2}) from template set #{3} ({4})";
+$l['admin_log_style_templates_delete_template_global'] = "Smazal template #{1} ({2}) from the global template set";
+$l['admin_log_style_templates_add_set'] = "Přidal template set #{1} ({2})";
+$l['admin_log_style_templates_add_template'] = "Přidal template #{1} ({2}) from template set #{3} ({4})";
+$l['admin_log_style_templates_edit_set'] = "Upravil template set #{1} ({2})";
+$l['admin_log_style_templates_edit_template'] = "Upravil template #{1} ({2}) from template set #{3} ({4})";
+$l['admin_log_style_templates_edit_template_global'] = "Upravil template #{1} ({2}) from the global template set";
 $l['admin_log_style_templates_search_replace'] = "Searched templates for '{1}' and replaced with '{2}'";
 $l['admin_log_style_templates_revert'] = "Reverted template #{1} ({2}) in template set #{3} ({4})";
-$l['admin_log_style_templates_add_template_group'] = "Added template group #{1} ({2})";
-$l['admin_log_style_templates_edit_template_group'] = "Edited template group #{1} ({2})";
-$l['admin_log_style_templates_delete_template_group'] = "Deleted template group #{1} ({2})";
+$l['admin_log_style_templates_add_template_group'] = "Přidal template group #{1} ({2})";
+$l['admin_log_style_templates_edit_template_group'] = "Upravil template group #{1} ({2})";
+$l['admin_log_style_templates_delete_template_group'] = "Smazal template group #{1} ({2})";
 
-$l['admin_log_style_themes_import'] = "Imported theme #{1}";
-$l['admin_log_style_themes_duplicate'] = "Duplicated theme #{2} to #{1}";
-$l['admin_log_style_themes_add'] = "Created theme #{2} ({1})";
-$l['admin_log_style_themes_edit_stylesheet'] = "Edited stylesheet {2} in {1}";
-$l['admin_log_style_themes_delete_stylesheet'] = "Deleted / Reverted stylesheet #{1} ({2}) in theme #{3} ({4})";
+$l['admin_log_style_themes_import'] = "Naimportoval vzhled #{1}";
+$l['admin_log_style_themes_duplicate'] = "Duplikoval vzhled z  #{2} na #{1}";
+$l['admin_log_style_themes_add'] = "Vytvořil vzhled #{2} ({1})";
+$l['admin_log_style_themes_edit_stylesheet'] = "Upravil stylesheet (CSS) {2} in {1}";
+$l['admin_log_style_themes_delete_stylesheet'] = "Smazal / Reverted stylesheet #{1} ({2}) in theme #{3} ({4})";
 $l['admin_log_style_themes_force'] = "Forced theme #{1} ({2}) on all users";
 $l['admin_log_style_themes_set_default'] = "Set theme #{1} ({2}) as default";
-$l['admin_log_style_themes_add_stylesheet'] = "Added stylesheet #{1} ({2}) in theme #{3} ({4})";
-$l['admin_log_style_themes_stylesheet_properties'] = "Edited the properties for stylesheet #{1} ({2}) in theme #{3} ({4})";
-$l['admin_log_style_themes_edit'] = "Edited theme #{1} ({2})";
-$l['admin_log_style_themes_delete'] = "Deleted theme #{1} ({2})";
+$l['admin_log_style_themes_add_stylesheet'] = "Přidal stylesheet #{1} ({2}) in theme #{3} ({4})";
+$l['admin_log_style_themes_stylesheet_properties'] = "Upravil the properties for stylesheet #{1} ({2}) in theme #{3} ({4})";
+$l['admin_log_style_themes_edit'] = "Upravil theme #{1} ({2})";
+$l['admin_log_style_themes_delete'] = "Smazal theme #{1} ({2})";
 $l['admin_log_style_themes_export'] = "Exported theme #{1} ({2})";
 
 $l['admin_log_tools_system_health_utf8_conversion'] = "Converted table {1} to UTF-8 Character Set.";
@@ -210,7 +210,7 @@ $l['admin_log_tools_modlog_prune_forum'] = "Pruned {4} moderator logs older than
 $l['admin_log_tools_modlog_prune_user_forum'] = "Pruned {4} moderator logs older than {1} days for user #{2} and forum #{3} ({5})";
 
 $l['admin_log_tools_backupdb_dlbackup'] = "Downloaded an existing backup: {1}";
-$l['admin_log_tools_backupdb_delete'] = "Deleted a backup: {1}";
+$l['admin_log_tools_backupdb_delete'] = "Smazal a backup: {1}";
 $l['admin_log_tools_backupdb_backup'] = "Created a backup: {2}";
 $l['admin_log_tools_backupdb_backup_download'] = "Downloaded a backup of the current database";
 
@@ -226,7 +226,7 @@ $l['admin_log_tools_maillogs_prune'] = "Pruned {1} email logs";
 
 $l['admin_log_tools_optimizedb_'] = "Optimized database tables: {1}";
 
-$l['admin_log_tools_php_info_phpinfo'] = "Viewed PHP Info";
+$l['admin_log_tools_php_info_phpinfo'] = "Zobrazil PHP info";
 
 $l['admin_log_tools_recount_rebuild_'] = "Recounted and rebuilt ({1})";
 $l['admin_log_tools_recount_rebuild_stats'] = "Recounted and rebuilt statistics";
@@ -247,64 +247,64 @@ $l['admin_log_tools_spamlog_prune_user'] = "Pruned {4} spam logs older than {1} 
 $l['admin_log_tools_spamlog_prune_email'] = "Pruned {4} spam logs older than {1} days with email {3}";
 $l['admin_log_tools_spamlog_prune_user_email'] = "Pruned {4} spam logs older than {1} days with username {2} and email {3}";
 
-$l['admin_log_tools_tasks_add'] = "Added task #{1} ({2})";
-$l['admin_log_tools_tasks_edit'] = "Edited task #{1} ({2})";
-$l['admin_log_tools_tasks_delete'] = "Deleted task #{1} ({2})";
-$l['admin_log_tools_tasks_enable'] = "Enabled task #{1} ({2})";
+$l['admin_log_tools_tasks_add'] = "Přidal task #{1} ({2})";
+$l['admin_log_tools_tasks_edit'] = "Upravil task #{1} ({2})";
+$l['admin_log_tools_tasks_delete'] = "Smazal task #{1} ({2})";
+$l['admin_log_tools_tasks_enable'] = "Povolil task #{1} ({2})";
 $l['admin_log_tools_tasks_disable'] = "Disabled task #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "Executed task #{1} ({2})";
 
 $l['admin_log_user_awaiting_activation_activate_activated'] = "Activated {2} user account(s)";
-$l['admin_log_user_awaiting_activation_activate_deleted'] = "Deleted {2} user account(s)";
+$l['admin_log_user_awaiting_activation_activate_Smazal'] = "Smazal {2} user account(s)";
 
-$l['admin_log_user_admin_permissions_delete_user'] = "Deleted administrator permissions for user #{1} ({2})";
-$l['admin_log_user_admin_permissions_delete_group'] = "Deleted group administrator permissions for usergroup #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit_user'] = "Edited administrator permissions for user #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit_group'] = "Edited group administrator permissions for usergroup #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit'] = "Edited default administrator permissions";
+$l['admin_log_user_admin_permissions_delete_user'] = "Smazal administrator permissions for user #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_group'] = "Smazal group administrator permissions for usergroup #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit_user'] = "Upravil administrator permissions for user #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit_group'] = "Upravil group administrator permissions for usergroup #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit'] = "Upravil default administrator permissions";
 
 $l['admin_log_user_banning_lift'] = "Lifted ban for user #{1} ({2})";
-$l['admin_log_user_banning_edit'] = "Edited ban for user #{1} ({2})";
+$l['admin_log_user_banning_edit'] = "Upravil ban for user #{1} ({2})";
 $l['admin_log_user_banning_prune'] = "Pruned posts and threads for user #{1} ({2})";
-$l['admin_log_user_banning_add_permanent'] = "Banned user #{1} ({2}) permanently";
-$l['admin_log_user_banning_add_temporary'] = "Banned user #{1} ({2}) until {3}";
+$l['admin_log_user_banning_add_permanent'] = "Zabanonoval uživatele  #{1} ({2}) doživotně";
+$l['admin_log_user_banning_add_temporary'] = "Zabanoval uživatele #{1} ({2}) do {3}";
 
 $l['admin_log_user_group_promotions_disable'] = "Disabled group promotion #{1} ({2})";
-$l['admin_log_user_group_promotions_delete'] = "Deleted group promotion #{1} ({2})";
-$l['admin_log_user_group_promotions_enable'] = "Enabled group promotion #{1} ({2})";
-$l['admin_log_user_group_promotions_edit'] = "Edited group promotion #{1} ({2})";
-$l['admin_log_user_group_promotions_add'] = "Added group promotion #{1} ({2})";
+$l['admin_log_user_group_promotions_delete'] = "Smazal group promotion #{1} ({2})";
+$l['admin_log_user_group_promotions_enable'] = "Povolil group promotion #{1} ({2})";
+$l['admin_log_user_group_promotions_edit'] = "Upravil group promotion #{1} ({2})";
+$l['admin_log_user_group_promotions_add'] = "Přidal group promotion #{1} ({2})";
 
-$l['admin_log_user_groups_add_leader'] = "Added user #{1} ({2}) as a leader for usergroup #{3} ({4})";
+$l['admin_log_user_groups_add_leader'] = "Přidal user #{1} ({2}) as a leader for usergroup #{3} ({4})";
 $l['admin_log_user_groups_delete_leader'] = "Removed user #{1} ({2}) as a leader for usergroup #{3} ({4})";
-$l['admin_log_user_groups_edit_leader'] = "Edited user #{1} ({2}) as a leader for usergroup #{3} ({4})";
-$l['admin_log_user_groups_add'] = "Added usergroup #{1} ({2})";
-$l['admin_log_user_groups_edit'] = "Edited usergroup #{1} ({2})";
-$l['admin_log_user_groups_delete'] = "Deleted usergroup #{1} ({2})";
+$l['admin_log_user_groups_edit_leader'] = "Upravil user #{1} ({2}) as a leader for usergroup #{3} ({4})";
+$l['admin_log_user_groups_add'] = "Přidal usergroup #{1} ({2})";
+$l['admin_log_user_groups_edit'] = "Upravil usergroup #{1} ({2})";
+$l['admin_log_user_groups_delete'] = "Smazal usergroup #{1} ({2})";
 $l['admin_log_user_groups_disporder'] = "Updated usergroup display orders";
 $l['admin_log_user_groups_join_requests_approve'] = "Approved selected join requests for usergroup #{3} ({2})";
 $l['admin_log_user_groups_join_requests_deny'] = "Denied selected join requests for usergroup #{3} ({2})";
 
-$l['admin_log_user_titles_add'] = "Added default user title #{1} ({2}) at {3} posts";
-$l['admin_log_user_titles_edit'] = "Edited default user title #{1} ({2}) at {3} posts";
-$l['admin_log_user_titles_delete'] = "Deleted default user title #{1} ({2}) at {3} posts";
+$l['admin_log_user_titles_add'] = "Přidal default user title #{1} ({2}) at {3} posts";
+$l['admin_log_user_titles_edit'] = "Upravil default user title #{1} ({2}) at {3} posts";
+$l['admin_log_user_titles_delete'] = "Smazal default user title #{1} ({2}) at {3} posts";
 
 $l['admin_log_user_users_avatar_gallery'] = "Selected a new avatar for user #{1} ({2})";
 $l['admin_log_user_users_activate_user'] = "Activated user #{1} ({2})";
 $l['admin_log_user_users_add'] = "Created user #{1} ({2})";
-$l['admin_log_user_users_edit'] = "Edited user #{1} ({2})";
-$l['admin_log_user_users_delete'] = "Deleted user #{1} ({2})";
+$l['admin_log_user_users_edit'] = "Upravil user #{1} ({2})";
+$l['admin_log_user_users_delete'] = "Smazal user #{1} ({2})";
 $l['admin_log_user_users_ipaddresses'] = "Viewed IP addresses associated with user #{1} ({2})";
 $l['admin_log_user_users_merge'] = "Merged user #{1} ({2}) into user #{3} ({4})";
 
-$l['admin_log_user_users_inline_usergroup'] = "Edited {1} user(s) primary / additional / display usergroup";
-$l['admin_log_user_users_inline_delete'] = "Deleted {1} user(s)";
+$l['admin_log_user_users_inline_usergroup'] = "Upravil {1} user(s) primary / additional / display usergroup";
+$l['admin_log_user_users_inline_delete'] = "Smazal {1} user(s)";
 $l['admin_log_user_users_inline_banned_perm'] = "Banned {1} user(s) permanently";
 $l['admin_log_user_users_inline_banned_temp'] = "Banned {1} user(s) until {2}";
 $l['admin_log_user_users_inline_activated'] = "Activated {1} user(s)";
 $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 
-$l['admin_log_user_mass_mail_delete'] = "Deleted mass mail #{1} ({2})";
+$l['admin_log_user_mass_mail_delete'] = "Smazal hromadný email (newsletter) #{1} ({2})";
 
 $l['admin_log_admin_locked_out'] = 'Administrator login attempt for user #{1} ({2}) locked out.';
 
