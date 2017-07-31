@@ -5,7 +5,7 @@
  *
  */
 
-$l['users_and_groups'] = "Uživatelé &amp; skupiny";
+$l['users_and_groups'] = "Uživatelé &amp; Skupiny";
 
 $l['users'] = "Uživatelé";
 $l['awaiting_activation'] = "Čekající na aktivaci";

@@ -41,6 +41,6 @@ $l['can_manage_user_warning_log'] = "Může spravovat záznamy od systému uživ
 $l['can_manage_spam_log'] = "Může spravovat záznamy od spamové protekce?";
 $l['can_view_php_info'] = "Může zobrazit informace o PHP serveru?";
 $l['can_manage_file_verification'] = "Může spravovat ověření souborů?";
-$l['can_view_statistics'] = "Může vidět statistiky?";
+$l['can_view_statistics'] = "Může zobrazit statistiky?";
 
 
