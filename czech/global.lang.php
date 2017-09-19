@@ -132,6 +132,8 @@ $l['no_subscribe_notification'] = "Přihlásit k odběru bez ohlašováním odpo
 $l['instant_email_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi emailem";
 $l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes SZ";
 
+$l['today_rel'] = "<span title=\"{1}\">dnes</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">včera</span>";
 $l['today'] = "<span title=\"{1}\">dnes</span>";
 $l['yesterday'] = "<span title=\"{1}\">včera</span>";
 $l['error'] = "Zpráva fóra";
@@ -222,8 +224,8 @@ $l['posted_video'] = "[Video: {1}]";
 $l['linkback'] = "Původní příspěvek";
 
 $l['at'] = "v";
-$l['na'] = "(nic)";
-$l['guest'] = "Host";
+$l['na'] = "N/A";
+$l['guest'] = "Návštěvník";
 $l['unknown'] = "Neznámý";
 $l['never'] = "Nikdy";
 $l['postbit_posts'] = "Příspěvků:";
@@ -236,7 +238,7 @@ $l['postbit_attachment_size'] = "Velikost:";
 $l['postbit_attachment_downloads'] = "Stažení:";
 $l['postbit_attachments_images'] = "Obrázky";
 $l['postbit_attachments_thumbnails'] = "Miniatury";
-$l['postbit_unapproved_attachments'] = "{1} ks neschválených příloh.";
+$l['postbit_unapproved_attachments'] = "{1} neschválených příloh.";
 $l['postbit_unapproved_attachment'] = "1 neschválená příloha.";
 $l['postbit_status_online'] = "Online";
 $l['postbit_status_offline'] = "Offline";
@@ -314,6 +316,8 @@ $l['unread_reports'] = "Poznámka pro moderátora: máte {1} nepřečtených ozn
 $l['pending_joinrequest'] = "Poznámka pro vedoucí skupiny: máte 1 požadavek pro udělení členství ve skupině.";
 $l['pending_joinrequests'] = "Poznámka pro vedoucí skupiny: máte {1} požadavků pro udělení členství ve skupině.";
 
+$l['search_user'] = "Hledat uživatele";
+
 $l['year'] = "rok";
 $l['year_short'] = "r";
 $l['years'] = "roky";
@@ -344,7 +348,7 @@ $l['seconds'] = "sekund(y)";
 $l['seconds_short'] = "s";
 
 $l['rel_in'] = "V ";
-$l['rel_ago'] = "";
+$l['rel_ago'] = "před";
 $l['rel_less_than'] = "méně než ";
 $l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
@@ -419,13 +423,19 @@ $l['refresh'] = "Obnovit";
 $l['select_language'] = "Změna jazyka fóra";
 $l['select_theme'] = "Změna vzhledu fóra";
 
-$l['invalid_post_code'] = "Autorizační kód nesouhlasí. Zkuste to prosím znovu.";
-$l['invalid_captcha'] = "Před pokračováním prosím přepište kód z obrázku přesně tak, jak je vyobrazen.";
-$l['invalid_captcha_verify'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
-$l['invalid_captcha_transmit'] = "Při ověřování kódu nastala chyba. Zkuste to znovu.";
-$l['captcha_fetch_failure'] = 'Při načítání verifikačního obrázku došlo k chybě.';
-$l['question_fetch_failure'] = 'Při načítání nové otázky došlo k chybě.';
-$l['invalid_ayah_result'] = "Ověřování, zda jste člověk není dokončeno. Zkuste to znovu.";
+$l['invalid_post_code'] = "Autorizační kód nesouhlasí. Používáte tuto funkci správně? Prosím, vraťte se a zkuste to znovu.";
+$l['invalid_captcha'] = "Prosím, vyplňte ověřovací kód z obrázku a zadej ho přesně, jak se ukazuje na obrázku.";
+$l['invalid_nocaptcha'] = "Prosím vyřešte reCAPTCHA pro oveření, že nejste robot.";
+$l['invalid_captcha_verify'] = "Verifikační kód z obrázku, který si vložil není správný. Prosím, zadej kód přesně, jak je na obrázku.";
+$l['image_verification'] = "Image Verification";
+$l['human_verification'] = "Human Verification";
+$l['verification_note'] = "Prosím, vyplň text, který je v obrázku do textového políčka níže. Tento proces by měl zabránit spam botům.";
+$l['verification_note_nocaptcha'] = "Prosím označ políčko, které vidíš níže. Tento proces by měl zabránit spam botům.";
+$l['verification_subnote'] = "(nerozlišuje velikost písmen)";
+$l['invalid_captcha_transmit'] = "Vyskytla se chyba s verifikačním obrázkem. Prosím, zkuste to znovu.";
+$l['invalid_nocaptcha_transmit'] = "Vyskytla se chyba s lidskou verifikací. Prosím, zkuste to znovu.";
+$l['captcha_fetch_failure'] = 'Vyskytla se chyba při načítání nové captchi.';
+$l['question_fetch_failure'] = 'Vyskatl se error při načítaní nové otázky.';
 
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Marshall Islands";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Nome, Midway Island";
@@ -538,8 +548,9 @@ $l['moderation_user_posts'] = "Nové příspěvky, které jste napsal v tomto f�
 $l['moderation_forum_thread'] = "Nová témata v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits_quick'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
-$l['awaiting_message_single'] = "Jeden účet čeká na aktivaci. Prosím aktivujte ho v Administraci.";
-$l['awaiting_message_plural'] = "{1} účtů čeká na aktivaci. Prosím aktivujte je v Administraci.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Přejít do administrace</a>.";
+$l['awaiting_message_single'] = "Jeden účet čeká na aktivaci. Prosím, aktivujte ho v Administraci.";
+$l['awaiting_message_plural'] = "{1} účtů/účty čekají na aktivaci. Prosím, aktivujte je v Administraci.";
 
 $l['select2_match'] = "Jeden výsledek je k dispozici, stiskem klávesy Enter jej vyberte.";
 $l['select2_matches'] = "{1} výsledků je k dispozici, použijte k navigaci klávesy nahoru a dolů.";
@@ -555,3 +566,10 @@ $l['select2_searching'] = "Hledám...";
 
 $l['stopforumspam_error_decoding'] = 'Nastala chyba při dekódování dat ze serveru StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Nastala chyba při získávání dat ze serveru StopForumSpam.com.';
+
+$l['sfs_error_username'] = 'Přezdívka';
+$l['sfs_error_ip'] = 'IP';
+$l['sfs_error_email'] = 'Email';
+$l['sfs_error_or'] = 'nebo';
+
+$l['boardclosed_reason'] = 'Fórum je momentálně mimo provoz z důvodu údržby. Prosím, zkuste to později.';
