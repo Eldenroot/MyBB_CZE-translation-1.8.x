@@ -5,7 +5,7 @@
  *
  */
 
-$l['mod_tools'] = "Moderator Tools";
+$l['mod_tools'] = "Nástroje moderátorů";
 
 $l['thread_tools'] = "Thread Tools";
 $l['thread_tools_desc'] = "Custom moderator tools allows you to create combinations of moderator actions that can be used on both threads and posts. These can then be used like the default tools when managing your forum. Here you can manage your custom thread tools.";

@@ -28,7 +28,7 @@ $l['browse_all_themes'] = "Najít všechny vzhledy i ty nekompatibilní. (Budeš
 $l['export_theme'] = "Export vzhledu";
 $l['export_theme_desc'] = "Here you can export your themes and customized templates. Exporting themes is useful if you wish to share them with others or import them to another forum.";
 
-$l['duplicate_theme'] = "Dumplikovat vzhled";
+$l['duplicate_theme'] = "Duplikovat vzhled";
 $l['duplicate_theme_desc'] = "Here you can duplicate your themes. This helps you if you want to develop another version of it.";
 
 $l['colors_manage'] = "Manage Colors";
