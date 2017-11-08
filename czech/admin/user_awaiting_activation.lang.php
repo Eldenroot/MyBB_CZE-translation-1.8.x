@@ -48,8 +48,8 @@ Pokračujte, prosím na
 
 {3}
 
-Budeš moci se přihlásit pomocí tvých přihlašovacích údajů se kterými ses registroval.
+Kde se budeš moct přihlásit pomocí přezdívky a hesla, které sis zvolil při registraci.
 
 Budeme se těšit na tvojí návštěvu,
-{2} Vedení";
+Vedení fóra {2}";
 
