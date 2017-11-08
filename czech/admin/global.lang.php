@@ -74,7 +74,7 @@ $l['options'] = "Options";
 $l['proceed'] = "Pokračovat";
 $l['ok'] = "OK";
 $l['error'] = "Chyba (error)";
-$l['edit'] = "Edit";
+$l['edit'] = "Upravit";
 $l['never'] = "Nikdy";
 $l['legend'] = "Legend";
 $l['version'] = "Verze";
@@ -113,12 +113,12 @@ $l['second_short'] = "s";
 $l['seconds'] = "Vteřiny";
 $l['seconds_short'] = "s";
 $l['permanent'] = "Permanentní";
-$l['all_forums'] = "All Forums";
-$l['all_groups'] = "All groups";
-$l['select_forums'] = "Select forums";
-$l['select_groups'] = "Select groups";
-$l['forums_colon'] = "Forums:";
-$l['groups_colon'] = "Groups:";
+$l['all_forums'] = "Všechny fóra";
+$l['all_groups'] = "Všechny skupiny";
+$l['select_forums'] = "Vybraná/zvolená fóra";
+$l['select_groups'] = "Vybrané/zvolené skupiny";
+$l['forums_colon'] = "Fóra:";
+$l['groups_colon'] = "Skupiny:";
 $l['none'] = "None";
 $l['mybb_acp'] = "MyBB ACP";
 $l['pages'] = "Stránky";
@@ -168,20 +168,20 @@ $l['december'] = "Prosinec";
 
 // Access Denied
 $l['access_denied'] = "Přístup zamítnut.";
-$l['access_denied_desc'] = "Nemáš přístup do této části administračního rozhraní..";
+$l['access_denied_desc'] = "Nemáš přístup do této části administračního rozhraní…";
 
 // Super Administrator required
 $l['cannot_perform_action_super_admin_general'] = "Bohužel, nemůžeš provést tuto akci, protože nejsi super administrator.<br /><br /> Aby si mohl vykonat tuto akci, tak tvé user ID musí být přidáno na list super administratorů v inc/config.php.";
 
 // AJAX
-$l['loading_text'] = "Načítání<br />Prosím počkej...";
+$l['loading_text'] = "Načítání<br />Prosím počkej…";
 
 // Time zone selection boxes
-$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Howland and Baker Islands";
+$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Howland a Baker ostrovy";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Nome, Midway Island";
 $l['timezone_gmt_minus_1000'] = "(GMT -10:00) Hawaii, Papeete";
 $l['timezone_gmt_minus_950'] = "(GMT -9:30) Marquesas Islands";
-$l['timezone_gmt_minus_900'] = "(GMT -9:00) Alaska";
+$l['timezone_gmt_minus_900'] = "(GMT -9:00) Aljaška";
 $l['timezone_gmt_minus_800'] = "(GMT -8:00) Pacific Time";
 $l['timezone_gmt_minus_700'] = "(GMT -7:00) Mountain Time";
 $l['timezone_gmt_minus_600'] = "(GMT -6:00) Central Time, Mexico City";
@@ -192,41 +192,41 @@ $l['timezone_gmt_minus_350'] = "(GMT -3:30) Newfoundland";
 $l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazílie, Buenos Aires, Georgetown, Falkland Is.";
 $l['timezone_gmt_minus_200'] = "(GMT -2:00) Mid-Atlantic, South Georgia and the South Sandwich Islands";
 $l['timezone_gmt_minus_100'] = "(GMT -1:00) Azores, Cape Verde Islands";
-$l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londýn, Lisbon, Monrovia";
-$l['timezone_gmt_100'] = "(GMT +1:00) Berlín, Brusel, Copenhagen, Madrid, Paris, Rome, Warsaw";
-$l['timezone_gmt_200'] = "(GMT +2:00) Athens, Istanbul, Cairo, Jerusalem, South Africa";
-$l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Minsk, Baghdad, Riyadh, Nairobi";
-$l['timezone_gmt_350'] = "(GMT +3:30) Tehran";
-$l['timezone_gmt_400'] = "(GMT +4:00) Moskva, Abu Dhabi, Baku, Muscat, Tbilisi";
-$l['timezone_gmt_450'] = "(GMT +4:30) Kabul";
-$l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karachi, Tashkent";
-$l['timezone_gmt_550'] = "(GMT +5:30) Mumbai, Kolkata, Chennai, New Delhi";
-$l['timezone_gmt_575'] = "(GMT +5:45) Kathmandu";
-$l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dhakra, Yekaterinburg";
+$l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londýn, Lisabon, Monrovia";
+$l['timezone_gmt_100'] = "(GMT +1:00) Berlín, Bratislava, Brusel, Kodaň, Madrid, Paříž, Praha, Řím, Varšava";
+$l['timezone_gmt_200'] = "(GMT +2:00) Athény, Istanbul, Káhira, Jeruzalém, Jižní Afrika";
+$l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Minsk, Bagdád, Rijád, Nairobi";
+$l['timezone_gmt_350'] = "(GMT +3:30) Teherán";
+$l['timezone_gmt_400'] = "(GMT +4:00) Moskva, Abú Dhabí, Baku, Muscat, Tbilisi";
+$l['timezone_gmt_450'] = "(GMT +4:30) Kábul";
+$l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karáčí, Taškent";
+$l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kalkata, Chennai, Nové Dillí";
+$l['timezone_gmt_575'] = "(GMT +5:45) Káthmándú";
+$l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dháka, Yekaterinburg";
 $l['timezone_gmt_650'] = "(GMT +6:30) Yangon";
-$l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoi, Jakarta";
-$l['timezone_gmt_800'] = "(GMT +8:00) Beijing, Hong Kong, Perth, Singapůr, Taipei, Manila";
+$l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoj, Jakarta";
+$l['timezone_gmt_800'] = "(GMT +8:00) Peking, Hongkong, Perth, Singapur, Taipei, Manila";
 $l['timezone_gmt_850'] = "(GMT +8:30) Pyongyang";
 $l['timezone_gmt_875'] = "(GMT +8:45) Eucla";
-$l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Seoul, Tokyo, Irkutsk";
+$l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Soul, Tokio, Irkutsk";
 $l['timezone_gmt_950'] = "(GMT +9:30) Adelaide, Darwin";
-$l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua New Guinea, Sydney, Yakutsk";
-$l['timezone_gmt_1050'] = "(GMT +10:30) Lord Howe Island";
-$l['timezone_gmt_1100'] = "(GMT +11:00) Magadan, New Caledonia, Solomon Islands, Vladivostok";
-$l['timezone_gmt_1150'] = "(GMT +11:30) Norfolk Island";
-$l['timezone_gmt_1200'] = "(GMT +12:00) Auckland, Wellington, Fiji, Marshall Islands";
-$l['timezone_gmt_1275'] = "(GMT +12:45) Chatham Islands";
+$l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua-Nová Guinea, Sydney, Jakutsk";
+$l['timezone_gmt_1050'] = "(GMT +10:30) Ostrov lorda Howea";
+$l['timezone_gmt_1100'] = "(GMT +11:00) Magadan, Nová Kaledonie, Šalamounovy ostrovy, Vladivostok";
+$l['timezone_gmt_1150'] = "(GMT +11:30) Norfolk ostrov";
+$l['timezone_gmt_1200'] = "(GMT +12:00) Auckland, Wellington, Fidži, Marshallovy ostrovy";
+$l['timezone_gmt_1275'] = "(GMT +12:45) Chathamské ostrovy";
 $l['timezone_gmt_1300'] = "(GMT +13:00) Samoa, Tonga, Tokelau";
-$l['timezone_gmt_1400'] = "(GMT +14:00) Line Islands";
+$l['timezone_gmt_1400'] = "(GMT +14:00) Liniové ostrovy";
 $l['timezone_gmt_short'] = "GMT {1}({2})";
 
 // Global language strings used for log deletion pages
 $l['confirm_delete_logs'] = "Prune the selected log entries?";
 $l['confirm_delete_all_logs'] = "Prune all log entries?";
 $l['selected_logs_deleted'] = "The selected log entries have been deleted.";
-$l['all_logs_deleted'] = "All log entries have been deleted.";
-$l['delete_selected'] = "Delete Selected";
-$l['delete_all'] = "Delete All Filtered";
+$l['all_logs_deleted'] = "Všechny záznamy byly smazány.";
+$l['delete_selected'] = "Smazat vybrané";
+$l['delete_all'] = "Smazat všechny vyfiltrované (?)";
 
 // Misc
 $l['encountered_errors'] = "Byly zjištěny následující chyby:";
@@ -303,23 +303,23 @@ $l['editor_liveleak'] = "LiveLeak";
 $l['editor_insertvideo'] = "Vložit video";
 $l['editor_maximize'] = "Maximize";
 
-$l['missing_task'] = "Chyba: Soubor úlohy neexistuje.";
-$l['task_backup_cannot_write_backup'] = "Chyba: Úloha - Databázové zálohy nemmůže zapisovat do složky backups (nachází se v /admin).";
+$l['missing_task'] = "Chyba! Soubor úlohy neexistuje.";
+$l['task_backup_cannot_write_backup'] = "Chyba! Úloha: Databázové zálohy nemmůže zapisovat do složky backups (nachází se v /admin).";
 $l['task_backup_ran'] = "Naplánovaná úloha - Databázové úlohy úspěšně proběhla.";
 $l['task_checktables_ran'] = "The check tables task successfully ran with no corrupted tables found.";
 $l['task_checktables_ran_found'] = "Notice: The check tables task successfully ran and repaired the {1} table(s).";
-$l['task_dailycleanup_ran'] = "Úloha - denní pročištění fóra: Úspěšně proběhla.";
-$l['task_hourlycleanup_ran'] = "Úloha - hodinové pročištění fóra: Úspěšně proběhla.";
-$l['task_logcleanup_ran'] = "The log cleanup task successfully ran and pruned any old logs.";
+$l['task_dailycleanup_ran'] = "Úloha: Denní pročištění fóra - úspěšně proběhla.";
+$l['task_hourlycleanup_ran'] = "Úloha: Hodinové pročištění fóra: - úspěšně proběhla.";
+$l['task_logcleanup_ran'] = "Úloha: Čístění logů úspěšně proběhla a smazala všechny staré záznamy.";
 $l['task_promotions_ran'] = "The promotions task successfully ran.";
 $l['task_threadviews_ran'] = "The thread views task successfully ran.";
 $l['task_usercleanup_ran'] = "The user cleanup task successfully ran.";
-$l['task_massmail_ran'] = "The mass mail task successfully ran.";
+$l['task_massmail_ran'] = "Úloha: The mass mail successfully ran.";
 $l['task_userpruning_ran'] = "The user pruning task successfully ran.";
 $l['task_delayedmoderation_ran'] = "The delayed moderation task successfully ran.";
 $l['task_massmail_ran_errors'] = "One or more problems occurred sending to \"{1}\":
 {2}";
-$l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB proběhla v pořádku.";
+$l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB - proběhla v pořádku.";
 $l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit se serverem MyBB pro kontrolu verze fóra.";
 $l['task_recachestylesheets_ran'] = 'Re-cached {1} stylesheets.';
 
@@ -335,25 +335,28 @@ $l['unlock_token'] = "Aktivační kód:";
 $l['unlock_account'] = "Odemknout účet";
 
 // Email message for if an admin account has been locked out
-$l['locked_out_subject'] = "Administrator Account Locked Out at {1}";
+$l['locked_out_subject'] = "{1} : Administrační účet byl dočasně zablokován | Důvod: mnoho neúspěšných pokusů o přihlášení";
 $l['locked_out_message'] = "{1},
 
-Your administrator account at {2} has been locked after {3} failed login attempts.
+Tvůj účet s právem administrátora/ky na stránce {2} byl dočasně zablokován.
 
-To unlock your account, please go to the URL below in your web browser.
+Je možné, že sis nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit za tebe
+<strong>Z bezpečnostních důvodu</strong> proto došlo k dočasné blokaci. 
+
+Pro odblokování tvého účtu, prosím klikni na tento odkaz:
 
 {4}/{5}/index.php?action=unlock&uid={7}&token={6}
 
-If the above link does not work correctly, go to
+Pokud výše uvedený odkaz nefunguje, prosím, přejdi na tuhle stránku:
 
 {4}/{5}/index.php?action=unlock
 
-You will need to enter the following:
-Username: {1}
-Activation Code: {6}
+<em>Kde budeš muset zadat:</em>
+Přezdívku: {1}
+Aktivační kód: {6}
 
-Thank you,
-{2} Vedení fóra";
+Omlouváme se za způsobené komplikace.
+Vedení fóra {2}";
 
 $l['comma'] = ", ";
 
@@ -365,7 +368,7 @@ $l['mybb_engine'] = "MyBB Engine";
 // then use this to define how much larger you want the gap to be (in px)
 // $l['login_field_width'] = "0";
 
-$l['my2fa'] = "Two-Factor Authentication";
+$l['my2fa'] = "Dvoufázové ověření (známé jako Two-Factor Authentication)";
 $l['my2fa_failed'] = "Tvůj kod byl špatně zadán, tak si byl odhlášen.";
 $l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
