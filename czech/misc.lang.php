@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -69,7 +69,7 @@ $l['error_invalid_limit'] = "Vámi zadaný počet položek není platný. Zadejt
 
 $l['syndication'] = "Odběr nejnovějších témat";
 $l['syndication_generated_url'] = "URL adresa pro Váš RSS odběr:";
-$l['syndication_note'] = "Níže můžete vytvořit odkazy na dané RSS kanály. Odkazy lze generovat pro všechna fóra, jedno fórum nebo vybraná fóra. Poté vám bude vytvořen odkaz, který si můžete zkopírovat do vaší RSS čtečky. <i><a href=\"http://en.wikipedia.org/wiki/RSS\" target=\"_blank\">Co je RSS?</a></i>";
+$l['syndication_note'] = "Níže můžete vytvořit odkazy na dané RSS kanály. Odkazy lze generovat pro všechna fóra, jedno fórum nebo vybraná fóra. Poté vám bude vytvořen odkaz, který si můžete zkopírovat do vaší RSS čtečky. <i><a href=\"http://en.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Co je RSS?</a></i>";
 $l['syndication_forum'] = "Fórum k odběru:";
 $l['syndication_forum_desc'] = "Napravo si vyberte fórum. Pokud stisknete CTRL, můžete učinit mnohonásobný výběr.";
 $l['syndication_version'] = "Verze RSS:";

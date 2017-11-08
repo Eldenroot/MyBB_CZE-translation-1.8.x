@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -41,10 +41,11 @@ $l['report_time'] = "Ohlášeno";
 $l['mark_read'] = "Označit vybrané za přečtené";
 $l['no_reports'] = "Neexistují žádná nepřečtená hlášení.";
 $l['no_logs'] = "Nyní nejsou logovány akce moderátorů.";
-$l['error_noselected_reports'] = "Nejsou vybrány žádné ohlášené příspěvky, aby je bylo možné označit za přečtené. Možná je tak mezitím označil jiný uživatel.";
+$l['error_noselected_reports'] = "Nevybral si žádnou nahlášenou věc, která by měla být označena jako přečtená.";
 $l['error_missing_ipaddress'] = "Pro vyhledávání dle IP adresy ji nejprve musíte zadat.";
 $l['error_no_results'] = "Podle Vámi zadaných kritérií nebylo nic nalezeno.";
-$l['redirect_reportsmarked'] = "Vybrané ohlášené příspěvky byly označeny jako přečtené.";
+$l['redirect_reportsmarked'] = "Vybrané ohlášené věci byly označeny jako přečtené.";
+$l['redirect_allreportsmarked'] = "Všechny nahlášené věci byly označeny jako přečtené.";
 $l['redirect_modnotes'] = "Poznámky moderátora byly úspěšně zaktualizovány.";
 
 $l['for'] = "Pro";
@@ -61,6 +62,11 @@ $l['report_info_profile'] = "Profil {1}";
 $l['report_info_reputation'] = "<a href=\"{1}\">Hodnocení</a> od {2}";
 $l['report_info_rep_profile'] = "<br /><span class=\"smalltext\">V profilu {1}</span>";
 $l['report_info_lastreporter'] = "{1}<br />od {2}";
+
+$l['page_selected'] = "Všechny <strong>{1}</strong> nepřečtené hlášení na této stránce jsou označeny.";
+$l['all_selected'] = "Všechny <strong>{1}</strong> nepřečtené hlášení jsou označené.";
+$l['select_all'] = "Vyber všechna <strong>{1}</strong> nepřečtená hlášení.";
+$l['clear_selection'] = "Vymazat výběr.";
 
 $l['moderator_notes'] = "Poznámky moderátora";
 $l['notes_public_all'] = "Tyto poznámky jsou viditelné všem moderátorům.";

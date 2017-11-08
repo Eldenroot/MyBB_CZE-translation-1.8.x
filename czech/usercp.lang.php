@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -21,11 +21,11 @@ $l['nav_drafts'] = "Uložené koncepty";
 $l['nav_usergroups'] = "Členství ve skupinách";
 $l['nav_attachments'] = "Správa příloh";
 $l['nav_addsubscription'] = "Přihlásit se k odběru";
-
 $l['resend_activation'] = "Znovu odeslat aktivační email";
 $l['away_notice_away'] = "Vaše nepřítomnost byla nastavena od {1}";
 $l['away_notice'] = "Tato možnost vám umožňuje nastavit nepřítomnost.";
 $l['already_uploaded_avatar'] = "Nyní používáte svůj avatar. Pokud si nahrajete nový, bude předchozí odstraněn.";
+$l['using_remote_avatar'] = "Momentálně používáš avatara ze vzdálené stránky. Pokud se rozhodneš použít jiný avatar, tak tvůj původní odkaz na avatara bude vyprázdněn.";
 $l['na_deleted'] = "Odstraněno";
 $l['user_cp'] = "Nastavení uživatele";
 $l['user_cp_welcome'] = "Toto je Vaše Nastavení uživatele. Odtud máte přístup ke svému profilu, odběru příspěvků, k soukromým zprávám a oblíbeným položkám.<br />Hlavní strana obsahuje informace o Vašem účtu.";
@@ -50,7 +50,7 @@ $l['avatar_mine'] = "Toto je Váš avatar";
 $l['change_avatar'] = "Změnit avatar";
 $l['avatar_url'] = "URL avataru:";
 $l['avatar_url_note'] = "Zadejte URL adresu avataru.";
-$l['avatar_url_gravatar'] = "Pro použití <a href=\"http://gravatar.com\" target=\"_blank\">Gravataru</a> zadejte svůj Gravatar email.";
+$l['avatar_url_gravatar'] = "Pro použití <a href=\"http://gravatar.com\" target=\"_blank\" rel=\"noopener\">>Gravataru</a> zadejte svůj Gravatar email.";
 $l['avatar_upload'] = "Nahrát avatar:";
 $l['avatar_upload_note'] = "Na svém počítači si vyberte avatar k nahrání do fóra.";
 $l['no_avatar'] = "Žádný avatar";
@@ -176,7 +176,7 @@ $l['date_format'] = "Formát datumu:";
 $l['date_format_desc'] = "Způsob zobrazování datumu.";
 $l['time_format'] = "Formát času:";
 $l['time_format_desc'] = "Způsob zobrazování času.";
-$l['time_offset'] = "Časové pásmo (<acronym title=\"Daylight Saving Time\">DST</acronym> bez korekce na letní čas):";
+$l['time_offset'] = "Časové pásmo (<abbr title=\"Daylight Saving Time\">DST</abbr> bez korekce na letní čas):";
 $l['time_offset_desc'] = "Pokud se nacházíte v jiném časovém pásmu, než je nastaveno na fóru, můžete si jej vybrat ze seznamu níže.";
 $l['gmt'] = "GMT";
 $l['dst_correction'] = "Umožnit korekci letního času:";
@@ -422,4 +422,3 @@ $l['buddyrequest_accepted'] = 'Zvolená žádost o přátelství byla schválena
 $l['buddyrequest_declined'] = 'Zvolená žádost o přátelství byla odmítnuta.';
 $l['user_doesnt_exist'] = 'Koncový uživatel již neexistuje.';
 $l['buddyrequests_sent_success'] = 'Žádosti o přátelství byly v pořádku odeslány.';
-

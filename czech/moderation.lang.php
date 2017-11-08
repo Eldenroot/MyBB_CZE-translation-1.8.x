@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -81,6 +81,7 @@ $l['post_separator'] = "Separátor příspěvků";
 $l['new_line'] = "Nový řádek";
 $l['horizontal_rule'] = "Horizontální linka";
 $l['resolve_fail'] = "Není k dispozici (nelze vyřešit)";
+$l['time'] = "Čas:";
 
 $l['opened'] = "Otevřené";
 $l['closed'] = "Uzavřené";
@@ -148,7 +149,7 @@ $l['view_notes_for'] = "Prohlíží poznámky k {1}";
 
 $l['purgespammer'] = "Odstranit spamera";
 $l['purgespammer_purge'] = "Odstranit spamera {1}";
-$l['purgespammer_purge_desc'] = "Toto odstraní všechno, co uživatel publikoval (příspěvky, SZ, události atd.) a {1} ho.";
+$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel/ka publikoval/a (příspěvky, SZ, události atd.) a {1} ho nebo ji.";
 $l['purgespammer_ban'] = "zabanuje";
 $l['purgespammer_delete'] = "odstraní";
 $l['purgespammer_submit'] = "Odstranit spamera";
@@ -170,7 +171,7 @@ $l['error_nosplitposts'] = "Nelze rozdělit téma, protože nebyly vybrány žá
 $l['error_movetosameforum'] = "Nelze přemístit téma do toho samého fóra, ve kterém se již nachází. Vyberte si za cíl jiné fórum.";
 $l['error_mergewithself'] = "Témata nemohou být sloučena sama se sebou.<br />Prosím vraťte se a zadejte jinou platnou URL adresu.";
 $l['error_movetoself'] = "Nelze přemístit příspěvky do toho samého fóra, ve kterém se již nachází.<br />Prosím vraťte se a zadejte jinou platnou URL adresu.";
-$l['error_delayedmoderation_unsupported_type'] = "Lituji, ale nezvolili jste platný typ akce pro zpožděné moderování.";
+$l['error_delayedmoderation_unsupported_type'] = "Lituji, ale nezvolili jste platný typ akce pro zpožděné moderování nebo nemáte dostatečná práva pro vykonání této akce.";
 $l['error_delayedmoderation_unsupported_method'] = "Lituji, ale nezvolili jste platnou metodu přesunu pro zpožděné moderování.";
 $l['error_delayedmoderation_invalid_date_day'] = "Lituji, ale nezvolili jste platné datum dne pro zpožděné moderování.";
 $l['error_delayedmoderation_invalid_date_month'] = "Lituji, ale nezvolili jste platné datum měsíce pro zpožděné moderování.";
