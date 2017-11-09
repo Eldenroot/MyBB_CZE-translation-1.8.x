@@ -154,11 +154,11 @@ $l['admin_log_forum_management_copy'] = "Copied settings from forum #{1} ({2}) t
 $l['admin_log_forum_management_copy_with_permissions'] = "Copied settings and group permissions for usergroups #{5} from forum #{1} ({2}) to forum #{3} ({4})";
 $l['admin_log_forum_management_editmod'] = "Upravil moderator #{3} ({4}) on forum #{1} ({2})";
 $l['admin_log_forum_management_permissions'] = "Upravil group permissions for forum #{1} ({2})";
-$l['admin_log_forum_management_add'] = "Přidal forum #{1} ({2})";
-$l['admin_log_forum_management_edit'] = "Upravil forum #{1} ({2})";
+$l['admin_log_forum_management_add'] = "Přidal forum #{1} ({2}).";
+$l['admin_log_forum_management_edit'] = "Upravil forum #{1} ({2}).";
 $l['admin_log_forum_management_deletemod'] = "Smazal moderator #{1} ({2}) from forum #{3} ({4})";
 $l['admin_log_forum_management_delete'] = "Smazal forum #{1} ({2})";
-$l['admin_log_forum_management_orders'] = "Updated root forum orders";
+$l['admin_log_forum_management_orders'] = "Upravil pořadí fór.";
 $l['admin_log_forum_management_orders_sub'] = "Updated forum orders within forum #{2} ({3})";
 $l['admin_log_forum_management_addmod'] = "Přidal moderator #{2} ({3}) to forum #{4} ({5})";
 $l['admin_log_forum_management_quickpermissions'] = "Updated quick forum permissions for forum #{2} ({3})";
@@ -254,7 +254,7 @@ $l['admin_log_tools_tasks_enable'] = "Povolil naplánovanou úlohu #{1} ({2})";
 $l['admin_log_tools_tasks_disable'] = "Zakázal naplánovanou úlohu  #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "Spustil naplánovanou úlohu #{1} ({2})";
 
-$l['admin_log_user_awaiting_activation_activate_activated'] = "Aktivoval uživatele{2} čekajícího na potvrzení";
+$l['admin_log_user_awaiting_activation_activate_activated'] = "Aktivoval uživatele s ID {2} čekajícího na potvrzení";
 $l['admin_log_user_awaiting_activation_activate_Smazal'] = "Smazal {2} uživatele, který čekal na potvrzení";
 
 $l['admin_log_user_admin_permissions_delete_user'] = "Smazal práva administrátora uživateli #{1} ({2})";

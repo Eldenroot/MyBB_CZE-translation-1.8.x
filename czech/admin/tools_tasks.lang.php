@@ -5,7 +5,7 @@
  *
  */
 
-$l['task_manager'] = "Správce úloh";
+$l['task_manager'] = "Naplánované úlohy";
 $l['add_new_task'] = "Přidat novou úlohu";
 $l['add_new_task_desc'] = "Zde můžeš naplánovat úlohu, která se automaticky spustí ve tvém fóru.";
 $l['edit_task'] = "Upravit úlohu";

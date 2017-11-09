@@ -8,21 +8,21 @@
 $l['tools_and_maintenance'] = "Nastavení &amp; Údržba";
 
 $l['maintenance'] = "Údržba";
-$l['logs'] = "Záznamy";
+$l['logs'] = "Historie záznamů";
 
-$l['system_health'] = "System Health";
+$l['system_health'] = "Stav fóra";
 $l['cache_manager'] = "Správce mezipaměti";
 $l['task_manager'] = "Naplánované úlohy";
 $l['recount_and_rebuild'] = "Recount &amp; Rebuild";
-$l['view_php_info'] = "Zobrazit PHP Info";
+$l['view_php_info'] = "Zobrazit PHP info";
 $l['database_backups'] = "Zálohy databáze";
 $l['optimize_database'] = "Optimalizování databáze";
 $l['file_verification'] = "Ověření souborů";
 
 $l['administrator_log'] = "Záznam administrátorů";
 $l['moderator_log'] = "Záznam moderátorů";
-$l['user_email_log'] = "Záznam uživatelských emailů";
-$l['system_mail_log'] = "Záznam systemového emailu";
+$l['user_email_log'] = "Záznam uživatelských e-mailů";
+$l['system_mail_log'] = "Záznam systemového e-mailu";
 $l['user_warning_log'] = "Záznam uživatelských napomenutí";
 $l['spam_log'] = "Záznam anti-spamové protekce";
 $l['statistics'] = "Statistiky";

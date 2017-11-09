@@ -5,6 +5,6 @@
  *
  */
 
-$l['php_info'] = "PHP Info";
-$l['browser_no_iframe_support'] = "Tvůj prohložeč nepodporuje iFrames.";
+$l['php_info'] = "PHP info";
+$l['browser_no_iframe_support'] = "Tvůj prohlížeč nepodporuje iFrames.";
 
