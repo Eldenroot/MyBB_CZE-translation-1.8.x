@@ -5,9 +5,9 @@
  *
  */
 
-$l['banning'] = "Sekce banů";
+$l['banning'] = "Banování";
 $l['banned_ips'] = "Zabanové IP adresy";
-$l['banned_ips_desc'] = "Zde můžeš upravit zabanované IP adresy.";
+$l['banned_ips_desc'] = "Zde můžeš upravovat zabanované IP adresy.";
 $l['banned_accounts'] = "Zabanované účty";
 $l['disallowed_usernames'] = "Nepovolené přezdívky";
 $l['disallowed_usernames_desc'] = "Zde můžeš spravovat list uživatelským jmen, které se nemohou zaregistrovat nebo nemohou být použity. Tato funkce může být také určeno pro zarezervování přezdívek.";
@@ -31,7 +31,7 @@ $l['email_address_desc'] = "Poznámka: To indicate a wild card match, use *";
 $l['disallow_email_address'] = "Zakazané emailové adresy";
 $l['ban_an_ip_address'] = "Zabanovat IP adresu";
 $l['ip_address_desc'] = "Poznámka: Pro zabanování rozsahu IP adresy použí  * (například: 127.0.0.*) případně CIDR notation (Ex: 127.0.0.0/8)";
-$l['ban_ip_address'] = "Zabanovat IP adresy";
+$l['ban_ip_address'] = "Zabanovat IP adresu / adresy";
 
 $l['error_missing_ban_input'] = "Nezadal si hodnotu pro zabanování.";
 $l['error_invalid_filter'] = "Tvůj specifikovaný filtr neexistuje.";
