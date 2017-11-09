@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -86,7 +86,7 @@ $l['agreement_4'] = "Žádná informace, kterou poskytnete do tohoto fóra, nebu
 $l['agreement_5'] = "Pokračováním v registračním procesu vyslovujete svůj souhlas s výše uvedenými pravidly a zásadami.";
 $l['registration'] = "Registrace";
 $l['required_fields'] = "Požadovaná pole";
-$l['complex_password'] = "<acronym title=\"Heslo, které je nejméně {1} znaků dlouhé a obsahuje velké písmeno, malé písmeno a číslici.\">Složité</acronym> heslo:";
+$l['complex_password'] = "<abbr title=\"Heslo, které je nejméně {1} znaků dlouhé a obsahuje velké písmeno, malé písmeno a číslici.\">Složité</abbr> heslo:";
 $l['confirm_email'] = "Potvrdit email:";
 $l['optional_fields'] = "Volitelná pole";
 $l['website_url'] = "URL adresa webu:";
@@ -111,7 +111,7 @@ $l['dst_correction_enabled'] = "Vždy použít korekci na letní čas";
 $l['dst_correction_disabled'] = "Nikdy nepoužít korekci na letní čas";
 $l['redirect_registered_coppa_activate'] = "Děkujeme za registraci do fóra {1}, {2}. Účet byl úspěšně vytvořen. Jelikož jeho vlastníku není ještě 13 let, je pro užívání účtu nutný souhlas rodiče, nebo zákonného zástupce vlastníka účtu.<br /><br />Rodič, nebo zákonný zástupce, bude muset stáhnout a kompletně vyplnit kopii našeho formuláře <a href=\"member.php?action=coppa_form\">Soulad s COPPA &amp; Udělení souhlasu</a>.<br /><br />Až souhlas obdržíme, aktivujeme Vám účet.";
 $l['coppa_compliance'] = "Soulad s COPPA";
-$l['coppa_desc'] = "K registraci do tohoto fóra je nutné, abyste potrdili, že máte dostatečný věk v souladu s <a href=\"http://coppa.org/\" title=\"Ochrana dětských online zájmů\" target=\"_blank\">COPPA</a>. Uveďte prosím níže Vaše datum narození.<br /><br />Pokud je Vám méně než 13 let, vyžaduje se před registrací souhlas rodičů. Rodič, nebo zákonný zástupce, bude muset stáhnout a kompletně vyplnit kopii našeho formuláře <a href=\"member.php?action=coppa_form\" target=\"_blank\">Soulad s COPPA &amp; Udělení souhlasu</a>.";
+$l['coppa_desc'] = "K registraci do tohoto fóra je nutné, abyste potrdili, že máte dostatečný věk v souladu s <a href=\"http://coppa.org/\" title=\"Ochrana dětských online zájmů\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Uveďte prosím níže Vaše datum narození.<br /><br />Pokud je Vám méně než 13 let, vyžaduje se před registrací souhlas rodičů. Rodič, nebo zákonný zástupce, bude muset stáhnout a kompletně vyplnit kopii našeho formuláře <a href=\"member.php?action=coppa_form\" target=\"_blank\">Soulad s COPPA &amp; Udělení souhlasu</a>.";
 $l['hide_dob'] = "Svůj věk a datum narození můžete skrýt po registraci v nastavení svého profilu.";
 $l['signature'] = "Podpis:";
 $l['continue_registration'] = "Pokračovat v registraci";
@@ -133,7 +133,7 @@ $l['phone_no'] = "Telefonní číslo:";
 $l['coppa_parent_agreement'] = "Prohlašuji, že informace, které jsem uvedl, jsou pravdivé. JSem srozuměn s tím, že informaci mohu po zadání hesla změnit a že tento účet uživatele fóra může být na základě žádosti zrušen.";
 
 $l['coppa_agreement_1'] = "Uživatelé, kterým není ještě 13 let, musí k registraci do fóra {1} získat souhlas od svého rodiče, nebo zákonného zástupce.";
-$l['coppa_agreement_2'] = "Rodič, nebo zákonný zástupce si musí stáhnout, vyplnit a doručit formulář <a href=\"member.php?action=coppa_form\" target=\"_blank\">Soulad s COPPA &amp; Udělení souhlasu</a> ještě před založením účtu uživatele.";
+$l['coppa_agreement_2'] = "Rodič, nebo zákonný zástupce si musí stáhnout, vyplnit a doručit formulář <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">Soulad s COPPA &amp; Udělení souhlasu</a> ještě před založením účtu uživatele.";
 $l['coppa_agreement_3'] = "Pokud chcete můžete zahájit registraci již nyní, avšak účet uživatele nebude aktivní do té doby, dokud neobdržíme souhlas.";
 
 $l['error_invalid_birthday'] = 'Zadali jste chybné datum narození. Prosím opravte to.';
@@ -227,6 +227,7 @@ $l['js_validator_password_matches'] = "Zadané heslo musí souhlasit";
 $l['js_validator_password_complexity'] = "Zjišťuji složitost hesla";
 $l['js_validator_password_length'] = "Vaše heslo musí být dlouhé {1} nebo více znaků";
 $l['js_validator_not_empty'] = "Je nutné pro toto pole vybrat či vložit údaj";
+$l['js_validator_bad_password_security'] = 'Heslo, které si zadal je podobné tvé přezdívce nebo emailové adrese. Prosím, zadej silnější heslo.';
 $l['js_validator_checking_username'] = "Zjišťuji, zda je uživatelské jméno volné";
 $l['js_validator_username_length'] = "Uživatelské jméno musí být dlouhé {1} až {2} znaků";
 $l['js_validator_checking_referrer'] = "Zjišťuji, zda doporučující uživatel existuje.";

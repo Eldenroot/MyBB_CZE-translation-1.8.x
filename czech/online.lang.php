@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -79,7 +79,6 @@ $l['viewing_reputation_report2'] = "Zobrazuje hodnocení";
 $l['member_resendactivation'] = "Odesílá aktivační email";
 $l['member_lostpw'] = "Obnovuje <a href=\"member.php?action=lostpw\">zapomenuté heslo</a>";
 $l['sending_thread'] = "Odesílá téma příteli";
-$l['guest'] = "Host";
 $l['page'] = "Stránka";
 $l['users_online'] = "Kdo je přítomný";
 $l['on_username'] = "Uživatelské jméno";

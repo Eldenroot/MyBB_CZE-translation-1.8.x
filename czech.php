@@ -9,13 +9,13 @@
 $langinfo['name'] = "Čeština";
 
 // The author of the language
-$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Stary & uzbugg";
+$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Stary & uzbugg & Pepe";
 
 // The language authors website
 $langinfo['website'] = "https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1812";
+$langinfo['version'] = "1813";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 0;

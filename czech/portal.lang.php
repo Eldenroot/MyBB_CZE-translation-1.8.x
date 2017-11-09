@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -27,7 +27,6 @@ $l['num_threads'] = "Témat:";
 $l['num_posts'] = "Příspěvků:";
 $l['full_stats'] = "Úplné statistiky";
 $l['welcome'] = "Vítejte {1}!";
-$l['guest'] = "hosté";
 $l['guest_welcome_registration'] = "Pro psaní příspěvků se musíte nejdříve <a href=\"{1}\">zaregistrovat</a>.";
 $l['username'] = "Uživatelské jméno:";
 $l['password'] = "Heslo:";
