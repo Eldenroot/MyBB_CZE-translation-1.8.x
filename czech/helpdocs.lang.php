@@ -57,8 +57,8 @@ $l['d7_document'] = "Pro lepší vzhled Vašich příspěvků lze využít myCod
 <p>[email=example@example.com?subject=spam]E-mail s předmětem[/email]<br />&nbsp;&nbsp;&nbsp;<a href=\"mailto:example@example.com?subject=spam\">E-mail s předmětem</a>
 <p><br />[quote]Citace nějakého textu[/quote]<br />&nbsp;&nbsp;&nbsp;<quote>Citace nějakého textu</quote>
 <p>[code]Text se zachovaným formátováním[/code]<br />&nbsp;&nbsp;&nbsp;<code>Text se zachovaným formátováním</code>
-<p><br />[img]http://www.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\"http://www.php.net/images/php.gif\">
-<p>[img=50x50]http://www.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\"http://www.php.net/images/php.gif\" width=\"50\" height=\"50\">
+<p><br />[img]https://secure.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\"https://secure.php.net/images/php.gif\">
+<p>[img=50x50]https://secure.php.net/images/php.gif[/img]<br />&nbsp;&nbsp;&nbsp;<img src=\"https://secure.php.net/images/php.gif\" width=\"50\" height=\"50\">
 <p><br />[color=red]Červeně[/color]<br />&nbsp;&nbsp;&nbsp;<font color=\"red\">Červeně</font>
 <p>[size=3]Velikost textu 3[/size]<br />&nbsp;&nbsp;&nbsp;<font size=\"3\">Velikost textu 3</font>
 <p>[font=Tahoma]Typ písma Tahoma[/font]<br />&nbsp;&nbsp;&nbsp;<font face=\"Tahoma\">Typ písma Tahoma</font>

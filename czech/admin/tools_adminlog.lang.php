@@ -175,9 +175,9 @@ $l['admin_log_style_templates_delete_template'] = "Smazal template #{1} ({2}) fr
 $l['admin_log_style_templates_delete_template_global'] = "Smazal template #{1} ({2}) from the global template set";
 $l['admin_log_style_templates_add_set'] = "Přidal template set #{1} ({2})";
 $l['admin_log_style_templates_add_template'] = "Přidal template #{1} ({2}) from template set #{3} ({4})";
-$l['admin_log_style_templates_edit_set'] = "Upravil template set #{1} ({2})";
-$l['admin_log_style_templates_edit_template'] = "Upravil template #{1} ({2}) from template set #{3} ({4})";
-$l['admin_log_style_templates_edit_template_global'] = "Upravil template #{1} ({2}) from the global template set";
+$l['admin_log_style_templates_edit_set'] = "Upravil šablonu set #{1} ({2})";
+$l['admin_log_style_templates_edit_template'] = "Upravil šablonu #{1} ({2}) from template set #{3} ({4})";
+$l['admin_log_style_templates_edit_template_global'] = "Upravil vzhled #{1} ({2}) from the global template set";
 $l['admin_log_style_templates_search_replace'] = "Searched templates for '{1}' and replaced with '{2}'";
 $l['admin_log_style_templates_revert'] = "Reverted template #{1} ({2}) in template set #{3} ({4})";
 $l['admin_log_style_templates_add_template_group'] = "Přidal template group #{1} ({2})";
@@ -298,7 +298,7 @@ $l['admin_log_user_users_ipaddresses'] = "Viewed IP addresses associated with us
 $l['admin_log_user_users_merge'] = "Sloučil uživatele #{1} ({2}) do účtu #{3} ({4})";
 
 $l['admin_log_user_users_inline_usergroup'] = "Upravil {1} user(s) primary / additional / display usergroup";
-$l['admin_log_user_users_inline_delete'] = "Smazal {1} user(s)";
+$l['admin_log_user_users_inline_delete'] = "Smazal {1} uživatele(ů)";
 $l['admin_log_user_users_inline_banned_perm'] = "Zabanoval {1} uživatele doživotně";
 $l['admin_log_user_users_inline_banned_temp'] = "Zabanoval {1} uživatele do {2}";
 $l['admin_log_user_users_inline_activated'] = "Aktivoval {1} uživatele";
@@ -306,6 +306,6 @@ $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 
 $l['admin_log_user_mass_mail_delete'] = "Smazal hromadný email (newsletter) #{1} ({2})";
 
-$l['admin_log_admin_locked_out'] = 'Po mnoha neúspěšných pokusech o přihlášení do administrátorského panelu #{1} ({2}) byl jeho/její účet uzamknut z bezpečnostních důvodů';
+$l['admin_log_admin_locked_out'] = 'Z bezpečnostních důvodu došlo k zablokování přístupu do administračního panelu  #{1} uživateli/ce ({2}) - mnoho neúspěšných pokusů o přihlášení.';
 
 

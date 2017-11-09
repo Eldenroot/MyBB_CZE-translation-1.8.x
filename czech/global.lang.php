@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
@@ -65,12 +65,9 @@ $l['wrong_forum_password'] = "Zadané heslo je neplatné. Prosím zkuste to znov
 
 $l['reset_button'] = "Reset";
 $l['username'] = "Uživatelské jméno:";
-$l['username1'] = "Email:";
-$l['username2'] = "Uživ. jméno/Email:";
 $l['password'] = "Heslo:";
 $l['login_username'] = "Uživatelské jméno:";
-$l['login_username1'] = "Email:";
-$l['login_username2'] = "Uživ. jméno/Email:";
+$l['login_username2'] = "Uživ. jméno/e-mail:";
 $l['login_password'] = "Heslo:";
 $l['lost_password'] = "Zapom. heslo?";
 $l['remember_me'] = "Zapamatovat si mě";
@@ -132,6 +129,8 @@ $l['no_subscribe_notification'] = "Přihlásit k odběru bez ohlašováním odpo
 $l['instant_email_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi emailem";
 $l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes SZ";
 
+$l['today_rel'] = "<span title=\"{1}\">dnes</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">včera</span>";
 $l['today'] = "<span title=\"{1}\">dnes</span>";
 $l['yesterday'] = "<span title=\"{1}\">včera</span>";
 $l['error'] = "Zpráva fóra";
@@ -180,7 +179,7 @@ $l['editor_php'] = "PHP";
 $l['editor_width'] = "Šířka (volitelné):";
 $l['editor_height'] = "Výška (volitelné):";
 $l['editor_insertimg'] = "Vložit obrázek";
-$l['editor_email'] = "Email:";
+$l['editor_email'] = "e-mail:";
 $l['editor_insertemail'] = "Vložit emailovou adresu";
 $l['editor_url'] = "Odkaz URL:";
 $l['editor_insertlink'] = "Vložit odkaz";
@@ -197,7 +196,7 @@ $l['editor_print'] = "Tisk";
 $l['editor_viewsource'] = "Přepnout na zdroj";
 $l['editor_description'] = "Popis (volitelné):";
 $l['editor_enterimgurl'] = "Vložit URL adresu obrázku:";
-$l['editor_enteremail'] = "Vložit email:";
+$l['editor_enteremail'] = "Vložit e-mail:";
 $l['editor_enterdisplayedtext'] = "Vložit zobrazený text:";
 $l['editor_enterurl'] = "Vložit URL odkaz:";
 $l['editor_enteryoutubeurl'] = "Vložit odkaz či číslo videa z YouTube:";
@@ -222,8 +221,8 @@ $l['posted_video'] = "[Video: {1}]";
 $l['linkback'] = "Původní příspěvek";
 
 $l['at'] = "v";
-$l['na'] = "(nic)";
-$l['guest'] = "Host";
+$l['na'] = "N/A";
+$l['guest'] = "Návštěvník";
 $l['unknown'] = "Neznámý";
 $l['never'] = "Nikdy";
 $l['postbit_posts'] = "Příspěvků:";
@@ -236,7 +235,7 @@ $l['postbit_attachment_size'] = "Velikost:";
 $l['postbit_attachment_downloads'] = "Stažení:";
 $l['postbit_attachments_images'] = "Obrázky";
 $l['postbit_attachments_thumbnails'] = "Miniatury";
-$l['postbit_unapproved_attachments'] = "{1} ks neschválených příloh.";
+$l['postbit_unapproved_attachments'] = "{1} neschválených příloh.";
 $l['postbit_unapproved_attachment'] = "1 neschválená příloha.";
 $l['postbit_status_online'] = "Online";
 $l['postbit_status_offline'] = "Offline";
@@ -249,7 +248,7 @@ $l['postbit_post'] = "Příspěvek:";
 $l['postbit_reputation'] = "Hodnocení:";
 $l['postbit_reputation_add'] = "Přidat tomuto uživateli hodnocení";
 $l['postbit_website'] = "Navštívit web uživatele";
-$l['postbit_email'] = "Poslat tomuto uživateli email";
+$l['postbit_email'] = "Poslat tomuto uživateli e-mail";
 $l['postbit_find'] = "Vyhledat všechny příspěvky tohoto uživatele";
 $l['postbit_report'] = "Ohlásit tento příspěvek moderátorovi";
 $l['postbit_quote'] = "Citovat tento příspěvek v odpovědi";
@@ -268,10 +267,14 @@ $l['postbit_currently_ignoring_user'] = "Obsah této zprávy není vidět, proto
 $l['postbit_warning_level'] = "Úroveň varování:";
 $l['postbit_warn'] = "Varovat autora tohoto příspěvku";
 $l['postbit_purgespammer'] = "Odstranit spamera";
+$l['postbit_post_deleted'] = "Tento příspěvek byl smazán.";
+$l['postbit_post_unapproved'] = "Tento příspěvek čeká na schválení.";
+$l['postbit_thread_deleted'] = "Tohle vlákno bylo smazáno.";
+$l['postbit_thread_unapproved'] = "Tohle vlákno čeká na schválení.";
+$l['postbit_deleted_post_user'] = "Příspěvek od {1} byl smazán.";
 
 $l['postbit_button_reputation_add'] = 'Hodnotit';
 $l['postbit_button_website'] = 'Web';
-$l['postbit_button_email'] = 'Email';
 $l['postbit_button_find'] = 'Hledat';
 $l['postbit_button_report'] = 'Ohlásit';
 $l['postbit_button_quote'] = 'Odpovědět';
@@ -309,6 +312,8 @@ $l['unread_reports'] = "Poznámka pro moderátora: máte {1} nepřečtených ozn
 $l['pending_joinrequest'] = "Poznámka pro vedoucí skupiny: máte 1 požadavek pro udělení členství ve skupině.";
 $l['pending_joinrequests'] = "Poznámka pro vedoucí skupiny: máte {1} požadavků pro udělení členství ve skupině.";
 
+$l['search_user'] = "Hledat uživatele";
+
 $l['year'] = "rok";
 $l['year_short'] = "r";
 $l['years'] = "roky";
@@ -339,7 +344,7 @@ $l['seconds'] = "sekund(y)";
 $l['seconds_short'] = "s";
 
 $l['rel_in'] = "V ";
-$l['rel_ago'] = "";
+$l['rel_ago'] = "před";
 $l['rel_less_than'] = "méně než ";
 $l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
@@ -355,7 +360,7 @@ $l['banned_warning'] = "Váš účet je zabanován.";
 $l['banned_warning2'] = "Důvod banu";
 $l['banned_warning3'] = "Ban bude zrušen";
 $l['banned_lifted_never'] = "Nikdy";
-$l['banned_email_warning'] = "Používáte email, který na tomto fóru není povolen. Prosím změňte si jej.";
+$l['banned_email_warning'] = "Používáte e-mail, který na tomto fóru není povolen. Prosím změňte si jej.";
 $l['powered_by'] = "Fórum používá software";
 $l['copyright'] = "Copyright";
 $l['attach_quota'] = "Právě využíváte <strong>{1}</strong> příloh z Vašeho celkového prostoru ({2})";
@@ -408,25 +413,31 @@ $l['error_database_repair'] = "MyBB automaticky opravuje poškozenou tabulku.";
 $l['unknown_user_trigger'] = "Došlo k neočekávané chybě.";
 $l['warnings'] = "Nastalo následující varování:";
 
-$l['ajax_loading'] = "Nahrávám. <br />Prosím o strpení...";
+$l['ajax_loading'] = "Nahrávám. <br />Prosím o strpení…";
 $l['saving_changes'] = "Ukládám změny...";
 $l['refresh'] = "Obnovit";
 $l['select_language'] = "Změna jazyka fóra";
 $l['select_theme'] = "Změna vzhledu fóra";
 
-$l['invalid_post_code'] = "Autorizační kód nesouhlasí. Zkuste to prosím znovu.";
-$l['invalid_captcha'] = "Před pokračováním prosím přepište kód z obrázku přesně tak, jak je vyobrazen.";
-$l['invalid_captcha_verify'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
-$l['invalid_captcha_transmit'] = "Při ověřování kódu nastala chyba. Zkuste to znovu.";
-$l['captcha_fetch_failure'] = 'Při načítání verifikačního obrázku došlo k chybě.';
-$l['question_fetch_failure'] = 'Při načítání nové otázky došlo k chybě.';
-$l['invalid_ayah_result'] = "Ověřování, zda jste člověk není dokončeno. Zkuste to znovu.";
+$l['invalid_post_code'] = "Autorizační kód nesouhlasí. Používáte tuto funkci správně? Prosím, vraťte se a zkuste to znovu.";
+$l['invalid_captcha'] = "Prosím, vyplňte ověřovací kód z obrázku a zadej ho přesně, jak se ukazuje na obrázku.";
+$l['invalid_nocaptcha'] = "Prosím vyřešte reCAPTCHA pro oveření, že nejste robot.";
+$l['invalid_captcha_verify'] = "Verifikační kód z obrázku, který si vložil není správný. Prosím, zadej kód přesně, jak je na obrázku.";
+$l['image_verification'] = "Image Verification";
+$l['human_verification'] = "Human Verification";
+$l['verification_note'] = "Prosím, vyplň text, který je v obrázku do textového políčka níže. Tento proces by měl zabránit spam botům.";
+$l['verification_note_nocaptcha'] = "Prosím označ políčko, které vidíš níže. Tento proces by měl zabránit spam botům.";
+$l['verification_subnote'] = "(nerozlišuje velikost písmen)";
+$l['invalid_captcha_transmit'] = "Vyskytla se chyba s verifikačním obrázkem. Prosím, zkuste to znovu.";
+$l['invalid_nocaptcha_transmit'] = "Vyskytla se chyba s lidskou verifikací. Prosím, zkuste to znovu.";
+$l['captcha_fetch_failure'] = 'Vyskytla se chyba při načítání nové captchi.';
+$l['question_fetch_failure'] = 'Vyskatl se error při načítaní nové otázky.';
 
-$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Marshall Islands";
+$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Howland a Baker ostrovy";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Nome, Midway Island";
 $l['timezone_gmt_minus_1000'] = "(GMT -10:00) Hawaii, Papeete";
 $l['timezone_gmt_minus_950'] = "(GMT -9:30) Marquesas Islands";
-$l['timezone_gmt_minus_900'] = "(GMT -9:00) Alaska";
+$l['timezone_gmt_minus_900'] = "(GMT -9:00) Aljaška";
 $l['timezone_gmt_minus_800'] = "(GMT -8:00) Pacific Time";
 $l['timezone_gmt_minus_700'] = "(GMT -7:00) Mountain Time";
 $l['timezone_gmt_minus_600'] = "(GMT -6:00) Central Time, Mexico City";
@@ -434,33 +445,35 @@ $l['timezone_gmt_minus_500'] = "(GMT -5:00) Eastern Time, Bogota, Lima, Quito";
 $l['timezone_gmt_minus_450'] = "(GMT -4:30) Caracas";
 $l['timezone_gmt_minus_400'] = "(GMT -4:00) Atlantic Time, La Paz, Halifax";
 $l['timezone_gmt_minus_350'] = "(GMT -3:30) Newfoundland";
-$l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazil, Buenos Aires, Georgetown, Falkland Is.";
+$l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazílie, Buenos Aires, Georgetown, Falkland Is.";
 $l['timezone_gmt_minus_200'] = "(GMT -2:00) Mid-Atlantic, South Georgia and the South Sandwich Islands";
 $l['timezone_gmt_minus_100'] = "(GMT -1:00) Azores, Cape Verde Islands";
-$l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, London, Lisbon, Monrovia";
-$l['timezone_gmt_100'] = "(GMT +1:00) Prague, Berlin, Brussels, Copenhagen, Madrid, Paris, Rome, Warsaw";
-$l['timezone_gmt_200'] = "(GMT +2:00) Athens, Istanbul, Cairo, Jerusalem, South Africa";
-$l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Minsk, Baghdad, Riyadh, Nairobi";
-$l['timezone_gmt_350'] = "(GMT +3:30) Tehran";
-$l['timezone_gmt_400'] = "(GMT +4:00) Moscow, Abu Dhabi, Baku, Muscat, Tbilisi";
-$l['timezone_gmt_450'] = "(GMT +4:30) Kabul";
-$l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karachi, Tashkent";
-$l['timezone_gmt_550'] = "(GMT +5:30) Mumbai, Calcutta, Madras, New Delhi";
-$l['timezone_gmt_575'] = "(GMT +5:45) Kathmandu";
-$l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dhakra, Yekaterinburg";
+$l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londýn, Lisabon, Monrovia";
+$l['timezone_gmt_100'] = "(GMT +1:00) Berlín, Bratislava, Brusel, Kodaň, Madrid, Paříž, Praha, Řím, Varšava";
+$l['timezone_gmt_200'] = "(GMT +2:00) Athény, Istanbul, Káhira, Jeruzalém, Jižní Afrika";
+$l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Minsk, Bagdád, Rijád, Nairobi";
+$l['timezone_gmt_350'] = "(GMT +3:30) Teherán";
+$l['timezone_gmt_400'] = "(GMT +4:00) Moskva, Abú Dhabí, Baku, Muscat, Tbilisi";
+$l['timezone_gmt_450'] = "(GMT +4:30) Kábul";
+$l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karáčí, Taškent";
+$l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kalkata, Chennai, Nové Dillí";
+$l['timezone_gmt_575'] = "(GMT +5:45) Káthmándú";
+$l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dháka, Yekaterinburg";
 $l['timezone_gmt_650'] = "(GMT +6:30) Yangon";
-$l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoi, Jakarta";
-$l['timezone_gmt_800'] = "(GMT +8:00) Beijing, Hong Kong, Perth, Singapore, Taipei, Manila";
-$l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Seoul, Tokyo, Irkutsk";
+$l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoj, Jakarta";
+$l['timezone_gmt_800'] = "(GMT +8:00) Peking, Hongkong, Perth, Singapur, Taipei, Manila";
+$l['timezone_gmt_850'] = "(GMT +8:30) Pyongyang";
+$l['timezone_gmt_875'] = "(GMT +8:45) Eucla";
+$l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Soul, Tokio, Irkutsk";
 $l['timezone_gmt_950'] = "(GMT +9:30) Adelaide, Darwin";
-$l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua New Guinea, Sydney, Yakutsk";
-$l['timezone_gmt_1050'] = "(GMT +10:30) Lord Howe Island";
-$l['timezone_gmt_1100'] = "(GMT +11:00) Magadan, New Caledonia, Solomon Islands, Vladivostok";
-$l['timezone_gmt_1150'] = "(GMT +11:30) Norfolk Island";
-$l['timezone_gmt_1200'] = "(GMT +12:00) Auckland, Wellington, Fiji, Marshall Island";
-$l['timezone_gmt_1275'] = "(GMT +12:45) Chatham Islands";
+$l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua-Nová Guinea, Sydney, Jakutsk";
+$l['timezone_gmt_1050'] = "(GMT +10:30) Ostrov lorda Howea";
+$l['timezone_gmt_1100'] = "(GMT +11:00) Magadan, Nová Kaledonie, Šalamounovy ostrovy, Vladivostok";
+$l['timezone_gmt_1150'] = "(GMT +11:30) Norfolk ostrov";
+$l['timezone_gmt_1200'] = "(GMT +12:00) Auckland, Wellington, Fidži, Marshallovy ostrovy";
+$l['timezone_gmt_1275'] = "(GMT +12:45) Chathamské ostrovy";
 $l['timezone_gmt_1300'] = "(GMT +13:00) Samoa, Tonga, Tokelau";
-$l['timezone_gmt_1400'] = "(GMT +14:00) Line Islands";
+$l['timezone_gmt_1400'] = "(GMT +14:00) Liniové ostrovy";
 $l['timezone_gmt_short'] = "GMT {1}({2})";
 
 $l['missing_task'] = "Chyba: soubor úloh neexistuje!";
@@ -490,7 +503,6 @@ $l['previous'] = "Předchozí";
 $l['delete'] = "Smazat";
 
 $l['massmail_username'] = "Uživ. jméno";
-$l['email_addr'] = "Email";
 $l['board_name'] = "Název fóra";
 $l['board_url'] = "URL adresa fóra";
 
@@ -503,14 +515,14 @@ $l['debug_server_load'] = "Zátěž serveru: {1}";
 $l['debug_memory_usage'] = "Využití paměti: {1}";
 $l['debug_advanced_details'] = "Další detaily";
 
-$l['error_emailflooding_1_second'] = "Lituji, ale můžete poslat pouze 1 email každých {1} minut. Prosím počkejte 1 sekundu.";
-$l['error_emailflooding_seconds'] = "Lituji, ale můžete poslat pouze 1 email každých {1} minut. Prosím počkejte {2} sekund(y).";
-$l['error_emailflooding_1_minute'] = "Lituji, ale můžete poslat pouze 1 email každých {1} minut. Prosím počkejte 1 minutu.";
-$l['error_emailflooding_minutes'] = "Lituji, ale můžete poslat pouze 1 email každých {1} minut. Prosím počkejte {2} minut(y).";
+$l['error_emailflooding_1_second'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte 1 sekundu.";
+$l['error_emailflooding_seconds'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte {2} sekund(y).";
+$l['error_emailflooding_1_minute'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte 1 minutu.";
+$l['error_emailflooding_minutes'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte {2} minut(y).";
 $l['error_invalidfromemail'] = "Nezadali jste platnou emailovou adresu.";
 $l['error_noname'] = "Nezadali jste platné jméno.";
-$l['your_email'] = "Váš email:";
-$l['email_note'] = "Zadejte svůj email.";
+$l['your_email'] = "Váš e-mail:";
+$l['email_note'] = "Zadejte svůj e-mail.";
 $l['your_name'] = "Vaše jméno:";
 $l['name_note'] = "Zadejte svoje jméno.";
 
@@ -533,8 +545,9 @@ $l['moderation_user_posts'] = "Nové příspěvky, které jste napsal v tomto f�
 $l['moderation_forum_thread'] = "Nová témata v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits_quick'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
-$l['awaiting_message_single'] = "Jeden účet čeká na aktivaci. Prosím aktivujte ho v Administraci.";
-$l['awaiting_message_plural'] = "{1} účtů čeká na aktivaci. Prosím aktivujte je v Administraci.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Přejít do administrace</a>.";
+$l['awaiting_message_single'] = "Jeden účet čeká na aktivaci. Prosím, aktivujte ho v Administraci.";
+$l['awaiting_message_plural'] = "{1} účtů/účty čekají na aktivaci. Prosím, aktivujte je v Administraci.";
 
 $l['select2_match'] = "Jeden výsledek je k dispozici, stiskem klávesy Enter jej vyberte.";
 $l['select2_matches'] = "{1} výsledků je k dispozici, použijte k navigaci klávesy nahoru a dolů.";
@@ -550,3 +563,11 @@ $l['select2_searching'] = "Hledám...";
 
 $l['stopforumspam_error_decoding'] = 'Nastala chyba při dekódování dat ze serveru StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Nastala chyba při získávání dat ze serveru StopForumSpam.com.';
+$l['stopforumspam_invalid_email'] = 'Nesprávná emailová adresa při kontrole ze serveru StopForumSpam.com';
+$l['stopforumspam_invalid_ip_address'] = 'Nesprávná IP adresa při kontrole ze serveru StopForumSpam.com';
+
+$l['sfs_error_username'] = 'Přezdívka';
+$l['sfs_error_ip'] = 'IP';
+$l['sfs_error_or'] = 'nebo';
+
+$l['boardclosed_reason'] = 'Fórum je momentálně mimo provoz z důvodu údržby. Prosím, zkuste to později.';

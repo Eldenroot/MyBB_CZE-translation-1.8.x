@@ -18,5 +18,5 @@ $l['error_incorrect_cache'] = "Nesprávná mezipaměť byla zadána.";
 $l['error_no_cache_specified'] = "Nespecifikoval si výběr mezipaměti pro zobrazení.";
 
 $l['success_cache_rebuilt'] = "Mezipaměť byla úspěšně znovu vytvořena.";
-$l['success_cache_reloaded'] = "Mezipaměť byla úspěšně znovu načtena.";
+$l['success_cache_reloaded'] = "Mezipaměť byla úspěšně vytvořena a načtena.";
 

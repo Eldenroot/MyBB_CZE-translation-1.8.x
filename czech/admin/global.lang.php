@@ -306,17 +306,17 @@ $l['editor_maximize'] = "Maximize";
 $l['missing_task'] = "Chyba! Soubor úlohy neexistuje.";
 $l['task_backup_cannot_write_backup'] = "Chyba! Úloha: Databázové zálohy nemmůže zapisovat do složky backups (nachází se v /admin).";
 $l['task_backup_ran'] = "Naplánovaná úloha - Databázové úlohy úspěšně proběhla.";
-$l['task_checktables_ran'] = "The check tables task successfully ran with no corrupted tables found.";
-$l['task_checktables_ran_found'] = "Notice: The check tables task successfully ran and repaired the {1} table(s).";
+$l['task_checktables_ran'] = "The check tables úspěšně proběhla with no corrupted tables found.";
+$l['task_checktables_ran_found'] = "Notice: The check tables úspěšně proběhla and repaired the {1} table(s).";
 $l['task_dailycleanup_ran'] = "Úloha: Denní pročištění fóra - úspěšně proběhla.";
 $l['task_hourlycleanup_ran'] = "Úloha: Hodinové pročištění fóra: - úspěšně proběhla.";
 $l['task_logcleanup_ran'] = "Úloha: Čístění logů úspěšně proběhla a smazala všechny staré záznamy.";
-$l['task_promotions_ran'] = "The promotions task successfully ran.";
-$l['task_threadviews_ran'] = "The thread views task successfully ran.";
-$l['task_usercleanup_ran'] = "The user cleanup task successfully ran.";
+$l['task_promotions_ran'] = "The promotions úspěšně proběhla.";
+$l['task_threadviews_ran'] = "The thread views úspěšně proběhla.";
+$l['task_usercleanup_ran'] = "Úloha: The user cleanup úspěšně proběhla.";
 $l['task_massmail_ran'] = "Úloha: The mass mail successfully ran.";
-$l['task_userpruning_ran'] = "The user pruning task successfully ran.";
-$l['task_delayedmoderation_ran'] = "The delayed moderation task successfully ran.";
+$l['task_userpruning_ran'] = "The user pruning úspěšně proběhla.";
+$l['task_delayedmoderation_ran'] = "The delayed moderation úspěšně proběhla.";
 $l['task_massmail_ran_errors'] = "One or more problems occurred sending to \"{1}\":
 {2}";
 $l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB - proběhla v pořádku.";
@@ -324,7 +324,7 @@ $l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit se serverem MyBB pro
 $l['task_recachestylesheets_ran'] = 'Re-cached {1} stylesheets.';
 
 $l['massmail_username'] = "Přezdívka";
-$l['email_addr'] = "Emailová adresa";
+$l['email_addr'] = "E-mailová adresa";
 $l['board_name'] = "Název fóra";
 $l['board_url'] = "URL (odkaz) fóra";
 
@@ -368,7 +368,7 @@ $l['mybb_engine'] = "MyBB Engine";
 // then use this to define how much larger you want the gap to be (in px)
 // $l['login_field_width'] = "0";
 
-$l['my2fa'] = "Dvoufázové ověření (známé jako Two-Factor Authentication)";
+$l['my2fa'] = "Dvoufázové ověření";
 $l['my2fa_failed'] = "Tvůj kod byl špatně zadán, tak si byl odhlášen.";
 $l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";

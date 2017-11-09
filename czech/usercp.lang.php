@@ -1,14 +1,14 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Czech Language Pack
+ * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
  *
  */
 
 $l['nav_usercp'] = "Panel uživatele";
 $l['nav_profile'] = "Upravit profil";
-$l['nav_options'] = "Změnit možnosti";
-$l['nav_email'] = "Změnit email";
+$l['nav_options'] = "Upravit možnosti fóra";
+$l['nav_email'] = "Změnit e-mail";
 $l['nav_password'] = "Změnit heslo";
 $l['nav_changename'] = "Změnit uživatelské jméno";
 $l['nav_subthreads'] = "Odběr témat";
@@ -21,11 +21,11 @@ $l['nav_drafts'] = "Uložené koncepty";
 $l['nav_usergroups'] = "Členství ve skupinách";
 $l['nav_attachments'] = "Správa příloh";
 $l['nav_addsubscription'] = "Přihlásit se k odběru";
-
-$l['resend_activation'] = "Znovu odeslat aktivační email";
+$l['resend_activation'] = "Znovu odeslat aktivační e-mail";
 $l['away_notice_away'] = "Vaše nepřítomnost byla nastavena od {1}";
 $l['away_notice'] = "Tato možnost vám umožňuje nastavit nepřítomnost.";
 $l['already_uploaded_avatar'] = "Nyní používáte svůj avatar. Pokud si nahrajete nový, bude předchozí odstraněn.";
+$l['using_remote_avatar'] = "Momentálně používáš avatara ze vzdálené stránky. Pokud se rozhodneš použít jiný avatar, tak tvůj původní odkaz na avatara bude vyprázdněn.";
 $l['na_deleted'] = "Odstraněno";
 $l['user_cp'] = "Nastavení uživatele";
 $l['user_cp_welcome'] = "Toto je Vaše Nastavení uživatele. Odtud máte přístup ke svému profilu, odběru příspěvků, k soukromým zprávám a oblíbeným položkám.<br />Hlavní strana obsahuje informace o Vašem účtu.";
@@ -36,7 +36,7 @@ $l['title'] = "Titul:";
 $l['postnum'] = "Příspěvky:";
 $l['posts_day'] = "({1} denně | {2} procent z celkového počtu příspěvků)";
 $l['additional_contact_details'] = "Další kontaktní informace";
-$l['email'] = "Email:";
+$l['email'] = "E-mail:";
 $l['reputation'] = "Hodnocení:";
 $l['website'] = "Web:";
 $l['usergroup'] = "Skupina:";
@@ -50,7 +50,7 @@ $l['avatar_mine'] = "Toto je Váš avatar";
 $l['change_avatar'] = "Změnit avatar";
 $l['avatar_url'] = "URL avataru:";
 $l['avatar_url_note'] = "Zadejte URL adresu avataru.";
-$l['avatar_url_gravatar'] = "Pro použití <a href=\"http://gravatar.com\" target=\"_blank\">Gravataru</a> zadejte svůj Gravatar email.";
+$l['avatar_url_gravatar'] = "Pro použití <a href=\"http://gravatar.com\" target=\"_blank\" rel=\"noopener\">>Gravataru</a> zadejte svůj Gravatar e-mail.";
 $l['avatar_upload'] = "Nahrát avatar:";
 $l['avatar_upload_note'] = "Na svém počítači si vyberte avatar k nahrání do fóra.";
 $l['no_avatar'] = "Žádný avatar";
@@ -133,13 +133,13 @@ $l['invisible_mode_desc'] = "Zvolíte-li ano, nebudete na seznamu přihlášený
 $l['messaging_notification'] = "Zprávy a oznámení";
 $l['allow_notices'] = "Dostávat zprávy od administrátorů.";
 $l['allow_notices_desc'] = "Zvolíte-li ano, povolujete administrátorům zasílat Vám zprávy a oznámení.";
-$l['allow_emails'] = "Skrýt email před ostatními členy fóra.";
+$l['allow_emails'] = "Skrýt e-mail před ostatními členy fóra.";
 $l['allow_emails_desc'] = "Zvolíte-li ano, mohou Vám ostatní členové fóra posílat přes toto fórum emaily.";
 $l['email_notify'] = "Automaticky odebírat témata, do kterých jste poslal(a) příspěvek.";
 $l['email_notify_desc'] = "Zvolíte-li ano, budete po odeslání příspěvku automaticky odebírat téma.";
 $l['receive_pms'] = "Dostávat od ostatních uživatelů soukromé zprávy.";
 $l['receive_pms_desc'] = "Tato volba Vám umožňuje posílat a dostávat soukromé zprávy od ostatních členů fóra.";
-$l['receive_from_buddy'] = "Přijímat soukromé zprávy pouze od uživatelů na mém <a href=\"#\" onclick=\"MyBB.popupWindow('/misc.php?action=buddypopup'); return false;\" target=\"_blank\">Seznamu přátel</a>.";
+$l['receive_from_buddy'] = "Přijímat soukromé zprávy pouze od uživatelů na mém <a href=\"#\" onclick=\"MyBB.popupWindow('/misc.php?action=buddypopup'); return false;\" target=\"_blank\">Seznamu přátel</a>. (Tohle nastavení nebude mít žádný efekt, jestliže není v seznamu alespoň jeden přítel.)";
 $l['pm_notice'] = "Při příchodu nové soukromé zprávy mě informovat vyskakovacím oknem.";
 $l['pm_notify'] = "Při příchodu nové soukromé zprávy mě informovat emailem.";
 $l['show_codebuttons'] = "Při psaní zpráv zobrazovat značky MyCode.";
@@ -176,7 +176,7 @@ $l['date_format'] = "Formát datumu:";
 $l['date_format_desc'] = "Způsob zobrazování datumu.";
 $l['time_format'] = "Formát času:";
 $l['time_format_desc'] = "Způsob zobrazování času.";
-$l['time_offset'] = "Časové pásmo (<acronym title=\"Daylight Saving Time\">DST</acronym> bez korekce na letní čas):";
+$l['time_offset'] = "Časové pásmo (<abbr title=\"Daylight Saving Time\">DST</abbr> bez korekce na letní čas):";
 $l['time_offset_desc'] = "Pokud se nacházíte v jiném časovém pásmu, než je nastaveno na fóru, můžete si jej vybrat ze seznamu níže.";
 $l['gmt'] = "GMT";
 $l['dst_correction'] = "Umožnit korekci letního času:";
@@ -422,4 +422,3 @@ $l['buddyrequest_accepted'] = 'Zvolená žádost o přátelství byla schválena
 $l['buddyrequest_declined'] = 'Zvolená žádost o přátelství byla odmítnuta.';
 $l['user_doesnt_exist'] = 'Koncový uživatel již neexistuje.';
 $l['buddyrequests_sent_success'] = 'Žádosti o přátelství byly v pořádku odeslány.';
-

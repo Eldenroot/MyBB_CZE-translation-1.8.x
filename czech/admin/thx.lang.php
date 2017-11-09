@@ -3,7 +3,7 @@
  * Author: Dark Neo
  * Plugin: Thanks System
  * Version: 2.5.3
- * Plugin Language File: english
+ * Plugin Language File: Czech
  */
 $l['thx_title'] = "Thanks system";
 $l['thx_desc'] = "Add a new button on forums where apply to thanks users";
