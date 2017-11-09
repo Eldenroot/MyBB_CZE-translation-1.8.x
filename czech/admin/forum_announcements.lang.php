@@ -6,7 +6,7 @@
  */
 
 $l['forum_announcements'] = "Oznámení fóra";
-$l['forum_announcements_desc'] = "Here you can manage the announcements on your board. Global announcements are shown in all forums, whereas ones set for individual forums are shown in that forum and all child forums.";
+$l['forum_announcements_desc'] = "Zde můžeš spravovat oznámení fóra. Globalní oznámení jsou zobrazeny ve všech vláknech.  are shown in all forums, whereas ones set for individual forums are shown in that forum and all child forums.";
 $l['add_announcement'] = "Add Announcement";
 $l['add_announcement_desc'] = "Here you can add an announcement for a single forum or all forums.";
 $l['update_announcement'] = "Save Announcement";
