@@ -49,7 +49,7 @@ $l['error_invalid_admin_session'] = "Neplatné administratorské sezení. (= ses
 $l['error_admin_session_expired'] = "Vypršela platnost tvého administrátorského přihlášení.";
 $l['error_invalid_ip'] = "Tvá IP adresa není platné pro sezení. (session?)";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl uzamčen.";
-$l['error_mybb_admin_lockedout_message'] = "Tvůj účel byl právě uzamknut, protože si zadal špatné přihlašovací údaje - {1}x krát. Byl ti poslán email s instrukcemi, jak si odemkneš svůj účet.";
+$l['error_mybb_admin_lockedout_message'] = "Tvůj účel byl právě uzamknut, protože si zadal špatné přihlašovací údaje - {1}x krát. Byl ti poslán mail s instrukcemi, jak si odemkneš svůj účet.";
 
 $l['error_invalid_username'] = "Přezdívka, kterou jsi zadal, je neplatná.";
 $l['error_invalid_uid'] = "Uživatelské ID, které jsi zadal, je neplatné.";
@@ -271,7 +271,7 @@ $l['editor_width'] = "Šířka (volitelný údaj):";
 $l['editor_height'] = "Výška (volitelný údaj):";
 $l['editor_insertimg'] = "Vložit obrázek";
 $l['editor_email'] = "E-mail:";
-$l['editor_insertemail'] = "Vložit email";
+$l['editor_insertemail'] = "Vložit e-mail";
 $l['editor_url'] = "URL:";
 $l['editor_insertlink'] = "Vložit odkaz";
 $l['editor_unlink'] = "Unlink";

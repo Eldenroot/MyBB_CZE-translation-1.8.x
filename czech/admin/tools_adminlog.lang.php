@@ -51,7 +51,7 @@ $l['admin_log_config_badwords_delete'] = "Smazal filtr sprostých slov #{1} ({2}
 
 $l['admin_log_config_banning_add_ip'] = "Přidal IP ban #{1} ({2})";
 $l['admin_log_config_banning_add_username'] = "Přidal nepovolenou přezdívku #{1} ({2})";
-$l['admin_log_config_banning_add_email'] = "Přidal disallowed email #{1} ({2})";
+$l['admin_log_config_banning_add_email'] = "Přidal disallowed e-mail #{1} ({2})";
 $l['admin_log_config_banning_delete_ip'] = "Smazal IP ban #{1} ({2})";
 $l['admin_log_config_banning_delete_username'] = "Smazal nepovolenou přezdívku #{1} ({2})";
 $l['admin_log_config_banning_delete_email'] = "Smazal nepovolenou přezdívku #{1} ({2})";
@@ -220,9 +220,9 @@ $l['admin_log_tools_cache_rebuild_all'] = "Rebuilt & reloaded all caches";
 
 $l['admin_log_tools_index_utf8_conversion'] = "Tabulku {1} převedl na formát UTF-8";
 
-$l['admin_log_tools_mailerrors_prune'] = "Pruned {1} email error logs";
+$l['admin_log_tools_mailerrors_prune'] = "Pruned {1} e-mail error logs";
 
-$l['admin_log_tools_maillogs_prune'] = "Pruned {1} email logs";
+$l['admin_log_tools_maillogs_prune'] = "Pruned {1} e-mail logs";
 
 $l['admin_log_tools_optimizedb_'] = "Optimalizoval databázové tabulky: {1}";
 
@@ -244,8 +244,8 @@ $l['admin_log_tools_recount_rebuild_threadrating'] = "Recounted and rebuilt thre
 
 $l['admin_log_tools_spamlog_prune'] = "Pruned {4} spam logs older than {1} days";
 $l['admin_log_tools_spamlog_prune_user'] = "Pruned {4} spam logs older than {1} days with username {2}";
-$l['admin_log_tools_spamlog_prune_email'] = "Pruned {4} spam logs older than {1} days with email {3}";
-$l['admin_log_tools_spamlog_prune_user_email'] = "Pruned {4} spam logs older than {1} days with username {2} and email {3}";
+$l['admin_log_tools_spamlog_prune_email'] = "Pruned {4} spam logs older than {1} days with e-mail {3}";
+$l['admin_log_tools_spamlog_prune_user_email'] = "Pruned {4} spam logs older than {1} days with username {2} and e-mail {3}";
 
 $l['admin_log_tools_tasks_add'] = "Přidal naplánovanou úlohu #{1} ({2})";
 $l['admin_log_tools_tasks_edit'] = "Upravil naplánovanou úlohu #{1} ({2})";
@@ -304,7 +304,7 @@ $l['admin_log_user_users_inline_banned_temp'] = "Zabanoval {1} uživatele do {2}
 $l['admin_log_user_users_inline_activated'] = "Aktivoval {1} uživatele";
 $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 
-$l['admin_log_user_mass_mail_delete'] = "Smazal hromadný email (newsletter) #{1} ({2})";
+$l['admin_log_user_mass_mail_delete'] = "Smazal hromadný e-mail (newsletter) #{1} ({2})";
 
 $l['admin_log_admin_locked_out'] = 'Z bezpečnostních důvodu došlo k zablokování přístupu do administračního panelu  #{1} uživateli/ce ({2}) - mnoho neúspěšných pokusů o přihlášení.';
 

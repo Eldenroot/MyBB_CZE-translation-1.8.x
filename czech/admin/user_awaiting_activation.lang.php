@@ -9,9 +9,9 @@ $l['awaiting_activation'] = "Čekající na aktivaci";
 
 /**
  TO-DO: nezapomenout při korekci správne dopřeložit souvětí
- $l['awaiting_activation_desc'] = "Please note any user who is awaiting email activation will not need to confirm their email if they are activated here.";
+ $l['awaiting_activation_desc'] = "Please note any user who is awaiting e-mail activation will not need to confirm their e-mail if they are activated here.";
 */
-$l['awaiting_activation_desc'] = "Zde můžeš spravovat uživatelé, kteří čekající na aktivaci. Pokud zde aktivuješ uživatele u kterého se čeká na emailové potvrzení, tak nebude potřebova potvrdit aktivační email.";
+$l['awaiting_activation_desc'] = "Zde můžeš spravovat uživatelé, kteří čekající na aktivaci. Pokud zde aktivuješ uživatele u kterého se čeká na emailové potvrzení, tak nebude potřebova potvrdit aktivační e-mail.";
 
 $l['manage_awaiting_activation'] = "Spravovat uživatele čekající na aktivaci";
 
@@ -20,7 +20,7 @@ $l['no_users_awaiting_activation'] = "V tuto chvíli zde nejsou žádní uživat
 $l['username'] = "Přezdívka";
 $l['registered'] = "Registrovaný";
 $l['last_active'] = "Naposledy aktivní";
-$l['email'] = "Email";
+$l['email'] = "E-mail";
 $l['ipaddress'] = "IP adresa";
 $l['type'] = "Typ";
 

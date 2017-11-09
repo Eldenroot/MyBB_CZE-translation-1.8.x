@@ -13,7 +13,7 @@ $l['groups'] = "Skupiny";
 $l['user_titles'] = "User Titles";
 $l['banning'] = "Banning";
 $l['admin_permissions'] = "Práva administrátora";
-$l['mass_mail'] = "Hromadný email (newsletter)";
+$l['mass_mail'] = "Hromadný e-mail (newsletter)";
 $l['group_promotions'] = "Group Promotions";
 
 $l['can_manage_users'] = "Může spravovat uživatele?";
