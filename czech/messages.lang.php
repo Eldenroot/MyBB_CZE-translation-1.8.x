@@ -11,7 +11,7 @@ $l['redirect_emailsent'] = "Vaše e-mailová zpráva byla úspěšně odeslána.
 $l['redirect_loggedin'] = "Vaše přihlášení proběhlo úspěšně.<br />Nyní budete přesměrováni zpět, odkud jste přišli.";
 
 $l['error_invalidpworusername'] = "Zadali jste neplatné uživatelské jméno či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
-$l['error_invalidpworusername1'] = "Zadali jste neplatný email či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
+$l['error_invalidpworusername1'] = "Zadali jste neplatný e-mail či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
 $l['error_invalidpworusername2'] = "Zadali jste neplatnou kombinaci uživatelského jména či hesla nebo emailu či hesla. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
 $l['error_incompletefields'] = "Zdá se, že nejméně jedno z požadovaných polí nebylo vyplněno. Vraťte se prosím a vyplňte všechna požadovaná pole.";
 $l['error_alreadyuploaded'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím přejmenujte jej a nahrajte znovu. Nebo klikněte na \"aktualizovat přílohu\".";
@@ -326,7 +326,7 @@ Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto témat
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
 
-Toto je automatický email z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
+Toto je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
 
 Nejméně jeden uživatel se Vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
@@ -375,7 +375,7 @@ obsluha fóra {2}
 
 $l['email_changepassword'] = "{1},
 
-zasíláme Vám tento email, protože jste si buď Vy, nebo někdo s přístupem k Vašemu heslu právě změnil Vaše heslo.
+zasíláme Vám tento e-mail, protože jste si buď Vy, nebo někdo s přístupem k Vašemu heslu právě změnil Vaše heslo.
 
 Uživatelské jméno: {1}
 Vaše emailová adresa: {2}
@@ -441,7 +441,7 @@ Děkujeme,
 obsluha fóra {4}";
 
 $l['email_contact_subject'] = "Kontakt: {1}";
-$l['email_contact'] = "Email: {1}
+$l['email_contact'] = "E-mail: {1}
 Profil ve fóru: {2}
 IP adresa: {3}
 Zpráva:
