@@ -5,7 +5,7 @@
  *
  */
 
-$l['help_documents'] = "Nápovědník pro uživatele";
+$l['help_documents'] = "Nápověda pro uživatele";
 $l['add_new_section'] = "Add New Section";
 $l['add_new_section_desc'] = "Here you can add a new help section.";
 $l['add_new_document'] = "Add New Document";

@@ -6,7 +6,7 @@
  */
 
 $l['languages'] = "Jazyky";
-$l['languages_desc'] = "Které jazyky máš nainstalované můžeš vidět níže. Můžeš si vybrat mezi upravením jazykových souborů, případně je také můžeš upravit jiným jazykem nebo změnit nastavení jazyka.";
+$l['languages_desc'] = "Které jazykové balíky máš nainstalované můžeš vidět níže. Můžeš si vybrat mezi upravením jazykových souborů, případně je také můžeš upravit jiným jazykem nebo změnit nastavení jazyka.";
 $l['find_language_packs'] = "Vyhledat jazykové balíky";
 $l['language_files'] = "Jazykové soubory";
 $l['language_files_desc'] = "Below are the files within the selected language, for both the front-end and the admin control panel. Here you can choose to edit these files.";

@@ -14,8 +14,8 @@ $l['browse_plugins_desc'] = "Here you may browse the official MyBB modifications
 $l['browse_all_plugins'] = "Hledat mezi všemi pluginy";
 
 $l['plugin'] = "Plugin";
-$l['active_plugin'] = "Aktivované Pluginy";
-$l['inactive_plugin'] = "Deaktivoavné Pluginy";
+$l['active_plugin'] = "Aktivní Pluginy";
+$l['inactive_plugin'] = "Deaktivované Pluginy";
 $l['your_version'] = "Tvá verze";
 $l['latest_version'] = "Aktuální verze";
 $l['download'] = "Stáhnout";
