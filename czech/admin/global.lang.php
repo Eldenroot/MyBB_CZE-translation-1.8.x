@@ -30,33 +30,36 @@ $l['logout'] = "Odhlásit se";
 $l['generated_in'] = "Generováno za {1} with <a href=\"{2}\" target=\"_blank\">{3} queries</a>. Využití paměti: {4}";
 
 // Login page
-$l['enter_username_and_password'] = "Prosím zadej tvé {1} a heslo pro pokračování..";
+
+// CZ překlad 12.11.17: $l['enter_username_and_password'] = "Abys mohl pokračovat je nutné zadat {1} a heslo."; TO-DO: {1} = přezdívka -> přezdívku
+$l['enter_username_and_password'] = "Abys mohl pokračovat je nutné zadat přezdívku a heslo.";
 $l['login_username'] = 'přezdívka';
 $l['login_email'] = 'emailová adresa';
 $l['login_username_and_password'] = 'přezdívka/emailová adresa';
 $l['mybb_admin_login'] = "MyBB Control Panel - Přihlášení";
 $l['return_to_forum'] = "Návrat do fóra";
-$l['please_login'] = "Prosím, přihlaš se.";
+$l['please_login'] = "Administrační panel MyBB";
 $l['username'] = "Přezdívka:";
 $l['username1'] = "Emailová adresa:";
 $l['username2'] = "Přezdívka/Emailová adresa:";
 $l['password'] = "Heslo:";
 $l['secret_pin'] = "Tajný (Secret) PIN:";
 $l['login'] = "Přihlašovací údaje (?)";
-$l['lost_password'] = "Zapomněl si své přihlašovací údaje?";
+$l['lost_password'] = "Zapomněl si přihlašovací údaje?";
 
 $l['error_invalid_admin_session'] = "Neplatné administratorské sezení. (= session?)";
 $l['error_admin_session_expired'] = "Vypršela platnost tvého administrátorského přihlášení.";
 $l['error_invalid_ip'] = "Tvá IP adresa není platné pro sezení. (session?)";
-$l['error_mybb_admin_lockedout'] = "Tento účet byl uzamčen.";
-$l['error_mybb_admin_lockedout_message'] = "Tvůj účel byl právě uzamknut, protože si zadal špatné přihlašovací údaje - {1}x krát. Byl ti poslán mail s instrukcemi, jak si odemkneš svůj účet.";
+$l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
+$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli tvůj účet zablokovat, protože si zadal {1}x krát po sobě nesprávné přihlašovací údaje.  <br /> Na e-mailovou adresu vlastníka účtu, pod kterým ses přihlašoval, byl odeslán e-mail, jak odblokovat účet.";
 
 $l['error_invalid_username'] = "Přezdívka, kterou jsi zadal, je neplatná.";
 $l['error_invalid_uid'] = "Uživatelské ID, které jsi zadal, je neplatné.";
 $l['error_invalid_token'] = "Aktivační kód, který si zadal, je neplatný.";
 
 $l['success_logged_out'] = "Byl jsi úspěšně odhlášen.";
-$l['error_invalid_username_password'] = " Kombinace {1} a hesla, kterou jsi zadal, je neplatná.";
+// CZ překlad 12.11.17: $l['error_invalid_username_password'] = " Kombinace {1} a hesla, kterou jsi zadal, je neplatná.";; TO-DO: {1} = přezdívka -> přezdívku
+$l['error_invalid_username_password'] = " Přihlašovací údaje, které jsi zadal, jsou nesprávné.";
 
 // Action Confirmation
 $l['confirm_action'] = "Jsi si doopravdy jistý, že chceš provést tuto akci?";
@@ -335,23 +338,23 @@ $l['unlock_token'] = "Aktivační kód:";
 $l['unlock_account'] = "Odemknout účet";
 
 // Email message for if an admin account has been locked out
-$l['locked_out_subject'] = "{1} : Administrační účet byl dočasně zablokován | Důvod: mnoho neúspěšných pokusů o přihlášení";
-$l['locked_out_message'] = "{1},
+$l['locked_out_subject'] = "{1}: Administrátorský účet byl zablokován z důvodu mnoha neúspěšných pokusů o přihlášení";
+$l['locked_out_message'] = "Ahoj {1},
 
-Tvůj účet s právem administrátora/ky na stránce {2} byl dočasně zablokován.
+Tvůj administrátorský účet na stránce {2} byl zablokován.
 
 Je možné, že sis nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit za tebe
-<strong>Z bezpečnostních důvodu</strong> proto došlo k dočasné blokaci. 
+Z bezpečnostních důvodu proto došlo k blokaci tvého účtu. 
 
-Pro odblokování tvého účtu, prosím klikni na tento odkaz:
+Pro odblokování účtu, prosím, klikni na níže uvedený odkaz:
 
 {4}/{5}/index.php?action=unlock&uid={7}&token={6}
 
-Pokud výše uvedený odkaz nefunguje, prosím, přejdi na tuhle stránku:
+Pokud výše uvedený odkaz nefunguje, prosím, přejdi sem:
 
 {4}/{5}/index.php?action=unlock
 
-<em>Kde budeš muset zadat:</em>
+Kde budeš muset zadat:
 Přezdívku: {1}
 Aktivační kód: {6}
 
@@ -372,4 +375,4 @@ $l['my2fa'] = "Dvoufázové ověření";
 $l['my2fa_failed'] = "Tvůj kod byl špatně zadán, tak si byl odhlášen.";
 $l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
-$l['my2fa_no_codes'] = "Poznámka: Použil si všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navšiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
+$l['my2fa_no_codes'] = "Poznámka: Použils všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navšiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
