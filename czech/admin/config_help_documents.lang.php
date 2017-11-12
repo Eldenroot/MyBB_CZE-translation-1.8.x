@@ -5,7 +5,7 @@
  *
  */
 
-$l['help_documents'] = "Help Documents";
+$l['help_documents'] = "Nápovědník pro uživatele";
 $l['add_new_section'] = "Add New Section";
 $l['add_new_section_desc'] = "Here you can add a new help section.";
 $l['add_new_document'] = "Add New Document";
@@ -20,7 +20,7 @@ $l['manage_help_documents_desc'] = "This section allows you to manage your help 
 $l['title'] = "Title";
 $l['short_description'] = "Short Description";
 $l['display_order'] = "Display Order";
-$l['enabled'] = "Enabled?";
+$l['enabled'] = "Zobrazit?";
 $l['use_translation'] = "Use Translation?";
 $l['add_section'] = "Add Section";
 $l['add_document'] = "Add Document";

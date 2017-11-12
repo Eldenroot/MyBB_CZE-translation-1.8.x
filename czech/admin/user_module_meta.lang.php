@@ -11,8 +11,8 @@ $l['users'] = "Uživatelé";
 $l['awaiting_activation'] = "Čekající na aktivaci";
 $l['groups'] = "Skupiny";
 $l['user_titles'] = "User Titles";
-$l['banning'] = "Banning";
-$l['admin_permissions'] = "Práva administrátora";
+$l['banning'] = "Banování";
+$l['admin_permissions'] = "Práva administrátorů";
 $l['mass_mail'] = "Hromadný e-mail (newsletter)";
 $l['group_promotions'] = "Group Promotions";
 

@@ -20,7 +20,7 @@ $l['attachments_awaiting_moderation'] = "Attachments Awaiting Moderation";
 // Errors
 $l['error_no_posts'] = "There are no posts currently awaiting moderation.";
 $l['error_no_attachments'] = "There are no attachments currently awaiting moderation.";
-$l['error_no_threads'] = "There are no threads, posts or attachments currently awaiting moderation.";
+$l['error_no_threads'] = "Právě teď tu není žádné vlákno, příspěvek ani příloha, které čekájí na schválení moderátorem.";
 
 // Success
 $l['success_threads'] = "The selected threads have been moderated successfully.";

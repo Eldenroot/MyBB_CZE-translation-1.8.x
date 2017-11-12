@@ -11,11 +11,11 @@ $l['plugin_updates'] = "Aktualizace pluginů";
 $l['plugin_updates_desc'] = "This section allows you to check for updates on all your plugins.";
 $l['browse_plugins'] = "Browse Plugins";
 $l['browse_plugins_desc'] = "Here you may browse the official MyBB modifications site for plugins compatible with your series of MyBB.";
-$l['browse_all_plugins'] = "Browse All Plugins";
+$l['browse_all_plugins'] = "Hledat mezi všemi pluginy";
 
 $l['plugin'] = "Plugin";
-$l['active_plugin'] = "Active Plugins";
-$l['inactive_plugin'] = "Inactive Plugins";
+$l['active_plugin'] = "Aktivované Pluginy";
+$l['inactive_plugin'] = "Deaktivoavné Pluginy";
 $l['your_version'] = "Tvá verze";
 $l['latest_version'] = "Aktuální verze";
 $l['download'] = "Stáhnout";

@@ -5,13 +5,13 @@
  *
  */
 
-$l['forum_management'] = "Forum Management";
+$l['forum_management'] = "Správa fóra";
 $l['forum_management_desc'] = "This section allows you to manage the categories and forums on your board. You can manage forum permissions and forum-specific moderators as well. If you change the display order for one or more forums or categories, make sure you submit the form at the bottom of the page.";
-$l['add_forum'] = "Add New Forum";
+$l['add_forum'] = "Přidat nové fórum";
 $l['add_forum_desc'] = "Here you can add a new forum or category to your board. You may also set initial permissions for this forum.";
-$l['copy_forum'] = "Copy Forum";
+$l['copy_forum'] = "Kopírovat fórum";
 $l['copy_forum_desc'] = "Here you can copy forum settings or permissions from an existing forum to another or to a new forum.";
-$l['forum_permissions'] = "Permissions";
+$l['forum_permissions'] = "Práva";
 $l['forum_permissions_desc'] = "Here you can modify the full permissions for an individual group for a single forum";
 $l['view_forum'] = "View Forum";
 $l['view_forum_desc'] = "Here you can view sub forums, quickly edit permissions and add moderators to your forum.";
@@ -26,16 +26,16 @@ $l['forum_permissions2'] = "Forum Permissions";
 $l['more_subforums'] = "and {1} more.";
 
 $l['manage_forums'] = "Manage Forums";
-$l['forum'] = "Forum";
-$l['order'] = "Order";
+$l['forum'] = "Fórum";
+$l['order'] = "Pořadí";
 
-$l['subforums'] = "Sub Forums";
-$l['moderators'] = "Moderators";
-$l['permissions'] = "Permissions";
-$l['delete_forum'] = "Delete Forum";
+$l['subforums'] = "Subfóra";
+$l['moderators'] = "Moderátoři";
+$l['permissions'] = "Práva";
+$l['delete_forum'] = "Smazat fórum";
 
-$l['sub_forums'] = "Sub Forums";
-$l['update_forum_orders'] = "Save Forum Orders";
+$l['sub_forums'] = "Subfóra";
+$l['update_forum_orders'] = "Uložit pořadí fór";
 $l['update_forum_permissions'] = "Save Forum Permissions";
 $l['reset'] = "Reset";
 $l['in_forums'] = "Forums in \"{1}\"";
@@ -51,10 +51,10 @@ $l['set_custom_perms'] = "Set Custom Permissions";
 $l['permissions_use_group_default'] = "Use Group Default";
 $l['permissions_group'] = "Group";
 $l['permissions_canview'] = "Can view?";
-$l['permissions_canpostthreads'] = "Can post threads?";
-$l['permissions_canpostreplys'] = "Can post replies?";
-$l['permissions_canpostpolls'] = "Can post polls?";
-$l['permissions_canuploadattachments'] = "Can upload attachments?";
+$l['permissions_canpostthreads'] = "Mohou vytvářet vlákna?";
+$l['permissions_canpostreplys'] = "Mohou odpovědět ve vláknu?";
+$l['permissions_canpostpolls'] = "Mohou vytvářet ankety?";
+$l['permissions_canuploadattachments'] = "Mohou nahrát přílohy?";
 $l['permissions_all'] = "All?";
 
 $l['overview_allowed_actions'] = "Overview: Allowed Actions";
@@ -120,9 +120,9 @@ $l['confirm_clear_custom_permission'] = "Are you sure you wish to clear this cus
 $l['forum_type'] = "Forum Type";
 $l['forum_type_desc'] = "Select the type of forum you are creating - a forum you can post in, or a category, which contains other forums.";
 $l['category'] = "Category";
-$l['title'] = "Title";
-$l['description'] = "Description";
-$l['save_forum'] = "Save Forum";
+$l['title'] = "Název";
+$l['description'] = "Popis";
+$l['save_forum'] = "Uložit";
 $l['parent_forum'] = "Parent Forum";
 $l['parent_forum_desc'] = "The Forum that contains this forum. Categories do not have a parent forum - in this case, select 'None' - however, categories can be specified to have a parent forum.";
 $l['none'] = "None";

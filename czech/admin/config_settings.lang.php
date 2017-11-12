@@ -8,7 +8,7 @@
 $l['board_settings'] = "Nastavení fora";
 $l['change_settings'] = "Změnit nastavení";
 $l['change_settings_desc'] = "Tato část ti umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
-$l['add_new_setting'] = "Přidat nové nastavení.";
+$l['add_new_setting'] = "Přidat nové nastavení";
 $l['add_new_setting_desc'] = "V této části můžeš přidat nové nastavení pro tvé fórum.";
 $l['modify_existing_settings'] = "Upravit nastavení";
 $l['modify_existing_settings_desc'] = "This section allows you to modify an existing setting on your forum.";
@@ -27,7 +27,7 @@ $l['group_name_desc'] = "This unique identifier is used for the translation syst
 $l['text'] = "Text";
 $l['numeric_text'] = "Numeric Text";
 $l['textarea'] = "Textarea";
-$l['yesno'] = "Yes / No Choice";
+$l['yesno'] = "Volba Ano / Ne";
 $l['onoff'] = "On / Off Choice";
 $l['select'] = "Selection Box";
 $l['radio'] = "Radio Buttons";
@@ -99,7 +99,7 @@ $l['success_setting_group_updated'] = "The setting group has been updated succes
 $l['success_setting_group_deleted'] = "The selected setting group has been deleted successfully.";
 $l['success_duplicate_settings_deleted'] = "All duplicate setting groups have been deleted successfully.";
 
-$l['searching'] = 'Hledám...';
+$l['searching'] = 'Hledám…';
 $l['search_error'] = 'There was an error fetching your search results:';
 $l['search_done'] = 'Hotovo!';
 

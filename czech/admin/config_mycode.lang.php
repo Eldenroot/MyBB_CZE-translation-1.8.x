@@ -8,17 +8,17 @@
 $l['custom_mycode'] = "Custom MyCode";
 $l['mycode'] = "MyCode";
 $l['mycode_desc'] = "Custom MyCode allows you to create additional MyCode for your members to use in their messages.";
-$l['add_new_mycode'] = "Add New MyCode";
+$l['add_new_mycode'] = "Přidat nový MyCode";
 $l['add_new_mycode_desc'] = "Here you can add a new custom MyCode to your forum. You can use the MyCode Sandbox below the form to test your regular expression and replacement before saving.";
 $l['edit_mycode_desc'] = "Here you can edit a custom MyCode. You can use the MyCode Sandbox below the form to test your regular expression and replacement before saving your changes.";
 
-$l['title'] = "Title";
-$l['short_description'] = "Short Description";
+$l['title'] = "Název";
+$l['short_description'] = "Krátký popis";
 $l['regular_expression'] = "Regular Expression";
 $l['regular_expression_desc'] = "Enter a regular expression that will search for a specific combination of characters.  You must make sure the regular expression is valid and safe&mdash;no validation is performed.";
 $l['replacement'] = "Replacement";
 $l['replacement_desc'] = "Enter a replacement for the regular expression.";
-$l['example'] = "Example:";
+$l['example'] = "Například:";
 $l['enabled'] = "Enabled?";
 $l['parse_order'] = "Parse Order";
 $l['parse_order_desc'] = "MyCodes will be parsed in ascending order relative to other MyCodes.";

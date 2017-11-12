@@ -5,8 +5,8 @@
  *
  */
 
-$l['post_icons'] = "Post Icons";
-$l['add_post_icon'] = "Add New Post Icon";
+$l['post_icons'] = "Ikony příspěvků";
+$l['add_post_icon'] = "Přidat novou ikonu příspěvků";
 $l['add_post_icon_desc'] = "Here you can add a single new post icon.";
 $l['add_multiple_post_icons'] = "Add Multiple Post Icons";
 $l['add_multiple_post_icons_desc'] = "Here you can add multiple new post icons.";
@@ -16,7 +16,7 @@ $l['manage_post_icons'] = "Manage Post Icons";
 $l['manage_post_icons_desc'] = "This section allows you to edit, delete, and manage your post icons.";
 
 $l['name_desc'] = "This is the name for the post icon.";
-$l['image_path'] = "Image Path";
+$l['image_path'] = "Cesta k ikoně";
 $l['image_path_desc'] = "This is the path to the post icon image. If you want to use different post icon images for different themes, please use <strong>{theme}</strong> to represent the image directory of each theme.";
 $l['save_post_icon'] = "Save Post Icon";
 $l['reset'] = "Reset";
@@ -24,7 +24,7 @@ $l['reset'] = "Reset";
 $l['path_to_images'] = "Path to Images";
 $l['path_to_images_desc'] = "This is the path to the folder that the images are in.";
 $l['show_post_icons'] = "Show Post Icons";
-$l['image'] = "Image";
+$l['image'] = "Ikonka";
 $l['add'] = "Add?";
 $l['save_post_icons'] = "Save Post Icons";
 

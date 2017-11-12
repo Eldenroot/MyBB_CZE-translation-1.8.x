@@ -8,7 +8,7 @@
 // Tabs
 $l['attachments'] = "Přílohy";
 $l['stats'] = "Statistiky";
-$l['find_attachments'] = "Najít přílohu(y)";
+$l['find_attachments'] = "Přílohy";
 $l['find_attachments_desc'] = "Using the attachments search system you can search for specific files users have attached to your forums. Begin by entering some search terms below. All fields are optional and won't be included in the criteria unless they contain a value.";
 $l['find_orphans'] = "Find Orphaned Attachments";
 $l['find_orphans_desc'] = "Orphaned attachments are attachments which are for some reason missing in the database or the file system. This utility will assist you in locating and removing them.";
