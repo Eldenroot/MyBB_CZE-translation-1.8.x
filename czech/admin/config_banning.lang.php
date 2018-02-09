@@ -43,4 +43,3 @@ $l['success_email_disallowed'] = "Emailová adresa byla úspešně zakázána.";
 $l['success_ban_deleted'] = "Ban byl úspešně smazán.";
 
 $l['confirm_ban_deletion'] = "Jsi si jistý naprosto, že chceš zrušit tento ban?";
-

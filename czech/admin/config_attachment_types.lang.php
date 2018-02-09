@@ -8,9 +8,9 @@
 $l['attachment_types'] = "Typy příloh";
 $l['attachment_types_desc'] = "V této sekci můžeš vytvořit a upravovat přípony, kterými definuješ typy souborů, které mohou uživatelé přiložit k příspěvku.";
 $l['add_new_attachment_type'] = "Přidat novou příponu přílohy";
-$l['add_attachment_type'] = "Add Attachment Type";
+$l['add_attachment_type'] = "Přidat novou příponu přílohy";
 $l['add_attachment_type_desc'] = "Adding a new attachment type will allow members to attach files of this type to their posts. You have the ability to control the extension, MIME type, maximum size and show a small icon for each attachment type.";
-$l['edit_attachment_type'] = "Edit Attachment Type";
+$l['edit_attachment_type'] = "Upravit příponu přílohy";
 $l['edit_attachment_type_desc'] = "You have the ability to control the extension, MIME type, maximum size and show a small MIME type for this attachment type.";
 
 $l['extension'] = "Přípona";
