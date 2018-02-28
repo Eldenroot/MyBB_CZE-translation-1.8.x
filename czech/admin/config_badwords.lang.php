@@ -20,7 +20,7 @@ $l['replacement_word_max'] = "Nahrazené slovo nemůže být delší než 100 zn
 $l['error_replacement_word_invalid'] = "Slovo, které chceš nahradit nemůže být zároveň tím samým slovem, které nemohou uživatelé použít.";
 
 $l['save_bad_word'] = "Uložit filtr";
-$l['no_bad_words'] = "V tuto chvíli, zde nemáš žádná slova, která mají být nahrazena.";
+$l['no_bad_words'] = "V tuto chvíli zde nejsou žádná slova, která mají být nahrazena.";
 $l['add_bad_word'] = "Přidat filtr";
 
 $l['error_missing_bad_word'] = "Nezadal si slovo, které má být nahrazeno..";
