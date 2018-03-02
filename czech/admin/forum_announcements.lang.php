@@ -9,8 +9,8 @@ $l['forum_announcements'] = "Oznámení fóra";
 $l['forum_announcements_desc'] = "Zde můžeš spravovat oznámení fóra. Globalní oznámení jsou zobrazeny ve všech vláknech.  are shown in all forums, whereas ones set for individual forums are shown in that forum and all child forums.";
 $l['add_announcement'] = "Přidat oznámení";
 $l['add_announcement_desc'] = "Here you can add an announcement for a single forum or all forums.";
-$l['update_announcement'] = "Save Announcement";
-$l['preview_announcement'] = "Preview Announcement";
+$l['update_announcement'] = "Uložit oznámení";
+$l['preview_announcement'] = "Náhled oznámení";
 $l['update_announcement_desc'] = "Here you can update an announcements details.";
 
 $l['start_date_desc'] = "On this date and time (in GMT), the announcement will appear in the selected forum(s).";
@@ -52,4 +52,3 @@ $l['time'] = "Čas:";
 $l['set_time'] = "Set Time";
 
 $l['announcement_preview'] = 'Náhled oznámení';
-
