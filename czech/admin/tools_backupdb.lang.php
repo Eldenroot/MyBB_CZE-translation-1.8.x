@@ -6,8 +6,8 @@
  */
 
 
-$l['database_backups'] = "Zálohy databáze";
-$l['database_backups_desc'] = "Zde můžeš najít seznam záloh databáze, které se nachazejí na tvém webovém serveru ve složce backups (která se nachází v /admin)";
+$l['database_backups'] = "Zálohování databáze";
+$l['database_backups_desc'] = "Zde můžeš najít seznam záloh databáze, které se nachazejí na tvém webovém serveru ve složce backups, které se nachází ve složce /admin";
 $l['new_database_backup'] = "Nová záloha databáze";
 $l['new_backup'] = "Vytvořit novou zálohu databáze";
 $l['new_backup_desc'] = "Zde si můžeš vytvořit zálohu databáze.";
@@ -25,11 +25,11 @@ $l['select_forum_tables'] = "Vybrat jednotlivé tabulky";
 $l['file_type'] = "Typ souboru";
 $l['file_type_desc'] = "Select the file type you would like the database backup saved as.";
 $l['gzip_compressed'] = "GZIP komprese";
-$l['plain_text'] = "Bez komprese - plain text";
+$l['plain_text'] = "Bez komprese v plain textu";
 $l['save_method'] = "Metoda uložení";
-$l['save_method_desc'] = "Vyber motodu, kterou si přeješ použít k uložit zálohu";
+$l['save_method_desc'] = "Vyber motodu, kterou si přeješ použít k uložení zálohy";
 $l['backup_directory'] = "Složka pro zálohy";
-$l['backup_contents'] = "Obsah zálohy";
+$l['backup_contents'] = "Obsah záloh";
 $l['backup_contents_desc'] = "Vyber informaci, která má být obsažena v záloze";
 $l['structure_and_data'] = "Struktura a Data";
 $l['structure_only'] = "Pouze Struktura";
@@ -40,19 +40,18 @@ $l['perform_backup'] = "Vytvořit zálohu";
 $l['backup_filename'] = "Název zálohy";
 $l['file_size'] = "Velikost";
 $l['creation_date'] = "Vytvořena dne";
-$l['no_backups'] = "Zatím nebyly vytvořeny žádné zálohy databáze.";
+$l['no_backups'] = "Bohužel, zatím žádné zálohy databáze nebyly vytvořeny.";
 
 $l['error_file_not_specified'] = "Nevybral si zálohu databáze ke stažení.";
-$l['error_invalid_backup'] = "Soubor, který si označil je buď neplatný nebo neexistuje.";
-$l['error_backup_doesnt_exist'] = "Požadovaná záloha bohužel neexistuje.";
-$l['error_backup_not_deleted'] = "Záloha nebyla vymazána.";
-$l['error_tables_not_selected'] = "Nevybral si tabulku, která by se měla zálohovat.";
+$l['error_invalid_backup'] = "Soubor, který si označil buď neexistuje nebo je neplatný";
+$l['error_backup_doesnt_exist'] = "Požadovaná záloha neexistuje.";
+$l['error_backup_not_deleted'] = "Záloha nebyla smazána.";
+$l['error_tables_not_selected'] = "Nevybral si tabulku, kterou chceš zálohovat.";
 $l['error_no_zlib'] = "Knihovna zlib pro PHP není povolena - nemůžeš vytvořit kompresovanou GZIP zálohu.";
 
-$l['alert_not_writable'] = "Tvá složka s názvem backups (která se nachází ve složce /admin) není zapisovatelná. Skript nemůže zálohovat tvojí databázi na server.";
+$l['alert_not_writable'] = "Tvá složka s názvem backups, která se nachází ve složce /admin nemá práva pro zápis. Skript nemůže zazálohovat tvojí databázi!";
 
-$l['confirm_backup_deletion'] = "Jsi si jistý, že chceš smazat tuto zálohu?";
+$l['confirm_backup_deletion'] = "Jsi si jistý, že chceš vymazat tuto zálohu?";
 
-$l['success_backup_deleted'] = "Záloha byla úspěšně vymazána.";
+$l['success_backup_deleted'] = "Zálohu si smazal.";
 $l['success_backup_created'] = "Záloha byla úspešně vytvořena.";
-
