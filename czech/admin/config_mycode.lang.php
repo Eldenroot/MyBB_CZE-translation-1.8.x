@@ -27,8 +27,8 @@ $l['activate_mycode'] = "Activate MyCode";
 $l['deactivate_mycode'] = "Deactivate MyCode";
 $l['delete_mycode'] = "Delete MyCode";
 $l['no_mycode'] = "No custom MyCodes exist at this time.";
-$l['save_mycode'] = "Save MyCode";
-$l['add_mycode'] = "Add MyCode";
+$l['save_mycode'] = "Uložit MyCode";
+$l['add_mycode'] = "Přidat MyCode";
 $l['changes_not_saved'] = "Your changes have not yet been saved.";
 
 $l['sandbox'] = "Sandbox";
@@ -56,4 +56,3 @@ $l['success_activated_mycode'] = "The selected MyCode has been activated success
 $l['confirm_mycode_deletion'] = "Are you sure you wish to delete this MyCode?";
 
 $l['mycode_sandbox_test_error'] = 'There was an error fetching the test results.';
-

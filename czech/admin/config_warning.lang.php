@@ -6,7 +6,7 @@
  */
 
 $l['warning_system'] = "Systém napomenutí";
-$l['warning_types'] = "Warning Types";
+$l['warning_types'] = "Typy napomenutí";
 $l['warning_types_desc'] = "Here you can manage the list of different warning types staff are allowed to issue to users.";
 $l['add_warning_type'] = "Add New Warning Type";
 $l['add_warning_type_desc'] = "Here you can create a new predefined warning type. Warning types are selectable when warning users and you can define the number of points to add for this type as well as the time period before warnings of this type expire.";
@@ -77,4 +77,3 @@ $l['success_warning_type_deleted'] = "The selected warning type has been deleted
 
 $l['confirm_warning_level_deletion'] = "Are you sure you wish to delete this warning level?";
 $l['confirm_warning_type_deletion'] = "Are you sure you wish to delete this warning type?";
-

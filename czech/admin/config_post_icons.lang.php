@@ -25,7 +25,7 @@ $l['path_to_images'] = "Path to Images";
 $l['path_to_images_desc'] = "This is the path to the folder that the images are in.";
 $l['show_post_icons'] = "Show Post Icons";
 $l['image'] = "Ikonka";
-$l['add'] = "Add?";
+$l['add'] = "Přidat?";
 $l['save_post_icons'] = "Save Post Icons";
 
 $l['no_post_icons'] = "There are no post icons on your forum at this time.";

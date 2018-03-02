@@ -11,7 +11,7 @@ $l['change_settings_desc'] = "Tato část ti umožní spravovat všechna různá
 $l['add_new_setting'] = "Přidat nové nastavení";
 $l['add_new_setting_desc'] = "V této části můžeš přidat nové nastavení pro tvé fórum.";
 $l['modify_existing_settings'] = "Upravit nastavení";
-$l['modify_existing_settings_desc'] = "This section allows you to modify an existing setting on your forum.";
+$l['modify_existing_settings_desc'] = "Tato část ti umožnuje upravovat již existující nastavení tvého fóra.";
 $l['add_new_setting_group'] = "Add New Setting Group";
 $l['add_new_setting_group_desc'] = "This section allows you to create a setting group to categorize individual settings.";
 $l['edit_setting_group'] = "Edit Setting Group";
@@ -102,4 +102,3 @@ $l['success_duplicate_settings_deleted'] = "All duplicate setting groups have be
 $l['searching'] = 'Hledám…';
 $l['search_error'] = 'There was an error fetching your search results:';
 $l['search_done'] = 'Hotovo!';
-

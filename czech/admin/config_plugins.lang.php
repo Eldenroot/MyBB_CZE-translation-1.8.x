@@ -24,11 +24,11 @@ $l['activate'] = "Aktivovat";
 $l['install_and_activate'] = "Nainstalovat &amp; aktivovat";
 $l['uninstall'] = "Odinstalovat";
 $l['created_by'] = "Vytvořeno uživatelem";
-$l['no_plugins'] = "There are no plugins on your forum at this time.";
-$l['no_active_plugins'] = "There are no active plugins on your forum.";
-$l['no_inactive_plugins'] = "There are no inactive plugins available.";
+$l['no_plugins'] = "V tuto chvíli nemáš žádné nainstalované pluginy.";
+$l['no_active_plugins'] = "V tuto chvíli nemáš žádné povolené/aktivované pluginy.";
+$l['no_inactive_plugins'] = "V tuto zde nejsou žádné zakázané pluginy.";
 
-$l['plugin_incompatible'] = "This plugin is incompatible with MyBB {1}";
+$l['plugin_incompatible'] = "Tento plugin je nekompatibilní s verzí MyBB {1}";
 
 $l['recommended_plugins_for_mybb'] = "Doporučené pluginy pro MyBB {1}";
 $l['browse_results_for_mybb'] = "Browse Results for MyBB {1}";
