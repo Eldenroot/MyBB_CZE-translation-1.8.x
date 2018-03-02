@@ -12,7 +12,7 @@ $l['find_attachments'] = "Přílohy";
 $l['find_attachments_desc'] = "Using the attachments search system you can search for specific files users have attached to your forums. Begin by entering some search terms below. All fields are optional and won't be included in the criteria unless they contain a value.";
 $l['find_orphans'] = "Find Orphaned Attachments";
 $l['find_orphans_desc'] = "Orphaned attachments are attachments which are for some reason missing in the database or the file system. This utility will assist you in locating and removing them.";
-$l['attachment_stats'] = "Attachment Statistics";
+$l['attachment_stats'] = "Statistiky příloh";
 $l['attachment_stats_desc'] = "Below are some general statistics for the attachments currently on your forum.";
 
 // Errors
@@ -28,25 +28,25 @@ $l['error_not_attached'] = "Attachment was uploaded over 24 hours ago but not at
 $l['error_does_not_exist'] = "Thread or post for this attachment no longer exists.";
 
 // Success
-$l['success_deleted'] = "The selected attachments have been deleted successfully.";
+$l['success_deleted'] = "Zvolené přílohy byly úspěšny vymazány.";
 $l['success_orphan_deleted'] = "The selected orphaned attachment(s) have been deleted successfully.";
 $l['success_count'] = '{1} attachment(s) removed successfully.';
 $l['success_no_orphans'] = "There are no orphaned attachments on your forum.";
 
 // Confirm
-$l['confirm_delete'] = "Are you sure you wish to delete the selected attachments?";
+$l['confirm_delete'] = "Jsi si doopravdy jistý, že chceš zvolené přílohy nenávratně vymazat?";
 
 // == Pages
 // = Stats
 $l['general_stats'] = "Základní statistiky";
 $l['stats_attachment_stats'] = "Attachments - Attachment Statistics";
-$l['num_uploaded'] = "<strong>No. Uploaded Attachments</strong>";
-$l['space_used'] = "<strong>Attachment Space Used</strong>";
+$l['num_uploaded'] = "<strong>Počet nahraných příloh</strong>";
+$l['space_used'] = "<strong>Velikost všech příloh</strong>";
 $l['bandwidth_used'] = "<strong>Estimated Bandwidth Usage</strong>";
-$l['average_size'] = "<strong>Average Attachment Size</strong>";
-$l['size'] = "Size";
+$l['average_size'] = "<strong>Průměrná velikost příloh</strong>";
+$l['size'] = "Velikost";
 $l['posted_by'] = "Přiloženo uživatelem";
-$l['thread'] = "Thread";
+$l['thread'] = "Vlákno";
 $l['downloads'] = "Stažené";
 $l['date_uploaded'] = "Datum nahrání";
 $l['popular_attachments'] = "Top 5 Most Popular Attachments";
@@ -63,8 +63,8 @@ $l['reason_not_in_table'] = "Not in attachments table";
 $l['reason_file_missing'] = "Attached file missing";
 $l['reason_thread_deleted'] = "Thread been deleted";
 $l['reason_post_never_made'] = "Post never made";
-$l['unknown'] = "Unknown";
-$l['results'] = "Results";
+$l['unknown'] = "Neznámé";
+$l['results'] = "Výsledky";
 $l['step1'] = "Krok 1";
 $l['step2'] = "Krok 2";
 $l['step1of2'] = "Krok 1 of 2 - File System Scan";
@@ -76,25 +76,25 @@ $l['scanning'] = 'Scanning..';
 
 // = Attachments / Index
 $l['index_find_attachments'] = "Attachments - Find Attachments";
-$l['find_where'] = "Find attachments where...";
-$l['name_contains'] = "File name contains";
+$l['find_where'] = "Najít přílohu";
+$l['name_contains'] = "Jméno přílohy obsahuje";
 $l['name_contains_desc'] = "To search by wild card enter *.[file extension]. Example: *.zip.";
-$l['type_contains'] = "File type contains";
-$l['forum_is'] = "Forum is";
-$l['username_is'] = "Posters' username is";
-$l['more_than'] = "More than";
-$l['greater_than'] = "Greater than";
+$l['type_contains'] = "Typ přílohy obsahuje";
+$l['forum_is'] = "Forum je";
+$l['username_is'] = "Přezdívka uživatele který přílohu nahrál je";
+$l['more_than'] = "Více než";
+$l['greater_than'] = "Větší než";
 $l['is_exactly'] = "Is exactly";
-$l['less_than'] = "Less than";
+$l['less_than'] = "Méně než";
 $l['date_posted_is'] = "Date posted is";
-$l['days_ago'] = "days ago";
-$l['file_size_is'] = "File size is";
+$l['days_ago'] = "před dny";
+$l['file_size_is'] = "Velikost souboru je";
 $l['kb'] = "KB";
 $l['download_count_is'] = "Download count is";
 $l['display_options'] = "Display Options";
-$l['filename'] = "File Name";
-$l['filesize'] = "File Size";
-$l['download_count'] = "Download Count";
+$l['filename'] = "Název souboru";
+$l['filesize'] = "Velikost souboru";
+$l['download_count'] = "Počet stažení";
 $l['post_username'] = "Post Username";
 $l['asc'] = "Ascending";
 $l['desc'] = "Descending";
@@ -105,5 +105,4 @@ $l['in'] = "in";
 // Buttons
 $l['button_delete_orphans'] = "Delete Checked Orphans";
 $l['button_delete_attachments'] = "Delete Checked Attachments";
-$l['button_find_attachments'] = "Find Attachments";
-
+$l['button_find_attachments'] = "Najít přílohy";
