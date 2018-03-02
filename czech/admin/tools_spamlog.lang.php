@@ -5,7 +5,7 @@
  */
 
 
-$l['spam_logs']       = 'Ochrana proti spamu';
+$l['spam_logs']       = 'Anti-spamová protekce';
 $l['spam_logs_desc']  = 'V této části můžeš vidět historii uživatelů, které zablokoval spam filter';
 $l['prune_spam_logs']       = 'Smazat historii spamu';
 $l['prune_spam_logs_desc']  = 'Here you can prune the spam logs matching a specified criteria.';
