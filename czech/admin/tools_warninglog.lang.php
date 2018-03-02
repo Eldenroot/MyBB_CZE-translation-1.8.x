@@ -7,13 +7,13 @@
 
 
 $l['warning_logs'] = "Historie napomenutí";
-$l['warning_logs_desc'] = "V této části můžeš vidět historii uživatelů, kteří byli napomenuti.";
+$l['warning_logs_desc'] = "V této části můžeš vidět historii uživatelů, kteří byli v minulosti napomenuti.";
 $l['warned_user'] = "Napomenutý uživatel";
-$l['warning'] = "Warning";
+$l['warning'] = "Napomenutí";
 $l['date_issued'] = "Uděleno dne";
 $l['expires'] = "Vyprší";
 $l['expiry_date'] = "Vyprší dne";
-$l['issued_date'] = "Udělenod ne";
+$l['issued_date'] = "Uděleno dne";
 $l['issued_by'] = "Uděleno";
 $l['details'] = "Detaily";
 $l['filter_warning_logs'] = "Hledat v záznamech systému napomenutí";
