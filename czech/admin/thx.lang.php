@@ -5,7 +5,7 @@
  * Version: 2.5.3
  * Plugin Language File: Czech
  */
-$l['thx_title'] = "Thanks system";
+$l['thx_title'] = "Systém poděkování";
 $l['thx_desc'] = "Add a new button on forums where apply to thanks users";
 $l['thx_config'] = "Configure Plugin";
 $l['thx_config_alerts'] = "You have installed MyAlerts but you have to configure propertly to use with this plugin...";
