@@ -5,7 +5,7 @@
  *
  */
 
-$l['mass_mail'] = "Mass Mail";
+$l['mass_mail'] = "Hromadné e-maily";
 
 $l['mass_mail_queue'] = "Mass Mail Queue";
 $l['mass_mail_queue_desc'] = "Here you can manage mass mailings that are currently being sent or are queued for the future.";
@@ -17,27 +17,27 @@ $l['edit_mass_mail'] = "Edit Mass Mailing";
 $l['edit_mass_mail_desc'] = "Here you can edit a mass mailing and its options.";
 $l['send_mass_mail'] = "Send Mass Mailing";
 
-$l['email_addr'] = "Email Address";
-$l['board_name'] = "Board Name";
-$l['board_url'] = "Board URL";
+$l['email_addr'] = "E-mailová adresa";
+$l['board_name'] = "Název fóra";
+$l['board_url'] = "URL odkaz fóra";
 $l['personalize_message'] = "Personalize this message:";
 
 $l['message_settings'] = "Message Settings";
-$l['subject'] = "Subject";
+$l['subject'] = "Předmět";
 $l['subject_desc'] = "Please enter the subject of the message.";
-$l['send_via_email'] = "Send via e-mail";
-$l['send_via_pm'] = "Send via private message";
-$l['message_type'] = "Message Type";
-$l['deliver_immediately'] = "Deliver immediately";
-$l['deliver_specific'] = "Deliver on a specific date";
-$l['delivery_date'] = "Delivery Date";
+$l['send_via_email'] = "Odeslat e-mailem";
+$l['send_via_pm'] = "Odeslat soukromou zprávou";
+$l['message_type'] = "Typ zprávy";
+$l['deliver_immediately'] = "Doručit okamžitě";
+$l['deliver_specific'] = "Doručit v naplánovaný den";
+$l['delivery_date'] = "Doručit dne";
 $l['delivery_date_desc'] = "Please select the date and time you want this mass mailing to be delivered";
 $l['per_page'] = "Per Page";
 $l['per_page_desc'] = "Please enter the number of mass mailings to run per page.";
 $l['plain_text_only'] = "Plain Text Only";
 $l['html_only'] = "HTML Only";
 $l['html_and_plain_text'] = "HTML and Plain Text";
-$l['message_format'] = "Message Format";
+$l['message_format'] = "Formát zprávy";
 $l['define_html_message'] = "Define the HTML Message";
 $l['define_html_message_desc'] = "Enter the HTML version of the message";
 $l['auto_gen_plain_text'] = "Attempt to automatically generate text version";
@@ -57,19 +57,19 @@ $l['days'] = "Days";
 $l['weeks'] = "Weeks";
 $l['months'] = "Months";
 $l['years'] = "Years";
-$l['ago'] = "ago";
+$l['ago'] = "před";
 $l['user_last_active'] = "User was Last Active";
 $l['user_registered'] = "User Registered";
 $l['save_mass_mail'] = "Save Mass Mail";
 
-$l['step_four'] = "Step 4";
+$l['step_four'] = "4. krok";
 $l['delivery_method'] = "Delivery Method";
 $l['private_message'] = "Private Message";
 $l['email'] = "E-mail";
-$l['subject'] = "Subject";
+$l['subject'] = "Předmět";
 $l['message'] = "Message";
 $l['text_based'] = "Text Based";
-$l['preview'] = "Preview";
+$l['preview'] = "Náhled";
 $l['mass_mail_preview'] = "Mass Email Preview";
 $l['html_based'] = "HTML Based";
 $l['total_recipients'] = "Total Recipients";
@@ -77,27 +77,27 @@ $l['change_recipient_conds'] = "Change recipient conditions";
 $l['review_message'] = "Review Your Message";
 $l['define_delivery_date'] = "Define Delivery Date";
 $l['schedule_for_delivery'] = "Schedule for Delivery";
-$l['username'] = "Username";
+$l['username'] = "Přezdívka";
 
-$l['step_three'] = "Step 3";
+$l['step_three'] = "3. krok";
 $l['next_step'] = "Next Step";
 
-$l['step_two'] = "Step 2";
+$l['step_two'] = "2. krok";
 $l['review_text_version'] = "Review Text Version";
 $l['review_text_version_desc'] = "Please review the automatically generated text version";
 
-$l['step_one'] = "Step 1";
+$l['step_one'] = "1. krok";
 
 $l['status'] = "Status";
 $l['recipients'] = "Recipients";
-$l['delivered'] = "Delivered";
+$l['delivered'] = "Doručeno";
 $l['canceled'] = "Canceled";
-$l['resend'] = "Resend";
+$l['resend'] = "Znovu odeslat";
 $l['no_archived_messages'] = "You do not have any previously sent or canceled mass mailings.";
 
-$l['draft'] = "Draft";
+$l['draft'] = "Rozepsané";
 $l['queued'] = "Queued";
-$l['delivering'] = "Delivering";
+$l['delivering'] = "Odesílá se";
 $l['na'] = "N/A";
 $l['mass_mail_cancel_confirmation'] = "Are you sure you wish to cancel the delivery of this mass mailing?";
 $l['no_unsent_messages'] = "You do not have any unsent, queued or currently delivering mass mailings.";
@@ -117,4 +117,3 @@ $l['success_mass_mail_resent'] = "The mass mailing has been copied successfully.
 $l['success_mass_mail_canceled'] = "The mass mailing delivery has been canceled successfully.";
 
 $l['mass_mail_deletion_confirmation'] = "Are you sure you want to delete this mass mailing?";
-
