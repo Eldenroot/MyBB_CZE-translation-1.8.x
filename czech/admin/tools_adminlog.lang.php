@@ -11,7 +11,7 @@ $l['admin_logs_desc'] = "Here you can view, prune, and search the actions admini
 $l['prune_admin_logs'] = "Prune Administrator Logs";
 $l['prune_admin_logs_desc'] = "Here you can prune the administrator logs matching a specified criteria.";
 
-$l['no_adminlogs'] = "There are no log entries with the selected criteria.";
+$l['no_adminlogs'] = "Nejsou zde žádné záznamy s požadovanými kritérii.";
 
 $l['username'] = "Přezdívka";
 $l['date'] = "Datum";
@@ -31,8 +31,8 @@ $l['prune_administrator_logs'] = "Prune Administrator Logs";
 $l['date_range'] = "Date range:";
 $l['module'] = "Module:";
 
-$l['asc'] = "Ascending";
-$l['desc'] = "Descending";
+$l['asc'] = "Vzestupně";
+$l['desc'] = "Sestupně";
 
 $l['in'] = "in";
 $l['order'] = "order";
@@ -307,5 +307,3 @@ $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 $l['admin_log_user_mass_mail_delete'] = "Smazal hromadný e-mail (newsletter) #{1} ({2})";
 
 $l['admin_log_admin_locked_out'] = 'Z bezpečnostních důvodu došlo k zablokování přístupu do administračního panelu  #{1} uživateli/ce ({2}) - mnoho neúspěšných pokusů o přihlášení.';
-
-

@@ -11,7 +11,7 @@ $l['mod_logs_desc'] = "Here you can view, prune, and search the moderator logs. 
 $l['prune_mod_logs'] = "Prune Moderator Logs";
 $l['prune_mod_logs_desc'] = "Here you can prune the moderator logs matching a specified criteria.";
 
-$l['no_modlogs'] = "There are no log entries with the selected criteria.";
+$l['no_modlogs'] = "Nejsou zde žádné záznamy s požadovanými kritérii.";
 
 $l['username'] = "Přezdívka";
 $l['date'] = "Datum";
@@ -35,8 +35,8 @@ $l['older_than'] = "Starší než ";
 $l['forum_name'] = "Forum Name";
 $l['thread_subject'] = "Thread Subject";
 
-$l['asc'] = "Ascending";
-$l['desc'] = "Descending";
+$l['asc'] = "Vzestupně";
+$l['desc'] = "Sestupně";
 
 $l['in'] = "in";
 $l['order'] = "order";
@@ -47,4 +47,3 @@ $l['date_range'] = "Date range:";
 
 $l['success_pruned_mod_logs'] = "The moderator logs have been pruned successfully.";
 $l['note_logs_locked'] = "For security reasons, logs less than 24 hours old cannot be pruned.";
-

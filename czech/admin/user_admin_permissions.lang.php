@@ -8,7 +8,7 @@
 $l['admin_permissions'] = "Práva administrátorů";
 $l['user_permissions'] = "Práva uživatelů";
 $l['user_permissions_desc'] = "Here you can manage the administrator permissions for individual users. This effectively allows you to lock certain administrators out of different areas of the Admin CP.";
-$l['group_permissions'] = "Group Permissions";
+$l['group_permissions'] = "Práva skupin";
 $l['group_permissions_desc'] = "Administrator permissions can also be applied to user groups that have permission to access the Admin CP. Similarly you can use this tool to lock out entire administrative groups from accessing the different areas of the Admin CP.";
 $l['default_permissions'] = "Default Permissions";
 $l['default_permissions_desc'] = "The default administrative permissions are those applied to users who do not have custom administrator permissions set for them or are not inheriting group administrator permissions.";
@@ -43,4 +43,3 @@ $l['success_perms_deleted'] = 'The admin user/usergroup permissions has been rev
 
 $l['confirm_perms_deletion'] = "Jsi si jistý, že chceš odebrat práva tomuto administrátorovi případně uživatelské skupině?";
 $l['confirm_perms_deletion2'] = "Jsi si jistý, že chceš odebrat práva tomuto uživateli\těmto uživatelům?";
-

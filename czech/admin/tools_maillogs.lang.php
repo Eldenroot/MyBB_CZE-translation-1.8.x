@@ -17,7 +17,7 @@ $l['ip_address'] = "IP adresa";
 $l['subject'] = "Předmět";
 $l['date'] = "Datum";
 $l['email'] = "E-mail";
-$l['date_sent'] = "Date odeslání";
+$l['date_sent'] = "Datum odeslání";
 $l['deleted'] = "Smazáno";
 $l['sent_using_send_thread_feature'] = "Sent using the Send Thread to Friend feature";
 $l['thread'] = "Thread:";
@@ -34,4 +34,3 @@ $l['subject_contains'] = "Předmět obsahuje";
 $l['find_emails_to_user'] = "Find all emails sent to this user";
 
 $l['error_invalid_user'] = "Přezdívka, kterou jsi zadal, neexistuje.";
-
