@@ -6,7 +6,7 @@
  */
 
 $l['warning_system'] = "Systém napomenutí";
-$l['warning_types'] = "Warning Types";
+$l['warning_types'] = "Typy napomenutí";
 $l['warning_types_desc'] = "Here you can manage the list of different warning types staff are allowed to issue to users.";
 $l['add_warning_type'] = "Add New Warning Type";
 $l['add_warning_type_desc'] = "Here you can create a new predefined warning type. Warning types are selectable when warning users and you can define the number of points to add for this type as well as the time period before warnings of this type expire.";
@@ -38,28 +38,28 @@ $l['warning_points_percentage'] = "Percentage of Maximum Warning Points";
 $l['warning_points_percentage_desc'] = "Please enter a numeric value between 1 and 100.";
 $l['action_to_be_taken'] = "Action to be Taken";
 $l['action_to_be_taken_desc'] = "Select the action you wish to be taken when users reach the above level.";
-$l['ban_user'] = "Ban User";
+$l['ban_user'] = "Zabanovat uživatele";
 $l['banned_group'] = "Banned group:";
-$l['ban_length'] = "Ban length:";
+$l['ban_length'] = "Délka trvání banu:";
 $l['suspend_posting_privileges'] = "Suspend Posting Privileges";
 $l['suspension_length'] = "Suspension length:";
-$l['moderate_posts'] = "Moderate Posts";
+$l['moderate_posts'] = "Moderatovat příspěvky";
 $l['moderation_length'] = "Moderation length:";
 $l['save_warning_level'] = "Save Warning Level";
 
-$l['title'] = "Title";
+$l['title'] = "Název";
 $l['points_to_add'] = "Points to Add";
 $l['points_to_add_desc'] = "The number of points to add to a users warning level.";
 $l['warning_expiry'] = "Warning Expiry";
 $l['warning_expiry_desc'] = "How long after this warning is given do you want it to expire?";
 $l['save_warning_type'] = "Save Warning Type";
 
-$l['expiration_hours'] = "Hour(s)";
-$l['expiration_days'] = "Day(s)";
-$l['expiration_weeks'] = "Week(s)";
-$l['expiration_months'] = "Month(s)";
-$l['expiration_never'] = "Never";
-$l['expiration_permanent'] = "Permanent";
+$l['expiration_hours'] = "Hodina/y";
+$l['expiration_days'] = "Den/dny";
+$l['expiration_weeks'] = "Týden/Týdny(s)";
+$l['expiration_months'] = "Měsíc/e";
+$l['expiration_never'] = "Nikdy";
+$l['expiration_permanent'] = "Doživotní";
 
 $l['error_invalid_warning_level'] = "The specified warning level does not exist.";
 $l['error_invalid_warning_percentage'] = "You did not enter a valid percentage value for this warning level. Your percentage value must be between 1 and 100.";
@@ -75,6 +75,5 @@ $l['success_warning_type_created'] = "The warning type has been created successf
 $l['success_warning_type_updated'] = "The warning type has been updated successfully.";
 $l['success_warning_type_deleted'] = "The selected warning type has been deleted successfully.";
 
-$l['confirm_warning_level_deletion'] = "Are you sure you wish to delete this warning level?";
-$l['confirm_warning_type_deletion'] = "Are you sure you wish to delete this warning type?";
-
+$l['confirm_warning_level_deletion'] = "Jsi si doopravdy jistý, že chceš vymazat warning level?";
+$l['confirm_warning_type_deletion'] = "Jsi si doopravdy jistý, že chceš vymazat warning type?";

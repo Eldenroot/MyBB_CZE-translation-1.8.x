@@ -6,7 +6,7 @@
  */
 
 $l['languages'] = "Jazyky";
-$l['languages_desc'] = "Které jazykové balíky máš nainstalované můžeš vidět níže. Můžeš si vybrat mezi upravením jazykových souborů, případně je také můžeš upravit jiným jazykem nebo změnit nastavení jazyka.";
+$l['languages_desc'] = "Které jazykové balíky máš nainstalované můžeš vidět níže. Můžeš jazykové soubory upravit, případně změnit nastavení jazyka.";
 $l['find_language_packs'] = "Vyhledat jazykové balíky";
 $l['language_files'] = "Jazykové soubory";
 $l['language_files_desc'] = "Below are the files within the selected language, for both the front-end and the admin control panel. Here you can choose to edit these files.";
@@ -19,7 +19,7 @@ $l['edit_language_variables_desc'] = "Here you can edit the different language s
 $l['edit_properties_desc'] = "Here you can edit a language pack properties.";
 $l['installed_language_packs'] = "Nainstalované jazykové mutace";
 $l['front_end'] = "Front End";
-$l['admin_cp'] = "Admin CP";
+$l['admin_cp'] = "Administrační rozhraní";
 $l['save_language_file'] = "Save Language File";
 $l['nav_editing_set'] = "Editing Language Set Properties";
 $l['edit_properties'] = "Edit Language Pack Properties";

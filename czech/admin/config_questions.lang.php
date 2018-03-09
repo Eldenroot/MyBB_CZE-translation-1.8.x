@@ -6,9 +6,9 @@
  */
 
 $l['security_questions'] = "Registrační otázky";
-$l['security_questions_desc'] = "Zde můžeš vytvářet/upravovat otázky (= ochrana proti spamu), které se ukážou během registrace.";
+$l['security_questions_desc'] = "Zde můžeš vytvářet a upravovat otázky, které se ukáží během registrace a ochrání tě proti spamu.";
 $l['add_new_question'] = "Přidat novou otázku";
-$l['add_new_question_desc'] = "Zde můžeš přidat otázky, které se zobrazí při registraci a k ní musíš přidat odpovědi, které požaduješ při vyplnění.";
+$l['add_new_question_desc'] = "Zde můžeš přidat otázky, které se zobrazí při registraci a musíš k ní přidat odpovědi, které vyžaduješ pro správné vyplnění otázky.";
 $l['edit_question'] = "Upravit otázku";
 $l['edit_question_desc'] = "Zde můžeš upravit registrační otázku.";
 
@@ -39,4 +39,3 @@ $l['success_question_enabled'] = "Otázka byla úspěšně povolena.";
 $l['success_question_deleted'] = "Otázka byla úspěšně vymazána.";
 
 $l['confirm_question_deletion'] = "Jsi si jistý, že chceš smazat tuhle otázku?";
-

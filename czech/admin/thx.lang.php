@@ -5,9 +5,9 @@
  * Version: 2.5.3
  * Plugin Language File: Czech
  */
-$l['thx_title'] = "Thanks system";
-$l['thx_desc'] = "Add a new button on forums where apply to thanks users";
-$l['thx_config'] = "Configure Plugin";
+$l['thx_title'] = "Systém poděkování";
+$l['thx_desc'] = "Přidá tlačítko na fóru, kde může uživatel může poděkovat dalšímu uživateli za velmi podařilý příspěvek.";
+$l['thx_config'] = "Konfigurovat plugin.";
 $l['thx_config_alerts'] = "You have installed MyAlerts but you have to configure propertly to use with this plugin...";
 $l['thx_config_alerts_thx'] = "Thank you mybb plugin enabled and already to use (MyAlerts was detected and is a version compatible with MyBB 1.8)";
 $l['thx_config_alerts_thx_config'] = "Plugin activated but you must configure plugins options to make MyAlerts compatible.";
@@ -19,8 +19,8 @@ $l['thx_admin_thx_group_opt1'] = "Thanks ammount per day by usergroup:  ";
 $l['thx_admin_thx_group_opt2'] = "Reputation points to give when use thanks button:  ";
 $l['thx_admin_thx_group_opt3'] = "Newpoints earned when user thanks your posts:  ";
 $l['thx_admin_thx_group_opt4'] = "Newpoints gived when user use thanks button:  ";
-$l['thx_disabled'] = "Plugin Disabled";
-$l['thx_opt_title'] = "[Plugin] Thanks system";
+$l['thx_disabled'] = "Plugin deaktivován!";
+$l['thx_opt_title'] = "[Plugin] Systém poděkování";
 $l['thx_opt_desc'] = "Configuration options";
 $l['thx_opt_enable'] = "Enable/Disable plugin";
 $l['thx_opt_enable_desc'] = "Enable or disable plugin (do not delete thanks)";

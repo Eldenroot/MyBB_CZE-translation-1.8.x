@@ -344,7 +344,7 @@ $l['locked_out_message'] = "Ahoj {1},
 Tvůj administrátorský účet na stránce {2} byl zablokován.
 
 Je možné, že sis nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit za tebe
-Z bezpečnostních důvodu proto došlo k blokaci tvého účtu. 
+Z bezpečnostních důvodu proto došlo k blokaci tvého účtu.
 
 Pro odblokování účtu, prosím, klikni na níže uvedený odkaz:
 

@@ -6,36 +6,36 @@
  */
 
 $l['help_documents'] = "Nápověda pro uživatele";
-$l['add_new_section'] = "Add New Section";
-$l['add_new_section_desc'] = "Here you can add a new help section.";
-$l['add_new_document'] = "Add New Document";
-$l['add_new_document_desc'] = "Here you can add a new help document.";
-$l['edit_section'] = "Edit Section";
-$l['edit_section_desc'] = "Here you can edit a help section.";
-$l['edit_document'] = "Edit Document";
-$l['edit_document_desc'] = "Here you can edit a help document.";
+$l['add_new_section'] = "Přidat novou sekci";
+$l['add_new_section_desc'] = "Zde můžeš přidat novou sekci pro nápovědu.";
+$l['add_new_document'] = "Přidat nový dokument";
+$l['add_new_document_desc'] = "Zde můžeš přidat nový dokument pro nápovědu.";
+$l['edit_section'] = "Upravit sekci";
+$l['edit_section_desc'] = "Zde můžeš upravit sekci nápovědy.";
+$l['edit_document'] = "Upravit dokument";
+$l['edit_document_desc'] = "Zde můžeš upravit dokument pro nápovědu.";
 $l['manage_help_documents'] = "Manage Help Documents";
 $l['manage_help_documents_desc'] = "This section allows you to manage your help documents.";
 
-$l['title'] = "Title";
-$l['short_description'] = "Short Description";
-$l['display_order'] = "Display Order";
+$l['title'] = "Název";
+$l['short_description'] = "Krátký popis";
+$l['display_order'] = "Zobrazit pořadí";
 $l['enabled'] = "Zobrazit?";
 $l['use_translation'] = "Use Translation?";
-$l['add_section'] = "Add Section";
-$l['add_document'] = "Add Document";
-$l['save_section'] = "Save Section";
-$l['save_document'] = "Save Document";
-$l['section'] = "Section";
-$l['document'] = "Document";
+$l['add_section'] = "Přidat sekci";
+$l['add_document'] = "Přidat dokument";
+$l['save_section'] = "Uložit sekci";
+$l['save_document'] = "Uložit dokument";
+$l['section'] = "Sekce";
+$l['document'] = "Dokument";
 $l['id'] = "ID";
 $l['custom_doc_sec'] = "Custom Document/Section";
 $l['default_doc_sec'] = "Default Document/Section";
 $l['no_help_documents'] = "There are no help documents on your forum at this time.";
 $l['section_document'] = "Section / Document";
 
-$l['error_section_missing_name'] = "You must specify a name for the section.";
-$l['error_section_missing_description'] = "You must specify a short description for the section.";
+$l['error_section_missing_name'] = "Musíš zadat název sekce.";
+$l['error_section_missing_description'] = "Musíš zadat krátký popisek pro sekci..";
 $l['error_section_missing_enabled'] = "You must specify yes or no for \"Enabled?\".";
 $l['error_section_missing_translation'] = "You must specify yes or no for \"Use Translation?\".";
 $l['error_missing_sid'] = "You must specify a section for the document.";
@@ -55,6 +55,5 @@ $l['success_help_document_updated'] = "The help document has been updated succes
 $l['success_section_deleted'] = "The selected help section has been deleted successfully.";
 $l['success_document_deleted'] = "The selected help document has been deleted successfully.";
 
-$l['confirm_section_deletion'] = "Are you sure you wish to delete this section?";
-$l['confirm_document_deletion'] = "Are you sure you wish to delete this document?";
-
+$l['confirm_section_deletion'] = "Jsi si doopravdy jistý, že chceš vymazat tuhle sekci?";
+$l['confirm_document_deletion'] = "Jsi si doopravdy jistý, že chceš vymazat tento dokument?";

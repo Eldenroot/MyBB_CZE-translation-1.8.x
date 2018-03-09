@@ -8,9 +8,9 @@
 $l['attachment_types'] = "Typy příloh";
 $l['attachment_types_desc'] = "V této sekci můžeš vytvořit a upravovat přípony, kterými definuješ typy souborů, které mohou uživatelé přiložit k příspěvku.";
 $l['add_new_attachment_type'] = "Přidat novou příponu přílohy";
-$l['add_attachment_type'] = "Add Attachment Type";
+$l['add_attachment_type'] = "Přidat novou příponu přílohy";
 $l['add_attachment_type_desc'] = "Adding a new attachment type will allow members to attach files of this type to their posts. You have the ability to control the extension, MIME type, maximum size and show a small icon for each attachment type.";
-$l['edit_attachment_type'] = "Edit Attachment Type";
+$l['edit_attachment_type'] = "Upravit příponu přílohy";
 $l['edit_attachment_type_desc'] = "You have the ability to control the extension, MIME type, maximum size and show a small MIME type for this attachment type.";
 
 $l['extension'] = "Přípona";
@@ -18,9 +18,9 @@ $l['maximum_size'] = "Maximální velikost";
 $l['no_attachment_types'] = "There are no attachment types on your forum at this time.";
 
 $l['name'] = "Název";
-$l['name_desc'] = "Napiš název jména typu přílohy.";
+$l['name_desc'] = "Napiš název přípony.";
 $l['file_extension'] = "Přípona souboru";
-$l['file_extension_desc'] = "Enter the file extension you wish to allow uploads for here (Do not include the period before the extension) (Example: txt)";
+$l['file_extension_desc'] = "Zadej název přípony, kterou si zde přeješ nahrát. Nepiš tečku před příponou! (Například: txt)";
 $l['mime_type'] = "MIME Type";
 $l['mime_type_desc'] = "Enter the MIME type sent by the server when downloading files of this type (<a href=\"http://www.freeformatter.com/mime-types-list.html\">See a list here</a>)";
 $l['maximum_file_size'] = "Maximální velikost (v KB)";
@@ -30,13 +30,13 @@ $l['limit_post_max_size'] = "Max Post Size: {1}";
 $l['limit_upload_max_filesize'] = "Upload Max File Size: {1}";
 $l['attachment_icon'] = "Ikona přílohy";
 $l['attachment_icon_desc'] = "If you wish to show a small attachment icon for attachments of this type then enter the path to it here. {theme} will be replaced by the image directory for the viewers theme allowing you to specify per-theme attachment icons.";
-$l['save_attachment_type'] = "Save Attachment Type";
+$l['save_attachment_type'] = "Uložit typ přílohy";
 
 $l['error_invalid_attachment_type'] = "You have selected an invalid attachment type.";
 $l['error_missing_mime_type'] = "You did not enter a MIME type for this attachment type";
 $l['error_missing_extension'] = "You did not enter a file extension for this attachment type";
 
-$l['success_attachment_type_created'] = "Přípona přílohy byla úspěšně vytvořena.";
+$l['success_attachment_type_created'] = "Typ přílohy byl úspěšně přidaný.";
 $l['success_attachment_type_updated'] = "Typ přílohy byl úspěšně aktualizován.";
 $l['success_attachment_type_deleted'] = "Typ přílohy byl úspěšně vymazán.";
 

@@ -8,7 +8,7 @@
 $l['post_icons'] = "Ikony příspěvků";
 $l['add_post_icon'] = "Přidat novou ikonu příspěvků";
 $l['add_post_icon_desc'] = "Here you can add a single new post icon.";
-$l['add_multiple_post_icons'] = "Add Multiple Post Icons";
+$l['add_multiple_post_icons'] = "Přidat více ikon najednou";
 $l['add_multiple_post_icons_desc'] = "Here you can add multiple new post icons.";
 $l['edit_post_icon'] = "Edit Post Icon";
 $l['edit_post_icon_desc'] = "Here you can edit a post icon.";
@@ -25,7 +25,7 @@ $l['path_to_images'] = "Path to Images";
 $l['path_to_images_desc'] = "This is the path to the folder that the images are in.";
 $l['show_post_icons'] = "Show Post Icons";
 $l['image'] = "Ikonka";
-$l['add'] = "Add?";
+$l['add'] = "Přidat?";
 $l['save_post_icons'] = "Save Post Icons";
 
 $l['no_post_icons'] = "There are no post icons on your forum at this time.";

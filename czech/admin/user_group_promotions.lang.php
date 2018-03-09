@@ -12,7 +12,7 @@ $l['edit_promotion_desc'] = "Here you can edit promotions which are automaticall
 $l['add_new_promotion'] = "Add New Promotion";
 $l['add_new_promotion_desc'] = "Here you can create new promotions which are automatically run on your board.";
 
-$l['title'] = "Title";
+$l['title'] = "Titul / Název";
 $l['short_desc'] = "Short Description";
 $l['post_count'] = "Post Count";
 $l['thread_count'] = "Thread Count";
@@ -88,4 +88,3 @@ $l['success_promo_added'] = 'The promotion has been created successfully.';
 
 $l['confirm_promo_disable'] = "Are you sure you want to disable this promotion?";
 $l['confirm_promo_deletion'] = "Are you sure you wish to delete this promotion?";
-

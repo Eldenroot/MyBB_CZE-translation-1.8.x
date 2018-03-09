@@ -5,7 +5,7 @@
  *
  */
 
-$l['report_reasons'] = "Důvody nahlášení příspěvku";
+$l['report_reasons'] = "Důvody pro nahlášení příspěvku";
 $l['report_reasons_desc'] = "Zde můžeš vytvořit a upravit důvody nahlášení příspěvku, které mohou být zvoleny, když uživatel bude chtít nahlásit nevhodný obsah.";
 $l['add_new_reason'] = "Přidat nový důvod";
 $l['add_new_reason_desc'] = "Přidej nový důvod pro uživatele, aby ho mohli vybrat při nahlášení nevhodného obsahu.";
@@ -62,4 +62,3 @@ $l['success_reason_updated'] = "Důvod byl úspěšně upraven.";
 $l['success_reason_deleted'] = "Důvod byl úspěšně vymazaný.";
 
 $l['confirm_reason_deletion'] = "Určitě si přeješ smazat tento důvod?";
-

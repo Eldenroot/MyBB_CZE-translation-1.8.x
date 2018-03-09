@@ -31,9 +31,9 @@ $l['success_attachments'] = "The selected attachments have been moderated succes
 $l['subject'] = "Předmět";
 $l['author'] = "Autor";
 $l['posted'] = "Posted";
-$l['ignore'] = "Ignore";
+$l['ignore'] = "Ignorovat";
 $l['approve'] = "Schválit";
-$l['forum'] = "Forum:";
+$l['forum'] = "Fórum:";
 $l['thread'] = "Vlákno:";
 $l['post'] = "Příspěvek:";
 $l['re'] = "RE:";
@@ -46,4 +46,3 @@ $l['mark_as_ignored'] = "Označit všechny jako ignorované";
 $l['mark_as_deleted'] = "Označit všechny pro smazání";
 $l['mark_as_approved'] = "Označit všechny jako schválené";
 $l['perform_action'] = "Provést akce";
-

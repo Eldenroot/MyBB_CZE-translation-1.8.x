@@ -27,8 +27,8 @@ $l['activate_mycode'] = "Activate MyCode";
 $l['deactivate_mycode'] = "Deactivate MyCode";
 $l['delete_mycode'] = "Delete MyCode";
 $l['no_mycode'] = "No custom MyCodes exist at this time.";
-$l['save_mycode'] = "Save MyCode";
-$l['add_mycode'] = "Add MyCode";
+$l['save_mycode'] = "Uložit MyCode";
+$l['add_mycode'] = "Přidat MyCode";
 $l['changes_not_saved'] = "Your changes have not yet been saved.";
 
 $l['sandbox'] = "Sandbox";
@@ -41,7 +41,7 @@ $l['result_actual'] = "Actual Result";
 $l['result_actual_desc'] = "The area below shows the actual result when the HTML is rendered.";
 $l['test'] = "Test MyCode";
 
-$l['error_missing_title'] = "You did not enter a title.";
+$l['error_missing_title'] = "Nezadal si název.";
 $l['error_missing_regex'] = "You did not enter a regular expression.";
 $l['error_regex_already_available'] = "You entered a regular expression which is already defined in another MyCode. Please provide a different regular expression for this MyCode.";
 $l['error_missing_replacement'] = "You did not enter a replacement.";
@@ -53,7 +53,6 @@ $l['success_updated_mycode'] = "The MyCode has been updated successfully.";
 $l['success_deactivated_mycode'] = "The selected MyCode has been deactivated successfully.";
 $l['success_activated_mycode'] = "The selected MyCode has been activated successfully.";
 
-$l['confirm_mycode_deletion'] = "Are you sure you wish to delete this MyCode?";
+$l['confirm_mycode_deletion'] = "Jsi si doopravdy jistý, že chceš odstranit tento MyCode?";
 
 $l['mycode_sandbox_test_error'] = 'There was an error fetching the test results.';
-

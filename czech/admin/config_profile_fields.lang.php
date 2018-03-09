@@ -13,7 +13,7 @@ $l['add_new_profile_field_desc'] = "Here you can add a new custom profile field.
 $l['edit_profile_field'] = "Upravit Profile Field";
 $l['edit_profile_field_desc'] = "Here you can edit a custom profile field.";
 
-$l['title'] = "Title";
+$l['title'] = "Název";
 $l['short_description'] = "Krátký popis";
 $l['maximum_length'] = "Maximální délka";
 $l['maximum_length_desc'] = "This maximum number of characters that can be entered. This only applies to text boxes and text areas.";

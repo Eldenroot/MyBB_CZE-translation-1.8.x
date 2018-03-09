@@ -6,12 +6,7 @@
  */
 
 $l['awaiting_activation'] = "Čekající na aktivaci";
-
-/**
- TO-DO: nezapomenout při korekci správne dopřeložit souvětí
- $l['awaiting_activation_desc'] = "Please note any user who is awaiting e-mail activation will not need to confirm their e-mail if they are activated here.";
-*/
-$l['awaiting_activation_desc'] = "Zde můžeš spravovat uživatelé, kteří čekající na aktivaci. Pokud zde aktivuješ uživatele u kterého se čeká na emailové potvrzení, tak nebude potřebova potvrdit aktivační e-mail.";
+$l['awaiting_activation_desc'] = "Zde můžeš ručně aktivovat uživatele, kteří čekající na aktivaci. Pokud uživatel nepotvrdil e-mailovou aktivaci a ty ho aktivuješ, tak už ho potvrzovat nemusí.";
 
 $l['manage_awaiting_activation'] = "Spravovat uživatele čekající na aktivaci";
 
@@ -52,4 +47,3 @@ Kde se budeš moct přihlásit pomocí přezdívky a hesla, které sis zvolil p�
 
 Budeme se těšit na tvojí návštěvu,
 Vedení fóra {2}";
-
