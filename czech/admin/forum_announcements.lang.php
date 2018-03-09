@@ -37,9 +37,9 @@ $l['error_invalid_start_date'] = "The starting date for the announcement is inva
 $l['error_invalid_end_date'] = "The ending date for the announcement is invalid.";
 $l['error_end_before_start'] = "The ending date must be after the start date.";
 
-$l['add_an_announcement'] = "Add an announcement";
-$l['update_an_announcement'] = "Update an announcement";
-$l['save_announcement'] = "Save Announcement";
+$l['add_an_announcement'] = "Přidat oznámení";
+$l['update_an_announcement'] = "Upravit oznámení";
+$l['save_announcement'] = "Uložit oznámení";
 $l['title'] = "Nadpis";
 $l['start_date'] = "Od";
 $l['end_date'] = "Do";
@@ -49,6 +49,6 @@ $l['allow_html'] = "Povolit HTML?";
 $l['allow_mycode'] = "Povolit MyCode?";
 $l['allow_smilies'] = "Povolit smajlíky?";
 $l['time'] = "Čas:";
-$l['set_time'] = "Set Time";
+$l['set_time'] = "Nastavit čas";
 
 $l['announcement_preview'] = 'Náhled oznámení';

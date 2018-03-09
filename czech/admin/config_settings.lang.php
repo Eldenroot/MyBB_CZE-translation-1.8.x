@@ -5,7 +5,7 @@
  *
  */
 
-$l['board_settings'] = "Nastavení fora";
+$l['board_settings'] = "Nastavení fóra";
 $l['change_settings'] = "Změnit nastavení";
 $l['change_settings_desc'] = "Tato část ti umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
 $l['add_new_setting'] = "Přidat nové nastavení";
@@ -65,10 +65,10 @@ $l['plugin_settings'] = "Nastavení pluginu";
 $l['show_all_settings'] = "Show All Settings";
 $l['settings_search'] = "Search For Settings";
 
-$l['confirm_setting_group_deletion'] = "Are you sure you wish to delete this setting group?";
+$l['confirm_setting_group_deletion'] = "Jsi si naprosto jistý, že chceš vymazat nastavení skupiny? (možná pro skupinu)";
 $l['confirm_setting_deletion'] = "Jsi si naprosto jistý, že chceš smazat tohle nastavení?";
 
-$l['error_missing_title'] = "You did not enter a title for this setting";
+$l['error_missing_title'] = "Nezadal si název pro tohle nastavení.";
 $l['error_missing_group_title'] = "You did not enter a title for this setting group";
 $l['error_invalid_gid'] = "You did not select a valid group to place this setting in";
 $l['error_invalid_gid2'] = "You have followed a link to an invalid setting group. Please ensure it exists.";
@@ -87,7 +87,7 @@ $l['error_chmod_settings_file'] = "The settings file \"./inc/settings.php\" isn'
 
 $l['success_setting_added'] = "Nastavení bylo úspěšně přidáno.";
 $l['success_setting_updated'] = "Nastavení bylo úspěšně upraveno";
-$l['success_setting_deleted'] = "The selected setting has been deleted successfully.";
+$l['success_setting_deleted'] = "Vybrané nastavení bylo úspěšně vymazáno.";
 $l['success_settings_updated'] = "The settings have been updated successfully.";
 $l['success_settings_updated_hiddencaptchaimage'] = '<div class="smalltext" style="font-weight: normal;">Please note that the <strong>Hidden CAPTCHA field</strong> setting was reverted to <strong>{1}</strong> due to a conflict with the <strong>{2}</strong> field in the registration form.</div>';
 $l['success_settings_updated_username_method'] = '<div class="smalltext" style="font-weight: normal;">Please note that the <b>Allowed Login Methods</b> setting was not updated due to multiple users using the same e-mail address at this time.</div>';
@@ -100,5 +100,5 @@ $l['success_setting_group_deleted'] = "The selected setting group has been delet
 $l['success_duplicate_settings_deleted'] = "All duplicate setting groups have been deleted successfully.";
 
 $l['searching'] = 'Hledám…';
-$l['search_error'] = 'There was an error fetching your search results:';
+$l['search_error'] = 'Vyskytl se error při načítání výsledků vyhledávání:';
 $l['search_done'] = 'Hotovo!';

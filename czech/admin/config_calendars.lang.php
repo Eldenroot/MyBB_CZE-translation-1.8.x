@@ -18,7 +18,7 @@ $l['order'] = "Pořadí";
 $l['no_calendars'] = "V tuto chvíli zde nejsou žádné kalendáře ve tvém fóru.";
 $l['save_calendar_orders'] = "Uložit pořadí kalendářů";
 
-$l['name'] = "Name";
+$l['name'] = "Název";
 $l['display_order'] = "Display Order";
 $l['week_start'] = "Start of Week";
 $l['week_start_desc'] = "Here you can set the day weeks should start on for this calendar.";
@@ -32,7 +32,7 @@ $l['saturday'] = "Sobota";
 $l['event_limit'] = "Počet údalostí";
 $l['event_limit_desc'] = "The number of events to be shown before a single link to all events on the particular day is shown instead.";
 $l['show_birthdays'] = "Ukázat narozeniny?";
-$l['show_birthdays_desc'] = "Do you wish to show birthdays of registered users in this calendar?";
+$l['show_birthdays_desc'] = "Chcete v kalendáři zobrazit narozeniny registrovaných uživatelů?";
 $l['moderate_events'] = "Moderate New Events?";
 $l['moderate_events_desc'] = "If this option is set to 'Yes,' all events will be moderated apart from those created by members with 'Bypass moderation queue' set for their calendar permissions.";
 $l['allow_html'] = "Povolit HTML v údalostech??";
@@ -54,7 +54,7 @@ $l['permissions_all'] = "Všichni?";
 $l['permissions_use_group_default'] = "Use Group Default";
 $l['save_permissions'] = "Uložit práva";
 
-$l['error_invalid_calendar'] = "The specified calendar does not exist.";
+$l['error_invalid_calendar'] = "Vybraný/Zvolený kalendář neexistuje..";
 $l['error_missing_name'] = "Nezadal si jméno pro tento kalendář.";
 $l['error_missing_order'] = "Nezadal si pořadí pro zobrazení tohoto kalendáře.";
 

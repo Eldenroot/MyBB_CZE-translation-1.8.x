@@ -32,7 +32,7 @@ $l['mass_edit_show_clickable'] = "Zobrazit ve výběru smajlíků v editoru př�
 $l['show_clickable'] = "Zobrazit ve výběru smajlíků v editoru příspěvků?";
 $l['show_clickable_desc'] = "Chceš, abys mohl najít smajlíka při psaní příspěvku?";
 $l['include'] = "Přidat?";
-$l['path_to_images'] = "Cesta k obrazkům";
+$l['path_to_images'] = "Cesta k obrázkům";
 $l['path_to_images_desc'] = "Tohle je cesta k složce ve které máš obrázky smajlíků.";
 $l['smilie_delete'] = "Smazat?";
 $l['save_smilie'] = "Uložit smajlíka";
@@ -61,4 +61,3 @@ $l['success_smilie_deleted'] = "Vybraný smajlík byl vymazán.";
 $l['success_mass_edit_updated'] = "Smajlíci byly úspěšně upraveni.";
 
 $l['confirm_smilie_deletion'] = "Jsi si jistý, že chceš smazat tohohle smajlíka?";
-

@@ -10,12 +10,12 @@ $l['banning'] = "Banování uživatelů";
 $l['banned_accounts'] = "Zabanované účty";
 $l['banned_accounts_desc'] = "Zde můžeš spravovat účty, kterým si v minulosti odepřel přístup na tvé fórum případně zde můžeš přidat účet, kterému se chystáš odepřít přísup na tvé fórum.";
 $l['ban_a_user'] = "Zabanování uživatele";
-$l['ban_a_user_desc'] = "Here you can ban a user.";
+$l['ban_a_user_desc'] = "Zde můžeš udělit uživateli ban.";
 $l['edit_ban'] = "Upravit ban";
-$l['edit_ban_desc'] = "Here you can edit the reason and length of currently banned users.";
+$l['edit_ban_desc'] = "Zde můžeš upravit důvod zabanování a délku trvání banů u zabanovaných uživatelů.";
 $l['banned_ips'] = "Zabanované IP adresy";
-$l['disallowed_usernames'] = "Disallowed Usernames";
-$l['disallowed_email_addresses'] = "Disallowed Email Addresses";
+$l['disallowed_usernames'] = "Nepovolené/zakazáné přezdívky";
+$l['disallowed_email_addresses'] = "Nepovolené/zakazáné e-mailové adresy";
 
 // Errors
 $l['error_invalid_ban'] = "You have selected an invalid ban to edit.";
@@ -54,7 +54,7 @@ $l['na'] = "N/A";
 $l['for'] = "for";
 $l['bannedby_x_on_x'] = "<strong>{1}</strong><br /><small>Banned by {2} on {3} {4}</small>";
 $l['lift'] = "Lift";
-$l['no_banned_users'] = "V této chvíli není žádný uživatel zabanován.";
+$l['no_banned_users'] = "Prozatím si žádného uživatele nezabanoval.";
 $l['prune_threads_and_posts'] = "Prune Threads &amp; Posts";
 
 // Buttons

@@ -11,9 +11,9 @@ $l['add_new_section_desc'] = "Zde můžeš přidat novou sekci pro nápovědu.";
 $l['add_new_document'] = "Přidat nový dokument";
 $l['add_new_document_desc'] = "Zde můžeš přidat nový dokument pro nápovědu.";
 $l['edit_section'] = "Upravit sekci";
-$l['edit_section_desc'] = "Here you can edit a help section.";
+$l['edit_section_desc'] = "Zde můžeš upravit sekci nápovědy.";
 $l['edit_document'] = "Upravit dokument";
-$l['edit_document_desc'] = "Here you can edit a help document.";
+$l['edit_document_desc'] = "Zde můžeš upravit dokument pro nápovědu.";
 $l['manage_help_documents'] = "Manage Help Documents";
 $l['manage_help_documents_desc'] = "This section allows you to manage your help documents.";
 

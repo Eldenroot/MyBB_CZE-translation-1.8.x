@@ -45,14 +45,14 @@ $l['available_to_groups'] = "Available to groups";
 $l['show_confirmation'] = "Show Confirmation Page";
 $l['save_thread_tool'] = "Save Thread Tool";
 
-$l['title'] = "Title";
+$l['title'] = "Titul";
 
 $l['thread_moderation'] = "Thread Moderation";
 $l['approve_unapprove'] = "Approve/Unapprove thread?";
 
 $l['no_change'] = "No Change";
 $l['approve'] = "Schválit";
-$l['unapprove'] = "Neschválen";
+$l['unapprove'] = "Neschváleno";
 $l['stick'] = "Připíchnuto";
 $l['unstick'] = "Unstick";
 $l['open'] = "Otevřený k diskusi";
@@ -73,14 +73,14 @@ $l['do_not_copy_thread'] = "Do not copy thread";
 $l['move_thread'] = "Přesunout vlákno?";
 $l['move_thread_desc'] = "If moving the thread(s), the \"delete redirect after... days\" is only to be filled in if a redirect will be left.";
 $l['forum_to_copy_to'] = "Forum to copy to:";
-$l['copy_thread'] = "Copy thread?";
+$l['copy_thread'] = "Kopírovat vlákno?";
 $l['open_close_thread'] = "Otevřít/uzavřít vlákno?";
 $l['stick_unstick_thread'] = "Stick/unstick thread?";
 $l['softdelete_restore_thread'] = "Soft delete/restore thread?";
 $l['delete_thread'] = "Delete thread permanently?";
 $l['merge_thread'] = "Sloučit vlákna?";
 $l['merge_thread_desc'] = "Only if used in inline moderation.";
-$l['delete_poll'] = "Delete poll?";
+$l['delete_poll'] = "Smazat anketu?";
 $l['delete_redirects'] = "Delete redirects?";
 $l['remove_subscriptions'] = "Remove thread subscriptions?";
 $l['recount_rebuild'] = "Recount & Rebuild?";
@@ -93,8 +93,8 @@ $l['add_new_reply_desc'] = "Leave blank for no reply.";
 $l['reply_subject'] = "Reply subject.";
 $l['reply_subject_desc'] = "Only used if a reply was made.<br />{subject} represents the original subject. {username} represents the moderator's username.";
 
-$l['success_mod_tool_created'] = "The moderation tool has been created successfully.";
-$l['success_mod_tool_updated'] = "The moderation tool has been updated successfully.";
+$l['success_mod_tool_created'] = "Moderatorský nástroj byl úspěšně přidaný.";
+$l['success_mod_tool_updated'] = "Moderátorský nástroj byl úspěšně upraven.";
 
 $l['inline_post_moderation'] = "Inline Post Moderation";
 $l['delete_posts'] = "Delete posts permanently?";
@@ -104,8 +104,8 @@ $l['approve_unapprove_posts'] = "Approve/unapprove posts?";
 $l['softdelete_restore_posts'] = "Soft delete/restore posts?";
 
 $l['split_posts'] = "Rozdělit příspěvky";
-$l['split_posts2'] = "Split posts?";
-$l['do_not_split'] = "Do not split posts";
+$l['split_posts2'] = "Rozdělit příspěvky?";
+$l['do_not_split'] = "Nerozdělovat příspěvky";
 $l['split_to_same_forum'] = "Split to same forum";
 $l['close_split_thread'] = "Close split thread?";
 $l['stick_split_thread'] = "Stick split thread?";
@@ -121,12 +121,12 @@ $l['save_post_tool'] = "Save Post Tool";
 
 $l['send_private_message'] = 'Poslat soukromou zprávu';
 $l['private_message_message'] = 'Zpráva';
-$l['private_message_message_desc'] = 'Message to send to the author of the thread. Leave empty to disable this feature.';
+$l['private_message_message_desc'] = 'Pošle zprávu autorovi vlákna. Zanechte prázdné pro vypnutí této funkce.';
 $l['private_message_subject'] = 'Předmět';
-$l['private_message_subject_desc'] = 'Enter the subject of the Private Message.';
+$l['private_message_subject_desc'] = 'Zadejte předmět soukromé zprávy.';
 
-$l['error_missing_title'] = "Please enter a name for this tool.";
-$l['error_missing_description'] = "Please enter a short description for this tool.";
+$l['error_missing_title'] = "Prosím, zadejte název pro tento nástroj.";
+$l['error_missing_description'] = "Prosím, zadejte krátký popis nástroje.";
 $l['error_no_forums_selected'] = "Please select the forums in which this tool will be available.";
 $l['error_no_groups_selected'] = "Please select the groups to which this tool will be available.";
 $l['error_forum_is_category'] = "You can't pick a category-type forum as a destination forum.";

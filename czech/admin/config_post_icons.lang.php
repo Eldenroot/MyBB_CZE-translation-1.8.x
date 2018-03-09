@@ -8,7 +8,7 @@
 $l['post_icons'] = "Ikony příspěvků";
 $l['add_post_icon'] = "Přidat novou ikonu příspěvků";
 $l['add_post_icon_desc'] = "Here you can add a single new post icon.";
-$l['add_multiple_post_icons'] = "Add Multiple Post Icons";
+$l['add_multiple_post_icons'] = "Přidat více ikon najednou";
 $l['add_multiple_post_icons_desc'] = "Here you can add multiple new post icons.";
 $l['edit_post_icon'] = "Edit Post Icon";
 $l['edit_post_icon_desc'] = "Here you can edit a post icon.";

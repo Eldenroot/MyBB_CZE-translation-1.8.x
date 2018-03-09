@@ -8,7 +8,7 @@
  *
  */
 
-$l['hello_desc'] = 'Jednoduchý plugin, který ti umožní vytvořit zprávu na hlavní stránce a připnout jí ke každému příspěvku.';
+$l['hello_desc'] = 'Jednoduchý plugin, který ti umožní vytvořit zprávu na hlavní stránce a přiložit jej ke každému příspěvku.';
 
 $l['setting_group_hello'] = 'Zdravím zeměkouli!';
 $l['setting_group_hello_desc'] = 'Nastavení pro plugin - Zdravím zeměkouli.';

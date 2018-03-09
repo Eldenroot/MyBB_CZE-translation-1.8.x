@@ -27,7 +27,7 @@ $l['security_questions'] = "Registrační otázky";
 $l['report_reasons'] = "Důvody nahlášení příspěvků";
 
 $l['can_manage_settings'] = "Může upravovat nastavení?";
-$l['can_manage_banned_accounts'] = "Může upravovat zabanované účty?";
+$l['can_manage_banned_accounts'] = "Může spravovat zabanované účty?";
 $l['can_manage_custom_profile_fields'] = "Can manage custom profile fields?";
 $l['can_manage_smilies'] = "Může upravovat smajlíky?";
 $l['can_manage_bad_words'] = "Může upravovat filtr sprostých slov?";
@@ -44,4 +44,3 @@ $l['can_manage_mod_tools'] = "Může spravovat nástroje moderátorů?";
 $l['can_manage_thread_prefixes'] = "Can manage thread prefixes?";
 $l['can_manage_security_questions'] = "Může upravit registrační otázky?";
 $l['can_manage_report_reasons'] = "Může spravovat důvody nahlášení příspěvků?";
-

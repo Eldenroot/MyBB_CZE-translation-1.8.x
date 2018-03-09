@@ -49,13 +49,13 @@ $l['clear_custom_perms'] = "Clear Custom Permissions";
 $l['set_custom_perms'] = "Set Custom Permissions";
 
 $l['permissions_use_group_default'] = "Use Group Default";
-$l['permissions_group'] = "Group";
+$l['permissions_group'] = "Skupina";
 $l['permissions_canview'] = "Can view?";
 $l['permissions_canpostthreads'] = "Mohou vytvářet vlákna?";
 $l['permissions_canpostreplys'] = "Mohou odpovědět ve vláknu?";
 $l['permissions_canpostpolls'] = "Mohou vytvářet ankety?";
 $l['permissions_canuploadattachments'] = "Mohou nahrát přílohy?";
-$l['permissions_all'] = "All?";
+$l['permissions_all'] = "Všem?";
 
 $l['overview_allowed_actions'] = "Overview: Allowed Actions";
 $l['overview_disallowed_actions'] = "Overview: Disallowed Actions";
@@ -64,7 +64,7 @@ $l['perm_drag_canpostthreads'] = "&#149; Post Threads";
 $l['perm_drag_canpostreplys'] = "&#149; Post Replies";
 $l['perm_drag_canpostpolls'] = "&#149; Post Polls";
 
-$l['moderator_permissions'] = "Moderator Permissions";
+$l['moderator_permissions'] = "Práva moderátorů";
 $l['forum_desc'] = "Forum the moderator manages.";
 $l['edit_mod_for'] = "Edit moderator options for \"{1}\"";
 $l['can_edit_posts'] = "Can edit posts?";
