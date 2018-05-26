@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
@@ -21,7 +21,7 @@ $l['type'] = "Typ";
 
 $l['email_activation'] = "Čekající na potvrzení emailu";
 $l['administrator_activation'] = "Čeká na potvrzení administrátorem.";
-$l['admin_activation_coppa'] = "Awaiting Administrator Activation (COPPA)";
+$l['admin_activation_coppa'] = "Čeká se na aktiviaci administrátorem.(COPPA)";
 
 $l['activate_users'] = "Aktivovat uživatele";
 $l['delete_users'] = "Smazat uživatele";

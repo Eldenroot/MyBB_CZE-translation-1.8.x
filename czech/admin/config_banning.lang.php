@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
@@ -16,8 +16,8 @@ $l['disallowed_email_addresses_desc'] = "Zde můžeš spravovat list emailových
 
 $l['banned_ip_addresses'] = "Zabanové IP adresy";
 $l['username'] = "Přezdívka";
-$l['date_disallowed'] = "Date Disallowed";
-$l['last_attempted_use'] = "Last Attempted Use";
+$l['date_disallowed'] = "Datum nepovoleno";
+$l['last_attempted_use'] = "Poslední pokus o použití";
 $l['email_address'] = "E-mailová adresa";
 $l['ip_address'] = "IP adresa";
 $l['ban_date'] = "Datum zabanování";
@@ -43,3 +43,5 @@ $l['success_email_disallowed'] = "E-mailová adresa byla úspešně zakázána."
 $l['success_ban_deleted'] = "Právě jsi odbanoval uživatele.";
 
 $l['confirm_ban_deletion'] = "Jsi si naprosto jistý, že chceš zrušit tento ban?";
+
+

@@ -1,123 +1,123 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
 $l['mod_tools'] = "Nástroje moderátorů";
 
 $l['thread_tools'] = "Nástroje pro vlákna";
-$l['thread_tools_desc'] = "Custom moderator tools allows you to create combinations of moderator actions that can be used on both threads and posts. These can then be used like the default tools when managing your forum. Here you can manage your custom thread tools.";
+$l['thread_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje.";
 
-$l['add_thread_tool'] = "Add Thread Tool";
-$l['add_new_thread_tool'] = "Add New Thread Tool";
-$l['add_thread_tool_desc'] = "Here you can add a new custom thread moderation tool. This tool will be accessible from both inline thread moderation and from within threads themselves, listed with the default moderation tools.";
+$l['add_thread_tool'] = "Přidat nástroje témat";
+$l['add_new_thread_tool'] = "Přidat nový nástroj témat";
+$l['add_thread_tool_desc'] = "Zde můžete přidat nový nástroj moderování vlastního vlákna. Tento nástroj bude přístupný z inline moderování vlákna které jsou uvedeny s výchozími nástroji moderování.";
 
 $l['post_tools'] = "Nástroje pro příspěvky";
-$l['post_tools_desc'] = "Custom moderator tools allows you to create combinations of moderator actions that can be used on both threads and posts. These can then be used like the default tools when managing your forum. Here you can manage your custom post tools.";
+$l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
 
-$l['add_post_tool'] = "Add Post Tool";
-$l['add_new_post_tool'] = "Add New Post Tool";
-$l['add_post_tool_desc'] = "Here you can add a new custom post moderation tool. This tool will be accessible from within threads themselves, listed with the default moderation tools.";
+$l['add_post_tool'] = "Přidat nástroje příspěvků";
+$l['add_new_post_tool'] = "Přidat nový nástroj příspvěků";
+$l['add_post_tool_desc'] = "Zde můžete přidat nové nástroje pro moderování příspěvků. Tyto nástroje budou přístupné také z výchozího nastavení moderátorských nástrojů";
 
-$l['edit_post_tool'] = "Edit Post Tool";
-$l['edit_post_tool_desc'] = "Here you can edit the post tool's settings and actions.";
-$l['edit_thread_tool'] = "Edit Thread Tool";
-$l['edit_thread_tool_desc'] = "Here you can edit the thread tool's settings and actions.";
+$l['edit_post_tool'] = "Upravit nástroje příspěvků";
+$l['edit_post_tool_desc'] = "Zde můžete upravit nastavení a akce nástrojů pro příspěvky.";
+$l['edit_thread_tool'] = "Upravit nástroje pro témata";
+$l['edit_thread_tool_desc'] = "Zde můžete upravit nastavení a akce nástrojů pro témata.";
 
-$l['no_thread_tools'] = "There are no thread tools setup on your forum.";
-$l['no_post_tools'] = "There are no post tools setup on your forum.";
+$l['no_thread_tools'] = "Na fóru nejsou žádné nástroje pro moderování témat.";
+$l['no_post_tools'] = "Na fóru nejsou žádné nástroje pro moderování příspěvků.";
 
-$l['confirm_thread_tool_deletion'] = "Are you sure you want to delete this thread tool?";
-$l['confirm_post_tool_deletion'] = "Are you sure you want to delete this post tool?";
+$l['confirm_thread_tool_deletion'] = "Jsi si jistý, že chceš smazat tento nástroj pro moderování témat?";
+$l['confirm_post_tool_deletion'] = "Jsi si jistý, že chceš smazat tento nástroj pro moderování příspěvků?";
 
-$l['success_post_tool_deleted'] = "The selected post moderation tool has been deleted successfully.";
-$l['success_thread_tool_deleted'] = "The selected thread moderation tool has been deleted successfully.";
+$l['success_post_tool_deleted'] = "Vybraný nástroj pro moderování příspěvků byl úspěšně smazaný.";
+$l['success_thread_tool_deleted'] = "Vybraný nástroj pro moderování témat byl úspěšně smazaný.";
 
-$l['error_invalid_post_tool'] = "The specified post tool does not exist.";
-$l['error_invalid_thread_tool'] = "The specified thread tool does not exist.";
+$l['error_invalid_post_tool'] = "Vybraný nástroj pro moderování příspěvků neexistuje.";
+$l['error_invalid_thread_tool'] = "Vybraný nástroj pro moderování témat neexistuje.";
 
-$l['general_options'] = "General Options";
-$l['short_description'] = "Short Description";
-$l['available_in_forums'] = "Available in forums";
-$l['available_to_groups'] = "Available to groups";
-$l['show_confirmation'] = "Show Confirmation Page";
-$l['save_thread_tool'] = "Save Thread Tool";
+$l['general_options'] = "Obecné nastavení";
+$l['short_description'] = "Krátký popis";
+$l['available_in_forums'] = "Dostupný na fóru";
+$l['available_to_groups'] = "Dostupný skupině";
+$l['show_confirmation'] = "Ukázat potvrzovací stránku";
+$l['save_thread_tool'] = "Uložit nástroj pro správu témat";
 
 $l['title'] = "Titul";
 
-$l['thread_moderation'] = "Thread Moderation";
-$l['approve_unapprove'] = "Approve/Unapprove thread?";
+$l['thread_moderation'] = "Správa témat";
+$l['approve_unapprove'] = "Schálit/Neschválit téma?";
 
-$l['no_change'] = "No Change";
+$l['no_change'] = "Beze změny";
 $l['approve'] = "Schválit";
 $l['unapprove'] = "Neschváleno";
 $l['stick'] = "Připíchnuto";
-$l['unstick'] = "Unstick";
+$l['unstick'] = "Odstraněno";
 $l['open'] = "Otevřený k diskusi";
 $l['close'] = "Uzamčen";
-$l['stick'] = "Stick";
-$l['unstick'] = "Unstick";
-$l['toggle'] = "Toggle";
+$l['stick'] = "Připíchnuto";
+$l['unstick'] = "Odstraněno";
+$l['toggle'] = "Přepnout";
 $l['days'] = "Dny";
-$l['no_prefix'] = "No Prefix";
-$l['restore'] = "Restore";
-$l['softdelete'] = "Soft delete";
+$l['no_prefix'] = "Žádná přípona";
+$l['restore'] = "Obnovit";
+$l['softdelete'] = "Smazat";
 
 $l['forum_to_move_to'] = "Přesunout fórum do:";
-$l['leave_redirect'] = "Leave redirect?";
-$l['delete_redirect_after'] = "Delete redirect after";
-$l['do_not_move_thread'] = "Do not move thread";
-$l['do_not_copy_thread'] = "Do not copy thread";
+$l['leave_redirect'] = "Opustit přesměrování?";
+$l['delete_redirect_after'] = "Smazat přesměrování po";
+$l['do_not_move_thread'] = "Nepřesouvat téma";
+$l['do_not_copy_thread'] = "Nekopírovat téma";
 $l['move_thread'] = "Přesunout vlákno?";
-$l['move_thread_desc'] = "If moving the thread(s), the \"delete redirect after... days\" is only to be filled in if a redirect will be left.";
-$l['forum_to_copy_to'] = "Forum to copy to:";
+$l['move_thread_desc'] = "Pokud přesunete téma, pole \"delete redirect after... days\" vyplníte pouze v případě, že bude povolené přesměrování.";
+$l['forum_to_copy_to'] = "Fórum se nakopíruje do:";
 $l['copy_thread'] = "Kopírovat vlákno?";
 $l['open_close_thread'] = "Otevřít/uzavřít vlákno?";
-$l['stick_unstick_thread'] = "Stick/unstick thread?";
-$l['softdelete_restore_thread'] = "Soft delete/restore thread?";
-$l['delete_thread'] = "Delete thread permanently?";
+$l['stick_unstick_thread'] = "Připnout/odepnout téma?";
+$l['softdelete_restore_thread'] = "Smazat/obnovit téma?";
+$l['delete_thread'] = "Smazat téma úplně?";
 $l['merge_thread'] = "Sloučit vlákna?";
-$l['merge_thread_desc'] = "Only if used in inline moderation.";
+$l['merge_thread_desc'] = "Pouze pokud používáte inline moderování.";
 $l['delete_poll'] = "Smazat anketu?";
-$l['delete_redirects'] = "Delete redirects?";
-$l['remove_subscriptions'] = "Remove thread subscriptions?";
-$l['recount_rebuild'] = "Recount & Rebuild?";
-$l['apply_thread_prefix'] = "Apply thread prefix?";
+$l['delete_redirects'] = "Smazat přesměrování?";
+$l['remove_subscriptions'] = "Smazat sledování témat?";
+$l['recount_rebuild'] = "Přepočítat & přepracovat?";
+$l['apply_thread_prefix'] = "Aplikovat předponu tématu?";
 $l['new_subject'] = "Nový předmět/název";
-$l['new_subject_desc'] = "{subject} represents the original subject. {username} represents the moderator's username.";
+$l['new_subject_desc'] = "{subject} představuje původní předmět. {username} představuje jméno moderátora.";
 
 $l['add_new_reply'] = "Přidat novou odpověď";
-$l['add_new_reply_desc'] = "Leave blank for no reply.";
-$l['reply_subject'] = "Reply subject.";
-$l['reply_subject_desc'] = "Only used if a reply was made.<br />{subject} represents the original subject. {username} represents the moderator's username.";
+$l['add_new_reply_desc'] = "Necaht prázdné pro nezodpovězení.";
+$l['reply_subject'] = "Předmět odpovědi.";
+$l['reply_subject_desc'] = "Používá se pouze v případě, že byla odeslána odpověď.<br />{subject} představuje původní předmět. {username} představuje jméno moderátora.";
 
 $l['success_mod_tool_created'] = "Moderatorský nástroj byl úspěšně přidaný.";
 $l['success_mod_tool_updated'] = "Moderátorský nástroj byl úspěšně upraven.";
 
-$l['inline_post_moderation'] = "Inline Post Moderation";
-$l['delete_posts'] = "Delete posts permanently?";
-$l['merge_posts'] = "Merge posts?";
-$l['merge_posts_desc'] = "Only if used from inline moderation.";
-$l['approve_unapprove_posts'] = "Approve/unapprove posts?";
-$l['softdelete_restore_posts'] = "Soft delete/restore posts?";
+$l['inline_post_moderation'] = "Inline moderování příspěvku";
+$l['delete_posts'] = "Smazat příspěvek trvale?";
+$l['merge_posts'] = "Sloučit příspěvky?";
+$l['merge_posts_desc'] = "Pouze v příapdě, že používáte inline moderování.";
+$l['approve_unapprove_posts'] = "Povolit/zakázat příspěvky?";
+$l['softdelete_restore_posts'] = "Smazat/obnovit příspěvek?";
 
 $l['split_posts'] = "Rozdělit příspěvky";
 $l['split_posts2'] = "Rozdělit příspěvky?";
 $l['do_not_split'] = "Nerozdělovat příspěvky";
-$l['split_to_same_forum'] = "Split to same forum";
-$l['close_split_thread'] = "Close split thread?";
-$l['stick_split_thread'] = "Stick split thread?";
-$l['unapprove_split_thread'] = "Unapprove split thread?";
-$l['split_thread_prefix'] = "Split thread prefix";
-$l['split_thread_subject'] = "Split thread subject";
-$l['split_thread_subject_desc'] = "{subject} represents the original subject. Only required if splitting posts.";
-$l['add_new_split_reply'] = "Add reply to split thread";
-$l['add_new_split_reply_desc'] = "Leave blank for no reply.";
-$l['split_reply_subject'] = "Reply subject";
-$l['split_reply_subject_desc'] = "Only used if a reply is made";
-$l['save_post_tool'] = "Save Post Tool";
+$l['split_to_same_forum'] = "Rozdělit na stejné fórum";
+$l['close_split_thread'] = "Uzavřít rozdělené téma?";
+$l['stick_split_thread'] = "Připnout rozdělené téma?";
+$l['unapprove_split_thread'] = "Zakázat rozdělené téma?";
+$l['split_thread_prefix'] = "Rozdělit předponu tématu";
+$l['split_thread_subject'] = "Rozdělit název témati";
+$l['split_thread_subject_desc'] = "{subject} představuje původní předmět. Je vyžadován pouze v příapdě, že rozdělujete téma.";
+$l['add_new_split_reply'] = "Přidat odpověď do rozděleného fóra";
+$l['add_new_split_reply_desc'] = "Nechat prázdné pro nezodpovězení.";
+$l['split_reply_subject'] = "Předmět odpovědi";
+$l['split_reply_subject_desc'] = "Pouze v případě, že byla odeslána odpověď";
+$l['save_post_tool'] = "Uložit nástroje příspěvků";
 
 $l['send_private_message'] = 'Poslat soukromou zprávu';
 $l['private_message_message'] = 'Zpráva';
@@ -127,6 +127,6 @@ $l['private_message_subject_desc'] = 'Zadejte předmět soukromé zprávy.';
 
 $l['error_missing_title'] = "Prosím, zadejte název pro tento nástroj.";
 $l['error_missing_description'] = "Prosím, zadejte krátký popis nástroje.";
-$l['error_no_forums_selected'] = "Please select the forums in which this tool will be available.";
-$l['error_no_groups_selected'] = "Please select the groups to which this tool will be available.";
-$l['error_forum_is_category'] = "You can't pick a category-type forum as a destination forum.";
+$l['error_no_forums_selected'] = "Prosím vyberte fórum, pro které bude tento nástroj dostupný.";
+$l['error_no_groups_selected'] = "Prosím vyberte skupinu, pro kterou bude tento nástroj dostupný.";
+$l['error_forum_is_category'] = "Nemůžete vybrat fórum kategorií jako cílové fórum.";

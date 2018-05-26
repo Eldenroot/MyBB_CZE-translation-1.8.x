@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
@@ -14,7 +14,7 @@ $l['user_titles'] = "Uživatelské tituly";
 $l['banning'] = "Banování";
 $l['admin_permissions'] = "Práva administrátorů";
 $l['mass_mail'] = "Hromadný e-mail (newsletter)";
-$l['group_promotions'] = "Group Promotions";
+$l['group_promotions'] = "Povýšení skupiny";
 
 $l['can_manage_users'] = "Může spravovat uživatele?";
 $l['can_manage_awaiting_activation'] = "Může spravovat uživatelé, kteří čekají na aktivaci?";

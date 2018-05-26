@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
@@ -24,16 +24,16 @@ $l['registrations_today'] = "Dnešní registrace";
 $l['awaiting_activation'] = "Čekající na aktivaci";
 $l['server_load'] = "Zatížení serveru";
 $l['attachments'] = "Přílohy";
-$l['used'] = "Used";
+$l['used'] = "Použitý";
 $l['reported_posts'] = "Nahlášené příspěvky";
 $l['unread_reports'] = "Nepřečtené reporty";
 
 $l['version_check'] = "Zkontrolovat aktualizace";
 $l['last_update_check_two_weeks'] = "Naposledy si <a href=\"{1}\">zkontroloval verzi MyBB</a> před více než 2 týdny!";
-$l['new_version_available'] = "You are currently running {1} whilst the latest generally available release is {2}.";
-$l['version_check_description'] = "Here you can check that you are currently running the latest copy of MyBB and see the latest announcements directly from MyBB.";
+$l['new_version_available'] = "Aktuálně používáte {1}, zatímco nejnovější všeobecně dostupná verze je {2}.";
+$l['version_check_description'] = "Zde si můžete ověřit, že fórum běží na nějnovější verzi MyBB, případně se můžete podívat na oznámení MyBB.";
 $l['latest_mybb_announcements'] = "Nejnovější oznámení MyBB";
-$l['no_announcements'] = "No stored announcements. <a href=\"index.php?module=home&amp;action=version_check\">Check for Updates</a>.";
+$l['no_announcements'] = "Žádná oznámení. <a href=\"index.php?module=home&amp;action=version_check\">Zkontrolovat aktualizaci</a>.";
 $l['your_version'] = "Tvá verze";
 $l['latest_version'] = "Nejaktuálnější verze MyBB";
 $l['update_forum'] = "Prosím aktualizuj své fórum na novější verzi <a href=\"https://mybb.com\" target=\"_blank\">MyBB</a>. Předejdeš problémům, které se mohou vyskytnout";
@@ -45,7 +45,7 @@ $l['error_out_of_date'] = "Tvé verze MyBB, kterou používáš je zastaralá. D
 $l['error_communication'] = "Při pokusu o spojení se serverem, který má na starost aktualizace nastal problém. Prosím, zkus to za chvíli. Snad už se to podaří! :)";
 $l['error_fetch_news'] = "Bohužel se nepodařilo nahrát získat novější oznámení ze stránek MyBB.";
 
-$l['news_description'] = "Nejnovější zprávy z <a href=\"https://blog.mybb.com/\" target=\"_blank\">MyBB blogu (v angličtině)</a>.";
+$l['news_description'] = "Nejnovější zprávy z <a href=\"https://blog.mybb.com/\" target=\"_blank\" rel=\"noopener\">MyBB Blog</a>.";
 
 $l['admin_notes_public'] = "Tyto poznámky jsou dostupné pro všechny administrátory";
 $l['admin_notes'] = "Administrátorské poznámky";

@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
@@ -19,4 +19,5 @@ $l['error_no_cache_specified'] = "Nespecifikoval si výběr mezipaměti pro zobr
 
 $l['success_cache_rebuilt'] = "Mezipaměť byla úspěšně znovu vytvořena.";
 $l['success_cache_reloaded'] = "Mezipaměť byla úspěšně vytvořena a načtena.";
+
 

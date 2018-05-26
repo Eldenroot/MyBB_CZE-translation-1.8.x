@@ -1,10 +1,12 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
 $l['php_info'] = "PHP info";
 $l['browser_no_iframe_support'] = "Tvůj prohlížeč nepodporuje iFrames.";
+
+
 

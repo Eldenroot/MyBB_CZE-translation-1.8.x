@@ -1,7 +1,7 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8 Czech Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
  *
  */
 
@@ -23,7 +23,7 @@ $l['select_all'] = "Označit všechny";
 $l['deselect_all'] = "Odebrat všechna označení";
 $l['select_forum_tables'] = "Vybrat jednotlivé tabulky";
 $l['file_type'] = "Typ souboru";
-$l['file_type_desc'] = "Select the file type you would like the database backup saved as.";
+$l['file_type_desc'] = "Vyberte typ souboru, který chcete uložit jako zálohu databáze.";
 $l['gzip_compressed'] = "GZIP komprese";
 $l['plain_text'] = "Bez komprese v plain textu";
 $l['save_method'] = "Metoda uložení";
