@@ -32,7 +32,7 @@ $l['add_disallowed_email_address'] = "Přidat nepovolenou e-mailovou adresu";
 $l['email_address_desc'] = "Poznámka: To indicate a wild card match, use *";
 $l['disallow_email_address'] = "Zakazané e-mailové adresy";
 $l['ban_an_ip_address'] = "Zabanovat IP adresu";
-$l['ip_address_desc'] = "Poznámka: Chcete-li zákaz rozsah IP adresy je nutné použití * (například: 127.0.0.*) případně CIDR notaci (Ex: 127.0.0.0/8)";
+$l['ip_address_desc'] = "Poznámka: Chcete-li zakázat rozsah IP adres je nutné použití * (například: 127.0.0.*) případně CIDR notaci (Ex: 127.0.0.0/8)";
 $l['ban_ip_address'] = "Zabanovat IP adresu / adresy";
 
 $l['error_missing_ban_input'] = "Nezadal jsi hodnotu pro zabanování.";

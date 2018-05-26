@@ -20,8 +20,8 @@ $l['disallowed_usernames'] = "Nepovolené/zakazáné přezdívky";
 $l['disallowed_email_addresses'] = "Nepovolené/zakazáné e-mailové adresy";
 
 // Errors
-$l['error_invalid_ban'] = "Vybrali jste neplatný ban pro úpravu.";
-$l['error_invalid_username'] = "Přezdívka, kterou si zadal je nesprávná nebo neexistuje.";
+$l['error_invalid_ban'] = "Vybral jsi neplatný ban pro úpravu.";
+$l['error_invalid_username'] = "Přezdívka, kterou si zadal, je nesprávná nebo neexistuje.";
 $l['error_no_perm_to_ban'] = "Nemáš práva, abys mohl zabanovat daného uživatele.";
 $l['error_already_banned'] = "Uživatel již patří do skupiny, která je zabanovaná a nelze jej znovu zabanovat.";
 $l['error_ban_self'] = "Nemůžeš sám sebe zabanovat.";

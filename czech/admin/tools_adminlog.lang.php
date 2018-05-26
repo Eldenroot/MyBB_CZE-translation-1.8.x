@@ -170,8 +170,8 @@ $l['admin_log_forum_moderation_queue_threads'] = "Moderated unapproved threads";
 $l['admin_log_forum_moderation_queue_posts'] = "Moderated unapproved posts";
 $l['admin_log_forum_moderation_queue_attachments'] = "Moderated unapproved attachments";
 
-$l['admin_log_home_preferences_enabled'] = "Povolil Two-Factor Authentication";
-$l['admin_log_home_preferences_disabled'] = "Disabled Two-Factor Authentication";
+$l['admin_log_home_preferences_enabled'] = "Povolil dvoufaktorové ověřování";
+$l['admin_log_home_preferences_disabled'] = "Zakázal dvoufaktorové ověřování";
 
 $l['admin_log_style_templates_delete_set'] = "Smazal template set #{1} ({2})";
 $l['admin_log_style_templates_delete_template'] = "Smazal template #{1} ({2}) from template set #{3} ({4})";
@@ -212,7 +212,7 @@ $l['admin_log_tools_modlog_prune_user'] = "Pruned {4} moderator logs older than 
 $l['admin_log_tools_modlog_prune_forum'] = "Pruned {4} moderator logs older than {1} days for forum #{3} ({5})";
 $l['admin_log_tools_modlog_prune_user_forum'] = "Pruned {4} moderator logs older than {1} days for user #{2} and forum #{3} ({5})";
 
-$l['admin_log_tools_backupdb_dlbackup'] = "Stáhnul existující zálohu: {1}";
+$l['admin_log_tools_backupdb_dlbackup'] = "Stáhl existující zálohu: {1}";
 $l['admin_log_tools_backupdb_delete'] = "Smazal zálohu: {1}";
 $l['admin_log_tools_backupdb_backup'] = "Vytvořil zálohu: {2}";
 $l['admin_log_tools_backupdb_backup_download'] = "Stáhl současnou zálohu databáze";

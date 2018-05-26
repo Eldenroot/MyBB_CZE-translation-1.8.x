@@ -58,8 +58,8 @@ $l['permissions_use_group_default'] = "Použij defaultní skupinu";
 $l['save_permissions'] = "Uložit práva";
 
 $l['error_invalid_calendar'] = "Vybraný/Zvolený kalendář neexistuje.";
-$l['error_missing_name'] = "Nezadal si jméno pro tento kalendář.";
-$l['error_missing_order'] = "Nezadal si pořadí pro zobrazení tohoto kalendáře.";
+$l['error_missing_name'] = "Nezadal jsi jméno pro tento kalendář.";
+$l['error_missing_order'] = "Nezadal jsi pořadí pro zobrazení tohoto kalendáře.";
 
 $l['success_calendar_created'] = "Kalendář byl úspěšně vytvořen.";
 $l['success_calendar_updated'] = "Kalendář byl úspěšně aktualizován.";

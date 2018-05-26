@@ -70,12 +70,12 @@ $l['settings_search'] = "Hledat nastavení";
 $l['confirm_setting_group_deletion'] = "Jsi si naprosto jistý, že chceš vymazat nastavení skupiny? (možná pro skupinu)";
 $l['confirm_setting_deletion'] = "Jsi si naprosto jistý, že chceš smazat tohle nastavení?";
 
-$l['error_missing_title'] = "Nezadal si název pro tohle nastavení.";
-$l['error_missing_group_title'] = "Nezadali jste název pro tuto skupinu nastavení.";
-$l['error_invalid_gid'] = "Nevybrali jste platnou skupinu pro umístění tohoto nastavení v";
-$l['error_invalid_gid2'] = "Zvolili jste odkaz na neplatnou skupinu nastavení. Zkontrolujte, zda existuje.";
-$l['error_missing_name'] = "Nezadali jste identifikátor pro toto nastavení.";
-$l['error_missing_group_name'] = "Nezadali jste identifikátor pro tuto skupinu nastavení.";
+$l['error_missing_title'] = "Nezadal jsi název pro tohle nastavení.";
+$l['error_missing_group_title'] = "Nezadal jsi název pro tuto skupinu nastavení.";
+$l['error_invalid_gid'] = "Nevybral jsi platnou skupinu pro umístění tohoto nastavení v";
+$l['error_invalid_gid2'] = "Zvolil jsi odkaz na neplatnou skupinu nastavení. Zkontrolujte, zda existuje.";
+$l['error_missing_name'] = "Nezadal jsi identifikátor pro toto nastavení.";
+$l['error_missing_group_name'] = "Nezadal jsi identifikátor pro tuto skupinu nastavení.";
 $l['error_invalid_type'] = "Pro toto nastavení jste nevybrali platný typ.";
 $l['error_invalid_sid'] = "Zadané nastavení neexistuje.";
 $l['error_duplicate_name'] = "Zadaný identifikátor již byl použit pro nastavení \"{1}\" - Identifikátor musí být jedinečný.";
@@ -85,7 +85,7 @@ $l['error_cannot_edit_default'] = "Výchozí nastavení a skupiny nelze upravit 
 $l['error_cannot_edit_php'] = "Jedná se o zvláštní typ nastavení, které nelze upravit.";
 $l['error_ajax_search'] = "Při hledání nastavení došlo k potížím:";
 $l['error_ajax_unknown'] = "Při hledání nastavení došlo k neznámé chybě.";
-$l['error_chmod_settings_file'] = "Soubor nastavení \"./inc/settings.php\" nelze zapisovat. Prosím, změňte CHMOD na 777.<br />Další informace o CHMODing naleznete v tématu <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">MyBB Docs</a>.";
+$l['error_chmod_settings_file'] = "Soubor nastavení \"./inc/settings.php\" nelze zapisovat. Prosím, změň CHMOD na 777.<br />Další informace o CHMODing naleznete v tématu <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">MyBB Docs</a>.";
 
 $l['success_setting_added'] = "Nastavení bylo úspěšně přidáno.";
 $l['success_setting_updated'] = "Nastavení bylo úspěšně upraveno";
@@ -95,8 +95,8 @@ $l['success_settings_updated_hiddencaptchaimage'] = '<div class="smalltext" styl
 $l['success_settings_updated_username_method'] = '<div class="smalltext" style="font-weight: normal;">Všimněte si, že nastavení <b>povolené metody přihlášení</b> nebylo aktualizováno kvůli více uživatelům používajícím stejnou e-mailovou adresu v tomto okamžiku.</div>';
 $l['success_settings_updated_allowmultipleemails'] = '<div class="smalltext" style="font-weight: normal;">Upozorňujeme, že <b>Povolit registraci e-mailů vícekrát?</b> nastavení může nemůže být povoleno, protože nastavení <b>povolené metody přihlášení</b> umožňuje uživatelům přihlásit se pomocí e-mailové adresy.</div>';
 $l['success_settings_updated_captchaimage'] = '<div class="smalltext" style="font-weight: normal;">Vezměte prosím na vědomí, že <strong>CAPTCHA obrázky pro registraci &amp;</strong> nastavení byla vrácena na <strong>MyBB výchozí CAPTCHA</strong> kvůli nedostatku veřejných/soukromých klíčů.</div>';
-$l['success_display_orders_updated'] = "Pořadí zobrazení nastavení bylo úspěšně aktualizováno..";
-$l['success_setting_group_added'] = "Skupina nastavení byla úspěšně vytvořena..";
+$l['success_display_orders_updated'] = "Pořadí zobrazení nastavení bylo úspěšně aktualizováno.";
+$l['success_setting_group_added'] = "Skupina nastavení byla úspěšně vytvořena.";
 $l['success_setting_group_updated'] = "Skupina nastavení byla úspěšně aktualizována.";
 $l['success_setting_group_deleted'] = "Vybraná skupina nastavení byla úspěšně odstraněna.";
 $l['success_duplicate_settings_deleted'] = "Všechny skupiny nastavení duplicit byly úspěšně odstraněny.";

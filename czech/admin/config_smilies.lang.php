@@ -42,17 +42,17 @@ $l['save_smilies'] = "Uložit smajlíky";
 $l['show_smilies'] = "Ukázat smajlíky";
 $l['reset'] = "Reset";
 
-$l['error_missing_name'] = "Nezadal si název pro tohohle smajlíka.";
+$l['error_missing_name'] = "Nezadal jsi název pro tohohle smajlíka.";
 $l['error_missing_text_replacement'] = "Nezadal si <strong>Zobrazení v textu</strong> pro tohohle smajlíka.";
-$l['error_missing_path'] = "Nezadal si cestu pro tohohle smajlíka.";
-$l['error_missing_path_multiple'] = "Nezadal si cestu, kde se nachází smajlíci.";
-$l['error_missing_order'] = "Nevyplňil si pořadí pro smajlíka.";
-$l['error_duplicate_order'] = "Zadal si nesprávnou hodnotu pro zobrazení smajlíka.";
-$l['error_missing_clickable'] = "Nevybral si ano/ne v možnosti pro \"Zobrazení ve výběru smajlíků v editoru příspěvků?\"";
+$l['error_missing_path'] = "Nezadal ksi cestu pro tohohle smajlíka.";
+$l['error_missing_path_multiple'] = "Nezadal jsi cestu, kde se nachází smajlíci.";
+$l['error_missing_order'] = "Nevyplnil jsi pořadí pro smajlíka.";
+$l['error_duplicate_order'] = "Zadal jsi nesprávnou hodnotu pro zobrazení smajlíka.";
+$l['error_missing_clickable'] = "Nevybral jsi ano/ne v možnosti pro \"Zobrazení ve výběru smajlíků v editoru příspěvků?\"";
 $l['error_no_smilies'] = "Ve složce, kterou jsi zvolil nejsou žádní smajlíci nebo všechny smajlíky už jsi v minulosti přidal.";
 $l['error_no_images'] = "Ve specifikované složce nejsou žádné obrázky.";
 $l['error_none_included'] = "Nevybrali jste žádné smajlíky, které chcete zahrnout.";
-$l['error_invalid_path'] = "Zadal si cestu, která neexistuje.";
+$l['error_invalid_path'] = "Zadal jsi cestu, která neexistuje.";
 $l['error_invalid_smilie'] = "Zvolený smajlík neexistuje.";
 
 $l['success_smilie_added'] = "Smajlík byl úspěšně přidán.";

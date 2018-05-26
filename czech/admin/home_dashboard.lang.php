@@ -28,7 +28,7 @@ $l['server_load'] = "Zatížení serveru";
 $l['attachments'] = "Přílohy";
 $l['used'] = "Použitý";
 $l['reported_posts'] = "Nahlášené příspěvky";
-$l['unread_reports'] = "Nepřečtené reporty";
+$l['unread_reports'] = "Nepřečtená hlášení";
 
 $l['version_check'] = "Zkontrolovat aktualizace";
 $l['last_update_check_two_weeks'] = "Naposledy jsi <a href=\"{1}\">zkontroloval verzi MyBB</a> před více než 2 týdny!";
@@ -38,8 +38,8 @@ $l['latest_mybb_announcements'] = "Nejnovější oznámení MyBB";
 $l['no_announcements'] = "Žádná oznámení. <a href=\"index.php?module=home&amp;action=version_check\">Zkontrolovat aktualizaci</a>.";
 $l['your_version'] = "Tvá verze";
 $l['latest_version'] = "Nejaktuálnější verze MyBB";
-$l['update_forum'] = "Prosím aktualizuj své fórum na novější verzi <a href=\"https://mybb.com\" target=\"_blank\" rel=\"noopener\">MyBB (v angličtině)</a>. Předejdeš problémům, které se mohou vyskytnout";
-$l['read_more'] = "Přečti si víc";
+$l['update_forum'] = "Aktualizuj, prosím, své fórum na novější verzi <a href=\"https://mybb.com\" target=\"_blank\" rel=\"noopener\">MyBB (v angličtině)</a>. Předejdeš problémům, které se mohou vyskytnout";
+$l['read_more'] = "Přečti jsi víc";
 
 $l['success_up_to_date'] = "Gratuluji! Používáš aktuální verzi MyBB.";
 

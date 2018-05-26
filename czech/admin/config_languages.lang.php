@@ -11,7 +11,7 @@ $l['languages'] = "Jazyky";
 $l['languages_desc'] = "Které jazykové balíky máš nainstalované můžeš vidět níže. Můžeš jazykové soubory upravit, případně změnit nastavení jazyka.";
 $l['find_language_packs'] = "Vyhledat jazykové balíky";
 $l['language_files'] = "Jazykové soubory";
-$l['language_files_desc'] = "Níže jsou soubory ve vybraném jazce pro front-end i administrační panel. Zde si můžete vybrat, jak tyto soubory upravit.";
+$l['language_files_desc'] = "Níže jsou soubory ve vybraném jazyce pro frontend i administrační panel. Zde si můžeš vybrat, jak tyto soubory upravit.";
 $l['quick_phrases'] = "Rychlé fráze";
 $l['quick_phrases_desc'] = "Rychlý přístup k často modifikovaným frázím.";
 
@@ -20,7 +20,7 @@ $l['edit_language_variables'] = "Upravit jazykové mutace";
 $l['edit_language_variables_desc'] = "Zde můžete upravit jazykové řetezce dle svých představ.";
 $l['edit_properties_desc'] = "Zde můžeš změni vlastnosti jazykového balíčku.";
 $l['installed_language_packs'] = "Nainstalované jazykové mutace";
-$l['front_end'] = "Front End";
+$l['front_end'] = "Frontend";
 $l['admin_cp'] = "Administrační rozhraní";
 $l['save_language_file'] = "Uložit jazykový soubor";
 $l['nav_editing_set'] = "Upravit vlastnosti jazyka";
@@ -44,7 +44,7 @@ $l['quickphrases_error_nopermission_guest_3'] = 'Žádná zpráva o právech - P
 $l['quickphrases_error_nopermission_guest_4'] = 'Žádná zpráva o právech - Paragraf 4';
 
 $l['no_languages'] = "Žádné jazyky";
-$l['no_language_files_front_end'] = "Nebyly nalezeny žádné front-end jazyky.";
+$l['no_language_files_front_end'] = "Nebyly nalezeny žádné frontend jazyky.";
 $l['no_language_files_admin_cp'] = "Nenalezeny žádné jazyky pro administrační panel.";
 
 $l['error_invalid_set'] = "Vybrán nesprávný jazykový set.";
@@ -62,4 +62,4 @@ $l['issues'] = "Problémy";
 $l['phrases'] = "Fráze";
 $l['issues_ok'] = "Zdá se, že je vše v pořádku.";
 $l['issues_nothingtocompare'] = "Nic k porovnání";
-$l['issues_warning'] = "Tento soubor může vyžadovat vaši pozornost. \nProsím zkontrolujte jej.";
+$l['issues_warning'] = "Tento soubor může vyžadovat vaši pozornost. \nProsím, zkontrolujte jej.";

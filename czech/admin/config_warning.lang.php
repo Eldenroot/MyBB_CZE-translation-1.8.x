@@ -9,7 +9,7 @@
 
 $l['warning_system'] = "Systém napomenutí";
 $l['warning_types'] = "Typy napomenutí";
-$l['warning_types_desc'] = "Zde můžete spravovat seznam různých typů upozornění, které moderátoři mohou vystavit uživatelům.";
+$l['warning_types_desc'] = "Zde můžeš spravovat seznam různých typů upozornění, které moderátoři mohou udělit uživatelům.";
 $l['add_warning_type'] = "Přidat nový typ varování";
 $l['add_warning_type_desc'] = "Zde můžete vytvořit nový předdefinovaný typ upozornění. Typy upozornění lze vybrat při upozornění uživatelů a můžete definovat počet bodů, které chcete přidat pro tento typ, jakož i časové období před vypršením upozornění tohoto typu.";
 $l['edit_warning_type'] = "Upravit typ varování";
@@ -77,5 +77,5 @@ $l['success_warning_type_created'] = "Level varování byl úspěšně vytvořen
 $l['success_warning_type_updated'] = "Level varování byl úspěšně upraven.";
 $l['success_warning_type_deleted'] = "Vybraný level varování byl úspěšně vymazán.";
 
-$l['confirm_warning_level_deletion'] = "Jsi si doopravdy jistý, že chceš vymazat warning level?";
-$l['confirm_warning_type_deletion'] = "Jsi si doopravdy jistý, že chceš vymazat warning type?";
+$l['confirm_warning_level_deletion'] = "Jsi si doopravdy jistý, že chceš smazat warning level?";
+$l['confirm_warning_type_deletion'] = "Jsi si doopravdy jistý, že chceš smazat warning type?";

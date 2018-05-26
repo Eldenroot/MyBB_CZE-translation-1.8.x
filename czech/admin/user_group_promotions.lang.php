@@ -6,7 +6,7 @@
  */
 
 $l['user_group_promotions'] = "Povýšení uživatelské skupiny";
-$l['user_group_promotions_desc'] = "Zde můžete spravovat povýšení uživatelských skupin.";
+$l['user_group_promotions_desc'] = "Zde můžeš spravovat povýšení uživatelských skupin.";
 $l['edit_promotion'] = "Upravit povýšení";
 $l['edit_promotion_desc'] = "Zde můžete upravit povýšení, které se zobrazují na nástěnce.";
 $l['add_new_promotion'] = "Přidat novou reklamu";
@@ -70,10 +70,10 @@ $l['multiple_usergroups'] = "Více skupin uživatelů";
 $l['secondary'] = "Sekundární";
 $l['primary'] = "Primární";
 
-$l['error_no_promo_id'] = 'Nezdal jsi ID povýšení.';
+$l['error_no_promo_id'] = 'Nezadal jsi ID povýšení.';
 $l['error_invalid_promo_id'] = 'Nezdal jsi platné ID povýšení';
 
-$l['error_no_title'] = "Nezdal jsi název tohoto povýšení";
+$l['error_no_title'] = "Nezadal jsi název tohoto povýšení";
 $l['error_no_desc'] = "Nezdala jsi popis tohoto povýšení";
 $l['error_no_requirements'] = "Nevybral jsi alespoň jednu podmínku pro získání povýšení";
 $l['error_no_orig_usergroup'] = "Nevybral jsi alespoň jednu skupinu uživatelů pro toto povýšení";
@@ -86,5 +86,5 @@ $l['success_promo_enabled'] = 'Povýšení vybrané skupiny bylo úspěšně pov
 $l['success_promo_updated'] = 'Povýšení vybrané skupiny bylo úspěšně upraveno.';
 $l['success_promo_added'] = 'Povýšení bylo úspěšně vytvořeno.';
 
-$l['confirm_promo_disable'] = "Jsi si jistý, že chcete toto povýšení zakázat?";
+$l['confirm_promo_disable'] = "Jsi si jistý, že chceš toto povýšení zakázat?";
 $l['confirm_promo_deletion'] = "Jsi si jistý, že chceš toto povýšení smazat?";

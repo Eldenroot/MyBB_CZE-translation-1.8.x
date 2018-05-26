@@ -9,7 +9,7 @@
 $l['spiders_bots'] = "Spiders / Boti";
 $l['spiders_bots_desc'] = "Tato sekce umožní spravovat boty a vyhledávací roboty, kteří navštívili vaše fórum. Můžete také vidět, který bot navštívil fórum naposledy.";
 $l['add_new_bot'] = "Přidat nového bota";
-$l['add_new_bot_desc'] = "Zde můžete přidat ty boty, od kterých vyžadujete návštěvu fóra.";
+$l['add_new_bot_desc'] = "Zde můžeš přidat boty od kterých vyžadujete návštěvu fóra.";
 
 $l['edit_bot'] = "Upravit bota";
 $l['edit_bot_desc'] = "Zde můžete upravit existujícího bota.";

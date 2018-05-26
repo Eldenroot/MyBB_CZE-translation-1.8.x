@@ -10,7 +10,7 @@
 $l['report_reasons'] = "Důvody pro nahlášení příspěvku";
 $l['report_reasons_desc'] = "Zde můžeš vytvořit a upravit důvody nahlášení příspěvku, které mohou být zvoleny, když uživatel bude chtít nahlásit nevhodný obsah.";
 $l['add_new_reason'] = "Přidat nový důvod";
-$l['add_new_reason_desc'] = "Přidej nový důvod pro uživatele, aby ho mohli vybrat při nahlášení nevhodného obsahu.";
+$l['add_new_reason_desc'] = "Přidej nový důvod pro uživatele, aby jej mohli vybrat při nahlášení nevhodného obsahu.";
 $l['edit_reason'] = "Upravit důvod nahlášení příspěvku";
 $l['edit_reason_desc'] = "Upraví důvod nahlášení příspěvku.";
 
@@ -53,10 +53,9 @@ $l['update_reasons_order'] = "Aktualizovat pořadí důvodů.";
 
 $l['error_cannot_modify_reason'] = "Nemůžeš upravit tento důvod.";
 $l['error_cannot_delete_reason'] = "Nemůžeš smazat tento důvod.";
-$l['error_invalid_reason'] = "Vybral si neplatný (nesprávný?) důvod.";
-$l['error_missing_title'] = "Nezadal si název pro tento důvod.";
-//$l['error_missing_applies_to'] = "You did not select what content this reason applies to.";
-$l['error_missing_extra'] = "Nevybral si možnost, jestli chceš uživatelský komentář pro tento důvod.";
+$l['error_invalid_reason'] = "Vybral jsi neplatný (nesprávný?) důvod.";
+$l['error_missing_title'] = "Nezadal jsi název pro tento důvod.";
+$l['error_missing_extra'] = "Nevybral jsi možnost, jestli chceš uživatelský komentář pro tento důvod.";
 
 $l['success_reasons_disporder_updated'] = "Pořadí důvodů pro nahlášení příspěvku bylo úspěšně aktualizováno.";
 $l['success_reason_created'] = "Důvod byl úspěšně vytvořen.";

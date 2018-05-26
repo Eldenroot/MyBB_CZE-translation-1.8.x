@@ -19,7 +19,7 @@ $l['admin_permissions_updated'] = "Administrátorská práva byla úspěšně up
 $l['revoke_permissions'] = "Odebrat práva";
 $l['edit_permissions'] = "Upravit práva";
 $l['set_permissions'] = "Nastavit práva";
-$l['edit_permissions_desc'] = "Zde můžete omezit přístup k jednotlivým částí administrátorského ovladacího panelu. Karta \"Home\" je přístupná všem administrátorům.";
+$l['edit_permissions_desc'] = "Zde můžete omezit přístup k jednotlivým částem administrátorského ovladacího panelu. Karta \"Home\" je přístupná všem administrátorům.";
 $l['update_permissions'] = "Aktualizovat práva";
 $l['view_log'] = "Ukázat záznam";
 $l['permissions_type_group'] = "Práva pro skupiny";
@@ -37,8 +37,8 @@ $l['edit_group'] = "Upravit skupinu";
 $l['default'] = "Výchozí";
 $l['group'] = "Skupina";
 
-$l['error_super_admin'] = 'Bohužel, akci vykonat pro zvoleného uživatele, protože je super administrátor.';
-$l['error_delete_no_uid'] = 'Nezadal jso ID uživatele/skupiny pro nastavení administrátorských práv';
+$l['error_super_admin'] = 'Bohužel, akci nelze vykonat pro zvoleného uživatele, protože je super administrátor.';
+$l['error_delete_no_uid'] = 'Nezadal jsi ID uživatele/skupiny pro nastavení administrátorských práv';
 $l['error_delete_invalid_uid'] = 'Nezadal jsi platné ID uživatele/skupiny pro nastavení administrátorských práv';
 
 $l['success_perms_deleted'] = 'Zrušení práv pro uživatele/skupinu bylo provedeno úspěšně.';

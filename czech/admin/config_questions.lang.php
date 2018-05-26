@@ -25,14 +25,14 @@ $l['no_security_questions'] = "V tuto chvíli, zde nejsou žádné registrační
 
 $l['question'] = "Otázka";
 $l['question_desc'] = "Zadej otázku na kterou chceš odpověď při registraci.";
-$l['answers'] = "Odpověd(i)";
-$l['answers_desc'] = "Zadej odpověď(i) k výše uvedené otázce. Prosím zadej každou odpověď na samostatný řádek.";
+$l['answers'] = "Odpověd/i";
+$l['answers_desc'] = "Zadej odpověď/i k výše uvedené otázce. Zadej, prosím, každou odpověď na samostatný řádek.";
 $l['active'] = "Povolit otázku";
 $l['save_question'] = "Uložit otázku";
 
-$l['error_invalid_question'] = "Vybral si neplatnou otázku.";
-$l['error_missing_question'] = "Nezadal si otázku pro tuhle otázku.";
-$l['error_missing_answer'] = "Nezadal si žádné odpovědi pro tuhle otázku.";
+$l['error_invalid_question'] = "Vybral jsi neplatnou otázku.";
+$l['error_missing_question'] = "Nezadal jsi otázku pro tuhle otázku.";
+$l['error_missing_answer'] = "Nezadal jsi žádné odpovědi pro tuhle otázku.";
 
 $l['success_question_created'] = "Otázka byla úspěšně vytvořena.";
 $l['success_question_updated'] = "Otázka byla úspěšně upravena.";

@@ -59,7 +59,6 @@ $l['error_invalid_uid'] = "Uživatelské ID, které jsi zadal, je neplatné.";
 $l['error_invalid_token'] = "Aktivační kód, který si zadal, je neplatný.";
 
 $l['success_logged_out'] = "Byl jsi úspěšně odhlášen.";
-// CZ překlad 12.11.17: $l['error_invalid_username_password'] = " Kombinace {1} a hesla, kterou jsi zadal, je neplatná.";; TO-DO: {1} = přezdívka -> přezdívku
 $l['error_invalid_username_password'] = " Přihlašovací údaje, které jsi zadal, jsou nesprávné.";
 
 // Action Confirmation
@@ -159,14 +158,14 @@ $l['linkback'] = "Originální příspěvek";
 // The months of the year
 $l['january'] = "Leden";
 $l['february'] = "Únor";
-$l['march'] = "March";
-$l['april'] = "Březen";
-$l['may'] = "Duben";
-$l['june'] = "Květen";
-$l['july'] = "Červen";
-$l['august'] = "Červenec";
+$l['march'] = "Březen";
+$l['april'] = "Duben";
+$l['may'] = "Květen";
+$l['june'] = "Červen";
+$l['july'] = "Červenec";
+$l['august'] = "Srpen";
 $l['september'] = "Září";
-$l['october'] = "Řijen";
+$l['october'] = "Říjen";
 $l['november'] = "Listopad";
 $l['december'] = "Prosinec";
 
@@ -256,9 +255,9 @@ $l['editor_removeformatting'] = "Smazat formátování";
 $l['editor_cut'] = "Vyjmout";
 $l['editor_copy'] = "Zkopírovat";
 $l['editor_paste'] = "Vložit";
-$l['editor_cutnosupport'] = "Tvůj prohlížeč nepodporuje vyjmutí. Prosím, vyzkoušej, použít klásové zkrátku Ctrl/Cmd-X";
-$l['editor_copynosupport'] = "Tvůj prohlížeč nepodporuje zkopírování. Prosím, vyzkoušej, použít klásové zkrátku Ctrl/Cmd-C";
-$l['editor_pastenosupport'] = "Tvůj prohlížeč nepodporuje vložení. Prosím, vyzkoušej, použít klásové zkrátku Ctrl/Cmd-V";
+$l['editor_cutnosupport'] = "Tvůj prohlížeč nepodporuje vyjmutí. Vyzkoušej, prosím, použít klásové zkrátku Ctrl/Cmd-X";
+$l['editor_copynosupport'] = "Tvůj prohlížeč nepodporuje zkopírování. Vyzkoušej, prosím, použít klásové zkrátku Ctrl/Cmd-C";
+$l['editor_pastenosupport'] = "Tvůj prohlížeč nepodporuje vložení. Vyzkoušej, prosím, použít klásové zkrátku Ctrl/Cmd-V";
 $l['editor_pasteentertext'] = "Vlož text do následucujího rámečku:";
 $l['editor_pastetext'] = "Vložit text";
 $l['editor_numlist'] = "Číselný seznam";
@@ -376,4 +375,4 @@ $l['my2fa'] = "Dvoufázové ověření";
 $l['my2fa_failed'] = "Tvůj kod byl špatně zadán, tak si byl odhlášen.";
 $l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
-$l['my2fa_no_codes'] = "Poznámka: Použils všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navšiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
+$l['my2fa_no_codes'] = "Poznámka: Použil jsi všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";

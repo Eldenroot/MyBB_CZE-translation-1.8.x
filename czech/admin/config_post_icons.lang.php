@@ -27,9 +27,9 @@ $l['path_to_images_desc'] = "Toto je cesta ke složce, kde se nacházejí obráz
 $l['show_post_icons'] = "Ukaž ikonu příspěvku";
 $l['image'] = "Ikonka";
 $l['add'] = "Přidat?";
-$l['save_post_icons'] = "Uložte ikonu příspěvku.";
+$l['save_post_icons'] = "Ulož ikonu příspěvku.";
 
-$l['no_post_icons'] = "Na fóru se momentálně nechazází žádné ikony příspěvku.";
+$l['no_post_icons'] = "Na fóru se momentálně nenachazí žádné ikony příspěvku.";
 
 $l['error_missing_name'] = "Nezadal jsi název ikony příspěvku";
 $l['error_missing_path'] = "Nezadal jsi cestu k ikoně příspěvku";
@@ -44,4 +44,4 @@ $l['success_post_icons_added'] = "Ikony příspěvků byly úspěšně nahrány.
 $l['success_post_icon_updated'] = "Ikona příspěvku byla úspěšně změněna.";
 $l['success_post_icon_deleted'] = "Zvolena ikona byla úspěšně smazána.";
 
-$l['confirm_post_icon_deletion'] = "Opravdu si přejete smazat tuto ikonu?";
+$l['confirm_post_icon_deletion'] = "Opravdu si přeješ smazat tuto ikonu?";

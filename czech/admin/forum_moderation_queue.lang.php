@@ -32,7 +32,7 @@ $l['success_attachments'] = "Zvolené přílohy byly úspěšně schváleny.";
 // Pages
 $l['subject'] = "Předmět";
 $l['author'] = "Autor";
-$l['posted'] = "Posted";
+$l['posted'] = "Vloženo";
 $l['ignore'] = "Ignorovat";
 $l['approve'] = "Schválit";
 $l['forum'] = "Fórum:";
@@ -45,7 +45,7 @@ $l['controls'] = "Nastavení";
 
 // Buttons
 $l['mark_as_ignored'] = "Označit všechny jako ignorované";
-$l['mark_as_deleted'] = "Označit všechny pro smazání";
+$l['mark_as_deleted'] = "Označit všechny jako smazané";
 $l['mark_as_approved'] = "Označit všechny jako schválené";
 $l['perform_action'] = "Provést akce";
 

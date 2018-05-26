@@ -21,7 +21,7 @@ $l['email'] = "E-mail";
 $l['ipaddress'] = "IP adresa";
 $l['type'] = "Typ";
 
-$l['email_activation'] = "Čekající na potvrzení emailu";
+$l['email_activation'] = "Čekající na potvrzení e-mailu";
 $l['administrator_activation'] = "Čeká na potvrzení administrátorem.";
 $l['admin_activation_coppa'] = "Čeká se na aktivaci administrátorem.(COPPA)";
 

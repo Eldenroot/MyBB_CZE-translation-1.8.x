@@ -43,8 +43,8 @@ $l['result_actual'] = "Aktuální výsledky";
 $l['result_actual_desc'] = "V následující oblasti je zobrazen skutečný výsledek při vykreslení kódu HTML.";
 $l['test'] = "Test MyCode";
 
-$l['error_missing_title'] = "Nezadal si název.";
-$l['error_missing_regex'] = "Nezadali jste regulární výraz.";
+$l['error_missing_title'] = "Nezadal jsi název.";
+$l['error_missing_regex'] = "Nezadal jsi regulární výraz.";
 $l['error_regex_already_available'] = "Zadali jste regulární výraz, který je již definován v jiném MyCode. Zadejte jiný regulární výraz pro tento MyCode.";
 $l['error_missing_replacement'] = "Nezadali jste náhradní.";
 $l['error_invalid_mycode'] = "Vybraný MyCode neexistuje.";
@@ -57,5 +57,5 @@ $l['success_activated_mycode'] = "Zvolený MyCode byl úspěšně aktivovaný.";
 
 $l['confirm_mycode_deletion'] = "Jsi si doopravdy jistý, že chceš odstranit tento MyCode?";
 
-$l['mycode_sandbox_test_error'] = 'Vyskytla se chyba při načítání výsleků.';
+$l['mycode_sandbox_test_error'] = 'Vyskytla se chyba při načítání výsledků.';
 

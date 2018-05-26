@@ -18,9 +18,9 @@ $l['existing_database_backups'] = "Existující zálohy databáze";
 
 $l['backup_saved_to'] = "Záloha byla uložena do:";
 $l['download'] = "Stáhnout";
-$l['table_selection'] = "Vybrat tabulku(y)";
+$l['table_selection'] = "Vybrat tabulku/y";
 $l['backup_options'] = "Nastavení zálohy";
-$l['table_select_desc'] = "Můžeš vybrat databázové tabulky u kterých si přeješ provést zálohu. Podrž tlačítko CTRL, aby si vybral více tabulek.";
+$l['table_select_desc'] = "Můžeš vybrat databázové tabulky u kterých si přeješ provést zálohu. Podrž klávesu CTRL, aby si vybral více tabulek.";
 $l['select_all'] = "Označit všechny";
 $l['deselect_all'] = "Odebrat všechna označení";
 $l['select_forum_tables'] = "Vybrat jednotlivé tabulky";
