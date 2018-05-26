@@ -15,7 +15,7 @@
 - nastavení češtiny pro uživatele fóra (frontend): ACP -> Configuration -> General Configuration -> Default Language -> Čeština
 
 ## Autoři překladu:
-- [Eldenroot](https://github.com/Cu8eeeR)
+- [Eldenroot](https://github.com/Eldenroot)
 - Stary
 - [uzbugg](https://github.com/uzbugg)
 - [Josef Schlehofer](https://github.com/bkpepe) - ACP
