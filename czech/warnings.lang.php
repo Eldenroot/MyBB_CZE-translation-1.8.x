@@ -41,7 +41,7 @@ $l['warning_pm_subject'] = "Dostal(a) jste varování.";
 $l['send_pm_message'] = "Zpráva:";
 $l['warning_pm_message'] = "{1},
 
-právě jste od obsluhy fóra {2} dostal(a) varování.
+právě jste od vedení fóra {2} dostal(a) varování.
 --
 
 --";
