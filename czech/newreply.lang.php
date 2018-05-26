@@ -46,8 +46,8 @@ $l['redirect_threadclosed'] = "Do tohoto tématu již nelze přispívat, protož
 $l['error_post_noperms'] = "Nemáte práva k úpravě tohoto konceptu.";
 
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno či IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujet administrátora.';
-$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo Vaše IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
+$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů, která je zřejmě nedostupná. Zkuste to později.';
 
 $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěvky {1}.<br /><br />
 
