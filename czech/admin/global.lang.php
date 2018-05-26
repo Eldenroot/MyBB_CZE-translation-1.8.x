@@ -1,10 +1,11 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
 
 $l['today'] = "<span title=\"{1}\">Dnes</span>";
 $l['yesterday'] = "<span title=\"{1}\">Včera</span>";
@@ -21,31 +22,30 @@ $l['size_bytes'] = "bajtů";
 $l['na'] = "N/A";
 
 // Header language strings
-$l['mybb_admin_panel'] = "MyBB kontrol panel";
+$l['mybb_admin_panel'] = "MyBB ovladací panel";
 $l['mybb_admin_cp'] = "MyBB administrační panel";
 $l['logged_in_as'] = "Přihlášen jako";
 $l['view_board'] = "Přejít na fórum";
 $l['logout'] = "Odhlásit se";
 
 // Footer language strings
-$l['generated_in'] = "Generováno za {1} with <a href=\"{2}\" target=\"_blank\">{3} queries</a>. Využití paměti: {4}";
+$l['generated_in'] = "Vygenerováno za {1} with <a href=\"{2}\" target=\"_blank\">{3} dotazy</a>. Využití paměti: {4}";
 
 // Login page
 
-// CZ překlad 12.11.17: $l['enter_username_and_password'] = "Abys mohl pokračovat je nutné zadat {1} a heslo."; TO-DO: {1} = přezdívka -> přezdívku
-$l['enter_username_and_password'] = "Abys mohl pokračovat je nutné zadat přezdívku a heslo.";
-$l['login_username'] = 'přezdívka';
-$l['login_email'] = 'emailová adresa';
-$l['login_username_and_password'] = 'přezdívka/emailová adresa';
-$l['mybb_admin_login'] = "MyBB kontrol panel - Přihlášení";
+$l['enter_username_and_password'] = "Abys mohl pokračovat je nutné zadat {1} a heslo.";
+$l['login_username'] = 'uživatelská přezdívka';
+$l['login_email'] = 'e-mailová adresa';
+$l['login_username_and_password'] = 'přezdívka/e-mailová adresa';
+$l['mybb_admin_login'] = "MyBB ovladací panel - přihlášení";
 $l['return_to_forum'] = "Návrat do fóra";
 $l['please_login'] = "Administrační panel MyBB";
 $l['username'] = "Přezdívka:";
-$l['username1'] = "Emailová adresa:";
-$l['username2'] = "Přezdívka/Emailová adresa:";
+$l['username1'] = "E-mailová adresa:";
+$l['username2'] = "Přezdívka/E-mailová adresa:";
 $l['password'] = "Heslo:";
-$l['secret_pin'] = "Tajný (Secret) PIN:";
-$l['login'] = "Přihlašovací údaje (?)";
+$l['secret_pin'] = "Tajný PIN:";
+$l['login'] = "Přihlašovací údaje";
 $l['lost_password'] = "Zapomněl si přihlašovací údaje?";
 
 $l['error_invalid_admin_session'] = "Neplatné administratorské sezení. (= session?)";
@@ -279,7 +279,7 @@ $l['editor_insertemail'] = "Vložit e-mail";
 $l['editor_url'] = "URL:";
 $l['editor_insertlink'] = "Vložit odkaz";
 $l['editor_unlink'] = "Odlinkovat";
-$l['editor_more'] = "Vícw";
+$l['editor_more'] = "Více";
 $l['editor_insertemoticon'] = "Vložit smajlíka";
 $l['editor_videourl'] = "Video URL:";
 $l['editor_videotype'] = "Video typ:";
@@ -294,7 +294,7 @@ $l['editor_enterimgurl'] = "Vložit URL (odkaz) obrázku:";
 $l['editor_enteremail'] = "Vložit e-mail addresu:";
 $l['editor_enterdisplayedtext'] = "Zadejte zobrazený text:";
 $l['editor_enterurl'] = "Vložit URL:";
-$l['editor_enteryoutubeurl'] = "Vložit URL (odkaz) nebo ID videa na YouTube:";
+$l['editor_enteryoutubeurl'] = "Vložit URL odkaz nebo ID videa na YouTube:";
 $l['editor_insertquote'] = "Vložit citaci";
 $l['editor_invalidyoutube'] = "Nesprávné YouTube video";
 $l['editor_dailymotion'] = "Dailymotion";
@@ -315,11 +315,11 @@ $l['task_checktables_ran_found'] = "Oznámení: Kontrola tabulky proběhla úsp�
 $l['task_dailycleanup_ran'] = "Úloha: Denní pročištění fóra - úspěšně proběhla.";
 $l['task_hourlycleanup_ran'] = "Úloha: Hodinové pročištění fóra: - úspěšně proběhla.";
 $l['task_logcleanup_ran'] = "Úloha: Čístění logů úspěšně proběhla a smazala všechny staré záznamy.";
-$l['task_promotions_ran'] = "Reklama úspěšně proběhla.";
+$l['task_promotions_ran'] = "The promotions task successfully ran.";
 $l['task_threadviews_ran'] = "Úloha: Shlédnutí témat probělo v pořádku.";
-$l['task_usercleanup_ran'] = "Úloha: pročištění uživatelů úspěšně proběhla.";
-$l['task_massmail_ran'] = "Úloha: romodná pošta byla úspěšně spuštěna.";
-$l['task_userpruning_ran'] = "Promozání uživatelů úspěšně proběhlo.";
+$l['task_usercleanup_ran'] = "Úloha: Pročištění uživatelů úspěšně proběhla.";
+$l['task_massmail_ran'] = "Úloha: Hromadných e-mailů byla úspěšně spuštěna.";
+$l['task_userpruning_ran'] = "Promazání uživatelů úspěšně proběhlo.";
 $l['task_delayedmoderation_ran'] = "Opožděné moderátorství úspěšně proběhlo.";
 $l['task_massmail_ran_errors'] = "Nastal jeden nebo více problémů, odeslaných na \"{1}\":
 {2}";

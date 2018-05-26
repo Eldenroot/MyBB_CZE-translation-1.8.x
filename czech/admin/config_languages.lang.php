@@ -1,15 +1,17 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['languages'] = "Jazyky";
 $l['languages_desc'] = "Které jazykové balíky máš nainstalované můžeš vidět níže. Můžeš jazykové soubory upravit, případně změnit nastavení jazyka.";
 $l['find_language_packs'] = "Vyhledat jazykové balíky";
 $l['language_files'] = "Jazykové soubory";
-$l['language_files_desc'] = "Níže jsou soubory ve vybraném jazce pro front-end i administrační panel. Zde si můžete vybart, jak tyto soubory upravit.";
+$l['language_files_desc'] = "Níže jsou soubory ve vybraném jazce pro front-end i administrační panel. Zde si můžete vybrat, jak tyto soubory upravit.";
 $l['quick_phrases'] = "Rychlé fráze";
 $l['quick_phrases_desc'] = "Rychlý přístup k často modifikovaným frázím.";
 
@@ -20,13 +22,13 @@ $l['edit_properties_desc'] = "Zde můžeš změni vlastnosti jazykového balíč
 $l['installed_language_packs'] = "Nainstalované jazykové mutace";
 $l['front_end'] = "Front End";
 $l['admin_cp'] = "Administrační rozhraní";
-$l['save_language_file'] = "Uloži jazkový soubor";
+$l['save_language_file'] = "Uložit jazykový soubor";
 $l['nav_editing_set'] = "Upravit vlastnosti jazyka";
 $l['edit_properties'] = "Upravit vlastnosti jazykového balíčku";
 $l['friendly_name'] = "Popisný název";
-$l['language_in_html'] = "Jazyv v &lt;html&gt; tagu";
+$l['language_in_html'] = "Jazyk v &lt;html&gt; tagu";
 $l['charset'] = "Znakové sady";
-$l['admin'] = "Obsahuje admnistrační panel jazkové proměnné?";
+$l['admin'] = "Obsahuje admnistrační panel jazykové proměnné?";
 $l['rtl'] = "Zprava doleva?";
 
 $l['quickphrases_agreement'] = 'Registrační podmínky - Nadpis';

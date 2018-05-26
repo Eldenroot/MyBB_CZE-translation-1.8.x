@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 
@@ -21,7 +23,7 @@ $l['save_calendar_orders'] = "Uložit pořadí kalendářů";
 
 $l['name'] = "Název";
 $l['display_order'] = "Pořadí zobrazení";
-$l['week_start'] = "Začítek týdne";
+$l['week_start'] = "Začátek týdne";
 $l['week_start_desc'] = "Zde můžeš zadat den v týdnu, kterým bude kalendář začínat.";
 $l['sunday'] = "Neděle";
 $l['monday'] = "Pondělí";
@@ -55,7 +57,7 @@ $l['permissions_all'] = "Všichni?";
 $l['permissions_use_group_default'] = "Použij defaultní skupinu";
 $l['save_permissions'] = "Uložit práva";
 
-$l['error_invalid_calendar'] = "Vybraný/Zvolený kalendář neexistuje..";
+$l['error_invalid_calendar'] = "Vybraný/Zvolený kalendář neexistuje.";
 $l['error_missing_name'] = "Nezadal si jméno pro tento kalendář.";
 $l['error_missing_order'] = "Nezadal si pořadí pro zobrazení tohoto kalendáře.";
 

@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['template_sets'] = "Sety šablon";
@@ -10,7 +12,7 @@ $l['template_set'] = "Set šablon";
 $l['templates'] = "{1} šablon";
 
 $l['manage_template_sets'] = "Spravovat sety šablon";
-$l['manage_template_sets_desc'] = "Zde můžete spravovat sady šablon, zobrazit šablony pomocí těchto sad a začít přizpůsobovat rozvržení nástěnky..";
+$l['manage_template_sets_desc'] = "Zde můžete spravovat sady šablon, zobrazit šablony pomocí těchto sad a začít přizpůsobovat rozvržení nástěnky.";
 $l['add_set'] = "Přidat set";
 $l['add_set_desc'] = "Zde můžete vytvořit novou sadu šablon. Nová sada šablon vytvoří kopii předlohy MyBB šablon a umožní vám je upravovat, aniž by zasahoval do změn v jiných sadách šablon, které již pravděpodobně máte";
 $l['add_template'] = "Přidat šablonu";
@@ -23,7 +25,7 @@ $l['find_updated'] = "Najít aktualizovanou šablonu";
 $l['find_updated_desc'] = "Umožňuje vám najít změněné šablony v nových verzích MyBB, takže můžete správně aplikovat změny.";
 $l['edit_template'] = "Upravit šablonu";
 $l['editing_template'] = "Upravování šablony: {1}";
-$l['edit_template_desc'] = "Zde můžete upravit kód, název nebo sadu šablon..";
+$l['edit_template_desc'] = "Zde můžete upravit kód, název nebo sadu šablon.";
 $l['edit_set'] = "Upravit sadu";
 $l['edit_set_desc'] = "Zde můžete upravit vlastnosti této sady šablon.";
 $l['manage_templates'] = "Spravovat šablony";
@@ -46,7 +48,7 @@ $l['search_results'] = "Výsledky vyhledávání šablon";
 $l['search_header'] = "Hledání \"{1}\" v {2}";
 $l['search_updated'] = "Upraveno {1}";
 $l['search_found'] = "Nalezeno v {1}";
-$l['search_created_custom'] = "Vytvořit vlastbí šablonu pro {1}";
+$l['search_created_custom'] = "Vytvořit vlastní šablonu pro {1}";
 $l['search_edit'] = "upravit";
 $l['search_change_original'] = "změnit originál";
 $l['search_noresults'] = "Podle zadaného řetezce nebyla nalezena žádná shoda '<strong>{1}</strong>'";
@@ -59,7 +61,7 @@ $l['global_templates'] = "Obecné šablony";
 $l['master_templates'] = "Hlavní šablony";
 
 $l['not_used_by_any_themes'] = "Nepoužívá žádné motivy";
-$l['used_by'] = "Používáno: ";
+$l['used_by'] = "Používáno:";
 $l['used_by_all_themes'] = "Používáné všemi šablonami";
 
 $l['expand_templates'] = "Rozšířit šablonu";
@@ -123,7 +125,7 @@ $l['save_continue'] = "Uložit a pokračovat v úpravách";
 $l['save_close'] = "Uložit a vrátit se k seznamu";
 
 $l['template_name'] = "Název šablony";
-$l['template_name_desc'] = "Název šablony. Pokud jej změníte na výchozí šabloně, uloží se šablona jako vlastní šablona pod novým názvem..";
+$l['template_name_desc'] = "Název šablony. Pokud jej změníte na výchozí šabloně, uloží se šablona jako vlastní šablona pod novým názvem.";
 $l['template_set_desc'] = "Která šablona má být v tomto setu?";
 
 $l['template_group_prefix'] = "Předpona skupin šablon";
@@ -147,7 +149,7 @@ $l['updated_template_welcome2'] = "Vrátit-vrátí přizpůsobenou šablonu zpě
 $l['updated_template_welcome3'] = "Rozdíly-provede analýzu rozdílů mezi šablonami a ukáže vám přesně, jaké změny byly provedeny mezi vlastní kopií a nejnovější hlavní kopií.";
 
 $l['no_global_templates'] = "Není zde žádné hlavní téma.";
-$l['no_updated_templates'] = "Momentálně nejsou k dispozici žádné šablony, které byly aktualizovány od posledního upgradu..";
+$l['no_updated_templates'] = "Momentálně nejsou k dispozici žádné šablony, které byly aktualizovány od posledního upgradu.";
 
 $l['confirm_template_set_deletion'] = "Opravdu chcete odstranit tuto sadu šablon?";
 $l['confirm_template_group_delete'] = "Opravdu chcete odstranit tuto skupinu šablon? Tato akce neodebere šablony ve skupině.";
@@ -156,17 +158,17 @@ $l['confirm_template_revertion'] = "Opravdu chceš vrátit tuto šablonu?";
 
 $l['error_security_problem'] = "V šabloně byl nalezen potenciální problém se zabezpečením. Zkontrolujte změny nebo se obraťte na skupinu MyBB.";
 $l['error_missing_input'] = "Přesvědčte se, zda máte všechny požadované vstupy pro úpravu této šablony (TID a SID).";
-$l['error_already_exists'] = "Název šablony je již používán. Použijte jiný název..";
+$l['error_already_exists'] = "Název šablony je již používán. Použijte jiný název.";
 $l['error_invalid_template'] = "Vyberte prosím platnou šablonu.";
 $l['error_missing_set_title'] = "Vyberte prosím název setu šablon.";
-$l['error_invalid_input'] = "Zkontrolujte, zda máte správné ID sady šablon..";
+$l['error_invalid_input'] = "Zkontrolujte, zda máte správné ID sady šablon.";
 $l['error_invalid_set'] = "Prosím, vyberte správný set šablon.";
 $l['error_invalid_template_set'] = "Vybrali jste nesprávný set šablon.";
-$l['error_themes_attached_template_set'] = "Tuto sadu šablon nelze odstranit, protože existují motivy připojené k této sadě šablon..";
+$l['error_themes_attached_template_set'] = "Tuto sadu šablon nelze odstranit, protože existují motivy připojené k této sadě šablon.";
 $l['error_missing_group_prefix'] = "Prosím zadejte předponu pro tuto sadu šablon.";
 $l['error_invalid_group_title'] = "Podtržítka (_) jsou používány jako oddělovače, které jsou zakázány v předponách skupiny šablony. Vyberte jinou předponu.";
 $l['error_missing_group_title'] = "Prosím, vyberte název nové sady šablon.";
-$l['error_duplicate_group_prefix'] = "S touto předponou již existuje skupina šablon. Zadejte jinou předponu..";
+$l['error_duplicate_group_prefix'] = "S touto předponou již existuje skupina šablon. Zadejte jinou předponu.";
 $l['error_missing_template_group'] = "Sada šablon nebyla nalezena.";
 $l['error_default_template_group'] = "Nemůžete změnit nebo odebrat výchozí sadu šablon.";
 

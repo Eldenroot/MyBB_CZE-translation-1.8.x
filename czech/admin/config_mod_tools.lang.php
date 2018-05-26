@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['mod_tools'] = "Nástroje moderátorů";
@@ -18,7 +20,7 @@ $l['post_tools'] = "Nástroje pro příspěvky";
 $l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
 
 $l['add_post_tool'] = "Přidat nástroje příspěvků";
-$l['add_new_post_tool'] = "Přidat nový nástroj příspvěků";
+$l['add_new_post_tool'] = "Přidat nový nástroj příspěvků";
 $l['add_post_tool_desc'] = "Zde můžete přidat nové nástroje pro moderování příspěvků. Tyto nástroje budou přístupné také z výchozího nastavení moderátorských nástrojů";
 
 $l['edit_post_tool'] = "Upravit nástroje příspěvků";
@@ -89,7 +91,7 @@ $l['new_subject'] = "Nový předmět/název";
 $l['new_subject_desc'] = "{subject} představuje původní předmět. {username} představuje jméno moderátora.";
 
 $l['add_new_reply'] = "Přidat novou odpověď";
-$l['add_new_reply_desc'] = "Necaht prázdné pro nezodpovězení.";
+$l['add_new_reply_desc'] = "Nechat prázdné pro nezodpovězení.";
 $l['reply_subject'] = "Předmět odpovědi.";
 $l['reply_subject_desc'] = "Používá se pouze v případě, že byla odeslána odpověď.<br />{subject} představuje původní předmět. {username} představuje jméno moderátora.";
 
@@ -99,7 +101,7 @@ $l['success_mod_tool_updated'] = "Moderátorský nástroj byl úspěšně uprave
 $l['inline_post_moderation'] = "Inline moderování příspěvku";
 $l['delete_posts'] = "Smazat příspěvek trvale?";
 $l['merge_posts'] = "Sloučit příspěvky?";
-$l['merge_posts_desc'] = "Pouze v příapdě, že používáte inline moderování.";
+$l['merge_posts_desc'] = "Pouze v případě, že používáte inline moderování.";
 $l['approve_unapprove_posts'] = "Povolit/zakázat příspěvky?";
 $l['softdelete_restore_posts'] = "Smazat/obnovit příspěvek?";
 

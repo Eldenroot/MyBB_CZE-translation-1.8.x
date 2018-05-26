@@ -1,10 +1,11 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
 $l['configuration'] = "Konfigurace";
 
 $l['bbsettings'] = "Nastavení";
@@ -28,7 +29,7 @@ $l['report_reasons'] = "Důvody nahlášení příspěvků";
 
 $l['can_manage_settings'] = "Může upravovat nastavení?";
 $l['can_manage_banned_accounts'] = "Může spravovat zabanované účty?";
-$l['can_manage_custom_profile_fields'] = "Můža změnit pole svého profilu?";
+$l['can_manage_custom_profile_fields'] = "Může změnit pole svého profilu?";
 $l['can_manage_smilies'] = "Může upravovat smajlíky?";
 $l['can_manage_bad_words'] = "Může upravovat filtr sprostých slov?";
 $l['can_manage_custom_mycode'] = "Může upravovat custom MyCode?";

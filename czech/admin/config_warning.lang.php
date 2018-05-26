@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['warning_system'] = "Systém napomenutí";
@@ -37,7 +39,7 @@ $l['no_warning_types'] = "Na fóru nejsou žádné typy varování.";
 $l['warning_points_percentage'] = "Procenta z maximálního počtu varování";
 $l['warning_points_percentage_desc'] = "Prosím, vlož hodnotu mezi 0 a 100.";
 $l['action_to_be_taken'] = "Akce";
-$l['action_to_be_taken_desc'] = "Vyberte akci, kterou chcete přijmout, když uživatelé dosáhnou výše uvedené úrovně..";
+$l['action_to_be_taken_desc'] = "Vyberte akci, kterou chcete přijmout, když uživatelé dosáhnou výše uvedené úrovně.";
 $l['ban_user'] = "Zabanovat uživatele";
 $l['banned_group'] = "Zabanovaná skupina:";
 $l['ban_length'] = "Délka trvání banu:";

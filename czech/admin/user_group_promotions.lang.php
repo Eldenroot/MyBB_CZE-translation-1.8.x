@@ -6,13 +6,13 @@
  */
 
 $l['user_group_promotions'] = "Povýšení uživatelské skupiny";
-$l['user_group_promotions_desc'] = "Zde můžete spravovat pyvýšení uživatelských skupin.";
+$l['user_group_promotions_desc'] = "Zde můžete spravovat povýšení uživatelských skupin.";
 $l['edit_promotion'] = "Upravit povýšení";
 $l['edit_promotion_desc'] = "Zde můžete upravit povýšení, které se zobrazují na nástěnce.";
 $l['add_new_promotion'] = "Přidat novou reklamu";
-$l['add_new_promotion_desc'] = "Zde můžete přidat novou reklamu, která se bude zobrazovat na nástěnce.";
+$l['add_new_promotion_desc'] = "Zde můžete přidat nové povýšení, která se bude zobrazovat na nástěnce.";
 
-$l['title'] = "Titul / Název";
+$l['title'] = "Titul";
 $l['short_desc'] = "Krátký popis";
 $l['post_count'] = "Počítadlo příspěvků";
 $l['thread_count'] = "Počítadlo témat";
@@ -40,7 +40,7 @@ $l['days'] = "Dny";
 $l['weeks'] = "Týdny";
 $l['months'] = "Měsíce";
 $l['years'] = "Roky";
-$l['time_registered_desc'] = "Zadejte počet hodin, dnů, týdnů, měsíců nebo roků, pro které musí být tento uživatel zaregistrován. Zaregistrovaná doba musí být vybrána jako požadovaná hodnota pro zahrnutí. Vyberte, zda má být zapsaná doba počítána v hodinách, dnech, týdnech, měsících nebo rocích..";
+$l['time_registered_desc'] = "Zadejte počet hodin, dnů, týdnů, měsíců nebo roků, pro které musí být tento uživatel zaregistrován. Zaregistrovaná doba musí být vybrána jako požadovaná hodnota pro zahrnutí. Vyberte, zda má být zapsaná doba počítána v hodinách, dnech, týdnech, měsících nebo rocích.";
 $l['time_online_desc'] = "Zadejte počet hodin, dnů, týdnů, měsíců nebo roků, pro které musí být tento uživatel online. Čas online musí být vybrán jako povinná hodnota, která má být zahrnuta. Vyberte, zda má být čas strávený online počítán v hodinách, dnech, týdnech, měsících nebo rocích.";
 $l['all_user_groups'] = 'Všechny uživatelské skupiny';
 $l['orig_user_group'] = 'Původní uživatelská skupina';

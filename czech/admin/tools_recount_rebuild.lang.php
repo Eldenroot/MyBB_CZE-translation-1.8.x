@@ -1,11 +1,13 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-$l['recount_rebuild'] = "Přepočítat &amp; Znovu vytvořit";
+$l['recount_rebuild'] = "Přepočítat &amp; znovu vytvořit";
 $l['recount_rebuild_desc'] = "Zde můžete přepočítat &amp; znovu vytvořit data a opravit všechny chyby synchronizace vašeho fóra.";
 
 $l['data_per_page'] = "Dat na stránku";
@@ -36,10 +38,10 @@ $l['rebuild_attachment_thumbs_desc'] = "Tím se znovu sestaví miniatury přílo
 
 $l['success_rebuilt_forum_counters'] = "Počítadlo fora bylo úspěšně změněno.";
 $l['success_rebuilt_thread_counters'] = "Počítadlo témat bylo úspěšně změněno";
-$l['success_rebuilt_poll_counters'] = "Počítadlo anekt bylo úspěšně změněno.";
+$l['success_rebuilt_poll_counters'] = "Počítadlo anket bylo úspěšně změněno.";
 $l['success_rebuilt_user_post_counters'] = "Počítadlo uživatelských příspěvků bylo úspěšně změněno.";
 $l['success_rebuilt_user_thread_counters'] = "Počítadlo uživatelských témat bylo úspěšně změněno.";
-$l['success_rebuilt_attachment_thumbnails'] = "Miniatury příloh byly úspěšně změněny.";
+$l['success_rebuilt_attachment_thumbnails'] = "Náhledy příloh byly úspěšně změněny.";
 $l['success_rebuilt_forum_stats'] = "Statistiky fóra byly úspěšně změněny.";
 $l['success_rebuilt_reputation'] = "Počítadlo reputace bylo úspěšně změněna.";
 $l['success_rebuilt_warning'] = "Počítadlo varování uživatelů bylo úspěšně změněno.";
@@ -48,5 +50,5 @@ $l['success_rebuilt_referral'] = "Počítadlo referalů bylo úspěšně změně
 $l['success_rebuilt_thread_ratings'] = "Hodnocení témat bylo úspěšně změněno.";
 
 $l['confirm_proceed_rebuild'] = "Klik \"Proceed\" ke změně počítadel.";
-$l['automatically_redirecting'] = "Automatické přesměrování...";
+$l['automatically_redirecting'] = "Automatické přesměrování…";
 

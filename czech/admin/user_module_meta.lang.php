@@ -22,5 +22,5 @@ $l['can_manage_user_groups'] = "Může spravovat uživatelské skupiny?";
 $l['can_manage_user_titles'] = "Může spravovat uživatelské tituly?";
 $l['can_manage_user_bans'] = "Může spravovat bany na fóru?";
 $l['can_manage_admin_permissions'] = "Může upravovat administrátorská práva?";
-$l['can_send_mass_mail'] = "Může posílat hromadné emaily (newsletter)?";
+$l['can_send_mass_mail'] = "Může posílat hromadné e-maily (newsletter)?";
 $l['can_manage_group_promotions'] = "Může spravovat pravomoce skupin na fóru?";

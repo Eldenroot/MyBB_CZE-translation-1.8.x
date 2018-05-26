@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['board_settings'] = "Nastavení fóra";
@@ -22,7 +24,7 @@ $l['description'] = "Popis";
 $l['group'] = "Kategorie";
 $l['display_order'] = "Zobrazit pořadí";
 $l['name'] = "Identifikátor";
-$l['name_desc'] = "Tento jedinečný identifikátor se používá v poli nastavení k odkazu na toto nastavení (ve skriptech, překladech a šablonách)..";
+$l['name_desc'] = "Tento jedinečný identifikátor se používá v poli nastavení k odkazu na toto nastavení (ve skriptech, překladech a šablonách).";
 $l['group_name_desc'] = "Tento jedinečný identifikátor se používá pro překladový systém.";
 $l['text'] = "Text";
 $l['numeric_text'] = "Numerický text";
@@ -80,7 +82,7 @@ $l['error_duplicate_name'] = "Zadaný identifikátor již byl použit pro nastav
 $l['error_duplicate_group_name'] = "Zadaný identifikátor již byl použit pro skupinu \"{1}\" nastavení - Identifikátor musí být jedinečný.";
 $l['error_no_settings_found'] = "Pro zadanou vyhledávací frázi nebyla nalezena žádná nastavení.";
 $l['error_cannot_edit_default'] = "Výchozí nastavení a skupiny nelze upravit ani odebrat.";
-$l['error_cannot_edit_php'] = "Jedná se o zvláštní typ nastavení, které nelze upravit..";
+$l['error_cannot_edit_php'] = "Jedná se o zvláštní typ nastavení, které nelze upravit.";
 $l['error_ajax_search'] = "Při hledání nastavení došlo k potížím:";
 $l['error_ajax_unknown'] = "Při hledání nastavení došlo k neznámé chybě.";
 $l['error_chmod_settings_file'] = "Soubor nastavení \"./inc/settings.php\" nelze zapisovat. Prosím, změňte CHMOD na 777.<br />Další informace o CHMODing naleznete v tématu <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">MyBB Docs</a>.";

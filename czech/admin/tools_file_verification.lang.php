@@ -1,9 +1,12 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
+ 
 $l['file_verification'] = "Ověření souborů";
 $l['checking'] = "Kontroluji…";
 $l['file_verification_message'] = "Tento proces ověří a zkontroluje všechny výchozí soubory MyBB pro jejich pravost. Pokuď chceš pokračovat, tak zmáčkni na tlačítko Ano.<br /> <small>Nezapoměňte, že tento proces nerozlišuje mezi vlastními úpravy a skutečným poškozením v souborech. Proto bys měl být opatrný při opravě souborů, které tento proces označí jako  \"poškozené\".</small>";

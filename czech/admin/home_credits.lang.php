@@ -1,11 +1,13 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-$$l['mybb_credits'] = "Autoři systému MyBB";
+$l['mybb_credits'] = "Autoři systému MyBB";
 $l['mybb_credits_description'] = "Tito lidé věnovali svůj čas a snahu vytvořit MyBB.";
 $l['about_the_team'] = "O týmu";
 $l['check_for_updates'] = "Zkontrolovat aktualizace autorů MyBB";

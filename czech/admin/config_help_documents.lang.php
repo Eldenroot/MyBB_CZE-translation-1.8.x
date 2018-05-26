@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 
@@ -30,13 +32,13 @@ $l['save_document'] = "Uložit dokument";
 $l['section'] = "Sekce";
 $l['document'] = "Dokument";
 $l['id'] = "ID";
-$l['custom_doc_sec'] = "Vlastní dokumrnt/sekce";
+$l['custom_doc_sec'] = "Vlastní dokument/sekce";
 $l['default_doc_sec'] = "Výchozí dokument/sekce";
 $l['no_help_documents'] = "Na fóru nejsou v současnosti žádné dokumenty nápovědy";
 $l['section_document'] = "Sekce / Dokument";
 
 $l['error_section_missing_name'] = "Musíš zadat název sekce.";
-$l['error_section_missing_description'] = "Musíš zadat krátký popisek pro sekci..";
+$l['error_section_missing_description'] = "Musíš zadat krátký popisek pro sekci.";
 $l['error_section_missing_enabled'] = "Musíš specifikovat ano nebo ne pro \"Povoleno?\".";
 $l['error_section_missing_translation'] = "Musíš specifikovat ano nebo ne pro \"Použít překlad?\".";
 $l['error_missing_sid'] = "Musíš specifikovat sekci pro dokument.";

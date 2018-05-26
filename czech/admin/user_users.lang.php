@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['users'] = "Uživatelé";
@@ -41,7 +43,7 @@ $l['mass_ban_info'] = "Akce pouze postihne pouze {1} uživetel(ů). Pokračuj je
 $l['ban_users'] = "Zabanování uživatelů";
 $l['users_banned'] = "{1} uživatel(e) byli zabanováni";
 $l['confirm_multilift'] = "Jsi si jistý, že chceš odstranit ban uživatelům, které jsi vybral?";
-$l['success_ban_lifted'] = "Bany pro{1} uživatele, které jsi vybral, byly odstraněny.";
+$l['success_ban_lifted'] = "Bany pro {1} uživatele, které jsi vybral, byly odstraněny.";
 $l['edit_ban'] = "Upravit ban";
 $l['lift_ban'] = "Odebrat ban";
 $l['lift_bans'] = "Odebrat bany";
@@ -95,7 +97,7 @@ $l['error_invalid_user_source'] = "Sekundární účet, který si zadal, neexist
 $l['error_invalid_user_destination'] = "Primární účet, který si zadal, neexistuje.";
 $l['error_cannot_merge_same_account'] = "Nemůžeš sloučet stejný účet.";
 $l['error_no_users_found'] = "Žádný uživatel neodpovídá kritériím tvého hledání. Prosím, uprav kritéria pro hledání a zkus to znovu.";
-$l['error_invalid_admin_view'] = "Vybrali jste neplatné zobrazení pro správu..";
+$l['error_invalid_admin_view'] = "Vybrali jste neplatné zobrazení pro správu.";
 $l['error_missing_view_title'] = "Nezadali jste název pro toto zobrazení.";
 $l['error_no_view_fields'] = "Nevybrali jste žádné zobrazení.";
 $l['error_invalid_view_perpage'] = "Zadali jste neplatný počet výsledků k zobrazení na stránce.";
@@ -336,7 +338,7 @@ $l['show_attachments'] = "Ukázat přílohy";
 $l['table_view'] = "Zobrazení tabulka";
 $l['card_view'] = "Zobrazení karty";
 
-$l['find_users_where'] = "Najít uživatele kde...";
+$l['find_users_where'] = "Najít uživatele kde";
 $l['username_contains'] = "Přezdívka uživatele obsahuje";
 $l['email_address_contains'] = "Emailová adresa obsahuje";
 $l['is_member_of_groups'] = "Je členem některé z jedné či více uživatelských skupin";
@@ -372,7 +374,7 @@ $l['disabled'] = "Zakázáno";
 $l['fields_to_show'] = "Pole k zobrazení";
 $l['fields_to_show_desc'] = "Prosím vyberte pole, které chcete zobrazovat";
 $l['edit_view'] = "Upravit zobrazení";
-$l['edit_view_desc'] = "Při úpravách zobrazení můžete definovat, která pole chcete zobrazit, kritéria vyhledávání a možnosti řazení..";
+$l['edit_view_desc'] = "Při úpravách zobrazení můžete definovat, která pole chcete zobrazit, kritéria vyhledávání a možnosti řazení.";
 $l['private'] = "Soukromé";
 $l['private_desc'] = "Toto zobrzazení se ukazuej pouze tobě";
 $l['public'] = "Veřejné";

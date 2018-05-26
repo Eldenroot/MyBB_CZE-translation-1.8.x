@@ -1,10 +1,12 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
+ 
 $l['forum_management'] = "Správa fóra";
 $l['forum_management_desc'] = "Tato sekce umožňuje spravovat kategorie a fóra na hlavní straně. Můžete také spravovat oprávnění fóra a moderátory pro konkrétní fórum. Pokud změníte pořadí zobrazení pro jedno nebo více fór nebo kategorií, ujistěte se, že jste odeslali formulář v dolní části stránky.";
 $l['add_forum'] = "Přidat nové fórum";
@@ -50,7 +52,7 @@ $l['set_custom_perms'] = "Nastavit vlastní práva";
 
 $l['permissions_use_group_default'] = "Použít výchozí skupinu";
 $l['permissions_group'] = "Skupina";
-$l['permissions_canview'] = "Přístup?";
+$l['permissions_canview'] = "Může zobrazit?";
 $l['permissions_canpostthreads'] = "Mohou vytvářet vlákna?";
 $l['permissions_canpostreplys'] = "Mohou odpovědět ve vláknu?";
 $l['permissions_canpostpolls'] = "Mohou vytvářet ankety?";
@@ -89,19 +91,19 @@ $l['can_move_to_other_forums'] = "Může přesunout témata na jiné fórum, kte
 $l['can_use_custom_tools'] = "Může využívat vlastní moderátorské nástroje?";
 $l['can_manage_announcements'] = "Může spravovat oznámení na tomto fórum?";
 $l['can_manage_reported_posts'] = "Může spravovat nahlášené příspěvky?";
-$l['can_view_mod_log'] = "Může vidět seznam přuhlášení moderátorů?";
-$l['moderator_cp_permissions'] = "Spravovat práva kontrolního panelu";
-$l['moderator_cp_permissions_desc'] = "Uživatel musí mít přístup ke kontrolnímu panelu a mít uživatelské oprávnění , aby se přístup k funkcím projevil.";
+$l['can_view_mod_log'] = "Může vidět seznam přihlášení moderátorů?";
+$l['moderator_cp_permissions'] = "Spravovat práva modera panelu";
+$l['moderator_cp_permissions_desc'] = "Uživatel musí mít přístup ke kontrolnímu panelu a mít uživatelské oprávnění, aby se přístup k funkcím projevil.";
 
 $l['save_mod'] = "Uložit moderátora";
 
 $l['no_forums'] = "Nebylo nalezeno žádné fórum.";
 $l['no_moderators'] = "Nebyl nalezený žádný moderátor.";
 
-$l['success_forum_disporder_updated'] = "Pořadí zobrazení fóra bylo úspěšně aktualizováno..";
+$l['success_forum_disporder_updated'] = "Pořadí zobrazení fóra bylo úspěšně aktualizováno.";
 $l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. V ideálním případě byste nyní měli spustit <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; předělat</a> nástroje.";
 $l['success_moderator_deleted'] = "Vybraný moderátor byl úspěšně smazán.<br>Pamatujte prosím, že to nezměnilo oprávnění tohoto uživatele, může tak stále mít pravomoci pro moderování.";
-$l['success_forum_permissions_updated'] = "Oprávnění fóra byla úspěšně aktualizována..";
+$l['success_forum_permissions_updated'] = "Oprávnění fóra byla úspěšně aktualizována.";
 $l['success_forum_updated'] = "Nastavení fóra bylo úspěšně aktualizováno.";
 $l['success_moderator_updated'] = "Vybraný moderátor byl úspěšně aktualizován.";
 $l['success_custom_permission_cleared'] = "Vlastní oprávnění pro toto fórum byla úspěšně vymazána.";
@@ -143,8 +145,8 @@ $l['forum_is_open_desc'] = "Pokud tato možnost není zvolena, uživatelé nebud
 
 $l['copy_to_new_forum'] = "Kopírovat do nového fóra";
 $l['source_forum'] = "Zdrojové fórum";
-$l['source_forum_desc'] = "Kopírovat nastavení a práva do fóra z.";
-$l['destination_forum'] = "Výsledné´fórum";
+$l['source_forum_desc'] = "Kopírovat nastavení a práva do fóra z";
+$l['destination_forum'] = "Výsledné fórum";
 $l['destination_forum_desc'] = "Fórum zkopíruje nastavení či práva.";
 $l['new_forum_settings'] = "Nastavení nového fóra";
 $l['copy_settings_and_properties'] = "Zkopírovat nastavení a popis fóra";
@@ -152,9 +154,9 @@ $l['copy_settings_and_properties_desc'] = "Aplikovat pouze jestli nové fórum e
 $l['copy_user_group_permissions'] = "Kopírovat práva skupin uživatelů";
 $l['copy_user_group_permissions_desc'] = "Stiskněte CTRL abyste mohli vybrat více skupin.";
 
-$l['override_user_style'] = "Ano, přepsat vybraný styl uživatele pro toto fórum";
+$l['override_user_style'] = "Ano, přepsat uživateli jeho vybraný styl ve fóru";
 $l['style_options'] = "Nastavení stylů";
-$l['forum_specific_style'] = "Styl specifický pro konkrétní fórum:";
+$l['forum_specific_style'] = "Specifický styl pro konkrétní kategorii fóra:";
 $l['use_default'] = "Využít výchozí";
 $l['dont_display_rules'] = "Nezobrazovat pravidla tohoto fóra";
 $l['display_rules_inline'] = "Zobrazit pravidla tohoto fóra";
@@ -164,11 +166,11 @@ $l['display_method'] = "Zobrazit metody:";
 $l['rules'] = "Pravidla:";
 $l['forum_rules'] = "Pravidla fóra";
 $l['name'] = "Jméno";
-$l['username'] = "Uživatelské jméno";
+$l['username'] = "Uživatelská přezdívka";
 $l['moderator_username_desc'] = "Uživatelské jméno moderátora bylo přidáno";
 $l['add_user_as_moderator'] = "Přidat uživatele jako moderátora";
 $l['usergroup'] = "Uživatelská skupina";
-$l['add_usergroup_as_moderator'] = "Udělt ze skupiny uživatelů moderátory";
+$l['add_usergroup_as_moderator'] = "Přidat skupinů uživatelů jako moderátory";
 $l['moderator_usergroup_desc'] = "Vyberte skupinu uživatelů, ze které chcete udělat moderátory.";
 $l['add_usergroup_moderator'] = "Přidat moderátorskou skupinu";
 $l['add_user_moderator'] = "Přidat uživatele - moderátora";
@@ -233,7 +235,7 @@ $l['error_forum_link_not_empty'] = "Forum s tématy nemůže být přesunuto na 
 $l['success_forum_added'] = "Fórum bylo úspěeně vytvořeno.";
 $l['success_moderator_added'] = "Moderátor byl pro toto fórum nastaven úspěšně.";
 $l['success_forum_permissions_saved'] = "Práva pro toto fórum byla úspěšně uložena.";
-$l['success_forum_copied'] = "Zvolené dórum bylo úspěšně uloženo.";
+$l['success_forum_copied'] = "Zvolené fórum bylo úspěšně uloženo.";
 
 $l['error_moderator_already_added'] = "Zvolený uživatel/skupina uživatelů již je moderátorem.";
 $l['error_moderator_not_found'] = "Zvolený uživatel/skupina nebyl nalezen.";
@@ -275,5 +277,5 @@ $l['polls_field_canvotepolls'] = "Může hlasovat v anketách?";
 
 $l['misc_field_cansearch'] = "Může na fóru vyhledávat?";
 
-$l['confirm_proceed_deletion'] = "Klikni \"Proceed\" ke smazání tohoto fóra.";
-$l['automatically_redirecting'] = "Automatické přesměrování...";
+$l['confirm_proceed_deletion'] = "Klikni \"Pokračovat\" ke smazání tohoto fóra.";
+$l['automatically_redirecting'] = "Automatické přesměrování…";

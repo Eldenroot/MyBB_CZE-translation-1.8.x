@@ -1,10 +1,11 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
 $l['spiders_bots'] = "Spiders / Boti";
 $l['spiders_bots_desc'] = "Tato sekce umožní spravovat boty a vyhledávací roboty, kteří navštívili vaše fórum. Můžete také vidět, který bot navštívil fórum naposledy.";
 $l['add_new_bot'] = "Přidat nového bota";

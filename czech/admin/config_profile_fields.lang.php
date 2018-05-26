@@ -1,10 +1,11 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
 $l['custom_profile_fields'] = "Vlastní profilové pole";
 $l['custom_profile_fields_desc'] = "Tato sekce vám umožní upravit, smazat a spravovat vlastní profilové pole.";
 $l['add_profile_field'] = "Přidat profilové pole";
@@ -20,7 +21,7 @@ $l['maximum_length_desc'] = "Toto je maximální počet znaků, které mohou bý
 $l['field_length'] = "Délka pole";
 $l['field_length_desc'] = "Toto je délka pole. To platí pouze pro jedno a více výběrových polí.";
 $l['display_order'] = "Pořadí";
-$l['display_order_desc'] = "Toto je pořadí polí vlastních profilů ve vztahu k ostatním polím vlastního profilu. Toto číslo by nemělo být stejné jako jiné pole..";
+$l['display_order_desc'] = "Toto je pořadí polí vlastních profilů ve vztahu k ostatním polím vlastního profilu. Toto číslo by nemělo být stejné jako jiné pole.";
 $l['text'] = "Textová oblast";
 $l['textarea'] = "Textové pole";
 $l['select'] = "Vybrat";

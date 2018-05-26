@@ -1,11 +1,10 @@
 <?php
 /**
- * MyBB 1.8
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
- *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['hello_desc'] = 'Jednoduchý plugin, který ti umožní vytvořit zprávu na hlavní stránce a přiložit jej ke každému příspěvku.';

@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 
@@ -19,7 +21,7 @@ $l['details'] = "Detaily";
 $l['filter_warning_logs'] = "Hledat v záznamech systému napomenutí";
 $l['filter_warned_user'] = "Napomenutý uživatel:";
 $l['filter_issued_by'] = "Napomenutí uděleno:";
-$l['filter_reason'] = "Důvod obsahuje::";
+$l['filter_reason'] = "Důvod obsahuje:";
 $l['sort_by'] = "Seřadit podle:";
 $l['results_per_page'] = "Výsledky na stránku:";
 $l['view'] = "Zobrazit";

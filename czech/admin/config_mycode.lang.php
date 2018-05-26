@@ -1,10 +1,12 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
+ 
 $l['custom_mycode'] = "Vlastní MyCode";
 $l['mycode'] = "MyCode";
 $l['mycode_desc'] = "Vlastní MyCode umožní vytvoření MyCode pro využití ve zprávách uživatele.";
@@ -55,5 +57,5 @@ $l['success_activated_mycode'] = "Zvolený MyCode byl úspěšně aktivovaný.";
 
 $l['confirm_mycode_deletion'] = "Jsi si doopravdy jistý, že chceš odstranit tento MyCode?";
 
-$l['mycode_sandbox_test_error'] = 'Vyksytla se chyba při načítání výsleků.';
+$l['mycode_sandbox_test_error'] = 'Vyskytla se chyba při načítání výsleků.';
 
