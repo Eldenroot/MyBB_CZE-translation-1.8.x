@@ -21,19 +21,19 @@ $l['activate_account'] = "Aktivovat účet";
 $l['activation_code'] = "Aktivační kód:";
 
 $l['email_user'] = "Napsat uživateli {1} e-mail";
-$l['email_subject'] = "Předmět emailu";
-$l['email_message'] = "Zpráva emailu";
+$l['email_subject'] = "Předmět e-mailu";
+$l['email_message'] = "Zpráva e-mailu";
 $l['send_email'] = "Poslat e-mail";
-$l['error_hideemail'] = "Příjemce se rozhodl svoji emailovou adresu nezobrazovat, takže mu nelze e-mail zaslat.";
-$l['error_no_email_subject'] = "Je nutné zadat předmět emailu";
-$l['error_no_email_message'] = "Je nutné napsat do emailu nějakou zprávu";
+$l['error_hideemail'] = "Příjemce se rozhodl svoji e-mailovou adresu nezobrazovat, takže mu nelze e-mail zaslat.";
+$l['error_no_email_subject'] = "Je nutné zadat předmět e-mailu";
+$l['error_no_email_message'] = "Je nutné napsat do e-mailu nějakou zprávu";
 
 $l['login'] = "Přihlásit se";
 $l['pw_note'] = "Pamatujte, že hesla jsou citlivá na velikost písmen.";
 $l['lostpw_note'] = "Zapomenuté heslo?";
 $l['lost_pw'] = "Zapomenuté heslo účtu";
 $l['lost_pw_form'] = "Formulář obnovy zapomenutého hesla";
-$l['email_address'] = "Emailová adresa:";
+$l['email_address'] = "E-mailová adresa:";
 $l['request_user_pass'] = "Zaslat žádost o přihlašovací údaje";
 $l['profile'] = "Profil uživatele: {1}";
 $l['registration_date'] = "Datum registrace:";
@@ -97,12 +97,12 @@ $l['i_agree'] = "Souhlasím";
 $l['account_details'] = "Detaily účtu";
 $l['account_prefs'] = "Nastavení účtu:";
 $l['invisible_mode'] = "Nechci být zobrazen na seznamu právě přihlášených uživatelů.";
-$l['allow_notices'] = "Dostávat emaily od administrátora.";
-$l['hide_email'] = "Nezobrazovat moji emailovou adresu ostatním uživatelům.";
+$l['allow_notices'] = "Dostávat e-maily od administrátora.";
+$l['hide_email'] = "Nezobrazovat moji e-mailovou adresu ostatním uživatelům.";
 $l['email_notify'] = "Automaticky odebírat příspěvky témat, do kterých jsem napsal(a) příspěvek.";
 $l['receive_pms'] = "Dostávat soukromé zprávy od ostatních uživatelů.";
 $l['pm_notice'] = "Upozornit na nové soukromé zprávy oznámením.";
-$l['email_notify_newpm'] = "Upozornit na nové soukromé zprávy emailem.";
+$l['email_notify_newpm'] = "Upozornit na nové soukromé zprávy e-mailem.";
 $l['time_offset'] = "Časová zóna (<acronym title=\"letní čas\">DST</acronym>, bez korekce letního času):";
 $l['time_offset_desc'] = "Pokud žijete v jiné časové zóně, než kterou používá toto fórum, můžete si ji změnit zde.";
 $l['dst_correction'] = "Korekce letního času:";
@@ -122,9 +122,9 @@ $l['birthdayprivacyage'] = "Zobrazit pouze věk";
 $l['leave_this_field_empty'] = "Toto pole nechte prázdné:";
 $l['error_need_to_be_thirteen'] = "Pro registraci na toto fórum vám musí být nejméně 13 let.";
 $l['coppa_registration'] = "COPPA registrační formulář";
-$l['coppa_form_instructions'] = "Tento formulář si vytiskněte, vyplňte jej a buď odfaxujte na níže uvedené číslo faxu, nebo jej zašlete na uvedenou emailovou adresu.";
+$l['coppa_form_instructions'] = "Tento formulář si vytiskněte, vyplňte jej a buď odfaxujte na níže uvedené číslo faxu, nebo jej zašlete na uvedenou e-mailovou adresu.";
 $l['fax_number'] = "Číslo faxu:";
-$l['mailing_address'] = "Emailová adresa:";
+$l['mailing_address'] = "E-mailová adresa:";
 $l['account_information'] = "Informace o účtu";
 $l['parent_details'] = "Rodiče / poručníci - detaily";
 $l['full_name'] = "Celé jméno:";
@@ -164,7 +164,7 @@ $l['timeonline'] = "Strávený čas online:";
 $l['timeonline_hidden'] = "(skrytý)";
 $l['registrations_disabled'] = "Bohužel se nyní nemůžete registrovat. Administrátor dočasně registraci nových účtů zakázal. Vraťte se prosím později.";
 $l['error_username_length'] = "Vaše uživatelské jméno není platné. Musí obsahovat od {1} do {2} znaků.";
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno či emailová adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujet administrátora.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno či e-mailová adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vašeho účtu s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
 
 $l['none_registered'] = "Bez registrace";
@@ -188,27 +188,27 @@ $l['admin_edit_in_acp'] = "Upravit tohoto uživatele v Administraci";
 $l['admin_ban_in_acp'] = "Banovat tohoto uživatele v Administraci";
 $l['admin_options'] = "Nastavení administrátora";
 
-$l['redirect_registered_activation'] = "Děkujeme za registraci do fóra {1}, {2}.<p>Pro dokončení registrace jděte do své emailové schránky a přečtěte si došlý e-mail s aktivačními instrukcemi. Dokud je nesplníte, nebude Váš účet aktivován a do fóra se nebudete moci přihlásit.";
-$l['redirect_emailupdated'] = "Vaše emailová adresa byla úspěšně změněna.<br />Nyní budete přesměrováni na hlavní stránku.";
+$l['redirect_registered_activation'] = "Děkujeme za registraci do fóra {1}, {2}.<p>Pro dokončení registrace jděte do své e-mailové schránky a přečtěte si došlý e-mail s aktivačními instrukcemi. Dokud je nesplníte, nebude Váš účet aktivován a do fóra se nebudete moci přihlásit.";
+$l['redirect_emailupdated'] = "Vaše e-mailová adresa byla úspěšně změněna.<br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_accountactivated'] = "Váš účet byl úspěšně aktivován.<br />Nyní budete přesměrováni na hlavní stránku.";
-$l['redirect_accountactivated_admin'] = "Vaše emailová adresa byla úspěšně ověřena.<br />Vaše registrace musí být aktivována administrátorem. Do té doby se do fóra nemůžete přispívat.<br />Nyní budete přesměrováni na hlavní stránku.";
+$l['redirect_accountactivated_admin'] = "Vaše e-mailová adresa byla úspěšně ověřena.<br />Vaše registrace musí být aktivována administrátorem. Do té doby se do fóra nemůžete přispívat.<br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_registered'] = "Děkujeme za registraci do fóra {1}, {2}.<br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_registered_admin_activate'] = "Děkujeme za registraci do fóra {1}, {2}.<br />Vaše registrace musí být aktivována administrátorem. Do té doby se do fóra nemůžete přispívat.";
 $l['redirect_loggedout'] = "Úspěšně jste se odhlásili.<br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_alreadyloggedout'] = "Již jste se odhlásili, nebo ještě nepřihlásili.<br />Nyní budete přesměrováni na hlavní stránku.";
-$l['redirect_lostpwsent'] = "Všechny účty, které jsou propojeny s touto emailovou adresou obdrží e-mail s návodem na resetování hesla.<br /><br />Nyní budete přesměrováni na hlavní stránku.";
+$l['redirect_lostpwsent'] = "Všechny účty, které jsou propojeny s touto e-mailovou adresou obdrží e-mail s návodem na resetování hesla.<br /><br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_activationresent'] = "Znovu byl odeslán aktivační e-mail.";
-$l['redirect_passwordreset'] = "Vaše heslo bylo úspěšně resetováno. Na Vaši emailovou adresu bylo odesláno nové, náhodně vygenerované heslo.";
+$l['redirect_passwordreset'] = "Vaše heslo bylo úspěšně resetováno. Na Vaši e-mailovou adresu bylo odesláno nové, náhodně vygenerované heslo.";
 $l['redirect_memberrated'] = "Uživatele se podařilo úspěšně ohodnotit.";
-$l['redirect_registered_passwordsent'] = "Bylo vygenerováno náhodné heslo a odesláno na Vaši emailovou adresu. Přečtěte si prosím příslušnou poštu a uvedené heslo použijte k Vašemu přihlášení do tohoto fóra.";
+$l['redirect_registered_passwordsent'] = "Bylo vygenerováno náhodné heslo a odesláno na Vaši e-mailovou adresu. Přečtěte si prosím příslušnou poštu a uvedené heslo použijte k Vašemu přihlášení do tohoto fóra.";
 $l['redirect_validated'] = "Váš účet byl ověřen.<br />Nyní budete přesměrováni na hlavní stránku.";
 
 $l['error_activated_by_admin'] = "Aktivační e-mail nelze poslat znovu, protože registrace musí být schválena administrátorem.";
 $l['error_alreadyregistered'] = "Naše záznamy ukazují, že jste se v tomto fóru již zaregistroval(a). Vícenásobné registrace nejsou povoleny.";
 $l['error_alreadyregisteredtime'] = "V registraci nelze pokračovat, neboť z Vaší IP adresy již bylo za období posledních {2} hodin učiněno {1} nových registrací. Zkuste to prosím později.";
 $l['error_badlostpwcode'] = "Zadali jste chybný resetovací kód. Přečtěte si prosím ještě jednou došlý e-mail, nebo kontaktujte administrátora s prosbou o další pomoc.";
-$l['error_badactivationcode'] = "Zadali jste chybný aktivační kód. Pro další odeslání aktivačního emailu klikněte <a href=\"member.php?action=resendactivation\">zde</a>.";
-$l['error_alreadyactivated'] = "Váš účet byl již aktivován nebo nepotřebuje emailovou verifikaci.";
+$l['error_badactivationcode'] = "Zadali jste chybný aktivační kód. Pro další odeslání aktivačního e-mailu klikněte <a href=\"member.php?action=resendactivation\">zde</a>.";
+$l['error_alreadyactivated'] = "Váš účet byl již aktivován nebo nepotřebuje e-mailovou verifikaci.";
 $l['error_alreadyvalidated'] = "Váš e-mail již byl ověřen.";
 $l['error_nothreadurl'] = "Vaše zpráva neobsahuje adresu tématu. K tomuto účelu využijte možnost \"Poslat příteli\".";
 $l['error_bannedusername'] = "Vámi zadané uživatelské jméno je zakázáno. Použijte prosím jiné.";
@@ -219,15 +219,15 @@ $l['error_spam_deny'] = "Systém detekoval, že můžete být spamer, takže Vá
 $l['error_spam_deny_time'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci.  Registrace musí trvat minimálně {1} sekund, aby se zabránilo registracím robotem. Vy jste se registroval(a) za {2} sekundy. Pokud je to omyl, kontaktujte administrátora.";
 
 $l['js_validator_no_username'] = "Musíte vložit uživatelské jméno";
-$l['js_validator_invalid_email'] = "Musíte vložit platnou emailovou adresu";
-$l['js_validator_email_match'] = "Musíte znovu vložit stejnou emailovou adresu";
+$l['js_validator_invalid_email'] = "Musíte vložit platnou e-mailovou adresu";
+$l['js_validator_email_match'] = "Musíte znovu vložit stejnou e-mailovou adresu";
 $l['js_validator_no_image_text'] = "Musíte opsat text z obrázku výše";
 $l['js_validator_no_security_question'] = "Musíte odpovědět na otázku výše";
 $l['js_validator_password_matches'] = "Zadané heslo musí souhlasit";
 $l['js_validator_password_complexity'] = "Zjišťuji složitost hesla";
 $l['js_validator_password_length'] = "Vaše heslo musí být dlouhé {1} nebo více znaků";
 $l['js_validator_not_empty'] = "Je nutné pro toto pole vybrat či vložit údaj";
-$l['js_validator_bad_password_security'] = 'Heslo, které si zadal je podobné tvé přezdívce nebo emailové adrese. Prosím, zadej silnější heslo.';
+$l['js_validator_bad_password_security'] = 'Heslo, které si zadal je podobné tvé přezdívce nebo e-mailové adrese. Prosím, zadej silnější heslo.';
 $l['js_validator_checking_username'] = "Zjišťuji, zda je uživatelské jméno volné";
 $l['js_validator_username_length'] = "Uživatelské jméno musí být dlouhé {1} až {2} znaků";
 $l['js_validator_checking_referrer'] = "Zjišťuji, zda doporučující uživatel existuje.";
@@ -240,7 +240,7 @@ $l['error_question_wrong'] = "Vaše odpověď na bezpečnostní otázku není sp
 $l['subscription_method'] = "Předvolený způsob odběru témat:";
 $l['no_auto_subscribe'] = "Neodebírat";
 $l['no_subscribe'] = "Neupozorňovat";
-$l['instant_email_subscribe'] = "Upozorňovat emailem";
+$l['instant_email_subscribe'] = "Upozorňovat e-mailem";
 $l['instant_pm_subscribe'] = "Upozorňovat SZ";
 
 $l['remove_from_buddy_list'] = "Odstranit ze seznamu přátel";
@@ -256,5 +256,5 @@ zaregistroval se nový uživatel do {2} a čeká na aktivaci administrátorem.
 
 Uživatelské jméno: {3}
 
-Děkujeme,
-vedení fóra {2}";
+Děkujeme
+Vedení fóra {2}";

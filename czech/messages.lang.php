@@ -12,12 +12,12 @@ $l['redirect_loggedin'] = "Vaše přihlášení proběhlo úspěšně.<br />Nyn�
 
 $l['error_invalidpworusername'] = "Zadali jste neplatné uživatelské jméno či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
 $l['error_invalidpworusername1'] = "Zadali jste neplatný e-mail či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
-$l['error_invalidpworusername2'] = "Zadali jste neplatnou kombinaci uživatelského jména či hesla nebo emailu či hesla. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
+$l['error_invalidpworusername2'] = "Zadali jste neplatnou kombinaci uživatelského jména či hesla nebo e-mailu či hesla. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
 $l['error_incompletefields'] = "Zdá se, že nejméně jedno z požadovaných polí nebylo vyplněno. Vraťte se prosím a vyplňte všechna požadovaná pole.";
 $l['error_alreadyuploaded'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím přejmenujte jej a nahrajte znovu. Nebo klikněte na \"aktualizovat přílohu\".";
 $l['error_alreadyuploaded_perm'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím buď jej odstraňte nebo jej přejmenujte a nahrajte znovu.";
 $l['error_nomessage'] = "Nelze bohužel pokračovat, protože tato zpráva není validní. Vraťte se prosím a opravte ji.";
-$l['error_invalidemail'] = "Uvedená emailová adresa není platná.";
+$l['error_invalidemail'] = "Uvedená e-mailová adresa není platná.";
 $l['error_nomember'] = "Zadaný uživatel neexistuje, nebo je chybně zadán.";
 $l['error_maxposts'] = "Limit Vašich příspěvků za 1 den byl vyčerpán. Pokračujte prosím zítra. Pokud si myslíte, že je to naše chyba, kontaktujte administrátora.<br /><br />Váš denní limit je nastaven na {1} ks";
 $l['error_nohostname'] = "K zadané IP adrese nelze nalézt hostitele.";
@@ -112,8 +112,8 @@ Budete muset zadat následující údaje:
 Uživatelské jméno: {1}
 Aktivační kód: {5}
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 $l['email_lostpw1'] = "{1},
 
 k dokončení změny Vašeho hesla v {2}, klikněte na následující odkaz:
@@ -128,8 +128,8 @@ Budete muset zadat následující údaje:
 Vaši emailovou adresu,
 Aktivační kód: {5}
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 $l['email_lostpw2'] = "{1},
 
 k dokončení změny Vašeho hesla v {2}, klikněte na následující odkaz:
@@ -141,11 +141,11 @@ Pokud uvedený odkaz nefunguje, jděte na:
 {3}/member.php?action=resetpassword
 
 Budete muset zadat následující údaje:
-Uživatelské jméno: {1} (nebo Vaši emailovou adresu)
+Uživatelské jméno: {1} (nebo Vaši e-mailovou adresu)
 Aktivační kód: {5}
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 
 $l['email_reportpost'] = "{1} z {2} ohlásil tento příspěvek:
@@ -168,8 +168,8 @@ Vaše nové heslo je: {3}
 
 Toto heslo potřebujete k prvnímu přihlášení se do fóra. Poté si heslo již sami můžete snadno změnit ve Vašem Nastavení uživatele.
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_randompassword'] = "{1},
 
@@ -180,8 +180,8 @@ Heslo: {4}
 
 Doporučujeme si změnit heslo okamžitě po Vašem přihlášení do fóra. Můžete tak učinit ve Vašem Nastavení uživatele a to tak, že v něm kliknete na položku Změnit heslo.
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_randompassword1'] = "{1},
 
@@ -192,8 +192,8 @@ Heslo: {4}
 
 Doporučujeme si změnit heslo okamžitě po Vašem přihlášení do fóra. Můžete tak učinit ve Vašem Nastavení uživatele a to tak, že v něm kliknete na položku Změnit heslo.
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_randompassword2'] = "{1},
 
@@ -204,8 +204,8 @@ Heslo: {4}
 
 Doporučujeme si změnit heslo okamžitě po Vašem přihlášení do fóra. Můžete tak učinit ve Vašem Nastavení uživatele a to tak, že v něm kliknete na položku Změnit heslo.
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_sendtofriend'] = "Dobrý den,
 
@@ -218,8 +218,8 @@ $l['email_sendtofriend'] = "Dobrý den,
 {4}
 ------------------------------------------
 
-Děkujeme,
-obsluha fóra {2}
+Děkujeme
+Vedení fóra {2}
 ";
 
 $l['email_forumsubscription'] = "{1},
@@ -238,8 +238,8 @@ Pro zobrazení tématu klikněte na následující odkaz:
 
 Mohou existovat ještě další nová témata a příspěvky. Upozornění na ně budete dostávat, až když znovu navštívíte fórum.
 
-Děkujeme,
-obsluha fóra {4}
+Děkujeme
+Vedení fóra {4}
 
 ------------------------------------------
 Odhlášení odběru:
@@ -263,8 +263,8 @@ Budete muset zadat následující údaje:
 Uživatelské jméno: {1}
 Aktivační kód: {5}
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_activateaccount1'] = "{1},
 
@@ -277,11 +277,11 @@ Pokud uvedený odkaz nefunguje, jděte na:
 {3}/member.php?action=activate
 
 Budete muset zadat následující údaje:
-Vaší emailovou adresu,
+Vaší e-mailovou adresu,
 Aktivační kód: {5}
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_activateaccount2'] = "{1},
 
@@ -294,11 +294,11 @@ Pokud uvedený odkaz nefunguje, jděte na:
 {3}/member.php?action=activate
 
 Budete muset zadat následující údaje:
-Uživatelské jméno: {1} (nebo Vaši emailovou adresu)
+Uživatelské jméno: {1} (nebo Vaši e-mailovou adresu)
 Aktivační kód: {5}
 
-Děkujeme,
-obsluha fóra {2}";
+Děkujeme
+Vedení fóra {2}";
 
 $l['email_subscription'] = "{1},
 
@@ -314,8 +314,8 @@ Pro zobrazení tématu klikněte na následující odkaz:
 
 Na toto téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte fórum.
 
-Děkujeme,
-obsluha fóra {3}
+Děkujeme
+Vedení fóra {3}
 
 ------------------------------------------
 Odhlášení odběru:
@@ -332,8 +332,8 @@ Nejméně jeden uživatel se Vám pokoušel zaslat soukromou zprávu, ale z vý�
 
 Náprava je snadná: odstraňte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
 
-Děkujeme,
-obsluha fóra {2}
+Děkujeme
+Vedení fóra {2}
 {3}";
 $l['email_changeemail'] = "{1},
 
@@ -354,10 +354,10 @@ Budete muset zadat následující údaje:
 Uživatelské jméno: {7}
 Aktivační kód: {6}
 
-Pokud jste se rozhodli nedokončit validační proces a neověřit tak Vaši novou emailovou adresu, nebude Váš uživatelský profil aktualizován a stále bude obsahovat Vaši starou emailovou adresu.
+Pokud jste se rozhodli nedokončit validační proces a neověřit tak Vaši novou emailovou adresu, nebude Váš uživatelský profil aktualizován a stále bude obsahovat Vaši starou e-mailovou adresu.
 
-Děkujeme,
-obsluha fóra {2}
+Děkujeme
+Vedení fóra {2}
 {5}";
 
 $l['email_changeemail_noactivation'] = "{1},
@@ -369,8 +369,8 @@ Nová e-mailová adresa: {4}
 
 Tato změna byla automaticky zpracována. Pokud jste si tuto změnu nevyžádali, prosím kontaktujte administrátora.
 
-Děkujeme,
-obsluha fóra {2}
+Děkujeme
+Vedení fóra {2}
 {5}";
 
 $l['email_changepassword'] = "{1},
@@ -378,12 +378,12 @@ $l['email_changepassword'] = "{1},
 zasíláme Vám tento e-mail, protože jste si buď Vy, nebo někdo s přístupem k Vašemu heslu právě změnil Vaše heslo.
 
 Uživatelské jméno: {1}
-Vaše emailová adresa: {2}
+Vaše e-mailová adresa: {2}
 
 Pokud jste si tuto změnu nevyžádali, prosím kontaktujte administrátora.
 
-Děkujeme,
-obsluha fóra {3}
+Děkujeme
+Vedení fóra {3}
 {4}";
 
 $l['email_newpm'] = "{1},
@@ -404,8 +404,8 @@ Oznámení o nových zprávách si můžete vypnout ve Vašem Nastavení uživat
 
 {4}/usercp.php?action=options
 
-Děkujeme,
-obsluha fóra {3}
+Děkujeme
+Vedení fóra {3}
 {4}";
 
 $l['email_emailuser'] = "{1},
@@ -415,14 +415,14 @@ $l['email_emailuser'] = "{1},
 {5}
 ------------------------------------------
 
-Děkujeme,
-obsluha fóra {3}
+Děkujeme
+Vedení fóra {3}
 {4}
 
 ------------------------------------------
 Nechcete dostávat od ostatních členů e-maily?
 
-Pokud nechcete, aby Vám ostatní členové mohli posílat emaily, jděte do svého Nastavení uživatele a tam si nastavte 'Skýt emailovou adresu před ostatními uživateli':
+Pokud nechcete, aby Vám ostatní členové mohli posílat e-maily, jděte do svého Nastavení uživatele a tam si nastavte 'Skýt emailovou adresu před ostatními uživateli':
 {4}/usercp.php?action=options
 
 ------------------------------------------";
@@ -437,8 +437,8 @@ Chcete-li přijmout nebo odmítnout tuto žádost, klikněte na:
 
 {6}/managegroup.php?gid={7}
 
-Děkujeme,
-obsluha fóra {4}";
+Děkujeme
+Vedení fóra {4}";
 
 $l['email_contact_subject'] = "Kontakt: {1}";
 $l['email_contact'] = "E-mail: {1}

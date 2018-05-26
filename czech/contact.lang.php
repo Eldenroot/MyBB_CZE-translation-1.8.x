@@ -8,7 +8,7 @@
 $l['contact'] = 'Kontakt';
 $l['contact_no_message'] = 'Musíte zadat obsah zprávy.';
 $l['contact_no_subject'] = 'Musíte zadat předmět zprávy.';
-$l['contact_no_email'] = 'Musíte zadat platnou emailovou adresu.';
+$l['contact_no_email'] = 'Musíte zadat platnou e-mailovou adresu.';
 $l['contact_success_message'] = 'Váše zpráva byla v pořádku odeslána administrátorovi.';
 $l['contact_subject'] = 'Předmět zprávy';
 $l['contact_subject_desc'] = 'Uveďte stručně předmět zprávy.';

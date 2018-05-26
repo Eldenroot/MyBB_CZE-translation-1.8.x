@@ -125,8 +125,8 @@ $l['no_post_icon'] = "bez ikony";
 $l['thread_subscription_method'] = "Přihlásit k odběru témat:";
 $l['thread_subscription_method_desc'] = "Zvolte druh ohlašování a odběru novinek pro toto téma (pouze pro registrované uživatele)";
 $l['no_subscribe'] = "Nepřihlašovat k odběru novinek tohoto vlákna";
-$l['no_subscribe_notification'] = "Přihlásit k odběru bez ohlašováním odpovědí emailem";
-$l['instant_email_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi emailem";
+$l['no_subscribe_notification'] = "Přihlásit k odběru bez ohlašováním odpovědí e-mailem";
+$l['instant_email_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi e-mailem";
 $l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes SZ";
 
 $l['today_rel'] = "<span title=\"{1}\">dnes</span>";
@@ -180,7 +180,7 @@ $l['editor_width'] = "Šířka (volitelné):";
 $l['editor_height'] = "Výška (volitelné):";
 $l['editor_insertimg'] = "Vložit obrázek";
 $l['editor_email'] = "e-mail:";
-$l['editor_insertemail'] = "Vložit emailovou adresu";
+$l['editor_insertemail'] = "Vložit e-mailovou adresu";
 $l['editor_url'] = "Odkaz URL:";
 $l['editor_insertlink'] = "Vložit odkaz";
 $l['editor_unlink'] = "Odstranit odkaz";
@@ -519,7 +519,7 @@ $l['error_emailflooding_1_second'] = "Lituji, ale můžete poslat pouze 1 e-mail
 $l['error_emailflooding_seconds'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte {2} sekund(y).";
 $l['error_emailflooding_1_minute'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte 1 minutu.";
 $l['error_emailflooding_minutes'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Prosím počkejte {2} minut(y).";
-$l['error_invalidfromemail'] = "Nezadali jste platnou emailovou adresu.";
+$l['error_invalidfromemail'] = "Nezadali jste platnou e-mailovou adresu.";
 $l['error_noname'] = "Nezadali jste platné jméno.";
 $l['your_email'] = "Váš e-mail:";
 $l['email_note'] = "Zadejte svůj e-mail.";
@@ -563,7 +563,7 @@ $l['select2_searching'] = "Hledám...";
 
 $l['stopforumspam_error_decoding'] = 'Nastala chyba při dekódování dat ze serveru StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Nastala chyba při získávání dat ze serveru StopForumSpam.com.';
-$l['stopforumspam_invalid_email'] = 'Nesprávná emailová adresa při kontrole ze serveru StopForumSpam.com';
+$l['stopforumspam_invalid_email'] = 'Nesprávná e-mailová adresa při kontrole ze serveru StopForumSpam.com';
 $l['stopforumspam_invalid_ip_address'] = 'Nesprávná IP adresa při kontrole ze serveru StopForumSpam.com';
 
 $l['sfs_error_username'] = 'Přezdívka';
