@@ -1,18 +1,20 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
+ *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-
-$l['spam_logs']       = 'Anti-spamová protekce';
-$l['spam_logs_desc']  = 'V této části můžeš vidět historii uživatelů, které zablokoval spam filter';
-$l['prune_spam_logs']       = 'Smazat historii spamu';
-$l['prune_spam_logs_desc']  = 'Here you can prune the spam logs matching a specified criteria.';
-$l['spam_username']   = 'Přezdívka';
-$l['spam_email']      = 'Email';
-$l['spam_ip']         = 'IP address';
-$l['spam_date']       = 'Datum';
+$l['spam_logs'] = 'Anti-spamová protekce';
+$l['spam_logs_desc'] = 'V této části můžeš vidět historii uživatelů, které zablokoval spam filter';
+$l['prune_spam_logs'] = 'Smazat historii spamu';
+$l['prune_spam_logs_desc'] = 'Zde můžeš promazat protokoly o spamu dle zadaných kritérií.';
+$l['spam_username'] = 'Přezdívka';
+$l['spam_email'] = 'E-mail';
+$l['spam_ip'] = 'IP adresa';
+$l['spam_date'] = 'Datum';
 $l['spam_confidence'] = 'Důkaz';
 $l['no_spam_logs'] = 'Prozatím spamová ochrana nezabanovala žádného uživatele.';
 $l['success_pruned_spam_logs'] = 'Historie spamů byla úspěšně vymazána.';
@@ -24,10 +26,10 @@ $l['days'] = "dny";
 $l['filter_spam_logs'] = 'Hledat v záznamech spamu';
 $l['asc'] = "Vzestupně";
 $l['desc'] = "Klesající";
-$l['search_ip_on_sfs'] = "Najít tuto IP adresa v databázi: <a href='https://www.stopforumspam.com/' target='_blank'>Stop Forum Spam</a>";
+$l['search_ip_on_sfs'] = "Najít tuto IP adresu v databázi: <a href='https://www.stopforumspam.com/' target='_blank'>Stop Forum Spam</a>";
 $l['search'] = "Hledat";
 
-$l['in'] = "in";
-$l['order'] = "order";
+$l['in'] = "v";
+$l['order'] = "pořadí";
 $l['sort_by'] = "Seřazeno podle";
 $l['results_per_page'] = "Výsledky na stránku";

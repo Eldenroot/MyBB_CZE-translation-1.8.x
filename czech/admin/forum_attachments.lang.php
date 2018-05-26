@@ -1,37 +1,39 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 // Tabs
 $l['attachments'] = "Přílohy";
 $l['stats'] = "Statistiky";
 $l['find_attachments'] = "Přílohy";
-$l['find_attachments_desc'] = "Using the attachments search system you can search for specific files users have attached to your forums. Begin by entering some search terms below. All fields are optional and won't be included in the criteria unless they contain a value.";
-$l['find_orphans'] = "Find Orphaned Attachments";
-$l['find_orphans_desc'] = "Orphaned attachments are attachments which are for some reason missing in the database or the file system. This utility will assist you in locating and removing them.";
+$l['find_attachments_desc'] = "Pomocí vyhledávacího systému příloh můžete vyhledávat konkrétní soubory, které uživatelé připojili k vašemu fóru. Začněte zadáním hledaných výrazů níže. Všechna pole jsou volitelná a nebudou zahrnuta do kritérií, pokud neobsahují hodnotu.";
+$l['find_orphans'] = "Najít nepřiřazené přílohy";
+$l['find_orphans_desc'] = "Nepřiřazené přílohy jsou přílohy, které jsou z nějakého důvodu chybějící v databázi nebo v systému souborů. Tento nástroj vám pomůže je najít a odstranit.";
 $l['attachment_stats'] = "Statistiky příloh";
-$l['attachment_stats_desc'] = "Below are some general statistics for the attachments currently on your forum.";
+$l['attachment_stats_desc'] = "Níže jsou uvedeny některé obecné statistiky pro přílohy v současné době na vašem fóru.";
 
 // Errors
-$l['error_nothing_selected'] = "Please select one or more attachments to delete.";
-$l['error_no_attachments'] = "There aren't any attachments on your forum yet. Once an attachment is posted you'll be able to access this section.";
-$l['error_not_all_removed'] = "Only some orphaned attachments were successfully deleted, others could not be removed from the uploads directory.";
-$l['error_count'] = 'Unable to remove {1} attachment(s).';
-$l['error_invalid_username'] = "The username you entered is invalid.";
-$l['error_invalid_forums'] = "One or more forums you selected are invalid.";
-$l['error_no_results'] = "No attachments were found with the specified search criteria.";
-$l['error_not_found'] = "Attachment file could not be found in the uploads directory.";
-$l['error_not_attached'] = "Attachment was uploaded over 24 hours ago but not attached to a post.";
-$l['error_does_not_exist'] = "Thread or post for this attachment no longer exists.";
+$l['error_nothing_selected'] = "Prosím, vyberte jednu nebo více příloh pro smazání.";
+$l['error_no_attachments'] = "Na vašem fórum zatím nejsou žádné přílohy. Jakmile se příloha nahraje, budete mít k této sekci přístup.";
+$l['error_not_all_removed'] = "Pouze některé nezařazené přílohy byly úspěšně odstraněny, ostatní nelze odebrat z adresáře odesílání.";
+$l['error_count'] = 'Nešlo odebrat {1} příloh.';
+$l['error_invalid_username'] = "Zadané uživatelské jméno je neplatné.";
+$l['error_invalid_forums'] = "Jedno nebo více vybraných fór je neplatné.";
+$l['error_no_results'] = "Nebyly nalezeny žádné přílohy se zadaným vyhledávacím kritériem.";
+$l['error_not_found'] = "Soubor přílohy nebyl v adresáři odesílání nalezen.";
+$l['error_not_attached'] = "Příloha byla nahrána před 24 hodinami, ale není připojena k příspěvku.";
+$l['error_does_not_exist'] = "Téma nebo příspěvek pro tuto přílohu již neexistuje.";
 
 // Success
 $l['success_deleted'] = "Zvolené přílohy byly úspěšny vymazány.";
-$l['success_orphan_deleted'] = "The selected orphaned attachment(s) have been deleted successfully.";
-$l['success_count'] = '{1} attachment(s) removed successfully.';
-$l['success_no_orphans'] = "There are no orphaned attachments on your forum.";
+$l['success_orphan_deleted'] = "Vybrané nepřiřazené přílohy byly úspěšně odstraněny.";
+$l['success_count'] = '{1} příloh bylo úspěšně odebráno.';
+$l['success_no_orphans'] = "Na vašem fóru nejsou žádné nepřiřazené přílohy.";
 
 // Confirm
 $l['confirm_delete'] = "Jsi si doopravdy jistý, že chceš zvolené přílohy nenávratně vymazat?";
@@ -39,70 +41,70 @@ $l['confirm_delete'] = "Jsi si doopravdy jistý, že chceš zvolené přílohy n
 // == Pages
 // = Stats
 $l['general_stats'] = "Základní statistiky";
-$l['stats_attachment_stats'] = "Attachments - Attachment Statistics";
+$l['stats_attachment_stats'] = "Přílohy - statistiky příloh";
 $l['num_uploaded'] = "<strong>Počet nahraných příloh</strong>";
 $l['space_used'] = "<strong>Velikost všech příloh</strong>";
-$l['bandwidth_used'] = "<strong>Estimated Bandwidth Usage</strong>";
+$l['bandwidth_used'] = "<strong>Odhadované využití</strong>";
 $l['average_size'] = "<strong>Průměrná velikost příloh</strong>";
 $l['size'] = "Velikost";
 $l['posted_by'] = "Přiloženo uživatelem";
 $l['thread'] = "Vlákno";
 $l['downloads'] = "Stažené";
 $l['date_uploaded'] = "Datum nahrání";
-$l['popular_attachments'] = "Top 5 Most Popular Attachments";
-$l['largest_attachments'] = "Top 5 Largest Attachments";
-$l['users_diskspace'] = "Top 5 Users Using the Most Disk Space";
+$l['popular_attachments'] = "Top 5 nejpopulárnějších příloh";
+$l['largest_attachments'] = "Top 5 největších příloh";
+$l['users_diskspace'] = "Top 5 uživatelů využívající nejvíce místa";
 $l['username'] = "Přezdívka";
 $l['total_size'] = "Celková velikost souboru";
 
 // = Orphans
-$l['orphan_results'] = "Orphaned Attachments Search - Results";
-$l['orphan_attachments_search'] = "Orphaned Attachments Search";
-$l['reason_orphaned'] = "Reason Orphaned";
-$l['reason_not_in_table'] = "Not in attachments table";
-$l['reason_file_missing'] = "Attached file missing";
-$l['reason_thread_deleted'] = "Thread been deleted";
-$l['reason_post_never_made'] = "Post never made";
+$l['orphan_results'] = "Výsledky vyhledávání nepřiřazených příloh";
+$l['orphan_attachments_search'] = "Vyhledávání nepřiřazených příloh";
+$l['reason_orphaned'] = "Důvod nepřiřazení";
+$l['reason_not_in_table'] = "Není v tabulce příloh";
+$l['reason_file_missing'] = "Chybí přiložený soubor";
+$l['reason_thread_deleted'] = "Téma bylo vymazáno";
+$l['reason_post_never_made'] = "Příspěvek nebyl nikdy vytvořený";
 $l['unknown'] = "Neznámé";
 $l['results'] = "Výsledky";
 $l['step1'] = "Krok 1";
 $l['step2'] = "Krok 2";
-$l['step1of2'] = "Krok 1 of 2 - File System Scan";
-$l['step2of2'] = "Krok 2 of 2 - Database Scan";
-$l['step1of2_line1'] = "Please wait, the file system is currently being scanned for orphaned attachments.";
-$l['step2of2_line1'] = "Please wait, the database is currently being scanned for orphaned attachments.";
-$l['step_line2'] = "You'll automatically be redirected to the next Krok once this process is complete.";
-$l['scanning'] = 'Scanning..';
+$l['step1of2'] = "Krok 1 of 2 - Skenování file systému";
+$l['step2of2'] = "Krok 2 of 2 - Skenování databáze";
+$l['step1of2_line1'] = "Počkejte, prosím, systém souborů se právě prohledává nepřiřazené soubory.";
+$l['step2of2_line1'] = "Počkejte, prosím, databáze právě prohledává nepřiřazené soubory";
+$l['step_line2'] = "Budete automaticky přesměrováni na další krok jakmile bude tento proces hotový.";
+$l['scanning'] = 'Skenování…';
 
 // = Attachments / Index
-$l['index_find_attachments'] = "Attachments - Find Attachments";
+$l['index_find_attachments'] = "Najít přílohy";
 $l['find_where'] = "Najít přílohu";
 $l['name_contains'] = "Jméno přílohy obsahuje";
-$l['name_contains_desc'] = "To search by wild card enter *.[file extension]. Example: *.zip.";
+$l['name_contains_desc'] = "Pro hledání zadejte *.[přípona]. Například: *.zip.";
 $l['type_contains'] = "Typ přílohy obsahuje";
 $l['forum_is'] = "Forum je";
 $l['username_is'] = "Přezdívka uživatele který přílohu nahrál je";
 $l['more_than'] = "Více než";
 $l['greater_than'] = "Větší než";
-$l['is_exactly'] = "Is exactly";
+$l['is_exactly'] = "Přesně";
 $l['less_than'] = "Méně než";
-$l['date_posted_is'] = "Date posted is";
+$l['date_posted_is'] = "Bylo odesláno";
 $l['days_ago'] = "před dny";
 $l['file_size_is'] = "Velikost souboru je";
 $l['kb'] = "KB";
-$l['download_count_is'] = "Download count is";
-$l['display_options'] = "Display Options";
+$l['download_count_is'] = "Počet stažení";
+$l['display_options'] = "Volba zobrazení";
 $l['filename'] = "Název souboru";
 $l['filesize'] = "Velikost souboru";
 $l['download_count'] = "Počet stažení";
-$l['post_username'] = "Post Username";
-$l['asc'] = "Ascending";
-$l['desc'] = "Descending";
-$l['sort_results_by'] = "Sort results by";
-$l['results_per_page'] = "Results per page";
+$l['post_username'] = "Příspěvek od uživatele";
+$l['asc'] = "Vzestupně";
+$l['desc'] = "Sestupně";
+$l['sort_results_by'] = "Seřadit podle";
+$l['results_per_page'] = "Výsledků na stránku";
 $l['in'] = "in";
 
 // Buttons
-$l['button_delete_orphans'] = "Delete Checked Orphans";
-$l['button_delete_attachments'] = "Delete Checked Attachments";
+$l['button_delete_orphans'] = "Vymazat nepřiřazené";
+$l['button_delete_attachments'] = "Vymazat zvolené přílohy";
 $l['button_find_attachments'] = "Najít přílohy";

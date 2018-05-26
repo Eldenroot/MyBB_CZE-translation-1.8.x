@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['smilies'] = "Smajlíci";
@@ -22,12 +24,12 @@ $l['no_smilies'] = "Bohužel, ale v tuto chvíli, ve fóru nemůžeš použít �
 $l['image'] = "Obrázek";
 $l['name'] = "Název";
 $l['text_replace'] = "Zobrazení v textu";
-$l['text_replace_desc'] = "This is the text to replace with the smilie (enter one per line).";
+$l['text_replace_desc'] = "Tento text bude nahrazen smajlíkem (jeden na řádek).";
 $l['image_path'] = "Cesta k obrázku";
 $l['image_path_desc'] = "Tady je cesta obrázku smajlíka. Pokud chceš použít jiné obrázky smajlíků pro jiný vzhled fóra, prosím použí <strong>{theme}</strong>, což ti zastoupí složku smajlíků pro každý vzhled.";
 $l['order'] = "Pořadí";
 $l['display_order'] = "Ukázat/zobrazit pořadí";
-$l['display_order_desc'] = "The order on the smilies list that this will appear. This number should not be the same as another smilie's.";
+$l['display_order_desc'] = "Pořadí smajlíků, kteří se zobrazí. Toto číslo by nemělo být stejné, jako číslo jiných smajlíků.";
 $l['mass_edit_show_clickable'] = "Zobrazit ve výběru smajlíků v editoru příspěvků?";
 $l['show_clickable'] = "Zobrazit ve výběru smajlíků v editoru příspěvků?";
 $l['show_clickable_desc'] = "Chceš, abys mohl najít smajlíka při psaní příspěvku?";
@@ -49,9 +51,9 @@ $l['error_duplicate_order'] = "Zadal si nesprávnou hodnotu pro zobrazení smajl
 $l['error_missing_clickable'] = "Nevybral si ano/ne v možnosti pro \"Zobrazení ve výběru smajlíků v editoru příspěvků?\"";
 $l['error_no_smilies'] = "Ve složce, kterou jsi zvolil nejsou žádní smajlíci nebo všechny smajlíky už jsi v minulosti přidal.";
 $l['error_no_images'] = "Ve specifikované složce nejsou žádné obrázky.";
-$l['error_none_included'] = "You did not select any smilies to include.";
+$l['error_none_included'] = "Nevybrali jste žádné smajlíky, které chcete zahrnout.";
 $l['error_invalid_path'] = "Zadal si cestu, která neexistuje.";
-$l['error_invalid_smilie'] = "The specified smilie does not exist.";
+$l['error_invalid_smilie'] = "Zvolený smajlík neexistuje.";
 
 $l['success_smilie_added'] = "Smajlík byl úspěšně přidán.";
 $l['success_multiple_smilies_added'] = "Vybraní smajlíci byly úspěšně přidáni.";

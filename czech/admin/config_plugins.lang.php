@@ -1,16 +1,18 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['plugins'] = "Pluginy";
-$l['plugins_desc'] = "This section allows you to activate, deactivate, and manage the plugins that you have uploaded to your forum's <strong>inc/plugins</strong> directory. To hide a plugin from view, but not lose any stored information from it, click the Deactivate link.";
+$l['plugins_desc'] = "Tato sekce umožňuje aktivovat, deaktivovat a spravovat pluginy, které jste nahráli do adresáře <strong>inc/plugins</strong>. Chcete-li plugin skrýt ze zobrazení, ale neztratit z něj uložené informace, klikněte na odkaz deaktivovat.";
 $l['plugin_updates'] = "Aktualizace pluginů";
-$l['plugin_updates_desc'] = "This section allows you to check for updates on all your plugins.";
-$l['browse_plugins'] = "Browse Plugins";
-$l['browse_plugins_desc'] = "Here you may browse the official MyBB modifications site for plugins compatible with your series of MyBB.";
+$l['plugin_updates_desc'] = "Tato sekce umožní vyhledat aktualizace pro všechny vaše pluginy.";
+$l['browse_plugins'] = "Prohlížet pluginy";
+$l['browse_plugins_desc'] = "Zde můžete procházet oficiální MyBB pluginy kompatibilní s vaší verzí MyBB.";
 $l['browse_all_plugins'] = "Hledat mezi všemi pluginy";
 
 $l['plugin'] = "Plugin";
@@ -31,22 +33,22 @@ $l['no_inactive_plugins'] = "V tuto zde nejsou žádné zakázané pluginy.";
 $l['plugin_incompatible'] = "Tento plugin je nekompatibilní s verzí MyBB {1}";
 
 $l['recommended_plugins_for_mybb'] = "Doporučené pluginy pro MyBB {1}";
-$l['browse_results_for_mybb'] = "Browse Results for MyBB {1}";
-$l['search_for_plugins'] = "Search for Plugins";
+$l['browse_results_for_mybb'] = "Výsledky vyhledávání pro MyBB {1}";
+$l['search_for_plugins'] = "Hledat pluginy";
 $l['search'] = "Hledat";
 
-$l['error_vcheck_no_supported_plugins'] = "None of the plugins installed support version checking.";
-$l['error_vcheck_communications_problem'] = "There was a problem communicating with the MyBB modifications version server. Please try again in a few minutes.";
-$l['error_vcheck_vulnerable'] = "[Vulnerable plugin]:";
-$l['error_vcheck_vulnerable_notes'] = "This submission has currently been marked as vulnerable by the MyBB Staff. We recommend complete removal of this modification. Please see the notes below: ";
-$l['error_no_input'] = "Error code 1: No input specified.";
-$l['error_no_pids'] = "Error code 2: No plugin ids specified.";
-$l['error_communication_problem'] = "There was a problem communicating with the MyBB modifications server. Please try again in a few minutes.";
-$l['error_invalid_plugin'] = "The selected plugin does not exist.";
-$l['error_no_results_found'] = "No results were found for the specified keywords.";
+$l['error_vcheck_no_supported_plugins'] = "Žádný nainstalovaný plugin nepodporuje současnou verzi.";
+$l['error_vcheck_communications_problem'] = "Nastal problém v komunikaci se serverem modifikací pro MyBB. Zkuste to prosím později.";
+$l['error_vcheck_vulnerable'] = "[Zranitelný plugin]:";
+$l['error_vcheck_vulnerable_notes'] = "Tento plugin byl komunitou MyBB označen jako zranitelný. Doporučuje se jeho úplné odstranění. Více zde: ";
+$l['error_no_input'] = "Chyba 1: Nebyl zadán žádný výstup.";
+$l['error_no_pids'] = "Chyba 2: Není zadáno ID pluginu.";
+$l['error_communication_problem'] = "Nastal problém v komunikaci se serverem modifikací pro MyBB. Zkuste to prosím později.";
+$l['error_invalid_plugin'] = "Zvolený plugin neexistuje.";
+$l['error_no_results_found'] = "Nebyly nalezeny žádné výsledky pro zvolené klíčové slovo.";
 
-$l['success_plugins_up_to_date'] = "Congratulations, all of your plugins are up to date.";
-$l['success_plugin_activated'] = "The selected plugin has been activated successfully.";
-$l['success_plugin_deactivated'] = "The selected plugin has been deactivated successfully.";
-$l['success_plugin_installed'] = "The selected plugin has been installed and activated successfully.";
-$l['success_plugin_uninstalled'] = "The selected plugin has been uninstalled successfully.";
+$l['success_plugins_up_to_date'] = "Gratulujeme, všechny pluginy jsou aktualizované..";
+$l['success_plugin_activated'] = "Zvolené pluginy byly úspěšně aktivovány.";
+$l['success_plugin_deactivated'] = "Zvolené pluginy byly úspěšně deaktivované.";
+$l['success_plugin_installed'] = "Zvolené pluginy byli úspěšně nainstalovány a aktivované.";
+$l['success_plugin_uninstalled'] = "Zvolený plugin byl úspěšně odinstalovaný.";

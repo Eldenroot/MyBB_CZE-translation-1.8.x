@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['awaiting_activation'] = "Čekající na aktivaci";
@@ -21,7 +23,7 @@ $l['type'] = "Typ";
 
 $l['email_activation'] = "Čekající na potvrzení emailu";
 $l['administrator_activation'] = "Čeká na potvrzení administrátorem.";
-$l['admin_activation_coppa'] = "Awaiting Administrator Activation (COPPA)";
+$l['admin_activation_coppa'] = "Čeká se na aktivaci administrátorem.(COPPA)";
 
 $l['activate_users'] = "Aktivovat uživatele";
 $l['delete_users'] = "Smazat uživatele";
@@ -45,5 +47,5 @@ Pokračujte, prosím na
 
 Kde se budeš moct přihlásit pomocí přezdívky a hesla, které sis zvolil při registraci.
 
-Budeme se těšit na tvojí návštěvu,
+Budeme se těšit na tvojí návštěvu
 Vedení fóra {2}";

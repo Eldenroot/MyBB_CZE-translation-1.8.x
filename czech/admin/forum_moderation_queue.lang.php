@@ -1,31 +1,33 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 // Tabs
 $l['moderation_queue'] = "Moderátorská kvóta";
 $l['threads'] = "Vlákno";
-$l['threads_desc'] = "Here you can view and approve threads in the moderation queue.";
+$l['threads_desc'] = "Zde můžete zobrazit a schválit témata čekající na schválení.";
 $l['posts'] = "Příspěvky";
-$l['posts_desc'] = "Here you can view and approve posts in the moderation queue.";
+$l['posts_desc'] = "Zde můžete zobrazit a schválit příspěvky čekající na schválení.";
 $l['attachments'] = "Přílohy";
-$l['attachments_desc'] = "Here you can view and approve attachments in the moderation queue.";
-$l['threads_awaiting_moderation'] = "Threads Awaiting Moderation";
-$l['posts_awaiting_moderation'] = "Posts Awaiting Moderation";
-$l['attachments_awaiting_moderation'] = "Attachments Awaiting Moderation";
+$l['attachments_desc'] = "Zde můžete zobrazit a schválit přílohy čekající na schválení.";
+$l['threads_awaiting_moderation'] = "Témata čekající na schválení";
+$l['posts_awaiting_moderation'] = "Příspěvky čekající na schválení";
+$l['attachments_awaiting_moderation'] = "Přílohy čekající na schválení";
 
 // Errors
-$l['error_no_posts'] = "There are no posts currently awaiting moderation.";
-$l['error_no_attachments'] = "There are no attachments currently awaiting moderation.";
+$l['error_no_posts'] = "Žádné příspěvky čekající na schválení.";
+$l['error_no_attachments'] = "Žádné přílohy čekající na schválení.";
 $l['error_no_threads'] = "Právě teď tu není žádné vlákno, příspěvek ani příloha, které čekájí na schválení moderátorem.";
 
 // Success
-$l['success_threads'] = "The selected threads have been moderated successfully.";
-$l['success_posts'] = "The selected posts have been moderated successfully.";
-$l['success_attachments'] = "The selected attachments have been moderated successfully.";
+$l['success_threads'] = "Zvolená témata byla úspěšně schválena.";
+$l['success_posts'] = "Zvolené příspěvky byly úspěšně schváleny.";
+$l['success_attachments'] = "Zvolené přílohy byly úspěšně schváleny.";
 
 // Pages
 $l['subject'] = "Předmět";
@@ -46,3 +48,5 @@ $l['mark_as_ignored'] = "Označit všechny jako ignorované";
 $l['mark_as_deleted'] = "Označit všechny pro smazání";
 $l['mark_as_approved'] = "Označit všechny jako schválené";
 $l['perform_action'] = "Provést akce";
+
+

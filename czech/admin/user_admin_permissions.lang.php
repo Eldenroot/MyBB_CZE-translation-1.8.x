@@ -1,45 +1,48 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['admin_permissions'] = "Práva administrátorů";
 $l['user_permissions'] = "Práva uživatelů";
-$l['user_permissions_desc'] = "Here you can manage the administrator permissions for individual users. This effectively allows you to lock certain administrators out of different areas of the Admin CP.";
+$l['user_permissions_desc'] = "Zde můžeš spravovat oprávnění administrátora pro jednotlivé uživatele, což umožní odepřít přístup do konkretních sekcí administratorského ovládacího panelu.";
 $l['group_permissions'] = "Práva skupin";
-$l['group_permissions_desc'] = "Administrator permissions can also be applied to user groups that have permission to access the Admin CP. Similarly you can use this tool to lock out entire administrative groups from accessing the different areas of the Admin CP.";
-$l['default_permissions'] = "Default Permissions";
-$l['default_permissions_desc'] = "The default administrative permissions are those applied to users who do not have custom administrator permissions set for them or are not inheriting group administrator permissions.";
+$l['group_permissions_desc'] = "Administrátorská oprávění lze použít také skupinu uživatelů, kteří mají přístup do administrátorské sekce. Tento nástroj můžete také k odepření přístupu do konkretních sekci administratorského ovládacího panelu.";
+$l['default_permissions'] = "Výchozí oprávnění";
+$l['default_permissions_desc'] = "Výchozí oprávnění pro administrátory, kteří mají svá vlastní administrátorská práva nebo nepatři do skupiny administrátorů.";
 
-$l['admin_permissions_updated'] = "The admin permissions have been updated successfully.";
+$l['admin_permissions_updated'] = "Administrátorská práva byla úspěšně upravena.";
 $l['revoke_permissions'] = "Odebrat práva";
 $l['edit_permissions'] = "Upravit práva";
 $l['set_permissions'] = "Nastavit práva";
-$l['edit_permissions_desc'] = "Here you can restrict access to entire tabs or individual pages. Be aware that the \"Home\" tab is accessible to all administrators.";
+$l['edit_permissions_desc'] = "Zde můžete omezit přístup k jednotlivým částí administrátorského ovladacího panelu. Karta \"Home\" je přístupná všem administrátorům.";
 $l['update_permissions'] = "Aktualizovat práva";
 $l['view_log'] = "Ukázat záznam";
-$l['permissions_type_group'] = "Permission type of the group";
-$l['permissions_type_user'] = "Permission type of the user";
-$l['no_group_perms'] = "There are currently no set group permissions.";
-$l['no_user_perms'] = "There are currently no set user permissions.";
+$l['permissions_type_group'] = "Práva pro skupiny";
+$l['permissions_type_user'] = "Práva pro uživatele";
+$l['no_group_perms'] = "Nejsou nastavena žádná skupinová práva.";
+$l['no_user_perms'] = "Nejsou nastavena žádná práva pro uživatele.";
 $l['edit_user'] = "Upravit uživatelský profil";
-$l['using_individual_perms'] = "Using Individual Permissions";
-$l['using_custom_perms'] = "Using Custom Permissions";
-$l['using_group_perms'] = "Using Group Permissions";
-$l['using_default_perms'] = "Using Default Permissions";
+$l['using_individual_perms'] = "Použivá individuální oprávnění";
+$l['using_custom_perms'] = "Používá vlastní oprávnění";
+$l['using_group_perms'] = "Použivá skupinová oprávnění";
+$l['using_default_perms'] = "Použivá výchozí oprávnění";
 $l['last_active'] = "Naposledy aktivní";
 $l['user'] = "Uživatel";
 $l['edit_group'] = "Upravit skupinu";
 $l['default'] = "Výchozí";
 $l['group'] = "Skupina";
 
-$l['error_super_admin'] = 'Bohužel, nemůžeš vykonat tuto na akci na zvoleném uživateli, protože je super administrátor.';
-$l['error_delete_no_uid'] = 'You did not enter a admin user/usergroup permission id';
-$l['error_delete_invalid_uid'] = 'You did not enter a valid admin user/usergroup permission id';
+$l['error_super_admin'] = 'Bohužel, akci vykonat pro zvoleného uživatele, protože je super administrátor.';
+$l['error_delete_no_uid'] = 'Nezadal jso ID uživatele/skupiny pro nastavení administrátorských práv';
+$l['error_delete_invalid_uid'] = 'Nezadal jsi platné ID uživatele/skupiny pro nastavení administrátorských práv';
 
-$l['success_perms_deleted'] = 'The admin user/usergroup permissions has been revoked successfully.';
+$l['success_perms_deleted'] = 'Zrušení práv pro uživatele/skupinu bylo provedeno úspěšně.';
 
-$l['confirm_perms_deletion'] = "Jsi si jistý, že chceš odebrat práva tomuto administrátorovi případně uživatelské skupině?";
+$l['confirm_perms_deletion'] = "Jsi si jistý, že chceš odebrat práva tomuto administrátorovi, případně uživatelské skupině?";
 $l['confirm_perms_deletion2'] = "Jsi si jistý, že chceš odebrat práva tomuto uživateli\těmto uživatelům?";
+

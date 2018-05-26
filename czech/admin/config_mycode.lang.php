@@ -1,58 +1,61 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
-
-$l['custom_mycode'] = "Custom MyCode";
+ 
+$l['custom_mycode'] = "Vlastní MyCode";
 $l['mycode'] = "MyCode";
-$l['mycode_desc'] = "Custom MyCode allows you to create additional MyCode for your members to use in their messages.";
+$l['mycode_desc'] = "Vlastní MyCode umožní vytvoření MyCode pro využití ve zprávách uživatele.";
 $l['add_new_mycode'] = "Přidat nový MyCode";
-$l['add_new_mycode_desc'] = "Here you can add a new custom MyCode to your forum. You can use the MyCode Sandbox below the form to test your regular expression and replacement before saving.";
-$l['edit_mycode_desc'] = "Here you can edit a custom MyCode. You can use the MyCode Sandbox below the form to test your regular expression and replacement before saving your changes.";
+$l['add_new_mycode_desc'] = "Zde můžete přidat nový MyCode. Ten můžete otestovat v sandboxu.";
+$l['edit_mycode_desc'] = "Zde můžete upravit nový MyCode. Ten můžete otestovat v sandboxu";
 
 $l['title'] = "Název";
 $l['short_description'] = "Krátký popis";
-$l['regular_expression'] = "Regular Expression";
-$l['regular_expression_desc'] = "Enter a regular expression that will search for a specific combination of characters.  You must make sure the regular expression is valid and safe&mdash;no validation is performed.";
-$l['replacement'] = "Replacement";
-$l['replacement_desc'] = "Enter a replacement for the regular expression.";
+$l['regular_expression'] = "Regulérní výraz";
+$l['regular_expression_desc'] = "Zadejte regulární výraz, který bude hledat specifickou kombinaci znaků.  Musíte se ujistit, že regulární výraz je platný a bezpečný &mdash; není vyžadováno ověření.";
+$l['replacement'] = "Nahrazení";
+$l['replacement_desc'] = "Zadejte výraz pro nahrazení.";
 $l['example'] = "Například:";
-$l['enabled'] = "Enabled?";
-$l['parse_order'] = "Parse Order";
-$l['parse_order_desc'] = "MyCodes will be parsed in ascending order relative to other MyCodes.";
-$l['edit_mycode'] = "Edit MyCode";
-$l['activate_mycode'] = "Activate MyCode";
-$l['deactivate_mycode'] = "Deactivate MyCode";
-$l['delete_mycode'] = "Delete MyCode";
-$l['no_mycode'] = "No custom MyCodes exist at this time.";
+$l['enabled'] = "Povoleno?";
+$l['parse_order'] = "Analyzovat pořadí";
+$l['parse_order_desc'] = "MyCodes bude analyzován ve vzestupném pořadí vzhledem k jiným MyCodes.";
+$l['edit_mycode'] = "Upravit MyCode";
+$l['activate_mycode'] = "Aktivovat MyCode";
+$l['deactivate_mycode'] = "Deaktivovat MyCode";
+$l['delete_mycode'] = "Smazat MyCode";
+$l['no_mycode'] = "Žádné MyCode neexistují na tomto fóru.";
 $l['save_mycode'] = "Uložit MyCode";
 $l['add_mycode'] = "Přidat MyCode";
-$l['changes_not_saved'] = "Your changes have not yet been saved.";
+$l['changes_not_saved'] = "Vaše změny nebyly dosud uloženy.";
 
 $l['sandbox'] = "Sandbox";
-$l['sandbox_desc'] = "You can use this area to test the regular expression and replacement above before saving your changes.";
-$l['test_value'] = "Test Value";
-$l['test_value_desc'] = "Enter in text to be tested in the box below.";
-$l['result_html'] = "HTML Result";
-$l['result_html_desc'] = "The text area below shows the resulting HTML using the regular expression on the test value.";
-$l['result_actual'] = "Actual Result";
-$l['result_actual_desc'] = "The area below shows the actual result when the HTML is rendered.";
+$l['sandbox_desc'] = "Tuto oblast můžete použít k otestování regulárního výrazu a nahrazení před uložením změn.";
+$l['test_value'] = "Testovací hodnota";
+$l['test_value_desc'] = "Zadejte text, který se má testovat v poli níže.";
+$l['result_html'] = "HTML výsledky";
+$l['result_html_desc'] = "Textová oblast níže ukazuje výsledný kód HTML pomocí regulárního výrazu na testovací hodnotě.";
+$l['result_actual'] = "Aktuální výsledky";
+$l['result_actual_desc'] = "V následující oblasti je zobrazen skutečný výsledek při vykreslení kódu HTML.";
 $l['test'] = "Test MyCode";
 
 $l['error_missing_title'] = "Nezadal si název.";
-$l['error_missing_regex'] = "You did not enter a regular expression.";
-$l['error_regex_already_available'] = "You entered a regular expression which is already defined in another MyCode. Please provide a different regular expression for this MyCode.";
-$l['error_missing_replacement'] = "You did not enter a replacement.";
-$l['error_invalid_mycode'] = "The specified MyCode does not exist.";
+$l['error_missing_regex'] = "Nezadali jste regulární výraz.";
+$l['error_regex_already_available'] = "Zadali jste regulární výraz, který je již definován v jiném MyCode. Zadejte jiný regulární výraz pro tento MyCode.";
+$l['error_missing_replacement'] = "Nezadali jste náhradní.";
+$l['error_invalid_mycode'] = "Vybraný MyCode neexistuje.";
 
-$l['success_added_mycode'] = "The MyCode has been added successfully.";
-$l['success_deleted_mycode'] = "The selected MyCode has been deleted successfully.";
-$l['success_updated_mycode'] = "The MyCode has been updated successfully.";
-$l['success_deactivated_mycode'] = "The selected MyCode has been deactivated successfully.";
-$l['success_activated_mycode'] = "The selected MyCode has been activated successfully.";
+$l['success_added_mycode'] = "MyCode byl úspěšně přidaný.";
+$l['success_deleted_mycode'] = "Vybraný MyCode byl úspěšně smazaný.";
+$l['success_updated_mycode'] = "MyCode byl úspěšně upraven.";
+$l['success_deactivated_mycode'] = "Zvolený MyCode byl úspěšně zrušený.";
+$l['success_activated_mycode'] = "Zvolený MyCode byl úspěšně aktivovaný.";
 
 $l['confirm_mycode_deletion'] = "Jsi si doopravdy jistý, že chceš odstranit tento MyCode?";
 
-$l['mycode_sandbox_test_error'] = 'There was an error fetching the test results.';
+$l['mycode_sandbox_test_error'] = 'Vyskytla se chyba při načítání výsleků.';
+

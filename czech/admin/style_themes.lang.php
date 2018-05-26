@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2017-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['themes'] = "Vzhledy";
@@ -15,10 +17,10 @@ $l['import_a_theme'] = "Import nového vzhledu";
 $l['import_a_theme_desc'] = "Zde můžeš naimportovat nový vzhled. Vzhled můžeš naimportovat ze svého počítače případně přes vzdálenou adresu URL.";
 
 $l['edit_stylesheets'] = "Upravit CSS";
-$l['edit_stylesheets_desc'] = "Here you can easily manage the stylesheets in use by this theme. Stylesheets are based on CSS and define the fonts, colors and other visual aspects for this theme. A list of stylesheets attached to this theme is below.";
+$l['edit_stylesheets_desc'] = "Zde můžete snadno spravovat styly používané tímto vzhledem. Styly jsou založeny na CSS a definují písma, barvy a další vizuální aspekty tohoto motivu. Seznam stylů připojených k tomuto motivu je níže.";
 
-$l['add_stylesheet'] = "Add Stylesheet";
-$l['add_stylesheet_desc'] = "Here you can add a new stylesheet to this theme. A stylesheet contains CSS that allows you to customize the appearance of this theme. You will be taken to the stylesheet edit page following creation.";
+$l['add_stylesheet'] = "Přidat soubor stylů";
+$l['add_stylesheet_desc'] = "Zde můžete přidat nový styl tohoto motivu. Soubor stylů obsahuje CSS, který umožní přizpůsobit vzhled tohoto motivu.";
 
 $l['browse_themes'] = "Najít vzhled";
 $l['browse_themes_desc'] = "Zde si můžeš projít a případně stáhnout vzhled(y) z oficiální modifikační stránky MyBB,  <strong>které jsou kompatibilní s tvojí verzí MyBB.</strong>";
@@ -26,31 +28,31 @@ $l['browse_themes_desc'] = "Zde si můžeš projít a případně stáhnout vzhl
 $l['browse_all_themes'] = "Najít všechny vzhledy i ty nekompatibilní. (Budeš přesměrován na oficiální modifikační stránku MyBB.)";
 
 $l['export_theme'] = "Export vzhledu";
-$l['export_theme_desc'] = "Here you can export your themes and customized templates. Exporting themes is useful if you wish to share them with others or import them to another forum.";
+$l['export_theme_desc'] = "Zde můžete exportovat vaše motivy a přizpůsobené šablony. Exportování motivů je užitečné, pokud je chcete sdílet s ostatními nebo je importovat do jiného fóra.";
 
 $l['duplicate_theme'] = "Duplikovat vzhled";
-$l['duplicate_theme_desc'] = "Here you can duplicate your themes. This helps you if you want to develop another version of it.";
+$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To vám pomůže, pokud chcete vyvíjet jinou verzi.";
 
-$l['colors_manage'] = "Manage Colors";
-$l['colors_attached_to'] = "color setting";
-$l['colors_setting'] = "Base Color";
-$l['colors_setting_desc'] = "Select the color this theme should use as its base color. Stylesheets attached to this color will be used.";
-$l['colors_no_color_setting'] = "There are no colors available. Please create a list of colors below to use this feature.";
-$l['colors_add'] = "Manage Colors";
-$l['colors_add_desc'] = "A list of colors available for this theme. This should be a list of key paired (key=item) colors, for example, <em>blue=Blue</em>. Separate items with a new line.";
-$l['colors_please_select'] = "None";
-$l['colors_add_edit_desc'] = "Select a color to attach this stylesheet to. You can select more than one color.";
-$l['colors_specific_color'] = "Specific color";
+$l['colors_manage'] = "Upravit barvy";
+$l['colors_attached_to'] = "Nastavení barev:";
+$l['colors_setting'] = "Základní barva:";
+$l['colors_setting_desc'] = "Vyberte barvu, kterou by měl tento motiv použít jako základní barvu. Styly připojené k této barvě budou použity.";
+$l['colors_no_color_setting'] = "Nejsou k dispozici žádné barvy. Chcete-li použít tuto funkci, vytvořte seznam barev níže.";
+$l['colors_add'] = "Upravit barvy";
+$l['colors_add_desc'] = "Seznam barev, které jsou k dispozici pro tento otiv. Barvy by měly být spárovány dle klíče název=barva. Například modrá=Blue.";
+$l['colors_please_select'] = "Nic";
+$l['colors_add_edit_desc'] = "Vyberte barvu, ke které chcete připojit tento styl. Můžete vybrat více než jednu barvu.";
+$l['colors_specific_color'] = "Vybraná barva";
 
-$l['include_custom_only'] = "Include customized items only?";
-$l['include_custom_only_desc'] = "If you wish to include items (css and stylesheets) inherited from parent themes select \"no\", otherwise only customized elements will be exported.";
-$l['include_templates'] = "Include templates in the export as well?";
-$l['include_templates_desc'] = "If you want to export the customized templates used in this theme as well, select yes.";
+$l['include_custom_only'] = "Zahrnout pouze vlastní položky?";
+$l['include_custom_only_desc'] = "Pokud si přejete zahrnout CSS a soubory stylů z nadřazeného motivu, zvolte \"no\", jinak budou exporotovány pouze vlastní prvky.";
+$l['include_templates'] = "Zahrnout také šablony do exportu?";
+$l['include_templates_desc'] = "Pokud chcete exportovat vlastní šablony použité v tomto motivu, vyberte Ano.";
 
-$l['edit_stylesheet_simple_mode'] = "Edit Stylesheet: Simple Mode";
-$l['edit_stylesheet_simple_mode_desc'] = "Here you can easily edit your theme's stylesheet. Simple mode allows you to customize the CSS in this stylesheet with little or no knowledge of CSS. Begin by selecting an item below.";
-$l['edit_stylesheet_advanced_mode'] = "Edit Stylesheet: Advanced Mode";
-$l['edit_stylesheet_advanced_mode_desc'] = "Here you can edit this stylesheet like a flat file. The contents of the CSS stylesheet is shown in the text area below.";
+$l['edit_stylesheet_simple_mode'] = "Úprava stylů: Jednoduchý mód";
+$l['edit_stylesheet_simple_mode_desc'] = "Zde můžete snadno upravit styl vašeho motivu. Jednoduchý režim umožňuje přizpůsobit CSS v tomto stylu s malou nebo žádnou znalostí CSS. Začněte výběrem položky níže.";
+$l['edit_stylesheet_advanced_mode'] = "Úprava stylů: Pokročilý";
+$l['edit_stylesheet_advanced_mode_desc'] = "Zde můžete upravit soubor CSS. Obsah stylů CSS je zobrazen níže.";
 
 $l['theme'] = "Název vzhledu";
 $l['num_users'] = "# Uživatelé";
@@ -59,106 +61,106 @@ $l['delete_theme'] = "Smazat vzhled";
 $l['set_as_default'] = "Nastavit jako vychozí";
 $l['default_theme'] = "Výchozí vzhled";
 $l['force_on_users'] = "Force on Users";
-$l['delete_revert'] = "Delete / Revert";
+$l['delete_revert'] = "Odstranit / Vrátit";
 
 $l['local_file'] = "Místní soubor";
 $l['url'] = "URL";
 $l['import_from'] = "Import z";
 $l['import_from_desc'] = "Vybrat soubor k importu. Můžeš naimportovat soubor vzhledu ze svého počítače nebo z URL.";
-$l['parent_theme'] = "Parent Theme";
-$l['parent_theme_desc'] = "Select the theme this theme should be a child of.";
+$l['parent_theme'] = "Nadřazený motiv";
+$l['parent_theme_desc'] = "Vyberte motiv, který má být podřízený.";
 $l['new_name'] = "Nový název";
-$l['new_name_desc'] = "A new name for the imported theme. If left blank, the name in the theme file will be used.";
-$l['advanced_options'] = "Advanced Options";
-$l['ignore_version_compatibility'] = "Ignore Version Compatibility";
-$l['ignore_version_compat_desc'] = "Should this theme be installed regardless of the version of MyBB it was created for?";
-$l['import_stylesheets'] = "Import Stylesheets";
-$l['import_stylesheets_desc'] = "If this theme contains custom stylesheets should they be imported?";
-$l['import_templates'] = "Import Templates";
-$l['import_templates_desc'] = "If this theme contains custom templates should they be imported?";
+$l['new_name_desc'] = "Nový název importovaného motivu. Pokud pole ponecháte prázdné, bude použito jméno v souboru motivu.";
+$l['advanced_options'] = "Pokročilé možnosti";
+$l['ignore_version_compatibility'] = "Ignorovat kompatibilitu verzí";
+$l['ignore_version_compat_desc'] = "Má být toto téma nainstalováno bez ohledu na verzi MyBB, pro kterou byl vytvořen?";
+$l['import_stylesheets'] = "Importovat styly";
+$l['import_stylesheets_desc'] = "Pokud tento motiv obsahuje vlastní šablony stylů, měly by být importovány?";
+$l['import_templates'] = "Importovat šablony";
+$l['import_templates_desc'] = "Pokud tento motiv obsahuje vlastní šablony, měly by být importovány?";
 $l['import_theme'] = "Import vzhledu";
 
-$l['new_name_duplicate_desc'] = "A new name for the duplicated theme.";
-$l['duplicate_stylesheets'] = "Duplicate Stylesheets";
-$l['duplicate_stylesheets_desc'] = "If this theme contains custom stylesheets should they be duplicated?";
-$l['duplicate_templates'] = "Duplicate Templates";
-$l['duplicate_templates_desc'] = "If this theme contains custom templates should they be duplicated?";
+$l['new_name_duplicate_desc'] = "Nový název duplikovaného vzhledu.";
+$l['duplicate_stylesheets'] = "Duplikovat styly";
+$l['duplicate_stylesheets_desc'] = "Pokud vzhled obsahuje vlastní styly, mají být zduplikovány?";
+$l['duplicate_templates'] = "Duplikovat šablony";
+$l['duplicate_templates_desc'] = "Pokud vzhled obsahuje vlastní šablonu, má být duplikována?";
 
 $l['create_a_theme'] = "Vytvořit nový vzhled";
 $l['name'] = "Název";
-$l['name_desc'] = "Specify a name for the new theme.";
+$l['name_desc'] = "Jméno nového vzhledu.";
 $l['display_order'] = "Pořadí";
 
 $l['edit_theme_properties'] = "Upravit vlastnosti vzhledu";
-$l['name_desc_edit'] = "Specify a name for the theme.";
-$l['allowed_user_groups'] = "Allowed User Groups";
-$l['allowed_user_groups_desc'] = "Specify which user groups are allowed to use this theme. Selecting 'All User Groups' will override any other selection. Hold down the CTRL key to select multiple user groups.";
-$l['all_user_groups'] = "All User Groups";
-$l['template_set'] = "Template Set";
-$l['template_set_desc'] = "Specify the template set the theme should use. The selected template set defines the markup (HTML) used in presenting the theme.";
-$l['editor_theme'] = "Editor Style";
-$l['editor_theme_desc'] = "Specify the style to be used for the MyCode editor in this theme. Editor styles can be found in the <strong>jscripts/editor_themes</strong> folder.";
-$l['img_directory'] = "Image Directory";
-$l['img_directory_desc'] = "The root directory for the location of the images used in this theme. Note that this only specifies the directory for the images used in templates, not the stylesheets.";
-$l['logo'] = "Board Logo";
-$l['logo_desc'] = "Location of the board logo used in this theme (this is the logo that appears at the top of each page).";
-$l['table_spacing'] = "Table Spacing";
-$l['table_spacing_desc'] = "The width of the inner padding of table cells, in pixels. This is HTML's <em>cellpadding</em> attribute of the <em>table</em> tag.";
-$l['inner_border'] = "Inner Table Border Width";
-$l['inner_border_desc'] = "The amount of padding between each table cell, in pixels. This is HTML's <em>cellspacing</em> attribute of the <em>table</em> tag.";
-$l['save_theme_properties'] = "Save Theme Properties";
-$l['save_stylesheet_order'] = "Save Stylesheet Orders";
+$l['name_desc_edit'] = "Zadat název motivu.";
+$l['allowed_user_groups'] = "Povolené skupiny uživatelů";
+$l['allowed_user_groups_desc'] = "Určete, které skupiny uživatelů mohou používat tento motiv. Vyberete-li možnost všechny skupiny uživatelů, přepíše se jakýkoli jiný výběr. Chcete-li vybrat více skupin uživatelů, podržte klávesu CTRL.";
+$l['all_user_groups'] = "Všechny skupiny uživatelů";
+$l['template_set'] = "Set šablony";
+$l['template_set_desc'] = "Určete sadu šablon, kterou by měl motiv používat. Vybraná sada šablon definuje značky (HTML) použité při prezentaci motivu.";
+$l['editor_theme'] = "Editor stylů";
+$l['editor_theme_desc'] = "Určete styl, který má být použit pro Editor myCode v tomto motivu. Editor styl§ lze nalézt ve složce <strong>jscripts/editor_themes</strong></strong>.";
+$l['img_directory'] = "Adresář obrázků";
+$l['img_directory_desc'] = "Kořenový adresář pro umístění obrázků použitých v tomto motivu. Všimněte si, že pouze určuje adresář pro obrázky použité v šablonách, nikoli šablony stylů.";
+$l['logo'] = "Hlavní logo";
+$l['logo_desc'] = "Umístění loga použitého v tomto tématu (logo, které se objeví v horní části každé stránky).";
+$l['table_spacing'] = "Mezery mezi tabulkami";
+$l['table_spacing_desc'] = "Šířka vnitřního odsazení buněk tabulky v pixelech. Toto je atribut <em>CellPadding</em> jazyka HTML značky <em>Table</em>.";
+$l['inner_border'] = "Šířka ohraničení vnitřní tabulky";
+$l['inner_border_desc'] = "Velikost odsazení mezi každou buňkou tabulky v pixelech. Toto je atribut <em>CellSpacing</em> jazyka HTML značky <em>Table</em>.";
+$l['save_theme_properties'] = "Uložit nastavení vzhledu";
+$l['save_stylesheet_order'] = "Uložit pořadí stylů";
 
 $l['background'] = "Pozadí (background)";
-$l['extra_css_atribs'] = "Extra CSS Attributes";
+$l['extra_css_atribs'] = "Extra CSS atributy";
 $l['color'] = "Barva";
 $l['width'] = "Šířka";
-$l['text_decoration'] = "Text Decoration";
+$l['text_decoration'] = "Dekorace textu";
 $l['font_family'] = "Font Family";
 $l['font_size'] = "Velikost písma";
 $l['font_style'] = "Styl písma";
-$l['font_weight'] = "Font Weight";
+$l['font_weight'] = "Śířka fontu";
 
 $l['stylesheets'] = "Kaskádové styly (CSS)";
-$l['inherited_from'] = "Inherited from";
-$l['attached_to'] = "Attached to";
-$l['attached_to_nothing'] = "Attached to nothing";
-$l['attached_to_desc'] = "You can either attach stylesheets globally or to specific files. If you attach it to specific files you can attach it to specific actions within each file.";
-$l['actions'] = "actions";
-$l['of'] = "of";
-$l['attached_to_all_pages'] = "Attached to all pages";
-$l['properties'] = "Properties";
-$l['edit_style'] = "Edit Style";
-$l['stylesheets_in'] = "Stylesheets in";
-$l['stylesheet_properties'] = "Stylesheet Properties";
-$l['stylesheet_inherited_default'] = "This stylesheet is currently being inherited from {1}. Any changes you make will break the inheritance, and the stylesheet will be copied to this theme.";
-$l['stylesheet_inherited'] = "This stylesheet is currently being inherited from {1}. Any changes you make will break the inheritance, and the stylesheet will be copied to this theme. Edit this stylesheet in {1} to keep the inheritance.";
-$l['globally'] = "Globally";
-$l['specific_files'] = "Specific files";
-$l['specific_actions'] = "Specific actions";
-$l['specific_actions_desc'] = "Actions are separated by commas";
-$l['file'] = "File";
-$l['add_another'] = "Add another";
-$l['edit_stylesheet_properties_for'] = "Edit Stylesheet Properties for";
-$l['file_name'] = "File Name";
-$l['file_name_desc'] = "Name for the stylesheet, usually ending in <strong>[.css]</strong>";
-$l['save_stylesheet_properties'] = "Save Stylesheet Properties";
+$l['inherited_from'] = "Zkopírováno z:";
+$l['attached_to'] = "Přiloženo k";
+$l['attached_to_nothing'] = "Nikam nepřiloženo";
+$l['attached_to_desc'] = "Můžete připojit styly golbálně nebo pouze konrétní soubory. Pokud připojíte konrétní soubory, můžete přiřadit apecifické akce v rámci každého souboru.";
+$l['actions'] = "akce";
+$l['of'] = "z";
+$l['attached_to_all_pages'] = "Přiloženo ke všem stranám";
+$l['properties'] = "Vlastnosti";
+$l['edit_style'] = "Upravit styl";
+$l['stylesheets_in'] = "Soubory stylů";
+$l['stylesheet_properties'] = "Vlastnosti stylů";
+$l['stylesheet_inherited_default'] = "Tyto styly jsou momentálně brány z {1}. Veškeré změny, které provedete bude mít za následek zkopírování stylů do tohoto motivu.";
+$l['stylesheet_inherited'] = "Tyto styly jsou momentálně brány z {1}. Veškeré změny, které provedete budou mít za následek zkopírování stylů do tohoto motivu. Můžete upravit tyto styly {1} pro zachování.";
+$l['globally'] = "Obecně";
+$l['specific_files'] = "Specifické soubory";
+$l['specific_actions'] = "Specifické akce";
+$l['specific_actions_desc'] = "Akce jsou odděleny čárkami";
+$l['file'] = "Soubor";
+$l['add_another'] = "Přidat další";
+$l['edit_stylesheet_properties_for'] = "Změnit vlastnosti stylů:";
+$l['file_name'] = "Název soubori";
+$l['file_name_desc'] = "Jméno stylů, obvykle končí koncovkou <strong>[.css]</strong>";
+$l['save_stylesheet_properties'] = "Uložit vlastnosti stylů";
 $l['saved'] = "Uloženo";
 $l['editing'] = "Upravuji";
-$l['selector'] = "Selector";
+$l['selector'] = "Selektor";
 $l['save_changes'] = "Uložit změny";
 $l['save_changes_and_close'] = "Uložit změny & Zavřít";
-$l['save_changes_js'] = "Do you want to save your changes first?";
-$l['delete_confirm_js'] = "Are you sure you want to delete this?";
-$l['import_stylesheet_from'] = "Import from another stylesheet in this theme";
-$l['write_own'] = "Write my own content";
-$l['save_stylesheet'] = "Save Stylesheet";
-$l['add_stylesheet_to'] = "Add Stylesheet to";
+$l['save_changes_js'] = "Chcete nejdříve uložit vaše změny?";
+$l['delete_confirm_js'] = "Jste si jistí, že chcete vše smazat?";
+$l['import_stylesheet_from'] = "Importovat do jiného stylu";
+$l['write_own'] = "Napsat vlastní obsah";
+$l['save_stylesheet'] = "Uložit styly";
+$l['add_stylesheet_to'] = "Vložit styly do";
 
-$l['full_stylesheet_for'] = "Full Stylesheet for";
+$l['full_stylesheet_for'] = "Plné styly pro";
 
 $l['recommended_themes_for_mybb'] = "Doporučené vzhledy pro MyBB {1}";
-$l['browse_results_for_mybb'] = "Browse Results for MyBB {1}";
+$l['browse_results_for_mybb'] = "Projít výsledky pro MyBB {1}";
 $l['search_for_themes'] = "Najít vzhledy";
 $l['search'] = "Hledat";
 $l['download'] = "Stáhnout";
@@ -167,54 +169,54 @@ $l['created_by'] = "Vytvořeno uživatelem";
 $l['error_invalid_stylesheet'] = "Vybral si neplatný CSS soubor.";
 $l['error_invalid_theme'] = "Vybral si neplatný vzhled.";
 $l['error_missing_name'] = "Prosím, zadej název pro tento vzhled.";
-$l['error_missing_url'] = "Please enter a valid url to import a theme from.";
-$l['error_theme_already_exists'] = "A theme with the same name already exists. Please specify a different name.";
-$l['error_theme_security_problem'] = "A potential security issue was found in the theme. It was not imported. Please contact the Author or MyBB Group for support.";
+$l['error_missing_url'] = "Zadejte platnou adresu URL, ze které má být importován motiv.";
+$l['error_theme_already_exists'] = "Motiv se stejným názvem již existuje. Zadejte jiný název.";
+$l['error_theme_security_problem'] = "V motivu byl nalezen potenciální problém se zabezpečením. Nebyl importován. Prosím, kontaktujte autora nebo komunitu MyBB pro podporu.";
 
-$l['error_local_file'] = "Could not open the local file. Does it exist? Please check and try again.";
-$l['error_uploadfailed'] = "Upload failed. Please try again.";
-$l['error_uploadfailed_detail'] = "Error details: ";
-$l['error_uploadfailed_php1'] = "PHP returned: Uploaded file exceeded upload_max_filesize directive in php.ini.  Please contact your forum administrator with this error.";
-$l['error_uploadfailed_php2'] = "The uploaded file exceeded the maximum file size specified.";
-$l['error_uploadfailed_php3'] = "The uploaded file was only partially uploaded.";
-$l['error_uploadfailed_php4'] = "No file was uploaded.";
-$l['error_uploadfailed_php6'] = "PHP returned: Missing a temporary folder.  Please contact your forum administrator with this error.";
-$l['error_uploadfailed_php7'] = "PHP returned: Failed to write the file to disk.  Please contact your forum administrator with this error.";
-$l['error_uploadfailed_phpx'] = "PHP returned error code: {1}.  Please contact your forum administrator with this error.";
-$l['error_uploadfailed_lost'] = "The file could not be found on the server.";
-$l['error_uploadfailed_nocontents'] = "MyBB could not find the theme with the file you uploaded. Please check the file is the correct and is not corrupt.";
-$l['error_invalid_version'] = "This theme has been written for another version of MyBB. Please check the \"Ignore Version Compatibility\" to ignore this error.";
-$l['error_missing_stylesheet_name'] = "Please enter a name for this stylesheet.";
-$l['error_missing_stylesheet_extension'] = "This stylesheet must end with the correct file extension, for example, {1}<em>.css</em>";
-$l['error_invalid_parent_theme'] = "The selected parent theme does not exist. Please select a valid parent theme.";
-$l['error_invalid_templateset'] = "The selected template set does not exist. Please select a valid template set.";
-$l['error_invalid_editortheme'] = "The selected editor theme does not exist. Please select a valid editor theme.";
-$l['error_inheriting_stylesheets'] = "You cannot delete this theme because there are still other themes that are inheriting stylesheets from it.";
-$l['error_cannot_parse'] = "MyBB cannot parse this stylesheet for the simple editor. It can only be edited in advanced mode.";
-$l['error_communication_problem'] = "There was a problem communicating with the MyBB themes server. Please try again in a few minutes.";
-$l['error_no_results_found'] = "No results were found for the specified keyword(s).";
-$l['error_no_color_picked'] = "You didn't specify which colors to attach this stylesheet to.";
-$l['error_no_display_order'] = "There was an error finding the display orders for the stylesheets. Please refresh the page and try again.";
+$l['error_local_file'] = "Nelze otevřít místní soubor. Skutečně existuje? Prosím, zkontrolujte jej a zkuste to znovu.";
+$l['error_uploadfailed'] = "Odeslání se nezdařilo. Opakujte akci.";
+$l['error_uploadfailed_detail'] = "Detail chyby: ";
+$l['error_uploadfailed_php1'] = "PHP vrací: Nahraný soubor překročil upload_max_filesize nastavených v php.ini. Obraťte se na správce fóra.";
+$l['error_uploadfailed_php2'] = "Nahraný soubor překročil maximální určenou velikost souboru.";
+$l['error_uploadfailed_php3'] = "Nahraný soubor byl odeslán pouze částečně.";
+$l['error_uploadfailed_php4'] = "Nebyl nahrán žádný soubor.";
+$l['error_uploadfailed_php6'] = "PHP vrací: Chybí dočasná složka.  S touto chybou se obraťte na správce fóra.";
+$l['error_uploadfailed_php7'] = "PHP vrací: Zápis souboru na disk se nezdařil.  Obraťte se na správce fóra s touto chybou.";
+$l['error_uploadfailed_phpx'] = "PHP chyba: {1}.  S touto chybou se obraťte na správce fóra.";
+$l['error_uploadfailed_lost'] = "Soubor nebyl na serveru nalezen.";
+$l['error_uploadfailed_nocontents'] = "MyBB nemohl najít vzhled se souborem, který jste odeslali. Zkontrolujte, zda je soubor správný a není poškozený.";
+$l['error_invalid_version'] = "This theme has been written for another version of MyBB. Please check the  \"Ignore Version Compatibility\" to ignore this error.";
+$l['error_missing_stylesheet_name'] = "Zadejte název této šablony stylů.";
+$l['error_missing_stylesheet_extension'] = "Tato šablona stylů musí končit správnou příponou souboru, například, {1}<em>.css</em>";
+$l['error_invalid_parent_theme'] = "Vybraný nadřazený motiv neexistuje. Vyberte platný nadřazený motiv.";
+$l['error_invalid_templateset'] = "Vybraná sada šablon neexistuje. Vyberte platnou sadu šablon.";
+$l['error_invalid_editortheme'] = "Vybraný motiv editoru neexistuje. Vyberte platný motiv editoru.";
+$l['error_inheriting_stylesheets'] = "Tento motiv nelze odstranit, protože stále existují další motivy, které z něj kopírují styly.";
+$l['error_cannot_parse'] = "MyBB nelze analyzovat tento styl pro jednoduchý editor. Lze jej upravovat pouze v rozšířeném režimu.";
+$l['error_communication_problem'] = "Při komunikaci se serverem MyBB Vzhledy došlo k potížím. Zkuste to prosím za pár minut.";
+$l['error_no_results_found'] = "Žádné výsledky pro zadaná klíčová slova.";
+$l['error_no_color_picked'] = "Neurčili jste, ke kterým barvám chcete tento styl připojit.";
+$l['error_no_display_order'] = "Při hledání seznamu stylů došlo k chybě. Aktualizujte stránku a akci opakujte.";
 
-$l['success_duplicated_theme'] = "The selected theme has been duplicated successfully.";
-$l['success_imported_theme'] = "The selected theme has been imported successfully.";
-$l['success_theme_created'] = "The theme has been created successfully.";
-$l['success_theme_deleted'] = "The selected theme has been deleted successfully.";
-$l['success_stylesheet_properties_updated'] = "The properties for the selected stylesheet have been updated successfully.";
-$l['success_stylesheet_updated'] = "The selected stylesheet has been updated successfully.";
-$l['success_stylesheet_deleted'] = "The selected stylesheet has been deleted / reverted successfully.";
-$l['success_theme_set_default'] = "The selected theme is now the forum default.";
-$l['success_theme_forced'] = "All users have been forced to use the selected theme successfully.";
-$l['success_theme_properties_updated'] = "The properties for the select theme have been updated successfully.";
-$l['success_stylesheet_added'] = "The stylesheet for this theme has been created successfully.";
-$l['success_stylesheet_order_updated'] = "The display orders for the stylesheets have been updated successfully.";
+$l['success_duplicated_theme'] = "Vybraný motiv byl úspěšně duplikován.";
+$l['success_imported_theme'] = "Vybraný motiv byl úspěšně importován.";
+$l['success_theme_created'] = "Motiv byl úspěšně vytvořen.";
+$l['success_theme_deleted'] = "Vybraný motiv byl úspěšně odstraněn.";
+$l['success_stylesheet_properties_updated'] = "Vlastnosti stylů byly úspěšně aktualizovány.";
+$l['success_stylesheet_updated'] = "Vybranés tyly byly úspěšně aktualizovány.";
+$l['success_stylesheet_deleted'] = "vybrané styly byly úspěšně odstraněny/obnoveny.";
+$l['success_theme_set_default'] = "Vybraný motiv je nyní výchozím fórem.";
+$l['success_theme_forced'] = "Všichni uživatelé musejí použít vybraný vzhled.";
+$l['success_theme_properties_updated'] = "Vlastnosti pro vybraný motiv byly úspěšně aktualizovány.";
+$l['success_stylesheet_added'] = "Styly pro tento motiv byly úspěšně vytvořeny.";
+$l['success_stylesheet_order_updated'] = "Seznamy stylů byly úspěšně aktualizovány.";
 
-$l['confirm_theme_deletion'] = "Are you sure you want to delete this theme?";
-$l['confirm_stylesheet_deletion'] = "Are you sure you want to delete / revert this stylesheet?";
-$l['confirm_theme_forced'] = "Are you sure you want to force this theme on all users?";
+$l['confirm_theme_deletion'] = "Opravdu chcete odstranit tento motiv?";
+$l['confirm_stylesheet_deletion'] = "Opravdu chcete odstranit/vrátit tyto styly?";
+$l['confirm_theme_forced'] = "Opravdu chcete tento motiv vynutit u všech uživatelů?";
 
-$l['theme_info_fetch_error'] = 'There was an error fetching the style info.';
-$l['theme_info_save_error'] = 'There was an error saving the style info.';
+$l['theme_info_fetch_error'] = 'Při načítání informací o stylu došlo k chybě.';
+$l['theme_info_save_error'] = 'Při ukládání informací o stylu došlo k chybě.';
 
-$l['saving'] = 'Ukládám...';
+$l['saving'] = 'Ukládám…';
 
