@@ -60,7 +60,6 @@ $l['homepage'] = "Web:";
 $l['pm'] = "Soukromá zpráva:";
 $l['send_pm'] = "Poslat soukromou zprávu uživateli: {1}";
 $l['icq_number'] = "ICQ číslo:";
-$l['aim_screenname'] = "AIM jméno:";
 $l['yahoo_id'] = "Yahoo ID:";
 $l['skype_id'] = "Skype ID:";
 $l['google_id'] = "Google Hangouts ID:";

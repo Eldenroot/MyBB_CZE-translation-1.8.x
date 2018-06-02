@@ -11,7 +11,6 @@ $l['nav_helpdocs'] = "Nápověda";
 $l['nav_smilies'] = "Seznam smajlíků";
 $l['nav_syndication'] = "Odběr novinek přes RSS";
 
-$l['aol_im'] = "AOL IM";
 $l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Skype Center";
@@ -19,14 +18,10 @@ $l['skype_status'] = "Skype stav";
 $l['chat_on_skype'] = "Hovořit s {1} přes Skype";
 $l['call_on_skype'] = "Zavolat {1} přes Skype";
 $l['yahoo_center'] = "Yahoo! Center";
-$l['aim_center'] = "AOL IM Center";
 
-$l['download_aim'] = "Stáhnout AIM";
-$l['aim_remote'] = "AIM Remote";
 $l['send_me_instant'] = "Poslat mi IM";
 $l['add_me_buddy_list'] = "Přidat mě na Seznam přátel";
 $l['add_remote_to_page'] = "Přidejte si Remote na vaší stránku";
-$l['download_aol_im'] = "Stáhnout AOL Instant Messenger";
 
 $l['buddy_list'] = "Seznam přátel";
 $l['online'] = "Online";

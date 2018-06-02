@@ -210,7 +210,6 @@ $l['profile_optional'] = "Volitelná pole";
 $l['website_url'] = "URL adresa vašeho webu:";
 $l['birthdate'] = "Datum narození:";
 $l['contact_field_icq'] = "ICQ číslo:";
-$l['contact_field_aim'] = "AIM jméno:";
 $l['contact_field_yahoo'] = "Yahoo ID:";
 $l['contact_field_skype'] = "Skype ID:";
 $l['contact_field_google'] = "Google Talk ID:";

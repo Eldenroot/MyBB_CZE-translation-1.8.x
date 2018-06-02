@@ -135,7 +135,6 @@ $l['profile_optional'] = "Volitelná pole";
 $l['website_url'] = "URL webu:";
 $l['birthdate'] = "Datum narození:";
 $l['icq_number'] = "ICQ číslo:";
-$l['aim_screenname'] = "AIM Screen Name:";
 $l['yahoo_id'] = "Yahoo ID:";
 $l['skype_id'] = "Skype ID:";
 $l['google_id'] = "Google Hangouts ID:";

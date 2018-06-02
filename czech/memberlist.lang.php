@@ -41,7 +41,6 @@ $l['search_criteria'] = "Kritéria vyhledávání";
 $l['begins_with'] = "začíná na";
 $l['username_contains'] = "obsahuje";
 $l['search_website'] = "URL webu";
-$l['search_aim'] = "AIM jméno";
 $l['search_skype'] = "Skype kontakt";
 $l['search_google'] = "Google Hangouts kontakt";
 $l['search_yahoo'] = "Yahoo! Messenger jméno";
