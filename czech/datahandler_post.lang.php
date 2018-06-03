@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['postdata_invalid_user_id'] = 'Id uživatele neexistuje. Zadejte prosím jeho platné Id.';
@@ -26,4 +28,3 @@ $l['thread_closed'] = "Téma je uzavřeno";
 $l['thread_opened'] = "Téma je otevřeno";
 $l['thread_stuck'] = "Téma je přilepeno";
 $l['thread_unstuck'] = "Téma je odlepeno";
-
