@@ -9,6 +9,8 @@
 
 $l['today'] = "<span title=\"{1}\">Dnes</span>";
 $l['yesterday'] = "<span title=\"{1}\">Včera</span>";
+$l['today'] = "Dnes";
+$l['yesterday'] = "Včera";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -138,6 +140,7 @@ $l['alt_disabled'] = "Zakázáno";
 $l['enable'] = "Zapnuto";
 $l['disable'] = "Vypnuto";
 $l['saved'] = 'Uloženo';
+$l['guest'] = 'Návštěvník';
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
@@ -181,20 +184,20 @@ $l['loading_text'] = "Načítání<br />Prosím počkej…";
 
 // Time zone selection boxes
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Howlandovy a Bakerovy ostrovy";
-$l['timezone_gmt_minus_1100'] = "(GMT -11:00) Nome, Midway Island";
-$l['timezone_gmt_minus_1000'] = "(GMT -10:00) Hawaii, Papeete";
-$l['timezone_gmt_minus_950'] = "(GMT -9:30) Marquesas Islands";
+$l['timezone_gmt_minus_1100'] = "(GMT -11:00) Nome, Ostrovy Midway";
+$l['timezone_gmt_minus_1000'] = "(GMT -10:00) Hawaj, Papeete";
+$l['timezone_gmt_minus_950'] = "(GMT -9:30) Markézy";
 $l['timezone_gmt_minus_900'] = "(GMT -9:00) Aljaška";
-$l['timezone_gmt_minus_800'] = "(GMT -8:00) Pacifický čas";
+$l['timezone_gmt_minus_800'] = "(GMT -8:00) Tichomořský čas";
 $l['timezone_gmt_minus_700'] = "(GMT -7:00) Horský čas";
-$l['timezone_gmt_minus_600'] = "(GMT -6:00) Centrální čas , Mexico City";
-$l['timezone_gmt_minus_500'] = "(GMT -5:00) Východní Čas, Bogota, Lima, Quito";
+$l['timezone_gmt_minus_600'] = "(GMT -6:00) Středoevropský čas, Mexiko";
+$l['timezone_gmt_minus_500'] = "(GMT -5:00) Východní čas, Bogota, Lima, Quito";
 $l['timezone_gmt_minus_450'] = "(GMT -4:30) Caracas";
 $l['timezone_gmt_minus_400'] = "(GMT -4:00) Atlantický čas, La Paz, Halifax";
 $l['timezone_gmt_minus_350'] = "(GMT -3:30) Newfoundland";
 $l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazílie, Buenos Aires, Georgetown, Falkland Is.";
-$l['timezone_gmt_minus_200'] = "(GMT -2:00) Mid-Atlantic, South Georgia and the South Sandwich Islands";
-$l['timezone_gmt_minus_100'] = "(GMT -1:00) Azores, Cape Verde Islands";
+$l['timezone_gmt_minus_200'] = "(GMT -2:00) Středoatlantská oblast, Jižní Georgie a Jižní Sandwichovy ostrovy";
+$l['timezone_gmt_minus_100'] = "(GMT -1:00) Azory, Kapverdy";
 $l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londýn, Lisabon, Monrovia";
 $l['timezone_gmt_100'] = "(GMT +1:00) Berlín, Bratislava, Brusel, Kodaň, Madrid, Paříž, Praha, Řím, Varšava";
 $l['timezone_gmt_200'] = "(GMT +2:00) Athény, Istanbul, Káhira, Jeruzalém, Jižní Afrika";
@@ -202,16 +205,16 @@ $l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Minsk, Bagdád, Rijád, Nairo
 $l['timezone_gmt_350'] = "(GMT +3:30) Teherán";
 $l['timezone_gmt_400'] = "(GMT +4:00) Moskva, Abú Dhabí, Baku, Muscat, Tbilisi";
 $l['timezone_gmt_450'] = "(GMT +4:30) Kábul";
-$l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karáčí, Taškent";
+$l['timezone_gmt_500'] = "(GMT +5:00) Islámábád, Karáčí, Taškent";
 $l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kalkata, Chennai, Nové Dillí";
 $l['timezone_gmt_575'] = "(GMT +5:45) Káthmándú";
-$l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dháka, Yekaterinburg";
-$l['timezone_gmt_650'] = "(GMT +6:30) Yangon";
+$l['timezone_gmt_600'] = "(GMT +6:00) Almaty, Dháka, Jekatěrinburg";
+$l['timezone_gmt_650'] = "(GMT +6:30) Yankoun";
 $l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoj, Jakarta";
-$l['timezone_gmt_800'] = "(GMT +8:00) Peking, Hongkong, Perth, Singapur, Taipei, Manila";
-$l['timezone_gmt_850'] = "(GMT +8:30) Pyongyang";
+$l['timezone_gmt_800'] = "(GMT +8:00) Peking, Hongkong, Perth, Singapur, Tchaj-pej, Manila";
+$l['timezone_gmt_850'] = "(GMT +8:30) Pchjongjang";
 $l['timezone_gmt_875'] = "(GMT +8:45) Eucla";
-$l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Soul, Tokio, Irkutsk";
+$l['timezone_gmt_900'] = "(GMT +9:00) Ósaka, Sapporo, Soul, Tokio, Irkutsk";
 $l['timezone_gmt_950'] = "(GMT +9:30) Adelaide, Darwin";
 $l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua-Nová Guinea, Sydney, Jakutsk";
 $l['timezone_gmt_1050'] = "(GMT +10:30) Ostrov lorda Howea";
