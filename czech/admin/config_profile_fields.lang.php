@@ -58,19 +58,19 @@ $l['parse_allowvideocode'] = "Ano, povolit [video] kód v tomto poli.";
 $l['save_profile_field'] = "Uložit pole";
 $l['name'] = "Jmnéno";
 $l['registration'] = "Zobrazeno během registrace?";
-$l['editable'] = "Možnost upravit?";
+$l['editable'] = "Lze upravit?";
 $l['profile'] = "Profil?";
 $l['postbit'] = "Postbit?";
 $l['edit_field'] = "Upravit";
 $l['delete_field'] = "Smazat";
-$l['no_profile_fields'] = "Na fóru nejsou žádná vlastní pole.";
+$l['no_profile_fields'] = "Na fóru se nenacházejí žádná vlastní pole.";
 
-$l['error_missing_name'] = "Nezadal jsi název vlastního pole";
-$l['error_missing_description'] = "Nezadal jsi popis vlastního pole";
+$l['error_missing_name'] = "Nezadal jste název vlastního pole";
+$l['error_missing_description'] = "Nezadal jste popis vlastního pole";
 $l['error_invalid_fid'] = "Zvolené pole neexistuje.";
 
 $l['success_profile_field_added'] = "Vlastní pole profilo bylo úspěšně vytvořeno.";
 $l['success_profile_field_saved'] = "Vlastní pole profilu bylo úspěšně změněno.";
 $l['success_profile_field_deleted'] = "Zvolené vlastní pole profilu bylo úspěšně smazáno.";
 
-$l['confirm_profile_field_deletion'] = "Jsi si jistý, že chceš smazat profilové pole?";
+$l['confirm_profile_field_deletion'] = "Jste si jistý, že chcete smazat profilové pole?";

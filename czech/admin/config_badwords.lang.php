@@ -7,11 +7,11 @@
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-$l['bad_words'] = "Slovní filtr";
+$l['bad_words'] = "Filtr sprostých slov";
 $l['edit_bad_word'] = "Upravit filtr";
 $l['edit_bad_word_desc'] = "Zde můžeš upravit filtr a upravit za co dané slovo nahradíš.";
 $l['bad_word_filters'] = "Slovní filtr";
-$l['bad_word_filters_desc'] = "Tato funkce ti umožní spravovat seznam slov nebo frází, které mají být automaticky nahrazeny v příspěvcích uživatelů.  Je to velmi užitečné při nahrazování sprostých slov, aj.";
+$l['bad_word_filters_desc'] = "Tato funkce Vám umožní spravovat seznam slov nebo frází, které mají být automaticky nahrazeny v příspěvcích uživatelů.  Je to velmi užitečné při nahrazování sprostých slov, aj.";
 
 $l['bad_word'] = "Slovo";
 $l['bad_word_desc'] = "Zadej slovo, které si přeješ, aby bylo filtrováno. Znak '*' zastupuje každý mmožný znak (a-zA-Z0-9_).";

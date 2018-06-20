@@ -8,7 +8,7 @@
  */
 
 $l['system_health'] = "Stav fóra";
-$l['system_health_desc'] = "Zde můžeš najít informace o stavu tvého fóra.";
+$l['system_health_desc'] = "Zde můžete najít informace o stavu Vašeho fóra.";
 $l['utf8_conversion'] = "UTF-8 konverze";
 $l['utf8_conversion_desc'] = "Nyní převádíš databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti tvého fóra a vybrané tabulky. Po dokončení budeš přesměrován hlavní stránku konverze UTF-8.";
 $l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak ti pomůže je převést formát UTF-8.";
@@ -37,7 +37,7 @@ $l['total_database_size'] = "Celková velikost databáze";
 $l['attachment_space_used'] = "Celková velikost všech příloh";
 $l['total_cache_size'] = "Celková velikost mezipaměti";
 $l['estimated_attachment_bandwidth_usage'] = "Přílohy: odhadované využití trafficu";
-$l['max_upload_post_size'] = "Maximální velikost pro: nahrávání souborů / nahrání přílohy";
+$l['max_upload_post_size'] = "Maximální velikost pro nahrávání souborů / nahrání přílohy";
 $l['average_attachment_size'] = "Průměrná velikost příloh";
 $l['stats'] = "Statistiky";
 $l['task'] = "Úloha";
@@ -45,7 +45,7 @@ $l['run_time'] = "Čas spuštění";
 $l['next_3_tasks'] = "Následující 3 plánované úlohy";
 $l['no_tasks'] = "Momentálně neběží žádné úlohy.";
 $l['backup_time'] = "Datum a čas vytvoření zálohy";
-$l['no_backups'] = "Bohužel, zatím jsi nevytvořil žádnou zálohu.";
+$l['no_backups'] = "Bohužel, zatím jste nevytvořil žádnou zálohu.";
 $l['existing_db_backups'] = "Vytvořené zálohy databáze";
 $l['writable'] = "Zapisovatelné";
 $l['not_writable'] = "Není zapisovatelné";

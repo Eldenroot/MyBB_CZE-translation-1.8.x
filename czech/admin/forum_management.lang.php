@@ -98,26 +98,26 @@ $l['moderator_cp_permissions_desc'] = "Uživatel musí mít přístup ke kontrol
 $l['save_mod'] = "Uložit moderátora";
 
 $l['no_forums'] = "Nebylo nalezeno žádné fórum.";
-$l['no_moderators'] = "Nebyl nalezený žádný moderátor.";
+$l['no_moderators'] = "Nebyl nalezen žádný moderátor.";
 
 $l['success_forum_disporder_updated'] = "Pořadí zobrazení fóra bylo úspěšně aktualizováno.";
-$l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. V ideálním případě byste nyní měli spustit <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; předělat</a> nástroje.";
+$l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. Bylo by vhodné, abyste spustil nástroj <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; znovu vytvořit</a>.";
 $l['success_moderator_deleted'] = "Vybraný moderátor byl úspěšně smazán.<br>Pamatujte prosím, že to nezměnilo oprávnění tohoto uživatele, může tak stále mít pravomoci pro moderování.";
 $l['success_forum_permissions_updated'] = "Oprávnění fóra byla úspěšně aktualizována.";
 $l['success_forum_updated'] = "Nastavení fóra bylo úspěšně aktualizováno.";
 $l['success_moderator_updated'] = "Vybraný moderátor byl úspěšně aktualizován.";
 $l['success_custom_permission_cleared'] = "Vlastní oprávnění pro toto fórum byla úspěšně vymazána.";
 
-$l['error_invalid_forum'] = "Prosím vyberte platné fórum.";
-$l['error_invalid_moderator'] = "Prosím vyberte platného moderátora, kterého chcete smazat.";
+$l['error_invalid_forum'] = "Vyberte, prosím, platné fórum.";
+$l['error_invalid_moderator'] = "Vyberte, prosím, platného moderátora, kterého chcete smazat.";
 $l['error_invalid_fid'] = "Bylo vybráno nesprávné ID fóra.";
 $l['error_forum_parent_child'] = "Nemůžete nastavit toto fórum jako nadřazené.";
 $l['error_forum_parent_itself'] = "Fórum nemůže být samostatně nadřazené.";
 $l['error_incorrect_moderator'] = "Prosím vyberte platného moderátora.";
 
-$l['confirm_moderator_deletion'] = "Jsi si jistý, že chceš odstranit moderátora z tohoto fóra?";
-$l['confirm_forum_deletion'] = "Jsi si jistý, že chceš smazat tohle fórum?";
-$l['confirm_clear_custom_permission'] = "Jsi si jistý, že chceš smazat vlastní práva?";
+$l['confirm_moderator_deletion'] = "Jste si naprosto jistý, že chcete odstranit moderátora z tohoto fóra?";
+$l['confirm_forum_deletion'] = "Jste si, že chceš odstranit tohle fórum?";
+$l['confirm_clear_custom_permission'] = "Jste si jistý, že chcete smazat vlastní práva?";
 
 $l['forum_type'] = "Typ fóra";
 $l['forum_type_desc'] = "Vyberte typ fóra, které vytváříte - fórum, ve kterém můžete psát, nebo kategorii, která obsahuje jiná fóra.";

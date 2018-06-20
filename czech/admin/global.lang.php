@@ -147,9 +147,9 @@ $l['rel_ago'] = "před";
 $l['rel_less_than'] = "Před méně než ";
 $l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
-$l['rel_minutes_plural'] = "minuty";
+$l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "hodina";
-$l['rel_hours_plural'] = "hodiny";
+$l['rel_hours_plural'] = "hodin(y)";
 
 // Parser bits
 $l['quote'] = "Citace:";
