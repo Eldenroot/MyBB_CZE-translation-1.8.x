@@ -48,6 +48,7 @@ $l['you_voted'] = "* Hlasovali jste pro tuto možnost.";
 $l['poll_closed'] = "Hlasování je ukončeno.";
 $l['poll_closes'] = "Hlasování bude ukončeno: {1}";
 $l['already_voted'] = "Již jste hlasoval(a).";
+$l['no_voting_permission'] = "Nemáte dostatečná práva, abyste mohl hlasovat v této anketě.";
 $l['undo_vote'] = "Zrušit anketní hlas";
 $l['quick_reply'] = "Rychlá odpověď";
 $l['message_note'] = "Text Vaší zprávy:";

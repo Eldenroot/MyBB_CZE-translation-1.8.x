@@ -11,6 +11,7 @@ $l['pmdata_too_long_subject'] = 'Předmět vaší soukromé zprávy je příliš
 $l['pmdata_code_no_subject'] = '[bez předmětu]';
 $l['pmdata_missing_subject'] = 'Chybí předmět zprávy. Prosím, uveďte jej.';
 $l['pmdata_missing_message'] = 'Chybí obsah zprávy. Prosím, doplňte jej.';
+$l['pmdata_message_too_long'] = 'Zpráva je příliš dlouhá. Prosím, napiš zprávu kratší než {1} znaků (v současné době {2}).';
 $l['pmdata_invalid_recipients'] = "Na seznamu příjemců zprávy se nachází příjemce, nebo příjemci, které neexistují v seznamu uživatelů. Chybní příjemci: {1}.";
 $l['pmdata_no_recipients'] = "Chybí uvedení příjemce zprávy. Musíte zadat alespoň jednoho příjemce.";
 $l['pmdata_too_many_recipients'] = "Nemáte povolení naráz poslat zprávu {1} uživatelům.";
