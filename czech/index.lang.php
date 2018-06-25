@@ -10,7 +10,7 @@
 $l['boardstats'] = "Statistiky fóra";
 $l['new_posts'] = "Ve fóru jsou nové příspěvky";
 $l['no_new_posts'] = "Ve fóru nejsou žádné nové příspěvky";
-$l['forum_locked'] = "Fórum je uzavřeno";
+$l['forum_closed'] = "Fórum je uzavřeno";
 $l['forum_unapproved_posts_count'] = "Ve fóru je nyní {1} ks neschválených příspěvků.";
 $l['forum_unapproved_post_count'] = "Ve fóru je nyní jeden neschválený příspěvek.";
 $l['forum_unapproved_threads_count'] = "Ve fóru je nyní {1} ks neschválených témat.";

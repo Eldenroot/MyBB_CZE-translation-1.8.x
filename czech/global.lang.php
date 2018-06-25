@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['redirect_width'] = "50%";
@@ -49,7 +51,7 @@ $l['forumbit_moderated_by'] = "Moderuje:";
 $l['new_posts'] = "Fórum obsahuje nové příspěvky";
 $l['no_new_posts'] = "Fórum neobsahuje nové příspěvky";
 $l['click_mark_read'] = "Kliknutím označíte fórum jako přečtené";
-$l['forum_locked'] = "Fórum je uzavřené";
+$l['forum_closed'] = "Fórum je uzavřené";
 $l['forum_redirect'] = "Přesměrované fórum";
 $l['lastpost_never'] = "Nikdy";
 $l['viewing_one'] = " (prohlíží 1 uživatel)";
@@ -64,9 +66,12 @@ $l['verify_forum_password'] = "Ověřte heslo";
 $l['wrong_forum_password'] = "Zadané heslo je neplatné. Prosím zkuste to znovu.";
 
 $l['reset_button'] = "Reset";
-$l['username'] = "Uživatelská přezdívka:";
+$l['username'] = "Přezdívka:";
+$l['username1'] = "E-mailová adresa:";
+$l['username2'] = "Přezdívka/E-mailová adresa:";
 $l['password'] = "Heslo:";
 $l['login_username'] = "Uživatelská přezdívka:";
+$l['login_username'] = "E-mail";
 $l['login_username2'] = "Uživatelská přezdívka/E-mail:";
 $l['login_password'] = "Heslo:";
 $l['lost_password'] = "Zapomněl jste heslo?";
@@ -274,7 +279,7 @@ $l['postbit_thread_unapproved'] = "Tohle vlákno čeká na schválení.";
 $l['postbit_deleted_post_user'] = "Příspěvek od {1} byl smazán.";
 
 $l['postbit_button_reputation_add'] = 'Hodnotit';
-$l['postbit_button_website'] = 'Web';
+$l['postbit_button_website'] = 'Webová stránka';
 $l['postbit_button_find'] = 'Hledat';
 $l['postbit_button_report'] = 'Ohlásit';
 $l['postbit_button_quote'] = 'Odpovědět';
@@ -307,6 +312,7 @@ $l['smilieinsert'] = "Smajlíci";
 $l['smilieinsert_getmore'] = "další";
 $l['on'] = "zapnuté";
 $l['off'] = "vypnuté";
+$l['remote_avatar_disabled_default_avatar'] = "V současné době používáte globalně poznatelného avatara, což bylo zakazáno. Na místo toho se použije výchozí avatar.";
 $l['unread_report'] = "Poznámka pro moderátora: máte jedno nepřečtené oznámení.";
 $l['unread_reports'] = "Poznámka pro moderátora: máte {1} nepřečtených oznámení.";
 $l['pending_joinrequest'] = "Poznámka pro vedoucí skupiny: máte 1 požadavek pro udělení členství ve skupině.";
@@ -345,8 +351,8 @@ $l['seconds_short'] = "s";
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
-$l['rel_less_than'] = "méně než ";
-$l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
+$l['rel_less_than'] = "Před méně než ";
+$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "hodina";
@@ -364,6 +370,7 @@ $l['banned_email_warning'] = "Používáte e-mail, který na tomto fóru není p
 $l['powered_by'] = "Fórum používá software";
 $l['copyright'] = "Copyright";
 $l['attach_quota'] = "Právě využíváte <strong>{1}</strong> příloh z Vašeho celkového prostoru ({2})";
+$l['attach_usage'] = "You are currently using <strong>{1}</strong>.";
 $l['view_attachments'] = "[zobrazit moje přílohy]";
 $l['unlimited'] = "Neomezené";
 
@@ -405,9 +412,10 @@ $l['standard_mod_tools'] = "Standardní nástroje";
 $l['custom_mod_tools'] = "Vlastní nástroje";
 
 $l['error_loadlimit'] = "Bylo dosaženo maximální zátěže serveru. Prosím, vraťte se později, až zde nebude takový provoz.";
-$l['error_boardclosed'] = "Toto fórum je právě uzavřeno. Důvody naleznete níže.";
+$l['error_boardclosed'] = "Toto fórum je právě uzavřeno. Důvody naleznete níže.";	
 $l['error_banned'] = "Lituji, ale jste zabanováni. Nemůžete v tomto fóru ani číst, ani psát. Pokud nevíte proč jste ban dostal(a), nebo jej nechcete, kontaktujte administrátora fóra.";
 $l['error_cannot_upload_php_post'] = "Soubor nelze nahrát - je příliš veliký s ohledem na nastavení php (post_max_size). Prosím, klikněte na tlačítko Zpět.";
+$l['error_empty_post_input'] = "There has been an error due to your post data being empty. This could be due to a browser page refresh or direct access to this page. We recommend you press the browser back button and begin again.";
 $l['error_database_repair'] = "MyBB automaticky opravuje poškozenou tabulku.";
 
 $l['unknown_user_trigger'] = "Došlo k neočekávané chybě.";
@@ -503,6 +511,7 @@ $l['previous'] = "Předchozí";
 $l['delete'] = "Smazat";
 
 $l['massmail_username'] = "Přezdívka";
+$l['email_addr'] = "E-mailová adresa";
 $l['board_name'] = "Název fóra";
 $l['board_url'] = "URL adresa fóra";
 

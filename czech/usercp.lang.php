@@ -384,12 +384,12 @@ $l['new_hot_thread'] = "Nejčtenější téma (nové)";
 $l['posts_by_you'] = "Obsahuje Vaše příspěvky";
 $l['no_new_thread'] = "Žádné nové příspěvky";
 $l['hot_thread'] = "Nejčtenější téma (bez nových)";
-$l['locked_thread'] = "Uzavřené téma";
+$l['closed_thread'] = "Uzavřené téma";
 $l['icon_dot'] = "Obsahuje Vaše příspěvky. "; // The spaces for the icon labels are strategically placed so that there should be no extra space at the beginning or end of the resulting label and that spaces separate each 'status' ;)
 $l['icon_no_new'] = "Žádné nové příspěvky.";
 $l['icon_new'] = "Nové příspěvky.";
 $l['icon_hot'] = " Nejčtenější téma.";
-$l['icon_lock'] = " Uzavřené téma.";
+$l['icon_close'] = " Uzavřené téma.";
 $l['search_user'] = "Hledat uživatele";
 
 $l['buddylist_error'] = 'Chyba při načítání Seznamu přátel.';
