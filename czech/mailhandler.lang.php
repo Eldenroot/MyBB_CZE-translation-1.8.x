@@ -8,11 +8,11 @@
  */
 
 $l['error_no_connection'] = 'Při navazování spojení se serverem došlo k chybě: ';
-$l['error_no_message'] = 'Specifikovaná zpráva neexistuje.';
-$l['error_no_subject'] = 'Specifikovaný předmět neexistuje.';
-$l['error_no_recipient'] = 'Specifikovaný příjemce neexistuje.';
+$l['error_no_message'] = 'Nezadal jste obsah zprávy.';
+$l['error_no_subject'] = 'Nezadal jste předmět zprávy.';
+$l['error_no_recipient'] = 'Nezadal jste příjemce Vaší zprávy.';
 $l['error_not_sent'] = 'Při pokusu poslat mail pomocí funkce php mail došlo k chybě.';
-$l['error_status_missmatch'] = 'Status serveru neodpovídá statutu, který je očekáván: ';
+$l['error_status_missmatch'] = 'Status ze serveru se neshoduje s očekávaným výsledkem. Server vrací: ';
 $l['error_data_not_sent'] = 'Tato data nemohou být odeslána na server: ';
 
-$l['error_occurred'] = 'Došlo nejméně k jedné chybě. Před pokračováním opravte následující chyby.<br />';
+$l['error_occurred'] = 'Došlo nejméně k jedné chybě. Prosím, opravte následující chyby.<br />';
