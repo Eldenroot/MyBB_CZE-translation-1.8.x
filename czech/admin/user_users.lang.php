@@ -338,7 +338,7 @@ $l['table_view'] = "Zobrazení tabulka";
 $l['card_view'] = "Zobrazení karty";
 
 $l['find_users_where'] = "Najít uživatele kde";
-$l['username_contains'] = "Přezdívka uživatele obsahuje";
+$l['username_contains'] = "Uživatelské jméno uživatele obsahuje";
 $l['email_address_contains'] = "E-mailová adresa obsahuje";
 $l['is_member_of_groups'] = "Je členem některé z jedné či více uživatelských skupin";
 $l['website_contains'] = "Webová stránka obsahuje";

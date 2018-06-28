@@ -14,7 +14,7 @@ $l['manage_awaiting_activation'] = "Spravovat uživatele čekající na aktivaci
 
 $l['no_users_awaiting_activation'] = "V tuto chvíli zde nejsou žádní uživatelé, kteří čekají na aktivaci.";
 
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
 $l['registered'] = "Registrovaný";
 $l['last_active'] = "Naposledy aktivní";
 $l['email'] = "E-mail";

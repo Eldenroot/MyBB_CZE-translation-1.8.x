@@ -17,7 +17,7 @@ $l['disallowed_email_addresses'] = "Nepovolené e-mailové adresy";
 $l['disallowed_email_addresses_desc'] = "Zde můžete spravovat seznam e-mailových adres se kterými se uživatelé nemohou zaregistrovat a nemohou být použity ani stavajícími uživateli.";
 
 $l['banned_ip_addresses'] = "Zabanové IP adresy";
-$l['username'] = "Uživatelská přezdívka";
+$l['username'] = "Uživatelské jméno";
 $l['date_disallowed'] = "Datum zakazání";
 $l['last_attempted_use'] = "Poslední pokus o přihlášení";
 $l['email_address'] = "E-mailová adresa";
@@ -40,7 +40,7 @@ $l['error_invalid_filter'] = "Zadaný filtr neexistuje.";
 $l['error_filter_already_banned'] = "Filtr, který jste zadal, je již zabanovaný.";
 
 $l['success_ip_banned'] = "IP adresa byla úspešně zabanována.";
-$l['success_username_disallowed'] = "Přezdívka byla úspešně zakázána.";
+$l['success_username_disallowed'] = "Uživatelské jméno bylo úspešně zakázáno.";
 $l['success_email_disallowed'] = "E-mailová adresa byla úspešně zakázána.";
 $l['success_ban_deleted'] = "Právě jste odbanoval uživatele.";
 

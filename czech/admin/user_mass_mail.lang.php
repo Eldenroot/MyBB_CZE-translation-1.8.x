@@ -78,7 +78,7 @@ $l['change_recipient_conds'] = "Změna podmínek příjemce";
 $l['review_message'] = "Zkontroluj tvojí zprávu";
 $l['define_delivery_date'] = "Definuj datum dodání";
 $l['schedule_for_delivery'] = "Nastavení doručení";
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
 
 $l['step_three'] = "3. krok";
 $l['next_step'] = "Následující krok";

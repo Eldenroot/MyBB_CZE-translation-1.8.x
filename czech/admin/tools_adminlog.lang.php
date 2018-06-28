@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -16,7 +16,7 @@ $l['prune_admin_logs_desc'] = "Here you can prune the administrator logs matchin
 
 $l['no_adminlogs'] = "Nejsou zde žádné záznamy s požadovanými kritérii.";
 
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
 $l['date'] = "Datum";
 $l['information'] = "Informace";
 $l['ipaddress'] = "IP adresa";

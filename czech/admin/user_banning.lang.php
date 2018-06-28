@@ -21,7 +21,7 @@ $l['disallowed_email_addresses'] = "Nepovolené/zakazáné e-mailové adresy";
 
 // Errors
 $l['error_invalid_ban'] = "Vybral jste neplatný ban pro úpravu.";
-$l['error_invalid_username'] = "Přezdívka, kterou jste zadal, je nesprávná nebo neexistuje.";
+$l['error_invalid_username'] = "Uživatelské jméno, které jste zadal, je nesprávné nebo neexistuje.";
 $l['error_no_perm_to_ban'] = "Nemáte dostatečná oprávnění, abyste mohl zabanovat daného uživatele.";
 $l['error_already_banned'] = "Uživatel již patří do skupiny, která je zabanovaná a nelze jej znovu zabanovat.";
 $l['error_ban_self'] = "Nemůžete sám sebe zabanovat.";
@@ -39,7 +39,7 @@ $l['confirm_prune'] = "Opravdu chcete smazat všechny příspěvky a témata zal
 
 //== Pages
 //= Add / Edit
-$l['ban_username'] = "Přezdívka <em>*</em>";
+$l['ban_username'] = "Uživatelské jméno <em>*</em>";
 $l['autocomplete_enabled'] = "V tomto poli je povoleno automatické dokončování.";
 $l['ban_reason'] = "Důvod banu";
 $l['ban_group'] = "Zabanovaná skupina <em>*</em>";

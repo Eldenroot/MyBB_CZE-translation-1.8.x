@@ -30,9 +30,9 @@ $l['email_sent_to_user'] = "E-mail odeslán uživateli";
 $l['email_sent_using_contact_form'] = "E-mail sent using the contact form";
 $l['no_logs'] = "Nejsou zde žádné záznamy s vybranými kritérii.";
 $l['filter_user_email_log'] = "Filter User E-mail Log";
-$l['username_is'] = "Přezdívka je";
+$l['username_is'] = "Uživatelské jméno je";
 $l['email_contains'] = "E-mailová adresa obsahuje";
 $l['subject_contains'] = "Předmět obsahuje";
 $l['find_emails_to_user'] = "Najít všechny e-maily odeslané tomuto uživateli";
 
-$l['error_invalid_user'] = "Přezdívka, kterou jste zadal, neexistuje.";
+$l['error_invalid_user'] = "Uživatelské jméno, které jste zadal, neexistuje.";

@@ -1,12 +1,12 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
- 
+
 $l['forum_management'] = "Správa fóra";
 $l['forum_management_desc'] = "Tato sekce umožňuje spravovat kategorie a fóra na hlavní straně. Můžete také spravovat oprávnění fóra a moderátory pro konkrétní fórum. Pokud změníte pořadí zobrazení pro jedno nebo více fór nebo kategorií, ujistěte se, že jste odeslali formulář v dolní části stránky.";
 $l['add_forum'] = "Přidat nové fórum";
@@ -166,7 +166,7 @@ $l['display_method'] = "Zobrazit metody:";
 $l['rules'] = "Pravidla:";
 $l['forum_rules'] = "Pravidla fóra";
 $l['name'] = "Jméno";
-$l['username'] = "Uživatelská přezdívka";
+$l['username'] = "Uživatelské jméno";
 $l['moderator_username_desc'] = "Uživatelské jméno moderátora bylo přidáno";
 $l['add_user_as_moderator'] = "Přidat uživatele jako moderátora";
 $l['usergroup'] = "Uživatelská skupina";

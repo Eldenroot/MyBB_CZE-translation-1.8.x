@@ -36,15 +36,15 @@ $l['generated_in'] = "Vygenerováno za {1} with <a href=\"{2}\" target=\"_blank\
 // Login page
 
 $l['enter_username_and_password'] = "Abyste mohl pokračovat je nutné zadat {1} a heslo.";
-$l['login_username'] = 'Uživatelská přezdívka';
+$l['login_username'] = 'Uživatelské jméno';
 $l['login_email'] = 'E-mailová adresa';
-$l['login_username_and_password'] = 'Přezdívka/E-mailová adresa';
+$l['login_username_and_password'] = 'Uživatelské jméno/E-mailová adresa';
 $l['mybb_admin_login'] = "MyBB ovladací panel - přihlášení";
 $l['return_to_forum'] = "Návrat do fóra";
 $l['please_login'] = "Administrační panel MyBB";
-$l['username'] = "Přezdívka:";
+$l['username'] = "Uživatelské jméno:";
 $l['username1'] = "E-mailová adresa:";
-$l['username2'] = "Přezdívka/E-mailová adresa:";
+$l['username2'] = "Uživatelské jméno/E-mailová adresa:";
 $l['password'] = "Heslo:";
 $l['secret_pin'] = "Tajný PIN:";
 $l['login'] = "Přihlašovací údaje";
@@ -56,7 +56,7 @@ $l['error_invalid_ip'] = "Vaše IP adresa není platná pro sezení.";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
 $l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje.  <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi jak odblokovat účet.";
 
-$l['error_invalid_username'] = "Přezdívka, kterou jste zadal, je neplatná.";
+$l['error_invalid_username'] = "Uživatelské jméno, které jste zadal, je neplatné.";
 $l['error_invalid_uid'] = "Uživatelské ID, které jste zadal, je neplatné.";
 $l['error_invalid_token'] = "Aktivační kód, který jste zadal, je neplatný.";
 
@@ -329,7 +329,7 @@ $l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB - proběhla v 
 $l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit serverem MyBB z důvodu kontroly verze.";
 $l['task_recachestylesheets_ran'] = 'Obnovena cache {1} stylů.';
 
-$l['massmail_username'] = "Přezdívka";
+$l['massmail_username'] = "Uživatelské jméno";
 $l['email_addr'] = "E-mailová adresa";
 $l['board_name'] = "Název fóra";
 $l['board_url'] = "URL adresa fóra";
