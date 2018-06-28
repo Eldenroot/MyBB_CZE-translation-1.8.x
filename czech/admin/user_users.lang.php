@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -42,8 +42,8 @@ $l['important'] = "Důležité";
 $l['mass_ban_info'] = "Akce pouze postihne pouze {1} uživatel(ů). Pokračuj jen tehdy, když seš jistý, že to chceš opravdu udělat.";
 $l['ban_users'] = "Zabanování uživatelů";
 $l['users_banned'] = "{1} uživatel(e) byli zabanováni";
-$l['confirm_multilift'] = "Jsi si jistý, že chceš odstranit ban uživatelům, které jsi vybral?";
-$l['success_ban_lifted'] = "Bany pro {1} uživatele, které jsi vybral, byly odstraněny.";
+$l['confirm_multilift'] = "Jste si jistý, že chcete odstranit ban uživatelům, které jste vybral?";
+$l['success_ban_lifted'] = "Bany pro {1} uživatele, které jste vybral, byly odstraněny.";
 $l['edit_ban'] = "Upravit ban";
 $l['lift_ban'] = "Odebrat ban";
 $l['lift_bans'] = "Odebrat bany";
@@ -53,8 +53,8 @@ $l['mass_prune_info'] = "Tato akce se dotkne {1} uživatelů. Pokud budeš pokra
 $l['mass_prune_posts'] = "Hromadné promazání příspěvků";
 $l['manual_date'] = "Vložit datum manuálně";
 $l['relative_date'] = "Nebo vyber možnosti smazání";
-$l['multi_selected_dates'] = "Zvolil jsi jak zadání data, tak možnosti smazání. Vyber prosím jen jedno z nich.";
-$l['incorrect_date'] = "Datum, které jsi zvolil je neplatné. Vyplň, prosím, platné datum nebo nech pole prázdné pro další možnosti.";
+$l['multi_selected_dates'] = "Zvolil jste jak zadání data, tak možnosti smazání. Vyberte, prosím, jen jedno z nich.";
+$l['incorrect_date'] = "Datum, které jste zvolil je neplatné. Vyplňte, prosím, platné datum nebo nech pole prázdné pro další možnosti.";
 $l['prune_complete'] = "Promazání proběhlo úspěšně.";
 $l['prune_fail'] = "Pro zvoleného uživatele nebyly nalezeny žádné příspěvky. Žádné příspěvky nebyly smazány.";
 $l['no_prune_option'] = "Vlož datum nebo vyber možnosti a pokračuj.";
@@ -154,14 +154,13 @@ $l['user_overview'] = "Přehled uživatele";
 
 $l['new_password'] = "Nové heslo";
 $l['new_password_desc'] = "Vyžadováno pouze při změně";
-$l['confirm_new_password'] = "Znovu zadej nové heslo";
+$l['confirm_new_password'] = "Zadejte znovu nové heslo";
 
 $l['optional_profile_info'] = "Volitelné uživatelské informace";
 $l['custom_user_title'] = "Vlastní uživatelský název";
 $l['custom_user_title_desc'] = "Je-li toto políčko prázdné, použije se název skupiny uživatelů";
 $l['website'] = "Stránka";
 $l['icq_number'] = "ICQ číslo";
-$l['aim_handle'] = "AIM jméno";
 $l['yahoo_messanger_handle'] = "Yahoo ID";
 $l['skype_handle'] = "Skype přezdívka";
 $l['google_handle'] = "Google Hangouts ID";
@@ -173,9 +172,9 @@ $l['away_status_desc'] = "Umožnuje zanechat zprávu v době nepřítomnosti.";
 $l['im_away'] = "Nepřítomem";
 $l['im_here'] = "Jsem zpět";
 $l['away_reason'] = "Důvod nepřítomnosti";
-$l['away_reason_desc'] = "Umožňuje zanechat krátkou zprávu, proč budeš nepřítomný (pouze 200 znaků).";
-$l['return_date'] = "Datum, kdy se vracíš:";
-$l['return_date_desc'] = "Pokud víš, kdy se vrátíš, můžeš jsem zadat datum návratu.";
+$l['away_reason_desc'] = "Umožňuje zanechat krátkou zprávu, proč budete nepřítomný (pouze 200 znaků).";
+$l['return_date'] = "Datum, kdy se vracíte:";
+$l['return_date_desc'] = "Pokud víš, kdy se vrátíte, můžete jsem zadat datum návratu.";
 $l['error_acp_return_date_past'] = "Nemůžete se vrátit v minulosti!";
 
 $l['hide_from_whos_online'] = "Skrýt ze seznamu kdo je online";
@@ -190,7 +189,7 @@ $l['buddy_requests_pm'] = "Dostat oznámení soukromou zprávou pro novou žádo
 $l['buddy_requests_auto'] = "Automaticky přijmout žádosti o kamarádství (pokud je políčko zvolené, pošle se soukromá zpráva oznamující příjetí žádosti).";
 $l['default_thread_subscription_mode'] = "Výchozí mód předplatného";
 $l['do_not_subscribe'] = "Neodebírat";
-$l['no_email_notification'] = "Neposílat notifikace e-mailem";
+$l['no_notification'] = "Žádné notifikace";
 $l['instant_email_notification'] = "Okamžité oznámení e-mailem";
 $l['messaging_and_notification'] = "Zprávy &amp; Notifikace";
 $l['use_default'] = "Použít vychození nastavení";
@@ -257,9 +256,9 @@ $l['suspend_for'] = "Pozastaveno od:";
 $l['suspended_perm'] = "<p><small>Pozastaveno permanentně.<br />Zadejte nový čas. Pokud chcete volbu zrušit, odškrtněte toto políčko.</small></p>";
 $l['suspend_length'] = "<p><small>Pozastavených zbýbá: <span style=\"color: {2};\">{1}</span>.<br />Zadejte nový čas. Pokud chcete volbu zrušit, odškrtněte toto políčko.</small></p>";
 
-$l['suspendsignature_error'] = "Vybrali jste pozastavení podpisu tohoto uživatele, ale nezadali jste platné časové období. Zadejte prosím platný čas pro pokračování nebo zrušte zaškrtnutí.";
-$l['moderateposting_error'] = "Vybrali jste moderování příspěvků tohoto uživatele, ale nezadali jste platné časové období. Zadejte prosím platný čas pro pokračování nebo zrušte zaškrtnutí.";
-$l['suspendposting_error'] = "Vybrali jste pozastavení příspěvků tohoto uživatele, ale nezadali jste platné časové období. Zadejte prosím platný čas pro pokračování nebo zrušte zaškrtnutí.";
+$l['suspendsignature_error'] = "Vybrali jste pozastavení podpisu tohoto uživatele, ale nezadali jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
+$l['moderateposting_error'] = "Vybrali jste moderování příspěvků tohoto uživatele, ale nezadali jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
+$l['suspendposting_error'] = "Vybrali jste pozastavení příspěvků tohoto uživatele, ale nezadali jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
 $l['suspendmoderate_error'] = "Vybrali jste pozastavení a moderování příspěvků uživatele. Vyberte pouze jeden typ moderování.";
 
 $l['expire_length'] = "Délka pozastavení:";
@@ -302,7 +301,7 @@ $l['user_notes'] = "Poznámky uživatele(ú?)";
 
 $l['ip_addresses'] = "IP adresy";
 $l['ip_address'] = "IP adresa";
-$l['show_users_regged_with_ip'] = "Najdi uživatelé, kteří mají společnou registrační IP";
+$l['show_users_regged_with_ip'] = "Najdi uživatele, kteří mají společnou registrační IP";
 $l['show_users_posted_with_ip'] = "Najdi uživatele, kteří psali ve fóru s IP adresou";
 $l['ban_ip'] = "Ban IP";
 $l['ip_address_for'] = "IP adresy zabanovány pro";
@@ -344,7 +343,6 @@ $l['email_address_contains'] = "E-mailová adresa obsahuje";
 $l['is_member_of_groups'] = "Je členem některé z jedné či více uživatelských skupin";
 $l['website_contains'] = "Webová stránka obsahuje";
 $l['icq_number_contains'] = "ICQ číslo obsahuje";
-$l['aim_handle_contains'] = "AIM handle obsahuje";
 $l['yahoo_contains'] = "Yahoo! Messenger obsahuje";
 $l['skype_contains'] = "Skype obsahuje";
 $l['google_contains'] = "Google Hangouts obsahuje";
@@ -372,7 +370,7 @@ $l['set_as_default_view'] = "Nastavit jako výchozí zobrazení?";
 $l['enabled'] = "Povoleno";
 $l['disabled'] = "Zakázáno";
 $l['fields_to_show'] = "Pole k zobrazení";
-$l['fields_to_show_desc'] = "Prosím vyberte pole, které chcete zobrazovat";
+$l['fields_to_show_desc'] = "Prosím, vyberte pole, které chcete zobrazovat";
 $l['edit_view'] = "Upravit zobrazení";
 $l['edit_view_desc'] = "Při úpravách zobrazení můžete definovat, která pole chcete zobrazit, kritéria vyhledávání a možnosti řazení.";
 $l['private'] = "Soukromé";
@@ -397,13 +395,13 @@ $l['view_title_1'] = "Všichni uživatelé";
 $l['emailsubject_activateaccount'] = "Aktivace účtu na {1}";
 $l['email_adminactivateaccount'] = "{1},
 
-Administrátor právě teď aktivoval tvůj účet na {2}.
+Administrátor právě teď aktivoval Váš účet na {2}.
 
-Pokračuj, prosím na
+Pokračujte, prosím, na
 
 {3}
 
-Přihlasíš se pomocí údajů, které si zadal při registraci.
+Přihlasíte se pomocí údajů, které jste zadal při registraci.
 
 S pozdravem
 {2} Vedení fóra";

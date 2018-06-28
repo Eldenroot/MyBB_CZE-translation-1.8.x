@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -10,7 +10,7 @@
 
 $l['calendars'] = "Kalendář";
 $l['manage_calendars'] = "Spravovat kalendář";
-$l['manage_calendars_desc'] = "Tato sekce ti umožnuje spravovat/upravit kalendář ve tvém fóru. If you change the display order for one or more calendars make sure you submit the form at the bottom of the page.";
+$l['manage_calendars_desc'] = "Tato sekce Vám umožnuje spravovat/upravit kalendář ve Vašem fóru. If you change the display order for one or more calendars make sure you submit the form at the bottom of the page.";
 $l['add_calendar'] = "Přidat nový kalendář";
 $l['add_calendar_desc'] = "Zde můžeš vytvořit nový kalendář.";
 $l['edit_calendar'] = "Upravit kalendář";
@@ -18,13 +18,13 @@ $l['edit_calendar_desc'] = "Zde můžeš upravit nastavení pro kalendář.";
 
 $l['calendar'] = "Kalendář";
 $l['order'] = "Pořadí";
-$l['no_calendars'] = "V tuto chvíli zde nejsou žádné kalendáře ve tvém fóru.";
+$l['no_calendars'] = "V tuto chvíli zde nejsou žádné kalendáře ve Vašem fóru.";
 $l['save_calendar_orders'] = "Uložit pořadí kalendářů";
 
 $l['name'] = "Název";
 $l['display_order'] = "Pořadí zobrazení";
 $l['week_start'] = "Začátek týdne";
-$l['week_start_desc'] = "Zde můžeš zadat den v týdnu, kterým bude kalendář začínat.";
+$l['week_start_desc'] = "Zde můžete zadat den v týdnu, kterým bude kalendář začínat.";
 $l['sunday'] = "Neděle";
 $l['monday'] = "Pondělí";
 $l['tuesday'] = "Úterý";
@@ -54,16 +54,15 @@ $l['permissions_post_events'] = "Zadat událost";
 $l['permissions_bypass_moderation'] = "Bypass Moderation";
 $l['permissions_moderator'] = "Práva moderátorů";
 $l['permissions_all'] = "Všichni?";
-$l['permissions_use_group_default'] = "Použij defaultní skupinu";
+$l['permissions_use_group_default'] = "Použít defaultní skupinu";
 $l['save_permissions'] = "Uložit práva";
 
 $l['error_invalid_calendar'] = "Vybraný/Zvolený kalendář neexistuje.";
-$l['error_missing_name'] = "Nezadal jsi jméno pro tento kalendář.";
-$l['error_missing_order'] = "Nezadal jsi pořadí pro zobrazení tohoto kalendáře.";
+$l['error_missing_name'] = "Nezadal jste jméno pro tento kalendář.";
+$l['error_missing_order'] = "Nezadal jste pořadí pro zobrazení tohoto kalendáře.";
 
 $l['success_calendar_created'] = "Kalendář byl úspěšně vytvořen.";
 $l['success_calendar_updated'] = "Kalendář byl úspěšně aktualizován.";
 $l['success_calendar_permissions_updated'] = "Práva v kalendáři byla úspěšně aktualizována.";
-$l['success_calendar_deleted'] = "Vybraný kalendář jsi úspěšně smazal.";
+$l['success_calendar_deleted'] = "Vybraný kalendář jste úspěšně smazal.";
 $l['success_calendar_orders_updated'] = "Pořadí kalendářů bylo úspěšně aktualizováno.";
-

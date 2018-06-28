@@ -1,15 +1,15 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['board_settings'] = "Nastavení fóra";
 $l['change_settings'] = "Změnit nastavení";
-$l['change_settings_desc'] = "Tato část ti umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
+$l['change_settings_desc'] = "Tato část Vám umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
 $l['add_new_setting'] = "Přidat nové nastavení";
 $l['add_new_setting_desc'] = "V této části můžeš přidat nové nastavení pro tvé fórum.";
 $l['modify_existing_settings'] = "Upravit nastavení";

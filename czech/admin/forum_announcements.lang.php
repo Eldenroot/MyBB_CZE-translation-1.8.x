@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -30,11 +30,11 @@ $l['success_announcement_deleted'] = "Vybrané oznámení bylo úspěšně smaz�
 $l['success_added_announcement'] = "Oznámení bylo úspěšně vytvořeno.";
 $l['success_updated_announcement'] = "Vybrané oznámení bylo úspěšně upraveno.";
 
-$l['error_invalid_announcement'] = "Prosím, vlož správné varování.";
-$l['error_missing_title'] = "Nezadal jsi název.";
-$l['error_missing_message'] = "Nezadal jsi zprávu.";
-$l['error_missing_forum'] = "Nevybral jsi fórum.";
-$l['error_invalid_start_date'] = "Zadal jsi neplatné datum oznámení.";
+$l['error_invalid_announcement'] = "Prosím, vložte správné varování.";
+$l['error_missing_title'] = "Nezadal jste název.";
+$l['error_missing_message'] = "Nezadal jste zprávu.";
+$l['error_missing_forum'] = "Nevybral jste fórum.";
+$l['error_invalid_start_date'] = "Zadal jste neplatné datum oznámení.";
 $l['error_invalid_end_date'] = "Konec oznámení není správně nastaven.";
 $l['error_end_before_start'] = "Konec oznámení nesmí být dříve než jeho zveřejnění.";
 

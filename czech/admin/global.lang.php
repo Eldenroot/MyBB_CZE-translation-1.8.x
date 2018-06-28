@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -52,9 +52,9 @@ $l['lost_password'] = "Zapomněl jste heslo?";
 
 $l['error_invalid_admin_session'] = "Neplatné administratorské sezení.";
 $l['error_admin_session_expired'] = "Vypršela platnost tvého administrátorského přihlášení.";
-$l['error_invalid_ip'] = "Tvá IP adresa není platná pro sezení.";
+$l['error_invalid_ip'] = "Vaše IP adresa není platná pro sezení.";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
-$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje.  <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s informacemi jak odblokovat účet.";
+$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje.  <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi jak odblokovat účet.";
 
 $l['error_invalid_username'] = "Přezdívka, kterou jste zadal, je neplatná.";
 $l['error_invalid_uid'] = "Uživatelské ID, které jste zadal, je neplatné.";
@@ -180,7 +180,7 @@ $l['access_denied_desc'] = "Nemáte přístup do této části administračního
 $l['cannot_perform_action_super_admin_general'] = "Bohužel, nemůžete provést tuto akci, protože nejste super administrator.<br /><br /> Abyste mohl vykonat tuto akci, tak Vaše user ID musí být na seznamu super administratorů v inc/config.php.";
 
 // AJAX
-$l['loading_text'] = "Načítání<br />Prosím počkej…";
+$l['loading_text'] = "Načítání<br />Prosím, počkejte…";
 
 // Time zone selection boxes
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Howlandovy a Bakerovy ostrovy";
@@ -336,7 +336,7 @@ $l['board_url'] = "URL adresa fóra";
 
 // Unlock ACP
 $l['lockout_unlock'] = "Odemknout administrační rozhraní fóra";
-$l['enter_username_and_token'] = "Prosím, zadej svojí přezdívku a aktivační kód pro pokračování.";
+$l['enter_username_and_token'] = "Prosím, zadejte Vaší přezdívku a aktivační kód pro pokračování.";
 $l['unlock_token'] = "Aktivační kód:";
 $l['unlock_account'] = "Odemknout účet";
 
@@ -344,20 +344,20 @@ $l['unlock_account'] = "Odemknout účet";
 $l['locked_out_subject'] = "{1}: Administrátorský účet byl zablokován z důvodu mnoha neúspěšných pokusů o přihlášení";
 $l['locked_out_message'] = "Ahoj {1},
 
-Tvůj administrátorský účet na stránce {2} byl zablokován.
+Váš administrátorský účet na stránce {2} byl zablokován.
 
-Je možné, že sis nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit za tebe
-Z bezpečnostních důvodu proto došlo k blokaci tvého účtu.
+Je možné, že jste si nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit na Váš účet.
+Z bezpečnostních důvodu proto došlo k blokaci Vašeho účtu.
 
-Pro odblokování účtu, prosím, klikni na níže uvedený odkaz:
+Pro odblokování účtu, prosím, klikněte na níže uvedený odkaz:
 
 {4}/{5}/index.php?action=unlock&uid={7}&token={6}
 
-Pokud výše uvedený odkaz nefunguje, prosím, přejdi sem:
+Pokud výše uvedený odkaz nefunguje, prosím, přejděte sem:
 
 {4}/{5}/index.php?action=unlock
 
-Kde budeš muset zadat:
+Kde budete muset zadat:
 Přezdívku: {1}
 Aktivační kód: {6}
 
@@ -375,7 +375,7 @@ $l['mybb_engine'] = "MyBB engine";
 // $l['login_field_width'] = "0";
 
 $l['my2fa'] = "Dvoufázové ověření";
-$l['my2fa_failed'] = "Tvůj kod byl špatně zadán, a proto jsi byl odhlášen.";
-$l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
+$l['my2fa_failed'] = "Váš kod jste zadal špatně, a proto jste byl odhlášen.";
+$l['my2fa_code'] = "Prosím, zadejte Váš autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
-$l['my2fa_no_codes'] = "Poznámka: Použil jsi všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
+$l['my2fa_no_codes'] = "Poznámka: Použil jte všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštivte <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";

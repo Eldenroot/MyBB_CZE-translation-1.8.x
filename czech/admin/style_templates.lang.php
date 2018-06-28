@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -43,7 +43,7 @@ $l['find_and_replace'] = "Najít a nahradit";
 $l['search_template_names'] = "Najít název šablony";
 $l['ungrouped_templates'] = "Nezařazené šablony";
 
-$l['search_noneset'] = "Nezadal jsi řetezec, který chceš vyhledat.";
+$l['search_noneset'] = "Nezadal jste řetezec, který chceš vyhledat.";
 $l['search_results'] = "Výsledky vyhledávání šablon";
 $l['search_header'] = "Hledání \"{1}\" v {2}";
 $l['search_updated'] = "Upraveno {1}";
@@ -159,8 +159,8 @@ $l['confirm_template_revertion'] = "Opravdu chceš vrátit tuto šablonu?";
 $l['error_security_problem'] = "V šabloně byl nalezen potenciální problém se zabezpečením. Zkontrolujte změny nebo se obraťte na skupinu MyBB.";
 $l['error_missing_input'] = "Přesvědčte se, zda máte všechny požadované vstupy pro úpravu této šablony (TID a SID).";
 $l['error_already_exists'] = "Název šablony je již používán. Použijte jiný název.";
-$l['error_invalid_template'] = "Vyberte prosím platnou šablonu.";
-$l['error_missing_set_title'] = "Vyberte prosím název setu šablon.";
+$l['error_invalid_template'] = "Vyberte, prosím, platnou šablonu.";
+$l['error_missing_set_title'] = "Vyberte, prosím, název setu šablon.";
 $l['error_invalid_input'] = "Zkontrolujte, zda máte správné ID sady šablon.";
 $l['error_invalid_set'] = "Prosím, vyberte správný set šablon.";
 $l['error_invalid_template_set'] = "Vybrali jste nesprávný set šablon.";

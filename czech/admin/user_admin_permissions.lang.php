@@ -1,15 +1,15 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['admin_permissions'] = "Práva administrátorů";
 $l['user_permissions'] = "Práva uživatelů";
-$l['user_permissions_desc'] = "Zde můžeš spravovat oprávnění administrátora pro jednotlivé uživatele, což umožní odepřít přístup do konkretních sekcí administratorského ovládacího panelu.";
+$l['user_permissions_desc'] = "Zde můžete spravovat oprávnění administrátora pro jednotlivé uživatele, což umožní odepřít přístup do konkretních sekcí administratorského ovládacího panelu.";
 $l['group_permissions'] = "Práva skupin";
 $l['group_permissions_desc'] = "Administrátorská oprávění lze použít také skupinu uživatelů, kteří mají přístup do administrátorské sekce. Tento nástroj můžete také k odepření přístupu do konkretních sekci administratorského ovládacího panelu.";
 $l['default_permissions'] = "Výchozí oprávnění";
@@ -38,11 +38,10 @@ $l['default'] = "Výchozí";
 $l['group'] = "Skupina";
 
 $l['error_super_admin'] = 'Bohužel, akci nelze vykonat pro zvoleného uživatele, protože je super administrátor.';
-$l['error_delete_no_uid'] = 'Nezadal jsi ID uživatele/skupiny pro nastavení administrátorských práv';
-$l['error_delete_invalid_uid'] = 'Nezadal jsi platné ID uživatele/skupiny pro nastavení administrátorských práv';
+$l['error_delete_no_uid'] = 'Nezadal jste ID uživatele/skupiny pro nastavení administrátorských práv';
+$l['error_delete_invalid_uid'] = 'Nezadal jste platné ID uživatele/skupiny pro nastavení administrátorských práv';
 
 $l['success_perms_deleted'] = 'Zrušení práv pro uživatele/skupinu bylo provedeno úspěšně.';
 
-$l['confirm_perms_deletion'] = "Jsi si jistý, že chceš odebrat práva tomuto administrátorovi, případně uživatelské skupině?";
-$l['confirm_perms_deletion2'] = "Jsi si jistý, že chceš odebrat práva tomuto uživateli\těmto uživatelům?";
-
+$l['confirm_perms_deletion'] = "Jste si jistý, že chcete odebrat práva tomuto administrátorovi, případně uživatelské skupině?";
+$l['confirm_perms_deletion2'] = "Jste si jistý, že chcete odebrat práva tomuto uživateli\těmto uživatelům?";

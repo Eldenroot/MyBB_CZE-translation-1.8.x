@@ -1,17 +1,17 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['languages'] = "Jazyky";
-$l['languages_desc'] = "Které jazykové balíky máš nainstalované můžeš vidět níže. Můžeš jazykové soubory upravit, případně změnit nastavení jazyka.";
+$l['languages_desc'] = "Které jazykové balíky máte nainstalované můžete vidět níže. Můžete jazykové soubory upravit, případně změnit nastavení jazyka.";
 $l['find_language_packs'] = "Vyhledat jazykové balíky";
 $l['language_files'] = "Jazykové soubory";
-$l['language_files_desc'] = "Níže jsou soubory ve vybraném jazyce pro frontend i administrační panel. Zde si můžeš vybrat, jak tyto soubory upravit.";
+$l['language_files_desc'] = "Níže jsou soubory ve vybraném jazyce pro frontend i administrační panel. Zde si můžete vybrat, jak tyto soubory upravit.";
 $l['quick_phrases'] = "Rychlé fráze";
 $l['quick_phrases_desc'] = "Rychlý přístup k často modifikovaným frázím.";
 
@@ -50,9 +50,9 @@ $l['no_language_files_admin_cp'] = "Nenalezeny žádné jazyky pro administračn
 $l['error_invalid_set'] = "Vybrán nesprávný jazykový set.";
 $l['error_invalid_file'] = "Vybrán nesprávný jazykový soubor.";
 $l['error_cannot_write_to_file'] = "Nelze zapisovat do souboru. Zkontrolujte oprávnění k souboru pro tuto sadu jazyků a opakujte akci.";
-$l['error_folders_fail'] = "Při přístupu k požadovaným složkám jazykových aktualizací došlo k potížím. Ujistěte se, že existuje a jsou zapisovatelné.";
+$l['error_folders_fail'] = "Při přístupu k požadovaným složkám jazykových aktualizací došlo k potížím. Ujistěte se, že existují a jsou zapisovatelné.";
 
-$l['alert_note_cannot_write'] = "Před úpravou jazykových souborů musíte souboru nastavt správné CHMOD oprávnění, aby do něj mohl server zapisovat.";
+$l['alert_note_cannot_write'] = "Před úpravou jazykových souborů musíte souboru nastavit správné CHMOD oprávnění, aby do něj mohl server zapisovat.";
 
 $l['success_langfile_updated'] = "Jazykový soubor byl úspěšně změněný.";
 $l['success_langprops_updated'] = "Jazykové vlastnosti byly úspěšně změněny.";

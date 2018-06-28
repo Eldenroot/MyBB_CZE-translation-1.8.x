@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -36,9 +36,8 @@ $l['success_thread_prefix_created'] = "Předpona tématu byla úspěšně vytvo�
 $l['success_thread_prefix_updated'] = "Předpona tématu byla úspěšně upravena.";
 $l['success_thread_prefix_deleted'] = "Předpona podprocesu byla úspěšně odstraněna. Prosím, aktualizujte všechny vlastní nástroje moderátora, které používají tuto předponu";
 
-$l['error_missing_prefix'] = "Zadej, prosím, předponu, kterou chcete přidat.";
-$l['error_missing_display_style'] = "Zvol, prosím, zobrazení předpony.";
-$l['error_no_forums_selected'] = "Vyber, prosím, fórum, kde se bude tato předpona zobrazovat.";
-$l['error_no_groups_selected'] = "Vyber, prosím, skupinu, kde se bude tato předpona zobrazovat.";
+$l['error_missing_prefix'] = "Zadejte, prosím, předponu, kterou chcete přidat.";
+$l['error_missing_display_style'] = "Zvolte, prosím, zobrazení předpony.";
+$l['error_no_forums_selected'] = "Vyberte, prosím, fórum, kde se bude tato předpona zobrazovat.";
+$l['error_no_groups_selected'] = "Vyberte, prosím, skupinu, kde se bude tato předpona zobrazovat.";
 $l['error_invalid_prefix'] = "Vybrané téma neexistuje.";
-

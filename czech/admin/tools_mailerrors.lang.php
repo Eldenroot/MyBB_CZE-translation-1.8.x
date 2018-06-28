@@ -1,14 +1,14 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['system_email_log'] = "Historie systémových e-mailů";
-$l['system_email_log_desc'] = "Jakýkoliv e-mail, který byl vygenerován MyBB, který se vrátil s chybou a je zde zobrazený. Tato sekce je obvzláště určená pro identikování nesprávné konfigurace SMTP nebo k identifikování podpory e-mailů na tvém serveru.";
+$l['system_email_log_desc'] = "Jakýkoliv e-mail, který byl vygenerován MyBB, který se vrátil s chybou je zde zobrazený. Tato sekce je obvzláště určená pro identikování nesprávné konfigurace SMTP nebo k identifikování podpory e-mailů na Vašem serveru.";
 $l['prune_system_email_log'] = "Promazat seznam systémových e-mailů";
 $l['filter_system_email_log'] = "Filtrovat seznam systémových e-mailů";
 

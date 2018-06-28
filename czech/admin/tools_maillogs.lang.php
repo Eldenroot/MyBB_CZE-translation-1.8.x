@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -35,4 +35,4 @@ $l['email_contains'] = "E-mailová adresa obsahuje";
 $l['subject_contains'] = "Předmět obsahuje";
 $l['find_emails_to_user'] = "Najít všechny e-maily odeslané tomuto uživateli";
 
-$l['error_invalid_user'] = "Přezdívka, kterou jsi zadal, neexistuje.";
+$l['error_invalid_user'] = "Přezdívka, kterou jste zadal, neexistuje.";

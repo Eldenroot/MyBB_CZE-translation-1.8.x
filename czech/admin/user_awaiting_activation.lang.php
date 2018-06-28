@@ -1,14 +1,14 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['awaiting_activation'] = "Čekající na aktivaci";
-$l['awaiting_activation_desc'] = "Zde můžeš ručně aktivovat uživatele, kteří čekající na aktivaci. Pokud uživatel nepotvrdil e-mailovou aktivaci a ty ho aktivuješ, tak už ho potvrzovat nemusí.";
+$l['awaiting_activation_desc'] = "Zde můžete ručně aktivovat uživatele, kteří čekající na aktivaci. Pokud uživatel nepotvrdil e-mailovou aktivaci a Vy ho aktivujete, tak nemusí potvrzovat e-mail, který uživateli přišel.";
 
 $l['manage_awaiting_activation'] = "Spravovat uživatele čekající na aktivaci";
 
@@ -28,10 +28,10 @@ $l['admin_activation_coppa'] = "Čeká se na aktivaci administrátorem.(COPPA)";
 $l['activate_users'] = "Aktivovat uživatele";
 $l['delete_users'] = "Smazat uživatele";
 
-$l['confirm_activate_users'] = "Jsi si doopravdy jistý, že chceš aktivovat vybrané uživatele?";
-$l['confirm_delete_users'] = "Jsi si doopravdy jistý, že chceš smazat vybrané uživatelé?";
+$l['confirm_activate_users'] = "Jste si doopravdy jistý, že chcete aktivovat vybrané uživatele?";
+$l['confirm_delete_users'] = "Jste si doopravdy jistý, že chcete smazat vybrané uživatelé?";
 
-$l['no_users_selected'] = "Nevybral si žádného uživatele.";
+$l['no_users_selected'] = "Nevybral jste žádného uživatele.";
 
 $l['success_users_deleted'] = "Vybraný uživatel byl vymazán.";
 $l['success_users_activated'] = "Vybraný uživatel byl aktivován.";
@@ -39,13 +39,13 @@ $l['success_users_activated'] = "Vybraný uživatel byl aktivován.";
 $l['emailsubject_activateaccount'] = "Aktivace uživatele na fóru {1}";
 $l['email_adminactivateaccount'] = "{1},
 
-Administrátor aktivoval tvůj účet na fóru - {2}.
+Administrátor aktivoval Váš účet na fóru - {2}.
 
-Pokračujte, prosím na
+Pokračujte, prosím, na
 
 {3}
 
-Kde se budeš moct přihlásit pomocí přezdívky a hesla, které sis zvolil při registraci.
+Kde se budete moct přihlásit pomocí přezdívky a hesla, které jste si zvolil při registraci.
 
-Budeme se těšit na tvojí návštěvu
+Budeme se těšit na Vaší návštěvu
 Vedení fóra {2}";

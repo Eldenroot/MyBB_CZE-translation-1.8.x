@@ -1,16 +1,16 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['report_reasons'] = "Důvody pro nahlášení příspěvku";
-$l['report_reasons_desc'] = "Zde můžeš vytvořit a upravit důvody nahlášení příspěvku, které mohou být zvoleny, když uživatel bude chtít nahlásit nevhodný obsah.";
+$l['report_reasons_desc'] = "Zde můžete vytvořit a upravit důvody nahlášení příspěvku, které mohou být zvoleny, když uživatel bude chtít nahlásit nevhodný obsah.";
 $l['add_new_reason'] = "Přidat nový důvod";
-$l['add_new_reason_desc'] = "Přidej nový důvod pro uživatele, aby jej mohli vybrat při nahlášení nevhodného obsahu.";
+$l['add_new_reason_desc'] = "Přidejte nový důvod pro uživatele, aby jej mohli vybrat při nahlášení nevhodného obsahu.";
 $l['edit_reason'] = "Upravit důvod nahlášení příspěvku";
 $l['edit_reason_desc'] = "Upraví důvod nahlášení příspěvku.";
 
@@ -22,7 +22,7 @@ $l['delete_reason'] = "Smazat důvod";
 $l['no_report_reasons'] = "Nejsou zde žádné důvody pro nahlášení příspěvku v tuto chíli.";
 
 $l['reason_title'] = "Název";
-$l['reason_title_desc'] = "Zde zadej název důvodu pro nahlášení příspěvku.";
+$l['reason_title_desc'] = "Zde zadejte název důvodu pro nahlášení příspěvku.";
 $l['requires_extra'] = "Vyžadují komentář?";
 $l['requires_extra_desc'] = "Vyžaduje, aby uživatel zadal komentář, když vybere tento důvod?";
 $l['save_reason'] = "Uložit";
@@ -51,15 +51,15 @@ $l['custom_report_reason'] = "Jiný důvod";
 
 $l['update_reasons_order'] = "Aktualizovat pořadí důvodů.";
 
-$l['error_cannot_modify_reason'] = "Nemůžeš upravit tento důvod.";
-$l['error_cannot_delete_reason'] = "Nemůžeš smazat tento důvod.";
-$l['error_invalid_reason'] = "Vybral jsi neplatný (nesprávný?) důvod.";
-$l['error_missing_title'] = "Nezadal jsi název pro tento důvod.";
-$l['error_missing_extra'] = "Nevybral jsi možnost, jestli chceš uživatelský komentář pro tento důvod.";
+$l['error_cannot_modify_reason'] = "Nemůžete upravit tento důvod.";
+$l['error_cannot_delete_reason'] = "Nemůžete smazat tento důvod.";
+$l['error_invalid_reason'] = "Vybral jste neplatný (nesprávný?) důvod.";
+$l['error_missing_title'] = "Nezadal jste název pro tento důvod.";
+$l['error_missing_extra'] = "Nevybral jste možnost, jestli chcete uživatelský komentář pro tento důvod.";
 
 $l['success_reasons_disporder_updated'] = "Pořadí důvodů pro nahlášení příspěvku bylo úspěšně aktualizováno.";
 $l['success_reason_created'] = "Důvod byl úspěšně vytvořen.";
 $l['success_reason_updated'] = "Důvod byl úspěšně upraven.";
 $l['success_reason_deleted'] = "Důvod byl úspěšně vymazaný.";
 
-$l['confirm_reason_deletion'] = "Určitě si přeješ smazat tento důvod?";
+$l['confirm_reason_deletion'] = "Určitě si přejete smazat tento důvod?";
