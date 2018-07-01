@@ -12,12 +12,12 @@ $l['plugins_desc'] = "Tato sekce umožňuje aktivovat, deaktivovat a spravovat p
 $l['plugin_updates'] = "Aktualizace pluginů";
 $l['plugin_updates_desc'] = "Tato sekce umožní vyhledat aktualizace pro všechny vaše pluginy.";
 $l['browse_plugins'] = "Prohlížet pluginy";
-$l['browse_plugins_desc'] = "Zde můžete procházet oficiální MyBB pluginy kompatibilní s vaší verzí MyBB.";
+$l['browse_plugins_desc'] = "Zde můžete procházet oficiální MyBB pluginy kompatibilní s Vaší verzí MyBB.";
 $l['browse_all_plugins'] = "Hledat mezi všemi pluginy";
 
 $l['plugin'] = "Plugin";
-$l['active_plugin'] = "Aktivní Pluginy";
-$l['inactive_plugin'] = "Deaktivované Pluginy";
+$l['active_plugin'] = "Aktivní pluginy";
+$l['inactive_plugin'] = "Deaktivované pluginy";
 $l['your_version'] = "Tvá verze";
 $l['latest_version'] = "Aktuální verze";
 $l['download'] = "Stáhnout";
