@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -13,13 +13,13 @@ $l['stats'] = "Statistiky";
 $l['find_attachments'] = "Přílohy";
 $l['find_attachments_desc'] = "Pomocí vyhledávacího systému příloh můžete vyhledávat konkrétní soubory, které uživatelé připojili k vašemu fóru. Začněte zadáním hledaných výrazů níže. Všechna pole jsou volitelná a nebudou zahrnuta do kritérií, pokud neobsahují hodnotu.";
 $l['find_orphans'] = "Najít nepřiřazené přílohy";
-$l['find_orphans_desc'] = "Nepřiřazené přílohy jsou přílohy, které jsou z nějakého důvodu chybějící v databázi nebo v systému souborů. Tento nástroj vám pomůže je najít a odstranit.";
+$l['find_orphans_desc'] = "Nepřiřazené přílohy jsou přílohy, které jsou z nějakého důvodu chybějící v databázi nebo v systému souborů. Tento nástroj Vám je pomůže najít a odstranit.";
 $l['attachment_stats'] = "Statistiky příloh";
 $l['attachment_stats_desc'] = "Níže jsou uvedeny některé obecné statistiky pro přílohy v současné době na vašem fóru.";
 
 // Errors
 $l['error_nothing_selected'] = "Prosím, vyberte jednu nebo více příloh pro smazání.";
-$l['error_no_attachments'] = "Na vašem fórum zatím nejsou žádné přílohy. Jakmile se příloha nahraje, budete mít k této sekci přístup.";
+$l['error_no_attachments'] = "Na Vašem fórum zatím nejsou žádné přílohy. Jakmile se příloha nahraje, budete mít k této sekci přístup.";
 $l['error_not_all_removed'] = "Pouze některé nezařazené přílohy byly úspěšně odstraněny, ostatní nelze odebrat z adresáře odesílání.";
 $l['error_count'] = 'Nešlo odebrat {1} příloh.';
 $l['error_invalid_username'] = "Zadané uživatelské jméno je neplatné.";
@@ -33,10 +33,10 @@ $l['error_does_not_exist'] = "Téma nebo příspěvek pro tuto přílohu již ne
 $l['success_deleted'] = "Zvolené přílohy byly úspěšny vymazány.";
 $l['success_orphan_deleted'] = "Vybrané nepřiřazené přílohy byly úspěšně odstraněny.";
 $l['success_count'] = '{1} příloh bylo úspěšně odebráno.';
-$l['success_no_orphans'] = "Na vašem fóru nejsou žádné nepřiřazené přílohy.";
+$l['success_no_orphans'] = "Na Vašem fóru nejsou žádné nepřiřazené přílohy.";
 
 // Confirm
-$l['confirm_delete'] = "Jsi si doopravdy jistý, že chceš zvolené přílohy nenávratně vymazat?";
+$l['confirm_delete'] = "Jsi si doopravdy jistý, že chcete zvolené přílohy nenávratně vymazat?";
 
 // == Pages
 // = Stats
@@ -54,7 +54,7 @@ $l['date_uploaded'] = "Datum nahrání";
 $l['popular_attachments'] = "Top 5 nejpopulárnějších příloh";
 $l['largest_attachments'] = "Top 5 největších příloh";
 $l['users_diskspace'] = "Top 5 uživatelů využívající nejvíce místa";
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
 $l['total_size'] = "Celková velikost souboru";
 
 // = Orphans
@@ -83,7 +83,11 @@ $l['name_contains'] = "Jméno přílohy obsahuje";
 $l['name_contains_desc'] = "Pro hledání zadejte *.[přípona]. Například: *.zip.";
 $l['type_contains'] = "Typ přílohy obsahuje";
 $l['forum_is'] = "Forum je";
-$l['username_is'] = "Přezdívka uživatele který přílohu nahrál je";
+$l['username_is'] = "Uživatelské jméno uživatele, který přílohu nahrál je";
+$l['poster_is'] = "Odesílatem je";
+$l['poster_is_either'] = "Uživatel nebo návštěvník";
+$l['poster_is_user'] = "Zaregistrovaný uživatel";
+$l['poster_is_guest'] = "Návštěvník";
 $l['more_than'] = "Více než";
 $l['greater_than'] = "Větší než";
 $l['is_exactly'] = "Přesně";
