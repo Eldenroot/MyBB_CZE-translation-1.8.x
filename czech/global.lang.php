@@ -76,7 +76,7 @@ $l['login_username2'] = "Uživatelské jméno/E-mail:";
 $l['login_password'] = "Heslo:";
 $l['lost_password'] = "Zapomněl(a) jste heslo?";
 $l['remember_me'] = "Zapamatovat si mě";
-$l['remember_me_desc'] = "Pokud je zvoleno, budou Vaše přihlašovací údaje uložené v tomto počítači. V opačném případě budete odhlášeni okamžitě po zavření prohlížeče.";
+$l['remember_me_desc'] = "Pokud je zvoleno, budou Vaše přihlašovací údaje uložené v tomto zařízení. V opačném případě budete odhlášeni okamžitě po zavření prohlížeče.";
 
 $l['month_1'] = "Leden";
 $l['month_2'] = "Únor";
@@ -352,7 +352,7 @@ $l['seconds_short'] = "s";
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
 $l['rel_less_than'] = "Před méně než ";
-$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
+$l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "hodina";
@@ -369,10 +369,10 @@ $l['banned_lifted_never'] = "Nikdy";
 $l['banned_email_warning'] = "Používáte e-mail, který na tomto fóru není povolen. Změňte si jej.";
 $l['powered_by'] = "Fórum používá software";
 $l['copyright'] = "Copyright";
-$l['attach_quota'] = "Právě využíváte <strong>{1}</strong> příloh z Vašeho celkového prostoru ({2})";
-$l['attach_usage'] = "You are currently using <strong>{1}</strong>.";
+$l['attach_quota'] = "Vaše přidělaná kvóta pro přílohy je: {1}.";
+$l['attach_usage'] = "V tuto chvíli používáte <strong>{1}</strong>.";
 $l['view_attachments'] = "[zobrazit moje přílohy]";
-$l['unlimited'] = "Neomezené";
+$l['unlimited'] = "∞";
 
 $l['click_hold_edit'] = "(Pro editaci kliknout a držet)";
 
@@ -415,7 +415,7 @@ $l['error_loadlimit'] = "Bylo dosaženo maximální zátěže serveru. Prosím, 
 $l['error_boardclosed'] = "Toto fórum je právě uzavřeno. Důvody naleznete níže.";
 $l['error_banned'] = "Lituji, ale jste zabanován(a). Nemůžete v tomto fóru ani číst, ani psát. Pokud nevíte proč jste ban dostal(a), nebo jej chcete zrušit, kontaktujte administrátora fóra.";
 $l['error_cannot_upload_php_post'] = "Soubor nelze nahrát - je příliš veliký s ohledem na nastavení php (post_max_size). Prosím, klikněte na tlačítko Zpět.";
-$l['error_empty_post_input'] = "There has been an error due to your post data being empty. This could be due to a browser page refresh or direct access to this page. We recommend you press the browser back button and begin again.";
+$l['error_empty_post_input'] = "Bohužel, došlo k chybě. Váš příspěvek může být prázdný. Mohlo to být způsobeno obnovením stránky v prohlížeči, případně přímým přístupem na tuto stránku. Doporučujeme Vám, abyste prohlížeči klikli na tlačítko Zpět a začli znovu.";
 $l['error_database_repair'] = "MyBB automaticky opravuje poškozenou tabulku.";
 
 $l['unknown_user_trigger'] = "Došlo k neočekávané chybě.";
@@ -430,11 +430,11 @@ $l['select_theme'] = "Změna vzhledu fóra";
 $l['invalid_post_code'] = "Autorizační kód nesouhlasí. Používáte tuto funkci správně? Prosím, vraťte se a zkuste to znovu.";
 $l['invalid_captcha'] = "Prosím, vyplňte ověřovací kód z obrázku a zadej ho přesně, jak se ukazuje na obrázku.";
 $l['invalid_nocaptcha'] = "Prosím vyřešte reCAPTCHA pro oveření, že nejste robot.";
-$l['invalid_captcha_verify'] = "Verifikační kód z obrázku, který jste vložil(a) není správný. Prosím, zadej kód přesně, jak je na obrázku.";
+$l['invalid_captcha_verify'] = "Verifikační kód z obrázku, který jste vložil(a) není správný. Prosím, zadejte kód přesně, jak je na obrázku.";
 $l['image_verification'] = "Image Verification";
 $l['human_verification'] = "Human Verification";
 $l['verification_note'] = "Vyplňte, prosím, text, který je v obrázku do textového políčka níže. Tento proces by měl zabránit spam botům.";
-$l['verification_note_nocaptcha'] = "Označte, prosím, políčko, které vidíš níže. Tento proces by měl zabránit spam botům.";
+$l['verification_note_nocaptcha'] = "Označte, prosím, políčko, které vidíte níže. Tento proces by měl zabránit spam botům.";
 $l['verification_subnote'] = "(nerozlišuje velikost písmen)";
 $l['invalid_captcha_transmit'] = "Vyskytla se chyba s verifikačním obrázkem. Zkuste to, prosím, znovu.";
 $l['invalid_nocaptcha_transmit'] = "Vyskytla se chyba s lidskou verifikací. Zkuste to, prosím, znovu.";
