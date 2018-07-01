@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -133,9 +133,9 @@ $l['all_day'] = "Celý den";
 $l['starts'] = "Začíná: ";
 $l['finishes'] = "Končí: ";
 
-$l['error_incorrectday'] = "Zadaný den neexistuje. Vraťte se prosím a zkuste to znovu.";
+$l['error_incorrectday'] = "Zadaný den neexistuje. Vraťte se, prosím, a zkuste to znovu.";
 $l['error_invalidevent'] = "Zadaná událost neexistuje.";
-$l['invalid_calendar'] = "Zadaný kalendář neexistuje. Jste si jisti, že jste jej správně zadali?";
+$l['invalid_calendar'] = "Zadaný kalendář neexistuje. Jste si jistý, že jste jej správně zadali?";
 $l['redirect_eventdeleted'] = "Událost byla úspěšně odstraněna.<br />Nyní budete přesměrován(a) zpět do kalendáře.";
 $l['redirect_eventupdated'] = "Událost byla úspěšně aktualizována.<br />Budete na ni přesměrováni.";
 $l['redirect_eventadded'] = "Vaše událost byla úspěšna přidána.<br />Budete na ni přesměrováni.";

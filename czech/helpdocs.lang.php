@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -17,12 +17,12 @@ $l['d1_document'] = "Kterákoliv část tohoto fóra, nebo celé fórum může v
 // Help Document 2
 $l['d2_name'] = "Aktualizace profilu uživatele";
 $l['d2_desc'] = "Změna aktuálních údajů uživatele.";
-$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, Vaše heslo, nebo Vaše e-mailová adresa. To vše si můžete nastavit a změnit ve svém nastavení uživatele. Dostanete se do něj kliknutím na odkaz, který se nachází nahoře pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, či zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
+$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, Vaše heslo, nebo Vaše e-mailová adresa. To vše si můžete nastavit a změnit ve svém nastavení uživatele. Dostanete se do něj kliknutím na odkaz, který se nachází nahoře pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte,  zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
 
 // Help Document 3
 $l['d3_name'] = "Používání cookies v tomto fóru";
 $l['d3_desc'] = "Toto fórum používá cookies pro ukládání některých informací registrovaných uživatelů.";
-$l['d3_document'] = "Toto fórum využívá cookies pro ukládání informací o přihlášení registrovaných uživatelů či době poslední návštěvy neregistrovaných uživatelů.
+$l['d3_document'] = "Toto fórum využívá cookies pro ukládání informací o přihlášení registrovaných uživatelů nebo době poslední návštěvy neregistrovaných uživatelů.
 <br /><br />Cookies jsou drobné textové dokumenty, které se ukládají do Vašeho počítače. Cookies z našeho fóra mohou být využity opět jenom v tomto fórum a nepředstavují žádné bezpečnostní riziko.
 <br /><br />Toto fórum využívá cookies i pro sledování konkrétních příspěvků, které uživatel četl a kdy je naposledy četl.
 <br /><br />Všechna cookies tohoto fóra můžete snadno odstranit tak, že kliknete <a href=\"misc.php?action=clearcookies&amp;my_post_key={1}\">zde</a>.";
@@ -41,7 +41,7 @@ $l['d5_document'] = "Když procházíte fórum, které Vás zajímá, budete mo�
 // Help Document 6
 $l['d6_name'] = "Psaní příspěvků";
 $l['d6_desc'] = "Jak odpovídat na téma ve fóru.";
-$l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\" které naleznete na začátku i konci tématu. Vezměte prosím na vědomí, že administrátor nemusí všem uživatelům v každém fóru toto umožnit.
+$l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\" které naleznete na začátku i konci tématu. Prosím, vezměte na vědomí, že administrátor nemusí všem uživatelům v každém fóru toto umožnit.
 <br /><br />Navíc moderátor fóra může téma uzavřít. To znamená, že už nikdo nemůže do tohoto tématu přispívat bez speciální pomoci moderátora fóra, nebo administrátora celého fóra.";
 
 // Help Document 7

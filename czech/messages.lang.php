@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -16,7 +16,7 @@ $l['error_invalidpworusername'] = "Zadali jste neplatné uživatelské jméno č
 $l['error_invalidpworusername1'] = "Zadali jste neplatný e-mail či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
 $l['error_invalidpworusername2'] = "Zadali jste neplatnou kombinaci uživatelského jména či hesla nebo e-mailu či hesla. <br /><br />Pokud jste heslo zapomněli, prosím, <a href=\"member.php?action=lostpw\">získejte nové</a>.";
 $l['error_incompletefields'] = "Zdá se, že nejméně jedno z požadovaných polí nebylo vyplněno. Vraťte se prosím a vyplňte všechna požadovaná pole.";
-$l['error_alreadyuploaded'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím přejmenujte jej a nahrajte znovu. Nebo klikněte na \"aktualizovat přílohu\".";
+$l['error_alreadyuploaded'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím, přejmenujte jej a nahrajte znovu. Nebo klikněte na \"aktualizovat přílohu\".";
 $l['error_alreadyuploaded_perm'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím buď jej odstraňte nebo jej přejmenujte a nahrajte znovu.";
 $l['error_nomessage'] = "Nelze bohužel pokračovat, protože tato zpráva není validní. Prosím, vraťte se a opravte ji.";
 $l['error_invalidemail'] = "Uvedená e-mailová adresa není platná.";
@@ -29,7 +29,7 @@ $l['error_invalidannouncement'] = "Zadané oznámení neexistuje.";
 $l['error_invalidattachment'] = "Zadaná příloha neexistuje.";
 $l['error_invalidforum'] = "Neplatné fórum";
 $l['error_closedinvalidforum'] = "Do tohoto fóra nelze přispívat, protože je buď uzavřeno, přesměrováno jinam nebo je to kategorie.";
-$l['error_attachtype'] = "Soubor, který chcete připojit, není povoleným typem souboru. Odstraňte prosím přílohu, nebo si pro ni zvolte jiný typ souboru.";
+$l['error_attachtype'] = "Soubor, který chcete připojit, není povoleným typem souboru. Prosím, odstraňte přílohu, nebo si pro ni zvolte jiný typ souboru.";
 $l['error_attachsize'] = "Soubor, který chcete připojit, je příliš veliký. Maximální povolená velikost je {1} kB.";
 $l['error_uploadempty'] = "Připojený soubor je prázdný.";
 $l['error_uploadsize'] = "Připojený soubor je příliš veliký.";
@@ -98,7 +98,7 @@ $l['emailsubject_newpm'] = "Nová soukromá zpráva na {1} - {2}";
 $l['emailsubject_newjoinrequest'] = "Nová žádost o připojení v {1}";
 $l['emailsubject_sendtofriend'] = "Zajímavý diskuze na {1}";
 $l['emailsubject_changepassword'] = "Změna hesla v {1}";
-$l['emailbit_viewthread'] = "...(pro pokračování ve čtení navštivte téma ve fóru.)";
+$l['emailbit_viewthread'] = "…(pro pokračování ve čtení navštivte téma ve fóru.)";
 
 $l['email_lostpw'] = "{1},
 
@@ -269,7 +269,7 @@ Pokud již nechcete dostávat žádná oznámení o nových tématech tohoto fó
 
 $l['email_activateaccount'] = "{1},
 
-aby mohl být registrační proces do fóra {2} dokončen, navštivte prosím následující URL odkaz:
+aby mohl být registrační proces do fóra {2} dokončen, navštivte, prosím, následující URL odkaz:
 
 {3}/member.php?action=activate&uid={4}&code={5}
 
@@ -286,7 +286,7 @@ Vedení fóra {2}";
 
 $l['email_activateaccount1'] = "{1},
 
-aby mohl být registrační proces do fóra {2} dokončen, navštivte prosím následující odkaz:
+aby mohl být registrační proces do fóra {2} dokončen, navštivte, prosím, následující odkaz:
 
 {3}/member.php?action=activate&uid={4}&code={5}
 
@@ -303,7 +303,7 @@ Vedení fóra {2}";
 
 $l['email_activateaccount2'] = "{1},
 
-aby mohl být registrační proces do fóra {2} dokončen, navštivte prosím následující odkaz:
+aby mohl být registrační proces do fóra {2} dokončen, navštivte, prosím, následující odkaz:
 
 {3}/member.php?action=activate&uid={4}&code={5}
 
