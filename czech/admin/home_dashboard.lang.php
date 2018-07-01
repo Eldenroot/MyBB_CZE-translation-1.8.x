@@ -47,7 +47,7 @@ $l['error_out_of_date'] = "Vaše verze MyBB, kterou používáte je zastaralá. 
 $l['error_communication'] = "Při pokusu o spojení se serverem, který má na starost aktualizace nastal problém. Prosím, zkuste to za chvíli. Snad se to podaří! :)";
 $l['error_fetch_news'] = "Bohužel se nepodařilo nahrát získat novější oznámení ze stránek MyBB.";
 
-$l['news_description'] = "Nejnovější zprávy z <a href=\"https://blog.mybb.com/\" target=\"_blank\" rel=\"noopener\">MyBB Blog (v angličtině)</a>.";
+$l['news_description'] = "Nejnovější zprávy z <a href=\"https://blog.mybb.com/\" target=\"_blank\" rel=\"noopener\">MyBB blogu</a>, který je v angličtině.";
 
 $l['admin_notes_public'] = "Tyto poznámky jsou dostupné pro všechny administrátory";
 $l['admin_notes'] = "Administrátorské poznámky";
