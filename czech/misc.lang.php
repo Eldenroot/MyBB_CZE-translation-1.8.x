@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -15,7 +15,7 @@ $l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Skype Center";
 $l['skype_status'] = "Skype stav";
-$l['chat_on_skype'] = "Hovořit s {1} přes Skype";
+$l['chat_on_skype'] = "Napsat {1} přes Skype";
 $l['call_on_skype'] = "Zavolat {1} přes Skype";
 $l['yahoo_center'] = "Yahoo! Center";
 
@@ -45,7 +45,7 @@ $l['redirect_searchresults'] = "Hledání začalo, budete přesměrováni na vý
 $l['search_results'] = "Výsledky hledání";
 $l['help_doc_results'] = "Výsledky hledání v dokumentech";
 $l['document'] = "Dokument";
-$l['error_nosearchresults'] = "Litujeme, ale dle zadaných parametrů nebylo nic nalezeno. Prosím změňte je a zkuste to znovu.";
+$l['error_nosearchresults'] = "Litujeme, ale dle zadaných parametrů nebylo nic nalezeno. Prosím, změňte je a zkuste to znovu.";
 $l['no_help_results'] = "Litujeme, ale dle zadaných parametrů nebylo nic nalezeno.";
 $l['error_helpsearchdisabled'] = "Možnost hledat v dokumentech nápovědy byla zakázána administrátorem.";
 
@@ -62,7 +62,7 @@ $l['num_posts'] = "# příspěvků";
 
 $l['forum_rules'] = "{1} - pravidla";
 
-$l['error_invalid_limit'] = "Vámi zadaný počet položek není platný. Zadejte prosím správný počet.";
+$l['error_invalid_limit'] = "Vámi zadaný počet položek není platný. Prosím, zadejte správný počet.";
 
 $l['syndication'] = "Odběr nejnovějších témat";
 $l['syndication_generated_url'] = "URL adresa pro Váš RSS odběr:";
