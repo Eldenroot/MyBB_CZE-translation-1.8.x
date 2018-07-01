@@ -1,12 +1,12 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
- 
+
 $l['nav_newthread'] = "Nové téma";
 $l['newthread_in'] = "Nové téma v {1}";
 $l['post_new_thread'] = "Založení nového tématu";
@@ -31,7 +31,7 @@ $l['image_verification'] = "Obrázková verifikace";
 $l['verification_note'] = "Do textového pole dole zadejte text z obrázku vlevo. Toto opatření má zabránit robotům psát příspěvky.";
 $l['verification_subnote'] = "(necitlivé na velikost)";
 $l['invalid_captcha'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
-$l['error_post_already_submitted'] = "Toto téma jste již do tohoto fóra odeslali. Jděte do fóra a uvidíte svůj příspěvek.";
+$l['error_post_already_submitted'] = "Toto téma jste již do tohoto fóra odeslali. Přejděte do fóra a uvidíte Váš příspěvek.";
 $l['no_prefix'] = "Bez prefixu";
 $l['forum_rules'] = "{1} - Pravidla";
 
@@ -44,11 +44,11 @@ $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newthread'] = "Váše téma bylo založeno.";
 $l['redirect_newthread_poll'] = "<br />Nyní budete přesměrováni na stránku nastavení hlasování.";
-$l['redirect_newthread_moderation'] = "<br />Administrátor určil, že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrováni do seznamu témat.";
+$l['redirect_newthread_moderation'] = "<br />Administrátor(ka) určil(a), že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
-$l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte práva k jeho prohlížení.";
+$l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte oprávnění k jeho prohlížení.";
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno či IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujet administrátora.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
 
 $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěvky {1}.<br /><br />
@@ -56,4 +56,3 @@ $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěv
 Datum zákazu: {2}";
 $l['error_suspendedposting_temporal'] = "do {1}";
 $l['error_suspendedposting_permanent'] = "navždy";
-

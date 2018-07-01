@@ -60,7 +60,7 @@ $l['admin_log_config_banning_delete_username'] = "Smazal nepovolenou přezdívku
 $l['admin_log_config_banning_delete_email'] = "Smazal nepovolenou přezdívku #{1} ({2})";
 
 $l['admin_log_config_calendars_add'] = "Přidal kalendář #{1} ({2})";
-$l['admin_log_config_calendars_permissions'] = "Upravil práva pro kalendář #{1} ({2})";
+$l['admin_log_config_calendars_permissions'] = "Upravil oprávnění pro kalendář #{1} ({2})";
 $l['admin_log_config_calendars_edit'] = "Upravil kalendář #{1} ({2})";
 $l['admin_log_config_calendars_delete'] = "Smazal kalendář #{1} ({2})";
 $l['admin_log_config_calendars_update_order'] = "Aktualizovat zobrazení věcí v kalendáří";
@@ -260,13 +260,13 @@ $l['admin_log_tools_tasks_run'] = "Spustil naplánovanou úlohu #{1} ({2})";
 $l['admin_log_user_awaiting_activation_activate_activated'] = "Aktivoval uživatele s ID {2} čekajícího na potvrzení";
 $l['admin_log_user_awaiting_activation_activate_Smazal'] = "Smazal {2} uživatele, který čekal na potvrzení";
 
-$l['admin_log_user_admin_permissions_delete_user'] = "Smazal práva administrátora uživateli #{1} ({2})";
-$l['admin_log_user_admin_permissions_delete_group'] = "Smazal skupinová práva pro uživatelskou skupinu  #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit_user'] = "Upravil práva administrátora pro uživatele #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit_group'] = "Upravil skupinová práva pro uživatelskou skupinu #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_user'] = "Smazal oprávnění administrátora uživateli #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_group'] = "Smazal skupinová oprávnění pro uživatelskou skupinu  #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit_user'] = "Upravil oprávnění administrátora pro uživatele #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit_group'] = "Upravil skupinová oprávnění pro uživatelskou skupinu #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit'] = "Upravil default administrator permissions";
 
-$l['admin_log_user_banning_lift'] = "Dal milost uživateli #{1} ({2})";
+$l['admin_log_user_banning_lift'] = "Udělil milost uživateli #{1} ({2})";
 $l['admin_log_user_banning_edit'] = "Upravil ban for user #{1} ({2})";
 $l['admin_log_user_banning_prune'] = "Pruned posts and threads for user #{1} ({2})";
 $l['admin_log_user_banning_add_permanent'] = "Zabanonoval uživatele  #{1} ({2}) doživotně";

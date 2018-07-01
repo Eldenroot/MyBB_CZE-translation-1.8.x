@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -41,11 +41,11 @@ $l['multiquote_external_one_quote'] = "Citovat i tento příspěvek";
 $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newreply'] = "Váš příspěvek byl úspěšně odeslán.";
-$l['redirect_newreply_moderation'] = "Administrátor určil, že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrováni do seznamu témat.";
+$l['redirect_newreply_moderation'] = "Administrátor(ka) určil(a), že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
 $l['redirect_newreply_post'] = "<br />Nyní budete přesměrováni na Váš příspěvek.";
-$l['redirect_newreplyerror'] = "Váš příspěvek byl odmítnut, protože má nedostatečný obsah. <br />Nyní budete přesměrováni do tématu.";
+$l['redirect_newreplyerror'] = "Váš příspěvek byl odmítnut, protože má nedostatečný obsah. <br />Nyní budete přesměrován(a) do tématu.";
 $l['redirect_threadclosed'] = "Do tohoto tématu již nelze přispívat, protože bylo moderátorem uzavřeno.";
-$l['error_post_noperms'] = "Nemáte práva k úpravě tohoto konceptu.";
+$l['error_post_noperms'] = "Nemáte dostatečná oprávnění k úpravě tohoto konceptu.";
 
 
 $l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo Vaše IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
@@ -56,4 +56,3 @@ $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěv
 Datum zákazu: {2}";
 $l['error_suspendedposting_temporal'] = "do {1}";
 $l['error_suspendedposting_permanent'] = "navždy";
-

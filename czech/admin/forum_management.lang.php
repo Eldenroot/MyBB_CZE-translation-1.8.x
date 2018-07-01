@@ -13,7 +13,7 @@ $l['add_forum'] = "Přidat nové fórum";
 $l['add_forum_desc'] = "Zde můžete na nástěnku přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro toto fórum.";
 $l['copy_forum'] = "Kopírovat fórum";
 $l['copy_forum_desc'] = "Zde můžete zkopírovat nastavení fóra nebo oprávnění z existujícího fóra do jiného nebo do nového fóra.";
-$l['forum_permissions'] = "Práva";
+$l['forum_permissions'] = "Oprávnění";
 $l['forum_permissions_desc'] = "Zde můžete upravit úplná oprávnění pro jednotlivé skupiny pro jedno fórum";
 $l['view_forum'] = "Prohlédnout fórum";
 $l['view_forum_desc'] = "Zde si můžete prohlédnout podfóra, rychle upravit oprávnění a přidat moderátory do svého fóra.";
@@ -22,9 +22,9 @@ $l['edit_forum_settings'] = "Upravit nastavení fóra";
 $l['edit_forum_settings_desc'] = "Zde můžete upravit existující nastavení a práva fóra";
 $l['edit_forum'] = "Upravit fórum";
 $l['edit_mod'] = "Upravit moderátora";
-$l['edit_mod_desc'] = "Zde můžete nastavit jednotlivá práva moderátorům.";
+$l['edit_mod_desc'] = "Zde můžete nastavit jednotlivá oprávnění moderátorům.";
 $l['forum_moderators'] = "Moderátoři fóra";
-$l['forum_permissions2'] = "Práva fóra";
+$l['forum_permissions2'] = "Oprávnění fóra";
 $l['more_subforums'] = "a {1} více.";
 
 $l['manage_forums'] = "Spravovat fórum";
@@ -33,22 +33,22 @@ $l['order'] = "Pořadí";
 
 $l['subforums'] = "Subfóra";
 $l['moderators'] = "Moderátoři";
-$l['permissions'] = "Práva";
+$l['permissions'] = "Oprávnění";
 $l['delete_forum'] = "Smazat fórum";
 
 $l['sub_forums'] = "Subfóra";
 $l['update_forum_orders'] = "Uložit pořadí fór";
-$l['update_forum_permissions'] = "Uložit práva fóra";
+$l['update_forum_permissions'] = "Uložit oprávnění fóra";
 $l['reset'] = "Reset";
 $l['in_forums'] = "Fóra v \"{1}\"";
-$l['forum_permissions_in'] = "Práva fóra v \"{1}\"";
+$l['forum_permissions_in'] = "Opravnění fóra v \"{1}\"";
 $l['moderators_assigned_to'] = "Moderatori přiřazeni k \"{1}\"";
-$l['edit_permissions'] = "Upravit práva";
-$l['set_permissions'] = "Nastavit práva";
-$l['using_custom_perms'] = "Použít vlastní práva";
-$l['using_default_perms'] = "Použít vychozí práva";
-$l['clear_custom_perms'] = "Smazat vlastní práva";
-$l['set_custom_perms'] = "Nastavit vlastní práva";
+$l['edit_permissions'] = "Upravit oprávnění";
+$l['set_permissions'] = "Nastavit oprávnění";
+$l['using_custom_perms'] = "Použít vlastní oprávnění";
+$l['using_default_perms'] = "Použít vychozí oprávnění";
+$l['clear_custom_perms'] = "Smazat vlastní oprávnění";
+$l['set_custom_perms'] = "Nastavit vlastní oprávnění";
 
 $l['permissions_use_group_default'] = "Použít výchozí skupinu";
 $l['permissions_group'] = "Skupina";
@@ -66,7 +66,7 @@ $l['perm_drag_canpostthreads'] = "&#149; příspěvků v tématu";
 $l['perm_drag_canpostreplys'] = "&#149; odpovědí";
 $l['perm_drag_canpostpolls'] = "&#149; anket v příspěvku";
 
-$l['moderator_permissions'] = "Práva moderátorů";
+$l['moderator_permissions'] = "Oprávnění moderátorů";
 $l['forum_desc'] = "Moderátor spravuje fórum.";
 $l['edit_mod_for'] = "Změnit moderátorské možnosti pro \"{1}\"";
 $l['can_edit_posts'] = "Může editovat příspěvky?";
@@ -92,7 +92,7 @@ $l['can_use_custom_tools'] = "Může využívat vlastní moderátorské nástroj
 $l['can_manage_announcements'] = "Může spravovat oznámení na tomto fórum?";
 $l['can_manage_reported_posts'] = "Může spravovat nahlášené příspěvky?";
 $l['can_view_mod_log'] = "Může vidět seznam přihlášení moderátorů?";
-$l['moderator_cp_permissions'] = "Spravovat práva modera panelu";
+$l['moderator_cp_permissions'] = "Spravovat oprávnění moderátorského panelu";
 $l['moderator_cp_permissions_desc'] = "Uživatel musí mít přístup ke kontrolnímu panelu a mít uživatelské oprávnění, aby se přístup k funkcím projevil.";
 
 $l['save_mod'] = "Uložit moderátora";
@@ -101,8 +101,8 @@ $l['no_forums'] = "Nebylo nalezeno žádné fórum.";
 $l['no_moderators'] = "Nebyl nalezen žádný moderátor.";
 
 $l['success_forum_disporder_updated'] = "Pořadí zobrazení fóra bylo úspěšně aktualizováno.";
-$l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. Bylo by vhodné, abyste spustil nástroj <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; znovu vytvořit</a>.";
-$l['success_moderator_deleted'] = "Vybraný moderátor byl úspěšně smazán.<br>Pamatujte prosím, že to nezměnilo oprávnění tohoto uživatele, může tak stále mít pravomoci pro moderování.";
+$l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. Bylo by vhodné, abyste spustil(a) nástroj <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; znovu vytvořit</a>.";
+$l['success_moderator_deleted'] = "Vybraný moderátor byl úspěšně smazán.<br>Prosím, pamatujte že to nezměnilo oprávnění tohoto uživatele a může tak stále mít pravomoci pro moderování.";
 $l['success_forum_permissions_updated'] = "Oprávnění fóra byla úspěšně aktualizována.";
 $l['success_forum_updated'] = "Nastavení fóra bylo úspěšně aktualizováno.";
 $l['success_moderator_updated'] = "Vybraný moderátor byl úspěšně aktualizován.";
@@ -116,8 +116,8 @@ $l['error_forum_parent_itself'] = "Fórum nemůže být samostatně nadřazené.
 $l['error_incorrect_moderator'] = "Prosím vyberte platného moderátora.";
 
 $l['confirm_moderator_deletion'] = "Jste si naprosto jistý, že chcete odstranit moderátora z tohoto fóra?";
-$l['confirm_forum_deletion'] = "Jste si, že chceš odstranit tohle fórum?";
-$l['confirm_clear_custom_permission'] = "Jste si jistý, že chcete smazat vlastní práva?";
+$l['confirm_forum_deletion'] = "Jste si jistý, že chcete odstranit tohle fórum?";
+$l['confirm_clear_custom_permission'] = "Jste si jistý, že chcete smazat vlastní oprávnění?";
 
 $l['forum_type'] = "Typ fóra";
 $l['forum_type_desc'] = "Vyberte typ fóra, které vytváříte - fórum, ve kterém můžete psát, nebo kategorii, která obsahuje jiná fóra.";
@@ -140,19 +140,19 @@ $l['forum_password_desc'] = "Chcete-li toto fórum chránit i nadále, můžete 
 $l['access_options'] = "Nastavení přístupu";
 $l['forum_is_active'] = "Je fórum aktivní?";
 $l['forum_is_active_desc'] = "Poud není nic vybráno, nebude se fórum zobrazovat.";
-$l['forum_is_open'] = "Je fórum spuštěné?";
+$l['forum_is_open'] = "Je fórum přístupné?";
 $l['forum_is_open_desc'] = "Pokud tato možnost není zvolena, uživatelé nebudou moci příspěvek odeslat, a to bez ohledu na oprávnění.";
 
 $l['copy_to_new_forum'] = "Kopírovat do nového fóra";
 $l['source_forum'] = "Zdrojové fórum";
 $l['source_forum_desc'] = "Kopírovat nastavení a práva do fóra z";
 $l['destination_forum'] = "Výsledné fórum";
-$l['destination_forum_desc'] = "Fórum zkopíruje nastavení či práva.";
+$l['destination_forum_desc'] = "Fórum zkopíruje nastavení nebo práva.";
 $l['new_forum_settings'] = "Nastavení nového fóra";
 $l['copy_settings_and_properties'] = "Zkopírovat nastavení a popis fóra";
 $l['copy_settings_and_properties_desc'] = "Aplikovat pouze jestli nové fórum existuje.";
-$l['copy_user_group_permissions'] = "Kopírovat práva skupin uživatelů";
-$l['copy_user_group_permissions_desc'] = "Stiskněte CTRL abyste mohli vybrat více skupin.";
+$l['copy_user_group_permissions'] = "Kopírovat oprávnění skupin uživatelů";
+$l['copy_user_group_permissions_desc'] = "Stiskněte CTRL, abyste mohli vybrat více skupin.";
 
 $l['override_user_style'] = "Ano, přepsat uživateli jeho vybraný styl ve fóru";
 $l['style_options'] = "Nastavení stylů";
@@ -216,7 +216,7 @@ $l['use_postcounts'] = "Ano, fórum může počítat příspěvky jednotivých u
 $l['use_threadcounts'] = "Ano, fórum může počítat témata jednotlivých uživatelů";
 $l['require_thread_prefix'] = "Ano, požaduji předponu všech témat";
 
-$l['use_permissions'] = "Použít práva";
+$l['use_permissions'] = "Použít oprávnění";
 $l['use_permissions_desc'] = "Vyberte oprávnění, která chcete použít pro tuto skupinu uživatelů- zkopírovaná oprávnění (odstraní vlastní oprávnění) nebo vlastní oprávnění.";
 $l['inherit_permissions'] = "Použít oprávnění skupiny uživatelů nebo kopírovat oprávnění z nadřazených fór";
 $l['custom_permissions'] = "Použít vlastní oprávnění";
