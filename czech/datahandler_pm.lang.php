@@ -17,7 +17,7 @@ $l['pmdata_no_recipients'] = "Chybí uvedení příjemce zprávy. Musíte zadat 
 $l['pmdata_too_many_recipients'] = "Nemáte povolení naráz poslat zprávu {1} uživatelům.";
 $l['pmdata_recipient_is_ignoring'] = "Uživatel, kterému se pokoušíte zaslat soukromou zprávu, Vás má umístěného v seznamu ignorovaných uživatelů. Vaše zpráva mu tedy nemůže být odeslána.";
 $l['pmdata_recipient_has_buddy_only'] = "Nemůžete poslat zprávu příjemci {1}, protože Vás nemá ve svém seznamu přátel.";
-$l['pmdata_recipient_pms_disabled'] = 'Uživatel {1}, kterému se pokoušíte zaslat soukromou zprávu, si tuto možnost vypnul/a. Vaše zpráva mu tedy nemůže být odeslána.';
+$l['pmdata_recipient_pms_disabled'] = 'Uživatel {1}, kterému se pokoušíte zaslat soukromou zprávu, si tuto možnost vypnul(a). Vaše zpráva mu tedy nemůže být odeslána.';
 $l['pmdata_recipient_reached_quota'] = 'Uživatel {1}, kterému se pokoušíte zaslat soukromou zprávu, má plnou schránku pro jejich příjem. Vaše zpráva mu tedy nemůže být doručena.';
 
 $l['pmdata_pm_flooding'] = 'Pokoušíte se odeslat zprávu příliš brzy po předchozí. Prosím, počkejte ještě další {1} sekund.';
