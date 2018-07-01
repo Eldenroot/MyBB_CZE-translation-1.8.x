@@ -77,19 +77,19 @@ $l['ban_length'] = "Doba trvání banu";
 $l['ban_remaining'] = "Doba, kdy vyprší ban";
 
 $l['users_additional_info'] = "Další informace o uživateli: {1}";
-$l['email'] = "e-mail:";
+$l['email'] = "E-mail:";
 $l['send_user_email'] = "Poslat e-mail uživateli: {1}";
 $l['users_signature'] = "Podpis uživatele: {1}";
 $l['agreement'] = "souhlas s registrací";
-$l['agreement_1'] = "Ačkoliv se snažíme odstraňovat nebo opravovat všechny příspěvky, které obsahují nevhodný, sexuálně orientovaný, urážlivý, škodlivý, výhružný, vyděračský obsah, který může být považován za útočný, nebo narušující soukromí osoby, nebo porušuje kteroukoliv právní normu, není to možné ani dělat průběžně, ani vyčerpávajícím způsobem. Z uvedeného důvodu musíte akceptovat, že všechny příspěvky uvedené v tomto fóru vyjadřují názory, postoje a zkušenosti jejich původních autorů a nikoliv nutně provozovatelů tohoto fóra. Provozovatelé tohoto fóra nepřebírají žádnou zodpovědnost za žádný z příspěvků. Neručíme ani za přesnost, správnost a úplnost kteréhokoliv z příspěvků, ani toto negarantujeme.";
+$l['agreement_1'] = "Ačkoliv se snažíme upravovat nebo odstraňovat všechny příspěvky, které obsahují nevhodný, sexuálně orientovaný, urážlivý, škodlivý, výhružný, vyděračský obsah, který může být považován za útočný, nebo narušující soukromí osoby, nebo porušuje kteroukoliv právní normu, není to možné ani dělat průběžně, ani vyčerpávajícím způsobem. Z uvedeného důvodu musíte akceptovat, že všechny příspěvky uvedené v tomto fóru vyjadřují názory, postoje a zkušenosti jejich původních autorů a nikoliv nutně provozovatelů tohoto fóra. Provozovatelé tohoto fóra nepřebírají žádnou zodpovědnost za žádný z příspěvků. Neručíme ani za přesnost, správnost a úplnost kteréhokoliv z příspěvků, ani toto negarantujeme.";
 $l['agreement_2'] = "Tím, že se zaregistrujete do tohoto diskusního systému vyslovujte souhlas s tím, že nebudete šířit vědomě nepravdivé, zavádějící, urážlivé, výhružné, sexuálně zaměřené, vydírající nebo soukromí narušující příspěvky, nebo materiál, který odporuje kterékoliv právní normě.";
-$l['agreement_3'] = "Porušení kteréhokoliv z uvedených pravidel může vést k omezení, nebo dokonce k ukončení vašeho členství ve fóru. Ke každému publikovanému příspěvku si zaznamenáváme IP adresu uživatele, který příspěvek napsal. Tímto vyjadřujete svůj souhlas, že mámo právo odstranit, opravit, nebo uzamknout kterýkoliv účet nebo zprávu, a to kdykoliv to budeme považovat za vhodné. Tímto také vyjadřujete souhlas s tím, že veškeré informace, které zde zadáváte, jsou ukládány do databázového systému. Konečně souhlasíte s tím, že do vašeho počítače jsou ukládány \"cookies\", které obsahují vaše přihlašovací údaje.";
+$l['agreement_3'] = "Porušení kteréhokoliv z uvedených pravidel může vést k omezení, nebo dokonce k ukončení vašeho členství ve fóru. Ke každému publikovanému příspěvku si zaznamenáváme IP adresu uživatele, který příspěvek napsal. Tímto vyjadřujete svůj souhlas, že mámo právo upravit, odstranit, nebo uzamknout kterýkoliv účet nebo zprávu, a to kdykoliv to budeme považovat za vhodné. Tímto také vyjadřujete souhlas s tím, že veškeré informace, které zde zadáváte, jsou ukládány do databázového systému. Konečně souhlasíte s tím, že do vašeho zařízení jsou ukládány \"cookies\", které obsahují vaše přihlašovací údaje.";
 $l['agreement_4'] = "Žádná informace, kterou poskytnete do tohoto fóra, nebude vyzrazena žádné třetí straně bez Vašeho osobního písemného souhlasu. Je však třeba poznamenat, že provozovatelé nemohou být zodpovědní za úmyslné narušení nebo odcizení dat, například prostřednictvím počítačové kriminality (hacking).";
 $l['agreement_5'] = "Pokračováním v registračním procesu vyslovujete svůj souhlas s výše uvedenými pravidly a zásadami.";
 $l['registration'] = "Registrace";
 $l['required_fields'] = "Požadovaná pole";
 $l['complex_password'] = "<abbr title=\"Heslo, které je nejméně {1} znaků dlouhé a obsahuje velké písmeno, malé písmeno a číslici.\">Složité</abbr> heslo:";
-$l['confirm_email'] = "Potvrdit e-mail:";
+$l['confirm_email'] = "Potvrzení e-mailu:";
 $l['optional_fields'] = "Volitelná pole";
 $l['website_url'] = "URL adresa webu:";
 $l['birthdate'] = "Datum narození:";
@@ -145,8 +145,8 @@ $l['lang_select'] = "Změna jazyka fóra:";
 $l['lang_select_desc'] = "Pokud žijete v zemi, kde se mluví jiným jazykem, než je výchozí jazyk fóra, můžete si níže vybrat jiný jazykový balíček.";
 $l['lang_select_default'] = "Použít přednastavený jazyk";
 
-$l['submit_registration'] = "Odeslat registraci!";
-$l['confirm_password'] = "Ověřit heslo:";
+$l['submit_registration'] = "Odeslat registraci";
+$l['confirm_password'] = "Potvrzení heslo:";
 $l['referrer'] = "Doporučující uživatel:";
 $l['referrer_desc'] = "Pokud Vás do tohoto fóra doporučil jiný uživatel fóra, můžete do políčka vložit jeho jméno. Pokud ne, nechte pole prázdné.";
 $l['search_user'] = "Hledat uživatele";
@@ -236,8 +236,8 @@ $l['js_validator_checking_referrer'] = "Zjišťuji, zda doporučující uživate
 $l['js_validator_captcha_valid'] = "Zjišťuji, zda zadaný verifikační kód z obrázku souhlasí.";
 
 $l['security_question'] = "Bezpečnostní otázka";
-$l['question_note'] = "Prosím odpovězte na uvedenou otázku. Toto zabraňuje registraci robotů.";
-$l['error_question_wrong'] = "Vaše odpověď na bezpečnostní otázku není správná. Prosím zkuste to znovu.";
+$l['question_note'] = "Prosím, odpovězte na uvedenou otázku. Toto zabraňuje registraci robotů.";
+$l['error_question_wrong'] = "Vaše odpověď na bezpečnostní otázku není správná. Prosím, zkuste to znovu.";
 
 $l['subscription_method'] = "Předvolený způsob odběru témat:";
 $l['no_auto_subscribe'] = "Neodebírat";
