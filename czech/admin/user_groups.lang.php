@@ -202,7 +202,7 @@ $l['error_invalid_username'] = "Vloženeé uživatelské jméno je neplatné.";
 $l['error_already_leader'] = "Uživatel již je vůdcem této skupiny.";
 $l['error_invalid_group_leader'] = "Vybral jste neplatného vůdce skupiny.";
 $l['error_missing_namestyle_username'] = "Uživatelské jméno musí obsahovat {username}";
-$l['error_disallowed_namestyle_username'] = "Nemůžete pro uživatelské jméno použít skypty, meta či základní tagy.";
+$l['error_disallowed_namestyle_username'] = "Nemůžete pro uživatelské jméno použít skypty, meta nebo základní tagy.";
 $l['error_default_group_delete'] = "Výchozí skupina nemůže být smazána.";
 $l['error_cannot_have_both_types'] = "Nemůžete mít skupinu, ke které lze zažádat o vstup, pokud se jedná zároveň o skupinu moderátorskou a zároveň o skupinu pouze pro zvané. Vyberte jen jednu.";
 

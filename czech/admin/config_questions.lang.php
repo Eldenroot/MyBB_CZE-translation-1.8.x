@@ -26,7 +26,7 @@ $l['no_security_questions'] = "V tuto chvíli, zde nejsou žádné registrační
 $l['question'] = "Otázka";
 $l['question_desc'] = "Zadejte otázku na kterou chcete znát odpověď při registraci.";
 $l['answers'] = "Odpověd/i";
-$l['answers_desc'] = "Zadejte odpověď/i k výše uvedené otázce. Zadejte, prosím, každou odpověď na samostatný řádek.";
+$l['answers_desc'] = "Zadejte odpovědi k výše uvedené otázce. Zadejte, prosím, každou odpověď na samostatný řádek.";
 $l['active'] = "Povolit otázku";
 $l['save_question'] = "Uložit otázku";
 
