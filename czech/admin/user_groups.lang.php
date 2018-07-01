@@ -196,9 +196,9 @@ $l['no_join_requests'] = "Pro tuto skupinu uživatelů neexistují žádné nevy
 $l['no_assigned_leaders'] = "Dosud jste nepřiřadil žádného vůdce této skupiny. Chcete-li vytvořit vůdce pro tuto skupinu, vyplňte formulář níže.";
 
 $l['error_missing_title'] = "Nezadali jste název této nové skupiny.";
-$l['error_invalid_user_group'] = "Vybrali jste neplatnou skupinu uživatelů.";
-$l['error_invalid_join_request'] = "Vybrali jste neplatnou žádost o připojení se ke skupině.";
-$l['error_invalid_username'] = "Vloženeé uživatelské jméno je neplatné.";
+$l['error_invalid_user_group'] = "Vybral(a) jste neplatnou skupinu uživatelů.";
+$l['error_invalid_join_request'] = "Vybral(a) jste neplatnou žádost o připojení se ke skupině.";
+$l['error_invalid_username'] = "Vložené uživatelské jméno je neplatné.";
 $l['error_already_leader'] = "Uživatel již je vůdcem této skupiny.";
 $l['error_invalid_group_leader'] = "Vybral jste neplatného vůdce skupiny.";
 $l['error_missing_namestyle_username'] = "Uživatelské jméno musí obsahovat {username}";
