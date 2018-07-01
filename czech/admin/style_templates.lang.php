@@ -131,7 +131,7 @@ $l['template_set_desc'] = "Která šablona má být v tomto setu?";
 $l['template_group_prefix'] = "Předpona skupin šablon";
 $l['template_group_prefix_desc'] = "Název předpony k seskupení šablon. Tento název již nesmí existovat. Chcete-li například seskupit šablony <em>hello_world</em>, <em>hello_foobar</em> a <em>hello_foo</em>, zadejte <strong>hello</strong>zde.";
 $l['template_group_title'] = "Název skupiny šablon";
-$l['template_group_title_desc'] = "Název skupiny předpon. Zobrazí se v seznamu šablon. Například pro naše šablony <em>Hello</em>  zadejte <strong>Hello</strong>zde.";
+$l['template_group_title_desc'] = "Název skupiny předpon. Zobrazí se v seznamu šablon. Například pro naše šablony <em>Hello</em> zadejte <strong>Hello</strong>zde.";
 
 $l['edit_template_group'] = "Upravit skupinu šablon";
 $l['editing_template_group'] = "Upravování skupiny šablon {1}";
@@ -163,7 +163,7 @@ $l['error_invalid_template'] = "Vyberte, prosím, platnou šablonu.";
 $l['error_missing_set_title'] = "Vyberte, prosím, název setu šablon.";
 $l['error_invalid_input'] = "Zkontrolujte, zda máte správné ID sady šablon.";
 $l['error_invalid_set'] = "Prosím, vyberte správný set šablon.";
-$l['error_invalid_template_set'] = "Vybrali jste nesprávný set šablon.";
+$l['error_invalid_template_set'] = "Vybral(a) jste nesprávný set šablon.";
 $l['error_themes_attached_template_set'] = "Tuto sadu šablon nelze odstranit, protože existují motivy připojené k této sadě šablon.";
 $l['error_missing_group_prefix'] = "Prosím zadejte předponu pro tuto sadu šablon.";
 $l['error_invalid_group_title'] = "Podtržítka (_) jsou používány jako oddělovače, které jsou zakázány v předponách skupiny šablony. Vyberte jinou předponu.";

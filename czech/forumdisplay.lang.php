@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -69,7 +69,7 @@ $l['approve_threads'] = "Schválit téma";
 $l['unapprove_threads'] = "Zamítnout téma";
 $l['inline_go'] = "OK";
 $l['clear'] = "Vyčistit";
-$l['sub_forums_in']  = "Fóra v '{1}'";
+$l['sub_forums_in'] = "Fóra v '{1}'";
 $l['forum_rules'] = "{1} - pravidla";
 $l['subforums'] = "<strong>Vnořená fóra:</strong>";
 $l['asc'] = "vzestupně";
@@ -99,4 +99,3 @@ $l['clear_selection'] = "Zrušit výběr.";
 $l['error_containsnoforums'] = "Fórum, které si právě prohlížíte, neobsahuje žádná vnořená fóra.";
 
 $l['inline_edit_description'] = '(Pro editaci kliknout a držet)';
-

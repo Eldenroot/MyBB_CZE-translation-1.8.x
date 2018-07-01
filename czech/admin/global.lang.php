@@ -54,7 +54,7 @@ $l['error_invalid_admin_session'] = "Neplatné administratorské sezení.";
 $l['error_admin_session_expired'] = "Vypršela platnost tvého administrátorského přihlášení.";
 $l['error_invalid_ip'] = "Vaše IP adresa není platná pro sezení.";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
-$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje.  <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi jak odblokovat účet.";
+$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje. <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi jak odblokovat účet.";
 
 $l['error_invalid_username'] = "Uživatelské jméno, které jste zadal, je neplatné.";
 $l['error_invalid_uid'] = "Uživatelské ID, které jste zadal, je neplatné.";

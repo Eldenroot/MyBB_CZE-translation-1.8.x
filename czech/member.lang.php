@@ -63,7 +63,7 @@ $l['icq_number'] = "ICQ číslo:";
 $l['yahoo_id'] = "Yahoo ID:";
 $l['skype_id'] = "Skype ID:";
 $l['google_id'] = "Google Hangouts ID:";
-$l['avatar']  = "Avatar:";
+$l['avatar'] = "Avatar:";
 $l['warning_level'] = "Úroveň varování:";
 $l['warn'] = "Varování";
 $l['away_note'] = "{1} je právě pryč.";
@@ -218,7 +218,7 @@ $l['error_notloggedout'] = "Nelze Vás odhlásit. Stává se to, pokud Vás chce
 $l['error_regimageinvalid'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
 $l['error_regimagerequired'] = "Pro pokračování v přihlašování je nutné opsat verifikační kód z obrázku přesně tak, jak je zobrazen.";
 $l['error_spam_deny'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci. Pokud je to omyl, kontaktujte administrátora.";
-$l['error_spam_deny_time'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci.  Registrace musí trvat minimálně {1} sekund, aby se zabránilo registracím robotem. Vy jste se registroval(a) za {2} sekundy. Pokud je to omyl, kontaktujte administrátora.";
+$l['error_spam_deny_time'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci. Registrace musí trvat minimálně {1} sekund, aby se zabránilo registracím robotem. Vy jste se zaregistroval(a) za {2} sekundy. Pokud je to omyl, kontaktujte administrátora.";
 
 $l['js_validator_no_username'] = "Musíte vložit uživatelské jméno";
 $l['js_validator_invalid_email'] = "Musíte vložit platnou e-mailovou adresu";

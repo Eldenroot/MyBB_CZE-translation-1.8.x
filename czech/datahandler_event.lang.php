@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -25,7 +25,7 @@ $l['eventdata_end_time_invalid'] = "Čas konce události není platný. Příkla
 $l['eventdata_invalid_timezone'] = "Časová zóna, kterou jste si pro tuto událost vybrali, není platná.";
 $l['eventdata_end_in_past'] = "Konec události nastává dříve, než její začátek. To je možné v teoretické fyzice, nikoliv v tomto fóru. Prosím, opravte to.";
 
-$l['eventdata_only_ranged_events_repeat'] = "Lze opakovat pouze časově vymezené  události(události, pro které je definováno datum začátku a datum ukončení).";
+$l['eventdata_only_ranged_events_repeat'] = "Lze opakovat pouze časově vymezené události(události, pro které je definováno datum začátku a datum ukončení).";
 $l['eventdata_invalid_repeat_day_interval'] = "Interval opakování ve dnech byl zvolen chybně.";
 $l['eventdata_invalid_repeat_week_interval'] = "Interval opakování v týdnech byl zvolen chybně.";
 $l['eventdata_invalid_repeat_weekly_days'] = "Tato událost postrádá zadání dne v týdnu, ve kterém má nastat.";
