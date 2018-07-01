@@ -23,14 +23,14 @@ $l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytn
 $l['d3_name'] = "Používání cookies v tomto fóru";
 $l['d3_desc'] = "Toto fórum používá cookies pro ukládání některých informací registrovaných uživatelů.";
 $l['d3_document'] = "Toto fórum využívá cookies pro ukládání informací o přihlášení registrovaných uživatelů nebo době poslední návštěvy neregistrovaných uživatelů.
-<br /><br />Cookies jsou drobné textové dokumenty, které se ukládají do Vašeho počítače. Cookies z našeho fóra mohou být využity opět jenom v tomto fórum a nepředstavují žádné bezpečnostní riziko.
+<br /><br />Cookies jsou drobné textové dokumenty, které se ukládají do Vašeho zařízení. Cookies z našeho fóra mohou být využity opět jenom v tomto fórum a nepředstavují žádné bezpečnostní riziko.
 <br /><br />Toto fórum využívá cookies i pro sledování konkrétních příspěvků, které uživatel četl a kdy je naposledy četl.
 <br /><br />Všechna cookies tohoto fóra můžete snadno odstranit tak, že kliknete <a href=\"misc.php?action=clearcookies&amp;my_post_key={1}\">zde</a>.";
 
 // Help Document 4
 $l['d4_name'] = "Přihlašování a odhlašování";
 $l['d4_desc'] = "Jak se přihlásit a odhlásit.";
-$l['d4_document'] = "Když se přihlásíte, nastavujete si zároveň na svém počítači cookies, takže můžete číst jednotlivé sekce fóra bez neustálého zadávání svého uživatelského jména a hesla. Po odhlášení jsou cookies smazána, takže se nikdo nemůže v tomto fóru vydávat za Vás.
+$l['d4_document'] = "Když se přihlásíte, nastavujete si zároveň na svém zařízení cookies, takže můžete číst jednotlivé sekce fóra bez neustálého zadávání svého uživatelského jména a hesla. Po odhlášení jsou cookies smazána, takže se nikdo nemůže v tomto fóru vydávat za Vás.
 <br /><br />Pro přihlášení klikněte na odkaz \"Přihlásit se\", který naleznete nahoře. Pro odhlášení klikněte na \"Odhlásit se\". Pokud se nemůžete odhlásit, odstraňte cookies pomocí příslušné funkce ve Vašem internetovém prohlížeči.";
 
 // Help Document 5
