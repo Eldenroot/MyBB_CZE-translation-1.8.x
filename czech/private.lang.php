@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -21,7 +21,7 @@ $l['old_pm'] = "Staré zprávy";
 $l['reply_pm'] = "Komu";
 $l['fwd_pm'] = "Přeposlat zprávu";
 
-$l['pms_disabled'] = "Administrátor neumožňuje používat službu soukromých zpráv.";
+$l['pms_disabled'] = "Administrátor(ka) neumožňuje používat službu soukromých zpráv.";
 
 $l['private_messaging'] = "Soukromé zprávy";
 $l['inbox'] = "Doručené zprávy";
@@ -166,11 +166,11 @@ $l['search_user'] = "Hledat uživatele";
 $l['error_nopmsarchive'] = "Litujeme, ale žádné soukromé zprávy, odpovídající zadaným kritériím neexistují.";
 $l['error_invalidpmfoldername'] = "Litujeme, ale zadaný název složky obsahuje znaky, které nejsou povoleny.";
 $l['error_emptypmfoldername'] = "Název složky, který jste zadali, neobsahuje žádný text. Buď zadejte název složky, nebo, pokud chcete složku smazat, pole nechte úplně prázdné.";
-$l['error_invalidpmrecipient'] = "Zadaný příjemce neexistuje, nebo byl zadán chybně. Vraťte se prosím zpět a zkuste to znovu.";
+$l['error_invalidpmrecipient'] = "Zadaný příjemce neexistuje, nebo byl zadán chybně. Vraťte se, prosím, zpět a zkuste to znovu.";
 $l['error_invalidpm'] = "Chybná SZ";
 $l['error_pmrecipientreachedquota'] = "Soukromou zprávu pro {1} nelze poslat, protože příjemce vyčerpal svůj limit přijatých soukromých zpráv. Dokud nevyprázdní své složky, nemůže dostávat žádné soukromé zprávy. O této skutečnosti byl(a) již informován(a) e-mailem. Zkuste prosím odeslat svoji zprávu později.";
-$l['error_recipientpmturnedoff'] = "Uživatel {1} se rozhodl nedostávat žádné soukromé zprávy, nebo k tomu nemá dostatečná oprávnění. Tomuto uživateli tedy nelze zasílat žádné soukromé zprávy.";
-$l['error_pmsturnedoff'] = "Ve svém profilu máte zakázané používat soukromé zprávy.<br />Abyste mohli se soukromými zprávami pracovat, prosím povolte si je.";
+$l['error_recipientpmturnedoff'] = "Uživatel(ka) {1} se rozhodl(a) nedostávat žádné soukromé zprávy, nebo k tomu nemá dostatečná oprávnění. Tomuto uživateli tedy nelze zasílat žádné soukromé zprávy.";
+$l['error_pmsturnedoff'] = "Ve svém profilu máte zakázané používat soukromé zprávy.<br />Abyste mohl(a) se soukromými zprávami pracovat, prosím, povolte si je.";
 $l['error_recipientignoring'] = "Vaši soukromou zprávu pro {1} nemůžeme doručit. Nemáte k tomu dostatečná oprávnění.";
 $l['error_pm_already_submitted'] = "V průběhu posledních pěti minut jste již danému uživateli odeslal(a) tu samou soukromou zprávu.";
 $l['error_nopms'] = "Pro použití této funkce musíte mít jednu či více soukromých zpráv.";
@@ -178,10 +178,10 @@ $l['error_nopms'] = "Pro použití této funkce musíte mít jednu či více sou
 $l['error_minsearchlength'] = "Jedno či více zadaných slov je kratší než povolený počet znaků: {1} characters.<br /><br />Pokud hledáte konkrétní frázi, zadejte ji do uvozovek. Např. \"Malý Bobeš a Velký Bratr\".";
 $l['error_nosearchresults'] = "Podle zadaných kritérií nebylo nic nalezeno. Zkuste to prosím jinak.";
 $l['error_no_search_support'] = "Tento databázový engine nepodporuje vyhledávání.";
-$l['error_nosearchterms'] = "Nezadali jste žádné vyhledávací parametry. Je nutno zadat buď nějaké slovo, nebo uživatelské jméno.";
-$l['error_searchflooding_1'] = "Lituji, ale lze vyhledávat pouze jednou za {1} sekund. Prosím počkejte 1 sekundu před dalším pokusem.";
-$l['error_searchflooding'] = "Lituji, ale lze vyhledávat pouze jednou za {1} sekund. Prosím počkejte {2} sekund(y) před dalším pokusem.";
-$l['error_invalidsearch'] = "Vyhledávání bylo zadáno chybně. Vraťte se prosím a zkuste to znovu.";
+$l['error_nosearchterms'] = "Nezadal(a) jste žádné vyhledávací parametry. Je nutno zadat buď nějaké slovo, nebo uživatelské jméno.";
+$l['error_searchflooding_1'] = "Lituji, ale lze vyhledávat pouze jednou za {1} sekund. Prosím, počkejte 1 sekundu před dalším pokusem.";
+$l['error_searchflooding'] = "Lituji, ale lze vyhledávat pouze jednou za {1} sekund. Prosím, počkejte {2} sekund(y) před dalším pokusem.";
+$l['error_invalidsearch'] = "Vyhledávání bylo zadáno chybně. Vraťte se, prosím, a zkuste to znovu.";
 
 $l['redirect_pmsaved'] = "Tato soukromá zpráva byla uložena do složky Koncepty.";
 $l['redirect_pmstrackingstopped'] = "Sledování vybraných soukromých zpráv bylo zastaveno.";
@@ -201,4 +201,3 @@ $l['quickreply_signature'] = "Podpis";
 $l['quickreply_disable_smilies'] = "Zablokovat smajlíky";
 $l['quickreply_save_copy'] = "Uložit kopii";
 $l['quickreply_read_receipt'] = "<strong>Vyžádat potvrzení o přečtení</strong>";
-

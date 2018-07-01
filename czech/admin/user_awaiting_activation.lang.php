@@ -31,7 +31,7 @@ $l['delete_users'] = "Smazat uživatele";
 $l['confirm_activate_users'] = "Jste si doopravdy jistý, že chcete aktivovat vybrané uživatele?";
 $l['confirm_delete_users'] = "Jste si doopravdy jistý, že chcete smazat vybrané uživatelé?";
 
-$l['no_users_selected'] = "Nevybral jste žádného uživatele.";
+$l['no_users_selected'] = "Nevybral(a) jste žádného uživatele.";
 
 $l['success_users_deleted'] = "Vybraný uživatel byl vymazán.";
 $l['success_users_activated'] = "Vybraný uživatel byl aktivován.";
@@ -45,7 +45,7 @@ Pokračujte, prosím, na
 
 {3}
 
-Kde se budete moct přihlásit pomocí přezdívky a hesla, které jste si zvolil při registraci.
+Kde se budete moct přihlásit pomocí přezdívky a hesla, které jste si zvolil(a) při registraci.
 
 Budeme se těšit na Vaší návštěvu
 Vedení fóra {2}";

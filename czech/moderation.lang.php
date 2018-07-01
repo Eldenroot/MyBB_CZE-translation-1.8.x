@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -151,7 +151,7 @@ $l['view_notes_for'] = "Prohlíží poznámky k {1}";
 
 $l['purgespammer'] = "Odstranit spamera";
 $l['purgespammer_purge'] = "Odstranit spamera {1}";
-$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel/ka publikoval/a (příspěvky, SZ, události atd.) a {1} ho nebo ji.";
+$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel(ka) publikoval(a) (příspěvky, SZ, události atd.) a {1} ho nebo ji.";
 $l['purgespammer_ban'] = "zabanuje";
 $l['purgespammer_delete'] = "odstraní";
 $l['purgespammer_submit'] = "Odstranit spamera";
@@ -162,22 +162,22 @@ $l['purgespammer_modlog'] = "Odstraněný spamer";
 $l['error_invalidpm'] = "Neplatná SZ";
 $l['error_nomergeposts'] = "Aby šlo spojovat příspěvky, musíte nejprve jeden či více příspěvků vybrat.";
 $l['error_cantsplitonepost'] = "Nelze rozdělit téma, které obsahuje pouze jeden příspěvek.";
-$l['error_badmergeurl'] = "URL adresa tématu pro připojení není platná. Do textového pole je nutné zkopírovat přesnou URL adresu.<br />Prosím vraťte se a zkuste to znovu.";
-$l['error_badmovepostsurl'] = "URL adresa tématu pro přesunutí není platná. Do textového pole je nutné zkopírovat přesnou adresu URL.<br />Prosím vraťte se a zkuste to znovu.";
-$l['error_inline_nothreadsselected'] = "Nebylo zvoleno žádné téma k inline moderování, nebo Vaše moderátorské sezení vypršelo (děje se tak automaticky po 1 hodině neaktivity). Zkuste to prosím znovu.";
-$l['error_inline_nopostsselected'] = "Nebyly zvoleny žádné příspěvky k inline moderování, nebo Vaše moderátorské sezení vypršelo (děje se tak automaticky po 1 hodině neaktivity). Zkuste to prosím znovu.";
-$l['error_movetocategory'] = "Tento nástroj se pokouší přesunout téma do kategorie. Prosím změňte nástroj a vyberte platné fórum.";
+$l['error_badmergeurl'] = "URL adresa tématu pro připojení není platná. Do textového pole je nutné zkopírovat přesnou URL adresu.<br />Prosím, vraťte se a zkuste to znovu.";
+$l['error_badmovepostsurl'] = "URL adresa tématu pro přesunutí není platná. Do textového pole je nutné zkopírovat přesnou adresu URL.<br />Prosím, vraťte se a zkuste to znovu.";
+$l['error_inline_nothreadsselected'] = "Nebylo zvoleno žádné téma k inline moderování, nebo Vaše moderátorské sezení vypršelo (děje se tak automaticky po 1 hodině neaktivity). Prosím, zkuste to znovu.";
+$l['error_inline_nopostsselected'] = "Nebyly zvoleny žádné příspěvky k inline moderování, nebo Vaše moderátorské sezení vypršelo (děje se tak automaticky po 1 hodině neaktivity). Prosím, zkuste to znovu.";
+$l['error_movetocategory'] = "Tento nástroj se pokouší přesunout téma do kategorie. Prosím, změňte nástroj a vyberte platné fórum.";
 $l['error_cantsplitall'] = "Nelze rozdělit úplně všechny příspěvky z tohoto tématu! Co by tu potom zůstalo?";
 $l['error_cantmoveall'] = "Nelze přesunout úplně všechny příspěvky pryč z tohoto tématu! Co by tu potom zůstalo?";
 $l['error_nosplitposts'] = "Nelze rozdělit téma, protože nebyly vybrány žádné příspěvky, které mají být z tématu přesunuty.";
 $l['error_movetosameforum'] = "Nelze přemístit téma do toho samého fóra, ve kterém se již nachází. Vyberte si za cíl jiné fórum.";
-$l['error_mergewithself'] = "Témata nemohou být sloučena sama se sebou.<br />Prosím vraťte se a zadejte jinou platnou URL adresu.";
-$l['error_movetoself'] = "Nelze přemístit příspěvky do toho samého fóra, ve kterém se již nachází.<br />Prosím vraťte se a zadejte jinou platnou URL adresu.";
-$l['error_delayedmoderation_unsupported_type'] = "Lituji, ale nezvolili jste platný typ akce pro zpožděné moderování nebo nemáte dostatečná práva pro vykonání této akce.";
-$l['error_delayedmoderation_unsupported_method'] = "Lituji, ale nezvolili jste platnou metodu přesunu pro zpožděné moderování.";
-$l['error_delayedmoderation_invalid_date_day'] = "Lituji, ale nezvolili jste platné datum dne pro zpožděné moderování.";
-$l['error_delayedmoderation_invalid_date_month'] = "Lituji, ale nezvolili jste platné datum měsíce pro zpožděné moderování.";
-$l['error_delayedmoderation_invalid_date_year'] = "Lituji, ale nezvolili jste platné datum roku pro zpožděné moderování.";
+$l['error_mergewithself'] = "Témata nemohou být sloučena sama se sebou.<br />Prosím, vraťte se a zadejte jinou platnou URL adresu.";
+$l['error_movetoself'] = "Nelze přemístit příspěvky do toho samého fóra, ve kterém se již nachází.<br />Prosím, vraťte se a zadejte jinou platnou URL adresu.";
+$l['error_delayedmoderation_unsupported_type'] = "Lituji, ale nezvolil(a) jste platný typ akce pro zpožděné moderování nebo nemáte dostatečná oprávnění pro vykonání této akce.";
+$l['error_delayedmoderation_unsupported_method'] = "Lituji, ale nezvolil(a) jste platnou metodu přesunu pro zpožděné moderování.";
+$l['error_delayedmoderation_invalid_date_day'] = "Lituji, ale nezvolil(a) jste platné datum dne pro zpožděné moderování.";
+$l['error_delayedmoderation_invalid_date_month'] = "Lituji, ale nezvolil(a) jste platné datum měsíce pro zpožděné moderování.";
+$l['error_delayedmoderation_invalid_date_year'] = "Lituji, ale nezvolil(a) jste platné datum roku pro zpožděné moderování.";
 
 $l['redirect_pollnotdeleted'] = "Anketa nebyla odstraněna, protože jste nezaškrtli checkbox \"Odstranit\".";
 $l['redirect_polldeleted'] = "Anketa byla úspěšně odstraněna z tématu.<br />Nyní budete přesměrováni zpět do tématu.";
@@ -214,10 +214,10 @@ $l['redirect_inline_postsrestored'] = "Vybrané příspěvky byly obnoveny.<br /
 $l['redirect_inline_postssoftdeleted'] = "Vybrané příspěvky byly dočasně odstraněny.<br />Nyní budete přesměrováni zpět.";
 $l['redirect_postsdeleted'] = "Vybrané příspěvky byly trvale odstraněny.<br />Nyní budete přesměrováni zpět.";
 $l['redirect_removed_subscriptions'] = "Všechny odběry tohoto tématu byly úspěšně zrušeny.<br />Nyní budete přesměrováni zpět do tématu.";
-$l['redirect_customtool_thread'] = "Utilita pro moderování \"{1}\" byla úspěšně spuštěna.<br />Nyní budete přesměrováni zpět do tématu.";
-$l['redirect_customtool_forum'] = "Utilita pro moderování \"{1}\" byla úspěšně spuštěna.<br />Nyní budete přesměrováni zpět do fóra.";
-$l['redirect_customtool_search'] = "Utilita pro moderování \"{1}\" byla úspěšně spuštěna.<br />Nyní budete přesměrováni zpět na vyhledávání.";
-$l['redirect_delayed_moderation_thread'] = "Vybraná utilita pro moderování byla uložena a zpožděna o {1}.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_delayed_moderation_forum'] = "Vybraná utilita pro moderování byla uložena a zpožděna o {1}.<br />Nyní budete přesměrováni do fóra.";
-$l['redirect_delayed_moderation_search'] = "Vybraná utilita pro moderování byla uložena a zpožděna o {1}.<br />Nyní budete přesměrováni na vyhledávání.";
+$l['redirect_customtool_thread'] = "Nástroj pro moderování \"{1}\" byla úspěšně spuštěna.<br />Nyní budete přesměrováni zpět do tématu.";
+$l['redirect_customtool_forum'] = "Nástroj pro moderování \"{1}\" byla úspěšně spuštěna.<br />Nyní budete přesměrováni zpět do fóra.";
+$l['redirect_customtool_search'] = "Nástroj pro moderování \"{1}\" byla úspěšně spuštěna.<br />Nyní budete přesměrováni zpět na vyhledávání.";
+$l['redirect_delayed_moderation_thread'] = "Vybraný nástroj pro moderování byla uložena a zpožděna o {1}.<br />Nyní budete přesměrováni do tématu.";
+$l['redirect_delayed_moderation_forum'] = "Vybraný nástroj pro moderování byla uložena a zpožděna o {1}.<br />Nyní budete přesměrováni do fóra.";
+$l['redirect_delayed_moderation_search'] = "Vybraný nástroj pro moderování byla uložena a zpožděna o {1}.<br />Nyní budete přesměrováni na vyhledávání.";
 $l['redirect_delayed_moderation_cancelled'] = "Vybraná akce zpožděného moderování byla stornována.<br />Budete přesměrováni na stránku zpožděného moderování.";

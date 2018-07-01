@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -13,7 +13,7 @@ $l['add_new_attachment_type'] = "Přidat novou příponu přílohy";
 $l['add_attachment_type'] = "Přidat novou příponu přílohy";
 $l['add_attachment_type_desc'] = "Přidáním nového typu přílohy umožníte uživatelům přiložit tento typ příloh do jejich příspěvků. Máte možnost upravit typ MIME, maximální velikost nebo zobrazení ikonky pro každou přílohu.";
 $l['edit_attachment_type'] = "Upravit příponu přílohy";
-$l['edit_attachment_type_desc'] = "Máte možnost upravit MIME typy či maximální velikost pro tento typ přílohy.";
+$l['edit_attachment_type_desc'] = "Máte možnost upravit MIME typy nebo maximální velikost pro tento typ přílohy.";
 
 $l['extension'] = "Přípona";
 $l['maximum_size'] = "Maximální velikost";
@@ -34,9 +34,9 @@ $l['attachment_icon'] = "Ikona přílohy";
 $l['attachment_icon_desc'] = "Pokud chcete zobrazit malé ikony tohoto typu přílohy, vložte cestu k adresáři s ikonami. {theme} bude nahrazen adresářem obrázků, který umožní specifikovat ikony pro jednotlivé motivy.";
 $l['save_attachment_type'] = "Uložit typ přílohy";
 
-$l['error_invalid_attachment_type'] = "Zvolil jste neplatný typ přílohy.";
-$l['error_missing_mime_type'] = "Nezadal jste typ MIME pro tento typ přílohy.";
-$l['error_missing_extension'] = "Nezadal jste příponu pro tento typ přílohy. ";
+$l['error_invalid_attachment_type'] = "Zvolil(a) jste neplatný typ přílohy.";
+$l['error_missing_mime_type'] = "Nezadal(a) jste typ MIME pro tento typ přílohy.";
+$l['error_missing_extension'] = "Nezadal(a) jste příponu pro tento typ přílohy. ";
 
 $l['success_attachment_type_created'] = "Typ přílohy byl úspěšně přidaný.";
 $l['success_attachment_type_updated'] = "Typ přílohy byl úspěšně aktualizován.";

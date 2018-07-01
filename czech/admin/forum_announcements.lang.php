@@ -31,10 +31,10 @@ $l['success_added_announcement'] = "Oznámení bylo úspěšně vytvořeno.";
 $l['success_updated_announcement'] = "Vybrané oznámení bylo úspěšně upraveno.";
 
 $l['error_invalid_announcement'] = "Prosím, vložte správné varování.";
-$l['error_missing_title'] = "Nezadal jste název.";
-$l['error_missing_message'] = "Nezadal jste zprávu.";
-$l['error_missing_forum'] = "Nevybral jste fórum.";
-$l['error_invalid_start_date'] = "Zadal jste neplatné datum oznámení.";
+$l['error_missing_title'] = "Nezadal(a) jste název.";
+$l['error_missing_message'] = "Nezadal(a) jste zprávu.";
+$l['error_missing_forum'] = "Nevybral(a) jste fórum.";
+$l['error_invalid_start_date'] = "Zadal(a) jste neplatné datum oznámení.";
 $l['error_invalid_end_date'] = "Konec oznámení není správně nastaven.";
 $l['error_end_before_start'] = "Konec oznámení nesmí být dříve než jeho zveřejnění.";
 

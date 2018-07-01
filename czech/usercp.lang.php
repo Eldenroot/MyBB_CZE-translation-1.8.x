@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -238,11 +238,11 @@ $l['delete_drafts'] = "Odstranit vybrané koncepty";
 $l['draft_options'] = "Možnosti konceptu";
 $l['selected_drafts_deleted'] = "Vybrané koncepy byly smazány.<br />Nyní se vrátíte na seznam konceptů.";
 $l['no_drafts_selected'] = "Žádné koncepty k odstranění nebyly vybrány.";
-$l['too_many_sig_images'] = "Váš podpis nelze zaktualizovat, neboť obsahuje příliš mnoho obrázků. Prosím některé odstraňte.";
+$l['too_many_sig_images'] = "Váš podpis nelze zaktualizovat, neboť obsahuje příliš mnoho obrázků. Prosím, některé odstraňte.";
 $l['too_many_sig_images2'] = "<strong>Poznámka:</strong> Maximální povolené množství obrázků v podpisu je {1}.";
 $l['sig_too_long'] = "Váš podpis nelze aktualizovat, neboť je příliš dlouhý. Maximální povolená délka podpisu je {1} znaků. ";
-$l['sig_remove_chars_plural'] = "Prosím odstraňte {1} znaků a zkuste to znovu.";
-$l['sig_remove_chars_singular'] = "Prosím odstraňte 1 znak a zkuste to znovu.";
+$l['sig_remove_chars_plural'] = "Prosím, odstraňte {1} znaků a zkuste to znovu.";
+$l['sig_remove_chars_singular'] = "Prosím, odstraňte 1 znak a zkuste to znovu.";
 $l['group_memberships'] = "Členství ve skupinách";
 $l['not_member_of_group'] = "Tuto akci nelze provést, protože nejste členem dané skupiny.";
 $l['cannot_set_displaygroup'] = "Tuto skupinu nelze nastavit jako skupinu k zobrazení.";
@@ -335,9 +335,9 @@ $l['redirect_forumsubscriptionremoved'] = "Vybrané fórum bylo odstraněno z va
 $l['redirect_namechanged'] = "Vaše uživatelské jméno bylo úspěšně změněno.<br />Nyní budete přesměrováni zpět na stránku Nastavení uživatele.";
 $l['redirect_emailupdated'] = "Vaše e-mailová adresa byla úspěšně změněna.<br />Nyní budete přesměrováni zpět na stránku Nastavení uživatele";
 $l['redirect_passwordupdated'] = "Vaše heslo bylo úspěšně změněno.<br />Nyní budete přesměrováni zpět na stránku Nastavení uživatele.";
-$l['redirect_changeemail_activation'] = "Vaše e-mailová adresa byla změněna. Aby tato změna proběhla, je třeba jí ještě potvrdit.<p>Zkontrolujte si na nové e-mailové adrese došlou poštu. Najdete tam další instrukce, jak dokončit aktivaci nové e-mailové adresy.</p>";
+$l['redirect_changeemail_activation'] = "Vaše e-mailová adresa byla změněna. Aby tato změna proběhla, je třeba jí ještě potvrdit.<p>Zkontrolujte si na nové e-mailové adrese došlou poštu. Najdete tam další instrukce jak dokončit aktivaci nové e-mailové adresy.</p>";
 $l['redirect_avatarupdated'] = "Váš avatar byl úspěšně změněn.<br />Nyní budete přesměrováni zpět na stránku Nastavení uživatele.";
-$l['error_noavatar'] = "Nezvolili jste si avatar. Vraťte se prosím zpět a učiňte tak. Pokud avatar nechcete používat, zvolte  možnost \"Odstranit avatar\" option.";
+$l['error_noavatar'] = "Nezvolil(a) jste si avatar. Vraťte se, prosím, zpět a učiňte tak. Pokud avatar nechcete používat, zvolte možnost \"Odstranit avatar\"";
 $l['error_avatartype'] = "Chybný typ souboru. Soubor obsahující avatar musí mít GIF, JPEG, nebo PNG formát.";
 $l['error_alreadyingroup'] = "Zvolený uživatel už je členem skupiny.";
 $l['error_usercp_return_date_past'] = "Nelze se vracet v čase!";
@@ -364,7 +364,7 @@ $l['delete_subscriptions'] = "Odstranit odběry";
 $l['update_no_notification'] = "Změnit na neoznamovat";
 $l['update_email_notification'] = "Změnit na oznamovat e-mailem";
 $l['update_pm_notification'] = "Změnit na oznamovat SZ";
-$l['no_subscriptions_selected'] = "Nevybrali jste žádné odběry, na které by šla uplatnit vybraná akce.";
+$l['no_subscriptions_selected'] = "Nevybral(a) jste žádné odběry, na které by šla uplatnit vybraná akce.";
 $l['redirect_subscriptions_updated'] = "Vybrané odběry byly zaktualizovány.";
 $l['latest_threads'] = "Vaše nejnovější témata";
 $l['find_all_threads'] = "Najít všechna Vaše témata";
@@ -409,14 +409,14 @@ $l['buddyrequests_pm'] = 'Obdržet oznámení SZ na nové žádosti o přátelst
 $l['buddyrequests_auto'] = 'Automaticky schválit žádosti o přátelství (pokud zatrhnete checkbox výše, dostanete SZ informaci o každé schválené žádosti)';
 $l['buddyrequest_received'] = 'Žádost o přátelství obdržena';
 $l['buddyrequest_new_buddy'] = 'Máte nového přítele';
-$l['buddyrequest_new_buddy_message'] = "Ahoj,\n\nbyli jste automaticky přidáni na Tvůj seznam přátel.";
-$l['buddyrequest_accepted_request'] = 'Schválili jsem Tvoji žádost o přátelství';
-$l['buddyrequest_accepted_request_message'] = "Ahoj,\n\nschválili jsem Tvoji žádost o přátelství.";
-$l['buddyrequest_received_message'] = "Právě jsem Ti poslal žádost o přátelství.\nNevyřízené žádosti si můžeš prohlédnout v Nastavení uživatele → Seznam (ne)přátel.";
-$l['users_already_sent_request'] = "Již jste odeslali žádost o přátelství jednomu z uživatelů, které jste přidali.";
-$l['users_already_rec_request'] = "Máte nevyřízenou žádost o přátelství od jednoho z uživatelů, kterého jste přidali.";
-$l['users_already_sent_request_alt'] = "Odeslali jste žádost o přátelství jednomu z uživatelů, které jste přidali. Prosím zrušte tuto žádost před přidáním uživatele na seznam nepřátel.";
-$l['users_already_rec_request_alt'] = "Máte nevyřízenou žádost o přátelství od jednoho z uživatelů, kterého jste přidali. Prosím odmítněte tuto žádost před přidáním uživatele na seznam nepřátel.";
+$l['buddyrequest_new_buddy_message'] = "Ahoj,\n\nbyl(a) jste automaticky přidán(a) na Tvůj seznam přátel.";
+$l['buddyrequest_accepted_request'] = 'Schválil(a) jsem Tvoji žádost o přátelství';
+$l['buddyrequest_accepted_request_message'] = "Ahoj,\n\nschválil(a) jsem Tvoji žádost o přátelství.";
+$l['buddyrequest_received_message'] = "Právě jsem Ti poslal(a) žádost o přátelství.\nNevyřízené žádosti si můžeš prohlédnout v Nastavení uživatele → Seznam (ne)přátel.";
+$l['users_already_sent_request'] = "Již jste odeslal(a) žádost o přátelství jednomu z uživatelů, které jste přidal(a).";
+$l['users_already_rec_request'] = "Máte nevyřízenou žádost o přátelství od jednoho z uživatelů, kterého jste přidal(a).";
+$l['users_already_sent_request_alt'] = "Odeslal(a) jste žádost o přátelství jednomu z uživatelů, které jste přidal(a). Prosím, zrušte tuto žádost před přidáním uživatele na seznam nepřátel.";
+$l['users_already_rec_request_alt'] = "Máte nevyřízenou žádost o přátelství od jednoho z uživatelů, kterého jste přidal(a). Prosím, odmítněte tuto žádost před přidáním uživatele na seznam nepřátel.";
 $l['invalid_request'] = 'Vybrali jste neplatnou žádost o přátelství.';
 $l['buddyrequest_cancelled'] = 'Zvolená žádost o přátelství byla zrušena.';
 $l['buddyrequest_accepted'] = 'Zvolená žádost o přátelství byla schválena.';

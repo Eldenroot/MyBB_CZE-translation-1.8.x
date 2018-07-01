@@ -16,6 +16,6 @@ $l['deselect_all'] = "Vše odznačit";
 $l['select_forum_tables'] = "Označit všechny tabulky fóra";
 $l['optimize_selected_tables'] = "Optimalizovat vybraný výběr tabulek";
 
-$l['error_no_tables_selected'] = "Nevybral jste žádnou databázovou tabulku k optimalizování.";
+$l['error_no_tables_selected'] = "Nevybral(a) jste žádnou databázovou tabulku k optimalizování.";
 
 $l['success_tables_optimized'] = "Vybrané tabulky byly optimalizovány a analyzovány úspěšně.";

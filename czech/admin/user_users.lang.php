@@ -31,41 +31,41 @@ $l['inline_activate'] = "Aktivní uživatelé";
 $l['inline_ban'] = "Zabanování uživatelé";
 $l['inline_usergroup'] = "Změnit uživatelské skupiny";
 $l['inline_delete'] = "Smazat uživatel(e)";
-$l['inline_prune'] = "Pročistit/smazat uživatelovy příspevky";
+$l['inline_prune'] = "Smazat příspěvky uživatele";
 $l['inline_activated'] = "{1} uživatel(é) byli aktivováni.";
 $l['inline_activated_more'] = "<small>{1} uživatel(é), kterého si vybral, tak již byl aktivován.</small>";
-$l['inline_activated_failed'] = "Všichni uživatelé, které si vybral již byli aktivováni.";
+$l['inline_activated_failed'] = "Všichni uživatelé, které jste vybral(a) již byli aktivováni.";
 $l['ban_time'] = "Délka banu <em>*</em>";
 $l['ban_reason'] = "Důvod zabanování";
 $l['mass_ban'] = "Hromadně zabanovat uživatele";
 $l['important'] = "Důležité";
-$l['mass_ban_info'] = "Akce pouze postihne pouze {1} uživatel(ů). Pokračuj jen tehdy, když seš jistý, že to chceš opravdu udělat.";
+$l['mass_ban_info'] = "Akce pouze postihne {1} uživatel(ů). Pokračujte jen tehdy, když jste jistý, že to chcete opravdu udělat.";
 $l['ban_users'] = "Zabanování uživatelů";
 $l['users_banned'] = "{1} uživatel(e) byli zabanováni";
-$l['confirm_multilift'] = "Jste si jistý, že chcete odstranit ban uživatelům, které jste vybral?";
-$l['success_ban_lifted'] = "Bany pro {1} uživatele, které jste vybral, byly odstraněny.";
+$l['confirm_multilift'] = "Jste si jistý, že chcete odstranit ban uživatelům, které jste vybral(a)?";
+$l['success_ban_lifted'] = "Bany pro {1} uživatele, které jste vybral(a), byly odstraněny.";
 $l['edit_ban'] = "Upravit ban";
 $l['lift_ban'] = "Odebrat ban";
 $l['lift_bans'] = "Odebrat bany";
-$l['confirm_multidelete'] = "Jsi si doopravdy jistý, že chceš smazat tolik uživatelů {1} najednou? Tenhle krok pak nemůžeš vrátit zpět!";
+$l['confirm_multidelete'] = "Jste si doopravdy jistý, že chcete smazat tolik uživatelů {1} najednou? Tento krok nelze vrátit.";
 $l['users_deleted'] = "{1} uživatele byli smazáni";
-$l['mass_prune_info'] = "Tato akce se dotkne {1} uživatelů. Pokud budeš pokračovat, příspěvky vybraných uživatelů staršího data budou smazány<br /><br /><strong>Pozor, pokud je některý z příspěvků první v tématu, dojde ke smazání celého tématu.</strong>";
+$l['mass_prune_info'] = "Tato akce se dotkne {1} uživatelů. Pokud budete pokračovat, příspěvky vybraných uživatelů staršího data budou smazány<br /><br /><strong>Pozor, pokud je některý z příspěvků první v tématu, dojde ke smazání celého vlákna.</strong>";
 $l['mass_prune_posts'] = "Hromadné promazání příspěvků";
 $l['manual_date'] = "Vložit datum manuálně";
 $l['relative_date'] = "Nebo vyber možnosti smazání";
-$l['multi_selected_dates'] = "Zvolil jste jak zadání data, tak možnosti smazání. Vyberte, prosím, jen jedno z nich.";
-$l['incorrect_date'] = "Datum, které jste zvolil je neplatné. Vyplňte, prosím, platné datum nebo nech pole prázdné pro další možnosti.";
+$l['multi_selected_dates'] = "Zvolil(a) jste jak zadání data, tak možnosti smazání. Vyberte, prosím, jen jedno z nich.";
+$l['incorrect_date'] = "Datum, které jste zvolil(a) je neplatné. Vyplňte, prosím, platné datum nebo nech pole prázdné pro další možnosti.";
 $l['prune_complete'] = "Promazání proběhlo úspěšně.";
 $l['prune_fail'] = "Pro zvoleného uživatele nebyly nalezeny žádné příspěvky. Žádné příspěvky nebyly smazány.";
-$l['no_prune_option'] = "Vlož datum nebo vyber možnosti a pokračuj.";
+$l['no_prune_option'] = "Vložte datum nebo vyber možnosti a pokračujte.";
 $l['prune_posts'] = "Promazané příspěvky";
 $l['delete_posts'] = "Smazání příspěvků";
 $l['usergroup_info'] = "Zvolená akce se dotkne {1} uživatelů. By choosing the options below, you will be overwriting the selected users' primary / additional / display usergroup.";
 $l['mass_usergroups'] = "Hromadná úprava uživatelských skupin";
-$l['success_mass_usergroups'] = "Uživatel(é) byl(y) úspěšně aktualizováni.";
+$l['success_mass_usergroups'] = "Uživatel(é) byl(i) úspěšně aktualizováni.";
 $l['alter_usergroups'] = "Uložit změny";
 $l['no_usergroup_changed'] = "Žádný ze zvolených uživatelů nemůže změnit skupinu";
-$l['no_set_option'] = "Nebylo vybráné platné datum. Vyberte datum z možností nebo ho zadejte ručně.";
+$l['no_set_option'] = "Nebylo vybrané platné datum. Vyberte datum z možností nebo ho zadejte ručně.";
 $l['select_an_option'] = "(Vyberte možnost)";
 
 $l['month_1'] = "Leden";
@@ -82,34 +82,34 @@ $l['month_11'] = "Listopad";
 $l['month_12'] = "Prosinec";
 
 $l['option_1'] = "Více než měsíc staré";
-$l['option_2'] = "Více než tři měsíce staré";
+$l['option_2'] = "Více než 3 měsíce staré";
 $l['option_3'] = "Více než 6 měsíců staré";
 $l['option_4'] = "Více než rok staré";
 $l['option_5'] = "Více než rok a půl staré.d";
 $l['option_6'] = "Více než 2 roky staré";
 
-$l['error_avatartoobig'] = "Promiň, ale nemůžeme změnit tvého avatara, protože avatar, kterého jsi vložil je přílíš velký. Maximální rozměry jsou: {1}x{2} (šířka x výška)";
-$l['error_invalidavatarurl'] = "Odkaz, který si zadal pro tvého avatara je neplatný. Zkontroluj, zda jsi vložil správný odkaz URL.";
+$l['error_avatartoobig'] = "Promiňte, ale nemůžeme změnit Vašeho avatara, protože avatar, kterého jste vložil je přílíš velký. Maximální rozměry jsou: {1}x{2} (šířka x výška)";
+$l['error_invalidavatarurl'] = "Odkaz, který jste zadal(a) pro Vašeho avatara je neplatný. Zkontrolujte, zda jste vložil(a) správný odkaz URL.";
 $l['error_remote_avatar_not_allowed'] = "Adresy URL vzdálených avatarů byly zakázány správcem fóra.";
-$l['error_invalid_user'] = "Vybral si neplatného uživatele.";
-$l['error_no_perms_super_admin'] = "Nemáš právo upravit uživatele, protože nejsi super administrátor.";
-$l['error_invalid_user_source'] = "Sekundární účet, který jsi zadal, neexistuje.";
-$l['error_invalid_user_destination'] = "Primární účet, který jsi zadal, neexistuje.";
+$l['error_invalid_user'] = "Vybral(a) jste neplatného uživatele.";
+$l['error_no_perms_super_admin'] = "Nemáte právo upravit uživatele, protože nejste super administrátor(ka).";
+$l['error_invalid_user_source'] = "Sekundární účet, který jste zadal(a), neexistuje.";
+$l['error_invalid_user_destination'] = "Primární účet, který jste zadal(a), neexistuje.";
 $l['error_cannot_merge_same_account'] = "Nelze sloučet stejný účet.";
-$l['error_no_users_found'] = "Žádný uživatel neodpovídá kritériím tvého hledání. Prosím, uprav kritéria pro hledání a zkus to znovu.";
-$l['error_invalid_admin_view'] = "Vybral jsi neplatné zobrazení pro správu.";
-$l['error_missing_view_title'] = "Nezadal jsi název pro toto zobrazení.";
-$l['error_no_view_fields'] = "Nevybral jsi žádné zobrazení.";
-$l['error_invalid_view_perpage'] = "Zadal jsi neplatný počet výsledků k zobrazení na stránce.";
-$l['error_invalid_view_sortby'] = "Vybral jsi neplatné pole pro řazení výsledků";
-$l['error_invalid_view_sortorder'] = "Vybral jsi neplatné pořadí řazení.";
-$l['error_invalid_view_delete'] = "Vybral jsi neplatné administrátorské zobrazení";
-$l['error_cannot_delete_view'] = "Musíš mít alespoň 1 zobrazení pro správu.";
-$l['error_inline_no_users_selected'] = "Promiň, ale nevybral si žádného uživatele. Vyber nějakého uživatele a zkus to znovu.";
-$l['error_cannot_delete_user'] = "Tento uživatel nemůže být vymazán.";
+$l['error_no_users_found'] = "Žádný uživatel neodpovídá kritériím Vašeho hledání. Prosím, upravte kritéria pro hledání a zkuste to znovu.";
+$l['error_invalid_admin_view'] = "Vybral(a) jste neplatné zobrazení pro správu.";
+$l['error_missing_view_title'] = "Nezadal(a) jste název pro toto zobrazení.";
+$l['error_no_view_fields'] = "Nevybral(a) jste žádné zobrazení.";
+$l['error_invalid_view_perpage'] = "Zadal(a) jste neplatný počet výsledků k zobrazení na stránce.";
+$l['error_invalid_view_sortby'] = "Vybral(a) jste neplatné pole pro řazení výsledků";
+$l['error_invalid_view_sortorder'] = "Vybral(a) jste neplatné pořadí řazení.";
+$l['error_invalid_view_delete'] = "Vybral(a) jste neplatné administrátorské zobrazení";
+$l['error_cannot_delete_view'] = "Musíte mít alespoň 1 zobrazení pro správu.";
+$l['error_inline_no_users_selected'] = "Promiňte, ale nevybral(a) jste žádného uživatele. Vyberte nějakého uživatele a zkuste to znovu.";
+$l['error_cannot_delete_user'] = "Tento uživatel nemůže být smazán.";
 $l['error_no_referred_users'] = "Zvolený uživatel nemá žádné referaly.";
 
-$l['user_deletion_confirmation'] = "Jsi si doopravdy jistý, že chceš smazat toho uživatele?";
+$l['user_deletion_confirmation'] = "Jste si doopravdy jistý, že chcete smazat vybraného uživatele?";
 
 $l['success_coppa_activated'] = "Vybraný uživatel COPPA byl úspěšně aktivován.";
 $l['success_activated'] = "Vybraný uživatel byl úspěšně aktivován.";
@@ -133,7 +133,7 @@ $l['email_address'] = "E-mailová adresa";
 $l['use_primary_user_group'] = "Použít hlavní skupinu uživatele";
 $l['primary_user_group'] = "Hlavní skupina uživatele";
 $l['additional_user_groups'] = "Další skupiny uživatele";
-$l['additional_user_groups_desc'] = "Použí CTRL pro označení více skupin";
+$l['additional_user_groups_desc'] = "Použijte CTRL pro označení více skupin";
 $l['display_user_group'] = "Zobrazit skupinu uživatelů";
 $l['save_user'] = "Uložit uživatele";
 
@@ -174,11 +174,11 @@ $l['im_here'] = "Jsem zpět";
 $l['away_reason'] = "Důvod nepřítomnosti";
 $l['away_reason_desc'] = "Umožňuje zanechat krátkou zprávu, proč budete nepřítomný (pouze 200 znaků).";
 $l['return_date'] = "Datum, kdy se vracíte:";
-$l['return_date_desc'] = "Pokud víš, kdy se vrátíte, můžete jsem zadat datum návratu.";
+$l['return_date_desc'] = "Pokud víte, kdy se vrátíte, můžete jsem zadat datum návratu.";
 $l['error_acp_return_date_past'] = "Nemůžete se vrátit v minulosti!";
 
 $l['hide_from_whos_online'] = "Skrýt ze seznamu kdo je online";
-$l['login_cookies_privacy'] = "Přihlášení, soukromí a cookies (sušenky)";
+$l['login_cookies_privacy'] = "Přihlášení, soukromí a cookies";
 $l['recieve_admin_emails'] = "Dostávat e-maily od administrátorů";
 $l['hide_email_from_others'] = "Schovat e-mailovou adresu pro ostatní uživatele";
 $l['recieve_pms_from_others'] = "Přijímat soukromé zprávy od ostatních uživatelů";
@@ -199,7 +199,7 @@ $l['time_zone'] = "Časové pásmo";
 $l['daylight_savings_time_correction'] = "Korekce letního času";
 $l['automatically_detect'] = "Automaticky zjišťovat nastavení letního času";
 $l['always_use_dst_correction'] = "Vždy použít korekci letního času";
-$l['never_use_dst_correction'] = "Nikdy nepoužívejte korekci letního času";
+$l['never_use_dst_correction'] = "Nikdy nepoužívat korekci letního času";
 $l['date_and_time_options'] = "Nastavení data &amp; času";
 $l['show_threads_last_day'] = "Zobrait vlákna za poslední den";
 $l['show_threads_last_5_days'] = "Zobrazit vlákna za posledních 5 dní";
@@ -208,7 +208,7 @@ $l['show_threads_last_20_days'] = "Zobrazit vlákna za posledních 20 dní";
 $l['show_threads_last_50_days'] = "Zobrazit vlákna za posledních 50 dní";
 $l['show_threads_last_75_days'] = "Zobrazit vlákna za posledních 75 dní";
 $l['show_threads_last_100_days'] = "Zobrazit vlákna za posledních 100 dní";
-$l['show_threads_last_year'] = "Zobrait vlákna za poslední rok";
+$l['show_threads_last_year'] = "Zobrazit vlákna za poslední rok";
 $l['show_all_threads'] = "Zobrazit všechna vlákna";
 $l['threads_per_page'] = "Vlákna na stránku";
 $l['default_thread_age_view'] = "Výchozí zobrazení stáří témata";
@@ -216,12 +216,12 @@ $l['forum_display_options'] = "Možnosti zobrazení fóra";
 $l['show_classic_postbit'] = "Zobrazení příspěvků v klasickém režimu";
 $l['display_images'] = "Zobrazení obrázků v příspěvcích";
 $l['display_videos'] = "Zobrazení videí v příspěvcích";
-$l['display_users_sigs'] = "Zobrazovaz podpisy uživatelů";
+$l['display_users_sigs'] = "Zobrazazovat podpisy uživatelů";
 $l['display_users_avatars'] = "Zobrazovat avatary uživatelů";
 $l['show_quick_reply'] = "Zobrazit pole rychlá odpověď v dolní části zobrazení tématu";
 $l['posts_per_page'] = "Příspěvků na stránku";
 $l['default_thread_view_mode'] = "Výchozí režim zobrazení tématu";
-$l['linear_mode'] = "Linerání režim";
+$l['linear_mode'] = "Lineární režim";
 $l['threaded_mode'] = "Režim témat";
 $l['thread_view_options'] = "Možnosti zobrazení témat";
 $l['show_redirect'] = "Zobrazit jednodušší stránky přesměrování";
@@ -256,10 +256,10 @@ $l['suspend_for'] = "Pozastaveno od:";
 $l['suspended_perm'] = "<p><small>Pozastaveno permanentně.<br />Zadejte nový čas. Pokud chcete volbu zrušit, odškrtněte toto políčko.</small></p>";
 $l['suspend_length'] = "<p><small>Pozastavených zbýbá: <span style=\"color: {2};\">{1}</span>.<br />Zadejte nový čas. Pokud chcete volbu zrušit, odškrtněte toto políčko.</small></p>";
 
-$l['suspendsignature_error'] = "Vybrali jste pozastavení podpisu tohoto uživatele, ale nezadali jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
-$l['moderateposting_error'] = "Vybrali jste moderování příspěvků tohoto uživatele, ale nezadali jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
-$l['suspendposting_error'] = "Vybrali jste pozastavení příspěvků tohoto uživatele, ale nezadali jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
-$l['suspendmoderate_error'] = "Vybrali jste pozastavení a moderování příspěvků uživatele. Vyberte pouze jeden typ moderování.";
+$l['suspendsignature_error'] = "Vybral(a) jste pozastavení podpisu tohoto uživatele, ale nezadal(a) jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
+$l['moderateposting_error'] = "Vybral(a) jste moderování příspěvků tohoto uživatele, ale nezadal(a) jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
+$l['suspendposting_error'] = "Vybral(a) jste pozastavení příspěvků tohoto uživatele, ale nezadal(a) jste platné časové období. Zadejte, prosím, platný čas pro pokračování nebo zrušte zaškrtnutí.";
+$l['suspendmoderate_error'] = "Vybral(a) jste pozastavení a moderování příspěvků uživatele. Vyberte pouze jeden typ moderování.";
 
 $l['expire_length'] = "Délka pozastavení:";
 $l['expire_hours'] = "hodiny";
@@ -297,12 +297,12 @@ $l['specify_custom_avatar'] = "Zadat vlastní avatar";
 $l['upload_avatar'] = "Nahrát avatar";
 $l['or_specify_avatar_url'] = "nebo zadejte avatar/Gravatar URL";
 
-$l['user_notes'] = "Poznámky uživatele(ú?)";
+$l['user_notes'] = "Poznámky uživatele(ú)";
 
 $l['ip_addresses'] = "IP adresy";
 $l['ip_address'] = "IP adresa";
-$l['show_users_regged_with_ip'] = "Najdi uživatele, kteří mají společnou registrační IP";
-$l['show_users_posted_with_ip'] = "Najdi uživatele, kteří psali ve fóru s IP adresou";
+$l['show_users_regged_with_ip'] = "Najít uživatele, kteří mají společnou registrační IP";
+$l['show_users_posted_with_ip'] = "Najít uživatele, kteří psali ve fóru s IP adresou";
 $l['ban_ip'] = "Ban IP";
 $l['ip_address_for'] = "IP adresy zabanovány pro";
 
@@ -315,7 +315,7 @@ $l['merge_user_accounts'] = "Sloučit!";
 $l['display_options'] = "Možnosti zobrazení";
 $l['ascending'] = "Vzestupně";
 $l['descending'] = "Destupně";
-$l['sort_results_by'] = "Výsledky řadit";
+$l['sort_results_by'] = "Výsledky řadit podle";
 $l['in'] = "v";
 $l['results_per_page'] = "Výsledků na stránku";
 $l['display_results_as'] = "Zobrazovat výsledky jako";
@@ -340,21 +340,21 @@ $l['card_view'] = "Zobrazení karty";
 $l['find_users_where'] = "Najít uživatele kde";
 $l['username_contains'] = "Uživatelské jméno uživatele obsahuje";
 $l['email_address_contains'] = "E-mailová adresa obsahuje";
-$l['is_member_of_groups'] = "Je členem některé z jedné či více uživatelských skupin";
+$l['is_member_of_groups'] = "Je členem jedné nebo více uživatelských skupin";
 $l['website_contains'] = "Webová stránka obsahuje";
 $l['icq_number_contains'] = "ICQ číslo obsahuje";
 $l['yahoo_contains'] = "Yahoo! Messenger obsahuje";
 $l['skype_contains'] = "Skype obsahuje";
 $l['google_contains'] = "Google Hangouts obsahuje";
 $l['signature_contains'] = "Podpis obsahuje";
-$l['user_title_contains'] = "Vlastní uživatelský název obsahuje";
+$l['user_title_contains'] = "Vlastní uživatelský titul obsahuje";
 $l['greater_than'] = "Větší než";
 $l['is_exactly'] = "Je přesně";
 $l['less_than'] = "Menší než";
 $l['post_count_is'] = "Počet příspěvku je";
 $l['thread_count_is'] = "Počet vlánek je";
 $l['reg_ip_matches'] = "Registrační IP adresa je shodná s";
-$l['wildcard'] = "Chcete-li hledat rozsahy IP adres použití * (ex: 127.0.0. *) nebo CIDR notace (ex: 127.0.0.0/8)";
+$l['wildcard'] = "Chcete-li hledat rozsahy IP adres použijte * (ex: 127.0.0. *) nebo CIDR notace (ex: 127.0.0.0/8)";
 $l['posted_with_ip'] = "Odeslal příspěvek z IP adresy";
 $l['custom_profile_fields_match'] = "Kde informace o uživatelích obsahují…";
 $l['is_not_blank'] = " není prázdné";
@@ -374,7 +374,7 @@ $l['fields_to_show_desc'] = "Prosím, vyberte pole, které chcete zobrazovat";
 $l['edit_view'] = "Upravit zobrazení";
 $l['edit_view_desc'] = "Při úpravách zobrazení můžete definovat, která pole chcete zobrazit, kritéria vyhledávání a možnosti řazení.";
 $l['private'] = "Soukromé";
-$l['private_desc'] = "Toto zobrzazení se ukazuej pouze tobě";
+$l['private_desc'] = "Toto zobrazení se ukazuje pouze Vám";
 $l['public'] = "Veřejné";
 $l['public_desc'] = "Všichni administrátoři toto uvidí";
 $l['visibility'] = "Viditělnost";
@@ -382,11 +382,11 @@ $l['save_view'] = "Uložit zobrzaení";
 $l['created_by'] = "Vytvořeno";
 $l['default'] = "Výchozí";
 $l['this_is_a_view'] = "Toto je {1} zobrazení";
-$l['set_as_default'] = "Nastavot jako výchozí";
+$l['set_as_default'] = "Nastavit jako výchozí";
 $l['delete_view'] = "Smazat zobrazení";
 $l['default_view_desc'] = "Výchozí zobrazení vytvořené MyBB. Nelze upravit ani odebrat.";
 $l['public_view_desc'] = "Veřejné zobrazení viditelné všem správcům.";
-$l['private_view_desc'] = "Soukromé zobrazení viditelné pouze pro sebe.";
+$l['private_view_desc'] = "Soukromé zobrazení viditelné pouze pro Vás.";
 $l['table'] = "Tabulka";
 $l['title'] = "Název";
 
@@ -395,13 +395,13 @@ $l['view_title_1'] = "Všichni uživatelé";
 $l['emailsubject_activateaccount'] = "Aktivace účtu na {1}";
 $l['email_adminactivateaccount'] = "{1},
 
-Administrátor právě teď aktivoval Váš účet na {2}.
+Administrátor(ka) právě teď aktivoval(a) Váš účet na {2}.
 
 Pokračujte, prosím, na
 
 {3}
 
-Přihlasíte se pomocí údajů, které jste zadal při registraci.
+Přihlásíte se pomocí údajů, které jste zadal(a) při registraci.
 
 S pozdravem
 {2} Vedení fóra";

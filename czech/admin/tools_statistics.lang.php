@@ -25,5 +25,5 @@ $l['increase'] = "Zvýšit";
 $l['no_change'] = "Beze změny";
 $l['decrease'] = "Snížit";
 
-$l['error_no_results_found_for_criteria'] = "Nemohli jsme najít žádné výsledky pro časové období, které jste zvolil. Zkuste zvolit jiné časové období.";
-$l['error_no_statistics_available_yet'] = "Je nám líto, ale momentálně zde nejsou žádné dostupné statistiky pro tvé fórum.";
+$l['error_no_results_found_for_criteria'] = "Nemohli jsme najít žádné výsledky pro časové období, které jste zvolil(a). Zkuste zvolit jiné časové období.";
+$l['error_no_statistics_available_yet'] = "Je nám líto, ale momentálně zde nejsou žádné dostupné statistiky pro Vaše fórum.";
