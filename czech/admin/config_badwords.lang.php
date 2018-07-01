@@ -15,7 +15,7 @@ $l['bad_word_filters_desc'] = "Tato funkce Vám umožní spravovat seznam slov n
 
 $l['bad_word'] = "Slovo";
 $l['bad_word_desc'] = "Zadejte slovo, které si přejete, aby bylo filtrováno. Znak '*' zastupuje každý možný znak (a-zA-Z0-9_).";
-$l['bad_word_max'] = "Zakazáné slovo nemůže být delší než 100 znaků.";
+$l['bad_word_max'] = "Zakázáné slovo nemůže být delší než 100 znaků.";
 $l['replacement'] = "Nahrazeno";
 $l['replacement_desc'] = "Zadejte řetězec, který nahradí filtrované slovo (pokud je pole prázdné, zobrazí se hvězdičky)";
 $l['regex'] = "Regular Expression";
@@ -27,7 +27,7 @@ $l['save_bad_word'] = "Uložit filtr";
 $l['no_bad_words'] = "V tuto chvíli zde nejsou žádná slova, která mají být nahrazena.";
 $l['add_bad_word'] = "Přidat filtr";
 
-$l['error_missing_bad_word'] = "Nezadal jste slovo, které má být nahrazeno.";
+$l['error_missing_bad_word'] = "Nezadal(a) jste slovo, které má být nahrazeno.";
 $l['error_invalid_bid'] = "Zvolený filtr neexistuje.";
 $l['error_bad_word_filtered'] = "Filtr, který jste zadal, již existuje.";
 
