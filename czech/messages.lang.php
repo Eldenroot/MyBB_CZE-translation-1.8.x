@@ -10,19 +10,19 @@
 $l['click_no_wait'] = "Pokud nechcete čekat, klikněte zde.";
 $l['redirect_return_forum'] = "<br /><br />Nebo se můžete <a href=\"{1}\">vrátit do fóra</a>.";
 $l['redirect_emailsent'] = "Vaše e-mailová zpráva byla úspěšně odeslána.";
-$l['redirect_loggedin'] = "Vaše přihlášení proběhlo úspěšně.<br />Nyní budete přesměrováni zpět, odkud jste přišli.";
+$l['redirect_loggedin'] = "Vaše přihlášení proběhlo úspěšně.<br />Nyní budete přesměrován zpět, odkud jste přišel.";
 
-$l['error_invalidpworusername'] = "Zadali jste neplatné uživatelské jméno či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
-$l['error_invalidpworusername1'] = "Zadali jste neplatný e-mail či heslo. <br /><br />Pokud jste heslo zapomněli, prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
-$l['error_invalidpworusername2'] = "Zadali jste neplatnou kombinaci uživatelského jména či hesla nebo e-mailu či hesla. <br /><br />Pokud jste heslo zapomněli, prosím, <a href=\"member.php?action=lostpw\">získejte nové</a>.";
-$l['error_incompletefields'] = "Zdá se, že nejméně jedno z požadovaných polí nebylo vyplněno. Vraťte se prosím a vyplňte všechna požadovaná pole.";
+$l['error_invalidpworusername'] = "Zadal(a) jste neplatné uživatelské jméno či heslo. <br /><br />Pokud jste heslo zapomněl(a), prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
+$l['error_invalidpworusername1'] = "Zadal(a) jste neplatný e-mail či heslo. <br /><br />Pokud jste heslo zapomněl(a), prosím <a href=\"member.php?action=lostpw\">získejte nové</a>.";
+$l['error_invalidpworusername2'] = "Zadal(a) jste neplatnou kombinaci uživatelského jména či hesla nebo e-mailu či hesla. <br /><br />Pokud jste heslo zapomněl(a), prosím, <a href=\"member.php?action=lostpw\">získejte nové</a>.";
+$l['error_incompletefields'] = "Zdá se, že nejméně jedno z požadovaných polí nebylo vyplněno. Prosím, vraťte se a vyplňte všechna požadovaná pole.";
 $l['error_alreadyuploaded'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím, přejmenujte jej a nahrajte znovu. Nebo klikněte na \"aktualizovat přílohu\".";
 $l['error_alreadyuploaded_perm'] = "Tento příspěvek již obsahuje jako přílohu soubor stejného jména. Prosím buď jej odstraňte nebo jej přejmenujte a nahrajte znovu.";
 $l['error_nomessage'] = "Nelze bohužel pokračovat, protože tato zpráva není validní. Prosím, vraťte se a opravte ji.";
 $l['error_invalidemail'] = "Uvedená e-mailová adresa není platná.";
 $l['error_nomember'] = "Zadaný uživatel neexistuje, nebo je chybně zadán.";
 $l['error_maxposts'] = "Limit Vašich příspěvků za 1 den byl vyčerpán. Pokračujte, prosím, zítra. Pokud si myslíte, že je to naše chyba, kontaktujte administrátora.<br /><br />Váš denní limit je nastaven na {1} ks";
-$l['error_nohostname'] = "K zadané IP adrese nelze nalézt hostitele.";
+$l['error_nohostname'] = "K zadané IP adrese nelze nalézt hostname.";
 $l['error_invalidthread'] = "Zadané téma neexistuje.";
 $l['error_invalidpost'] = "Zadaný příspěvek neexistuje.";
 $l['error_invalidannouncement'] = "Zadané oznámení neexistuje.";
@@ -50,12 +50,12 @@ $l['error_nopassword'] = "Nebylo zadáno správné heslo.";
 $l['error_usernametaken'] = "Zvolené uživatelské jméno je již bohužel registrováno. Pokud jste se již dříve registroval(a) <a href=\"member.php?action=login\">přihlašte se</a>.";
 $l['error_nousername'] = "Nebylo zadáno uživatelské jméno.";
 $l['error_invalidusername'] = "Zadané uživatelské jméno není platné.";
-$l['error_invalidpassword'] = "Zadané heslo je chybné. Pokud jste heslo zapomněli, klikněte <a href=\"member.php?action=lostpw\">zde</a> nebo se vraťte zpět a zkuste to znovu.";
+$l['error_invalidpassword'] = "Zadané heslo je chybné. Pokud jste heslo zapomněl(a), klikněte <a href=\"member.php?action=lostpw\">zde</a> nebo se vraťte zpět a zkuste to znovu.";
 $l['error_postflooding'] = "Váš příspěvek nelze publikovat. Administrátor určil, že je možné publikovat pouze jednou za každých {1} sekund.";
 $l['error_nopermission_guest_1'] = "Buď nejste přihlášen(a), nebo nemáte oprávnění ke shlédnutí této stránky. Může to být z několika následujících důvodů:";
 $l['error_nopermission_guest_2'] = "Nejste přihlášen(a), nebo registrován(a). K přihlášení použijte formulář dole na stránce.";
 $l['error_nopermission_guest_3'] = "Nemáte přístupová práva ke stránce. Pokoušíte se shlédnout něco, co byste neměl(a)? Podívejte se na pravidla fóra, zda k této akci máte oprávnění.";
-$l['error_nopermission_guest_4'] = "Váš účet mohl být zablokován administrátorem, nebo váš uživatelský účet ještě není aktivní.";
+$l['error_nopermission_guest_4'] = "Váš účet mohl být zablokován administrátorem, nebo Váš uživatelský účet ještě není aktivní.";
 $l['error_nopermission_guest_5'] = "Snažíte se o přímý přístup na tuto stránku, což lze jen z patřičných formulářů či odkazů.";
 $l['login'] = "Přihlásit se";
 $l['need_reg'] = "Chcete se zaregistrovat?";
@@ -72,7 +72,7 @@ $l['logged_in_user'] = "Přihlášený uživatel";
 $l['error_too_many_images'] = "Příliš mnoho obrázků.";
 $l['error_too_many_images2'] = "Nelze bohužel pokračovat se zpracování vašeho příspěvku, neboť obsahuje příliš mnoho obrázků. Aby bylo možné pokračovat, musíte některé obrázky z vašeho příspěvku odstranit.";
 $l['error_too_many_images3'] = "<b>Poznámka:</b> Maximální počet obrázků na jeden příspěvek je";
-$l['error_attach_file'] = "Chyba s připojováním souboru";
+$l['error_attach_file'] = "Chyba s uložením souboru";
 $l['please_correct_errors'] = "Před pokračováním, prosím, opravte následující chyby:";
 $l['error_reachedattachquota'] = "Tento soubor nelze připojit, neboť jste již dosáhl(a) maxima příloh z počtu {1}";
 $l['error_maxattachpost'] = "Tento soubor nelze připojit, neboť jste již dosáhli maximálního povoleného počtu příloh na příspěvek: {1} ks.";
@@ -128,7 +128,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 
 Budete muset zadat následující údaje:
 Vaši e-mailovou adresu,
-Aktivační kód: {5}
+aktivační kód: {5}
 
 Děkujeme
 Vedení fóra {2}";
