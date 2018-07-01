@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -35,8 +35,8 @@ $l['logging_out'] = "Odhlašuje se";
 $l['emailing_user'] = "Posílá e-mail uživateli";
 $l['rating_user'] = "Hodnotí uživatele";
 $l['viewing_memberlist'] = "Zobrazuje <a href=\"memberlist.php\">seznam uživatelů</a>";
-$l['viewing_whoposted'] = "Zobrazuje kdo psal příspěvky";
-$l['viewing_whoposted2'] = "Zobrazuje kdo přispěl do tématu <a href=\"{1}\">{2}</a>";
+$l['viewing_whoposted'] = "Zobrazuje, kdo psal příspěvky";
+$l['viewing_whoposted2'] = "Zobrazuje, kdo přispěl do tématu <a href=\"{1}\">{2}</a>";
 $l['marking_read'] = "<a href=\"misc.php?action=markread&amp;my_post_key={1}\">Označuje fóra jako přečtená</a>";
 $l['viewing_helpdocs'] = "Zobrazuje <a href=\"misc.php?action=help\">Nápovědu</a>";
 $l['viewing_buddylist'] = "Zobrazuje <a href=\"misc.php?action=buddypopup\">Seznam přátel</a>";
@@ -118,7 +118,7 @@ $l['viewing_modlogs'] = "Zobrazuje logy moderátora";
 $l['managing_announcements'] = "Spravuje oznámení";
 $l['search_for_user'] = "Hledá uživatele";
 $l['managing_warninglogs'] = "Spravuje logy varování";
-$l['searching_ips'] = "Hledá IP adresy";
+$l['searching_ips'] = "Vyhledává IP adresy";
 $l['viewing_reports'] = "Zobrazuje oznámené příspěvky";
 $l['adding_announcement'] = "Přidává oznámení";
 $l['deleting_announcement'] = "Odstraňuje oznámení";
