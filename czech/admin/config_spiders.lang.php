@@ -1,15 +1,15 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 $l['spiders_bots'] = "Spiders / Boti";
-$l['spiders_bots_desc'] = "Tato sekce umožní spravovat boty a vyhledávací roboty, kteří navštívili vaše fórum. Můžete také vidět, který bot navštívil fórum naposledy.";
+$l['spiders_bots_desc'] = "Tato sekce umožní spravovat boty a vyhledávací roboty, kteří navštívili Vaše fórum. Můžete také vidět, který bot navštívil fórum naposledy.";
 $l['add_new_bot'] = "Přidat nového bota";
-$l['add_new_bot_desc'] = "Zde můžeš přidat boty od kterých vyžadujete návštěvu fóra.";
+$l['add_new_bot_desc'] = "Zde můžete přidat boty od kterých vyžadujete návštěvu fóra.";
 
 $l['edit_bot'] = "Upravit bota";
 $l['edit_bot_desc'] = "Zde můžete upravit existujícího bota.";
@@ -32,12 +32,11 @@ $l['save_bot'] = "Uložit bota";
 $l['use_board_default'] = "Použít výchozí nástěnku";
 
 $l['error_invalid_bot'] = "Vybraný bot neexistuje.";
-$l['error_missing_name'] = "Nezadal jsi název tohoto bota";
-$l['error_missing_agent'] = "Nezadal si žádný řetezec pro tohoto bota";
+$l['error_missing_name'] = "Nezadal(a) jste název tohoto bota";
+$l['error_missing_agent'] = "Nezadal(a) jste žádný řetezec pro tohoto bota";
 
 $l['success_bot_created'] = "Bot byl úspěšně vytvořen.";
 $l['success_bot_updated'] = "Bot byl úspěšně upraven.";
 $l['success_bot_deleted'] = "Bot byl úspěšně smazaný.";
 
-$l['confirm_bot_deletion'] = "Opravdu chceš smazat tohoto bota?";
-
+$l['confirm_bot_deletion'] = "Jste si doopravdy jistý, že chcete smazat tohoto bota?";

@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['delete_poll'] = "Smazat anketu";
@@ -44,10 +46,11 @@ $l['public_note'] = "<b>Poznámka:</b> Toto je veřejné hlasování. Všichni u
 $l['total'] = "Celkem";
 $l['vote'] = "Hlasovat!";
 $l['total_votes'] = "{1} hlas(ů)";
-$l['you_voted'] = "* Hlasovali jste pro tuto možnost.";
+$l['you_voted'] = "* Hlasoval(a) jste pro tuto možnost.";
 $l['poll_closed'] = "Hlasování je ukončeno.";
 $l['poll_closes'] = "Hlasování bude ukončeno: {1}";
 $l['already_voted'] = "Již jste hlasoval(a).";
+$l['no_voting_permission'] = "Nemáte dostatečná oprávnění, abyste mohl hlasovat v této anketě.";
 $l['undo_vote'] = "Zrušit anketní hlas";
 $l['quick_reply'] = "Rychlá odpověď";
 $l['message_note'] = "Text Vaší zprávy:";
@@ -72,7 +75,7 @@ $l['messages_in_thread'] = "Příspěvků v tématu";
 $l['users_browsing_thread'] = "Uživatel(é) prohlížející toto téma:";
 $l['users_browsing_thread_guests'] = "{1} host(ů)";
 $l['users_browsing_thread_invis'] = "{1} Neviditelný(í) uživatel(é)";
-$l['users_browsing_thread_reading'] = "Čtení...";
+$l['users_browsing_thread_reading'] = "Čtení…";
 $l['inline_soft_delete_posts'] = "Odstranit příspěvky dočasně";
 $l['inline_restore_posts'] = "Obnovit příspěvky";
 $l['inline_delete_posts'] = "Odstranit příspěvky trvale";
@@ -109,4 +112,3 @@ $l['quick_delete_success'] = 'Příspěvek byl úspěšně smazán.';
 $l['quick_delete_thread_success'] = 'Téma bylo úspěšně smazáno.';
 $l['quick_restore_error'] = 'Při obnově příspěvku došlo k chybě:';
 $l['quick_restore_success'] = 'Příspěvek byl úspěšně obnoven.';
-

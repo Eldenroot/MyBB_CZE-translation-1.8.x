@@ -1,18 +1,18 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 $l['custom_profile_fields'] = "Vlastní profilové pole";
-$l['custom_profile_fields_desc'] = "Tato sekce vám umožní upravit, smazat a spravovat vlastní profilové pole.";
+$l['custom_profile_fields_desc'] = "Tato sekce Vám umožnuje upravit, smazat a spravovat vlastní profilové pole.";
 $l['add_profile_field'] = "Přidat profilové pole";
 $l['add_new_profile_field'] = "Přidat nové profilové pole";
-$l['add_new_profile_field_desc'] = "Zde můžeš přidat nové profilové pole.";
+$l['add_new_profile_field_desc'] = "Zde můžete přidat nové profilové pole.";
 $l['edit_profile_field'] = "Upravit profilové pole";
-$l['edit_profile_field_desc'] = "Zde můžeš upravit profilové pole.";
+$l['edit_profile_field_desc'] = "Zde můžete upravit profilové pole.";
 
 $l['title'] = "Název";
 $l['short_description'] = "Krátký popis";
@@ -44,11 +44,11 @@ $l['display_on_profile_desc'] = "Má být toto pole zobrazeno v profilu uživate
 $l['display_on_postbit'] = "Zobrazit na postbit?";
 $l['display_on_postbit_desc'] = "Má být toto pole zobrazeno na příspěvcích uživatele?";
 $l['viewableby'] = 'Má být toto pole zobrazeno na příspěvcích uživatele';
-$l['viewableby_desc'] = 'Vyberte povolené skupiny pro zobrazení tohoto pole profilu..';
+$l['viewableby_desc'] = 'Vyberte povolené skupiny pro zobrazení tohoto pole profilu.';
 $l['editableby'] = 'Upravovat může';
 $l['editableby_desc'] = 'Vyberte povolené skupiny, chcete-li upravit toto pole profilu.';
 $l['min_posts_enabled'] = "Minimální počet příspěvků?";
-$l['min_posts_enabled_desc'] = "Má být toto pole k dispozici pouze uživatelům s určitým počtem příspěvků? Pokud ano, nastavte zde minimální počet požadovaných pracovních míst..";
+$l['min_posts_enabled_desc'] = "Má být toto pole k dispozici pouze uživatelům s určitým počtem příspěvků? Pokud ano, nastavte zde minimální počet požadovaných pracovních míst.";
 $l['parser_options'] = "Možnost analyzátoru";
 $l['parse_allowhtml'] = "Ano, povolit HTML v tomto poli.";
 $l['parse_allowmycode'] = "Ano, povolit MyCode v tomto poli.";
@@ -58,19 +58,19 @@ $l['parse_allowvideocode'] = "Ano, povolit [video] kód v tomto poli.";
 $l['save_profile_field'] = "Uložit pole";
 $l['name'] = "Jmnéno";
 $l['registration'] = "Zobrazeno během registrace?";
-$l['editable'] = "Možnost upravit?";
+$l['editable'] = "Lze upravit?";
 $l['profile'] = "Profil?";
 $l['postbit'] = "Postbit?";
 $l['edit_field'] = "Upravit";
 $l['delete_field'] = "Smazat";
-$l['no_profile_fields'] = "Na fóru nejsou žádná vlastní pole.";
+$l['no_profile_fields'] = "Na fóru se nenacházejí žádná vlastní pole.";
 
-$l['error_missing_name'] = "Nezadal jsi název vlastního pole";
-$l['error_missing_description'] = "Nezadal jsi popis vlastního pole";
+$l['error_missing_name'] = "Nezadal jste název vlastního pole";
+$l['error_missing_description'] = "Nezadal jste popis vlastního pole";
 $l['error_invalid_fid'] = "Zvolené pole neexistuje.";
 
 $l['success_profile_field_added'] = "Vlastní pole profilo bylo úspěšně vytvořeno.";
 $l['success_profile_field_saved'] = "Vlastní pole profilu bylo úspěšně změněno.";
 $l['success_profile_field_deleted'] = "Zvolené vlastní pole profilu bylo úspěšně smazáno.";
 
-$l['confirm_profile_field_deletion'] = "Jsi si jistý, že chceš smazat profilové pole?";
+$l['confirm_profile_field_deletion'] = "Jste si jistý, že chcete smazat profilové pole?";

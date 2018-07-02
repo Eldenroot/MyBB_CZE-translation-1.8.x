@@ -126,7 +126,7 @@ $l['can_view_deletion_notices'] = "Může vidět smazaná oznámení?";
 $l['account_management'] = "Správa účtu";
 $l['edit_time_limit'] = "Změnit časový limit";
 $l['edit_time_limit_desc'] = "Počet minut, po které nemohou běžní uživatelé upravovat své vlastní příspěvky (pokud mají oprávnění). Zadejte 0 (nula) pro bez omezení.";
-$l['can_be_reported'] = "Může být nahlášen?";
+$l['can_be_reported'] = "Může být nahlášen (profil, příspěvek, reputace)?";
 $l['can_access_usercp'] = "Má přístup k uživatelskému panelu?";
 $l['can_change_username'] = "Může si změnit uživatelské jméno?";
 $l['can_change_website'] = "Může změnit webové stránky?";
@@ -193,16 +193,16 @@ $l['can_use_ipsearch'] = "Může vyhledat IP adresu?";
 $l['outstanding_join_request'] = "Nevyřízené žádosti o přidání";
 
 $l['no_join_requests'] = "Pro tuto skupinu uživatelů neexistují žádné nevyřízené požadavky na připojení se ke skupině.";
-$l['no_assigned_leaders'] = "Dosud jste nepřiřadili žádného vůdce této skupiny. Chcete-li vytvořit vůdce pro tuto skupinu, vyplňte formulář níže.";
+$l['no_assigned_leaders'] = "Dosud jste nepřiřadil žádného vůdce této skupiny. Chcete-li vytvořit vůdce pro tuto skupinu, vyplňte formulář níže.";
 
 $l['error_missing_title'] = "Nezadali jste název této nové skupiny.";
-$l['error_invalid_user_group'] = "Vybrali jste neplatnou skupinu uživatelů.";
-$l['error_invalid_join_request'] = "Vybrali jste neplatnou žádost o připojení se ke skupině.";
-$l['error_invalid_username'] = "Vloženeé uživatelské jméno je neplatné.";
+$l['error_invalid_user_group'] = "Vybral(a) jste neplatnou skupinu uživatelů.";
+$l['error_invalid_join_request'] = "Vybral(a) jste neplatnou žádost o připojení se ke skupině.";
+$l['error_invalid_username'] = "Vložené uživatelské jméno je neplatné.";
 $l['error_already_leader'] = "Uživatel již je vůdcem této skupiny.";
-$l['error_invalid_group_leader'] = "Vybrali jste neplatného vůdce skupiny.";
+$l['error_invalid_group_leader'] = "Vybral jste neplatného vůdce skupiny.";
 $l['error_missing_namestyle_username'] = "Uživatelské jméno musí obsahovat {username}";
-$l['error_disallowed_namestyle_username'] = "Nemůžete pro uživatelské jméno použít skypty, meta či základní tagy.";
+$l['error_disallowed_namestyle_username'] = "Nemůžete pro uživatelské jméno použít skypty, meta nebo základní tagy.";
 $l['error_default_group_delete'] = "Výchozí skupina nemůže být smazána.";
 $l['error_cannot_have_both_types'] = "Nemůžete mít skupinu, ke které lze zažádat o vstup, pokud se jedná zároveň o skupinu moderátorskou a zároveň o skupinu pouze pro zvané. Vyberte jen jednu.";
 
@@ -218,5 +218,5 @@ $l['success_user_made_leader'] = "byl úspěšně nastavený jako vůdce skupiny
 $l['success_group_leader_updated'] = "Zvolený vůdce skupiny byl úspěšně změněn.";
 $l['success_group_leader_deleted'] = "Zvolený uživatel byl úspěšně odstraněn ze seznamu vůdců skupiny.";
 
-$l['confirm_group_deletion'] = "Opravdu chceš smazat tuto skupinu?";
-$l['confirm_group_leader_deletion'] = "Opravdu cheš smazat vůdce této skupiny?";
+$l['confirm_group_deletion'] = "Opravdu chcete smazat tuto skupinu?";
+$l['confirm_group_leader_deletion'] = "Opravdu chcete smazat vůdce této skupiny?";

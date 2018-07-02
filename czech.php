@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -11,13 +11,13 @@
 $langinfo['name'] = "Čeština";
 
 // The author of the language
-$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Stary & uzbugg & Pepe & chodik";
+$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Pepe & chodik";
 
 // The language authors website
 $langinfo['website'] = "https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1815";
+$langinfo['version'] = "1816";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

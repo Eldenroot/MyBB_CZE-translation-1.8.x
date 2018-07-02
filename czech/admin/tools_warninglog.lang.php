@@ -1,15 +1,15 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 
 $l['warning_logs'] = "Historie napomenutí";
-$l['warning_logs_desc'] = "V této části můžeš vidět historii uživatelů, kteří byli v minulosti napomenuti.";
+$l['warning_logs_desc'] = "V této části můžete vidět historii uživatelů, kteří byli v minulosti napomenuti.";
 $l['warned_user'] = "Napomenutý uživatel";
 $l['warning'] = "Napomenutí";
 $l['date_issued'] = "Uděleno dne";
@@ -43,11 +43,11 @@ $l['warning_active'] = "Aktivní";
 $l['error_invalid_warning'] = "Bylo zadáno neplatné upozornění.";
 
 $l['revoke_warning'] = "Zrušit tohle napomenutí";
-$l['revoke_warning_desc'] = "Aby si mohl zrušit tohle napomenutí je potřeba vyplnit níže důvod. Tohle nezruší pozastavení případně ban, které způsobilo tohle varování.";
+$l['revoke_warning_desc'] = "Abyste mohl zrušit tohle napomenutí je potřeba vyplnit níže důvod. Tohle nezruší pozastavení případně ban, které způsobilo tohle varování.";
 $l['reason'] = "Důvod:";
 $l['warning_is_revoked'] = "Tohle napomenutí bylo zrušeno.";
 $l['revoked_by'] = "Zrušeno:";
 $l['date_revoked'] = "Datum, kdy bylo zrušeno:";
 $l['error_already_revoked'] = "Tohle upozornění již bylo zrušeno.";
-$l['error_no_revoke_reason'] = "Nezadal si důvod, proč chceš zrušit tohle napomenutí.";
+$l['error_no_revoke_reason'] = "Nezadal jste důvod, proč chcete zrušit tohle napomenutí.";
 $l['redirect_warning_revoked'] = "Tohle napomenutí bylo úspěšně odebráno a uživateli byly sníženy trestné body.";

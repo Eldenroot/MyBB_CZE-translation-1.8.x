@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['nav_editpost'] = "Upravit příspěvek";
@@ -33,15 +35,15 @@ $l['redirect_nodelete'] = "Příspěvek nebyl odstraněn, neboť jste nezaškrtl
 $l['redirect_norestore'] = "Příspěvek nebyl obnoven, neboť jste nezaškrtli checkbox \"Obnovit\".";
 $l['redirect_postedited'] = "Příspěvek byl upraven.<br />";
 $l['redirect_postedited_redirect'] = "Nyní budete přesměrováni do tématu.";
-$l['redirect_postedited_poll'] = "Příspěvek byl upraven. <br />Protože jste zvolili anketu, budete přesměrováni na stránku nastavení hlasování.";
-$l['error_invalidpost'] = "Jste přesměrováni na nesprávnou adresu. Ujistěte se, že zvolený příspěvek existuje a zkuste to znovu.";
-$l['redirect_threaddeleted'] = "Téma bylo odstraněno.<br />Nyní budete přesměrováni do fóra.";
-$l['redirect_postdeleted'] = "Příspěvek byl odstraněn.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_threadrestored'] = "Téma bylo obnoveno.<br />Nyní budete přesměrováni do fóra.";
-$l['redirect_postrestored'] = "Příspěvek byl obnoven.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_threadclosed'] = "Příspěvky v tomto tématu již nelze upravovat, protože moderátor celé téma uzamkl.";
-$l['redirect_post_moderation'] = "Administrátor určil, že všechny úpravy příspěvků musí být schváleny moderátorem. Nyní budete přesměrováni do tématu.";
-$l['redirect_thread_moderation'] = "Administrátor určil, že všechny úpravy témat musí být schváleny moderátorem. Nyní budete přesměrováni na hlavní stránku fóra.";
+$l['redirect_postedited_poll'] = "Příspěvek byl upraven. <br />Protože jste zvolil(a) anketu, budete přesměrováni na stránku nastavení hlasování.";
+$l['error_invalidpost'] = "Jste přesměrován(a) na nesprávnou adresu. Ujistěte se, že zvolený příspěvek existuje a zkuste to znovu.";
+$l['redirect_threaddeleted'] = "Téma bylo odstraněno.<br />Nyní budete přesměrován(a) do fóra.";
+$l['redirect_postdeleted'] = "Příspěvek byl odstraněn.<br />Nyní budete přesměrován(a) do tématu.";
+$l['redirect_threadrestored'] = "Téma bylo obnoveno.<br />Nyní budete přesměrován(a) do fóra.";
+$l['redirect_postrestored'] = "Příspěvek byl obnoven.<br />Nyní budete přesměrován(a) do tématu.";
+$l['redirect_threadclosed'] = "Příspěvky v tomto tématu již nelze upravovat, protože moderátor celé téma uzavřel.";
+$l['redirect_post_moderation'] = "Administrátor(ka) určil(a), že všechny úpravy příspěvků musí být schváleny moderátorem. Nyní budete přesměrován(a) do tématu.";
+$l['redirect_thread_moderation'] = "Administrátor(ka) určil(a), že všechny úpravy témat musí být schváleny moderátorem. Nyní budete přesměrován(a) na hlavní stránku fóra.";
 $l['error_already_delete'] = "Tento příspěvek je již odstraněn.";
 
 $l['thread_deleted'] = "Trvale odstraněné téma";

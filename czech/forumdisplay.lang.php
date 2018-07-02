@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['post_thread'] = "Nové téma";
@@ -46,7 +48,7 @@ $l['new_hot_thread'] = "Nejčtenější témata (nová)";
 $l['posts_by_you'] = "Obsahující Vaše příspěvky";
 $l['no_new_thread'] = "Bez nových příspěvků";
 $l['hot_thread'] = "Nejčtenější témata (starší)";
-$l['locked_thread'] = "Uzavřená témata";
+$l['closed_thread'] = "Uzavřená témata";
 $l['goto_first_unread'] = "Jít na první nepřečtený příspěvek";
 $l['pages'] = "Stran:";
 $l['pages_last'] = "poslední";
@@ -67,7 +69,7 @@ $l['approve_threads'] = "Schválit téma";
 $l['unapprove_threads'] = "Zamítnout téma";
 $l['inline_go'] = "OK";
 $l['clear'] = "Vyčistit";
-$l['sub_forums_in']  = "Fóra v '{1}'";
+$l['sub_forums_in'] = "Fóra v '{1}'";
 $l['forum_rules'] = "{1} - pravidla";
 $l['subforums'] = "<strong>Vnořená fóra:</strong>";
 $l['asc'] = "vzestupně";
@@ -79,7 +81,7 @@ $l['icon_dot'] = "Obsahující vaše příspěvky. "; // The spaces for the icon
 $l['icon_no_new'] = "Bez nových příspěvků.";
 $l['icon_new'] = "Nové příspěvky.";
 $l['icon_hot'] = " Nejčtenější téma.";
-$l['icon_lock'] = " Uzavřené téma.";
+$l['icon_close'] = " Uzavřené téma.";
 $l['attachment_count'] = "Toto téma obsahuje 1 přílohu.";
 $l['attachment_count_multiple'] = "Toto téma obsahuje {1} příloh.";
 $l['rss_discovery_forum'] = "Nejnovější témata v {1}";
@@ -97,4 +99,3 @@ $l['clear_selection'] = "Zrušit výběr.";
 $l['error_containsnoforums'] = "Fórum, které si právě prohlížíte, neobsahuje žádná vnořená fóra.";
 
 $l['inline_edit_description'] = '(Pro editaci kliknout a držet)';
-

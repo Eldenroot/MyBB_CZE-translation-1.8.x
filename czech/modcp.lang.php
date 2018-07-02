@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['nav_width'] = "180";
@@ -41,7 +43,7 @@ $l['report_time'] = "Ohlášeno";
 $l['mark_read'] = "Označit vybrané za přečtené";
 $l['no_reports'] = "Neexistují žádná nepřečtená hlášení.";
 $l['no_logs'] = "Nyní nejsou logovány akce moderátorů.";
-$l['error_noselected_reports'] = "Nevybral si žádnou nahlášenou věc, která by měla být označena jako přečtená.";
+$l['error_noselected_reports'] = "Nevybral(a) jste žádnou nahlášenou věc, která by měla být označena jako přečtená.";
 $l['error_missing_ipaddress'] = "Pro vyhledávání dle IP adresy ji nejprve musíte zadat.";
 $l['error_no_results'] = "Podle Vámi zadaných kritérií nebylo nic nalezeno.";
 $l['redirect_reportsmarked'] = "Vybrané ohlášené věci byly označeny jako přečtené.";
@@ -50,9 +52,9 @@ $l['redirect_modnotes'] = "Poznámky moderátora byly úspěšně zaktualizován
 
 $l['for'] = "Pro";
 $l['report_info'] = "Nahlášený obsah";
-$l['report_type'] = "Důvod ohlášení";
+$l['report_type'] = "Důvod nahlášení";
 $l['report_count'] = "Hlášení č.";
-$l['report_lastpost'] = "Nejnověji ohlášené";
+$l['report_lastpost'] = "Nejnověji nahlášené";
 
 $l['report_reason_other'] = "Jiný důvod";
 
@@ -87,7 +89,7 @@ $l['search_users'] = "Hledat uživatele";
 $l['search_posts'] = "Hledat příspěvky";
 $l['ip_address'] = "IP adresa:";
 $l['result'] = "Výsledek";
-$l['ipresult_regip'] = "IP registrace:";
+$l['ipresult_regip'] = "IP adresa při registraci:";
 $l['ipresult_lastip'] = "Poslední známá IP:";
 $l['ipresult_post'] = "Příspěvek:";
 $l['subject'] = "Předmět";
@@ -100,8 +102,8 @@ $l['action'] = "Akce";
 $l['all_moderators'] = "Všichni moderátoři";
 $l['ip'] = "IP adresa";
 $l['info_on_ip'] = "Informace o této IP adrese";
-$l['search_ip_sfs']  = "Vyhledat tuto IP adresu na Stop Forum Spam databázi";
-$l['information']  = "Informace";
+$l['search_ip_sfs'] = "Vyhledat tuto IP adresu na Stop Forum Spam databázi";
+$l['information'] = "Informace";
 $l['filter_modlogs'] = "Filtrovat logy moderátora";
 $l['forum'] = "Fórum";
 $l['post'] = "Příspěvek";
@@ -133,7 +135,6 @@ $l['profile_optional'] = "Volitelná pole";
 $l['website_url'] = "URL webu:";
 $l['birthdate'] = "Datum narození:";
 $l['icq_number'] = "ICQ číslo:";
-$l['aim_screenname'] = "AIM Screen Name:";
 $l['yahoo_id'] = "Yahoo ID:";
 $l['skype_id'] = "Skype ID:";
 $l['google_id'] = "Google Hangouts ID:";
@@ -191,11 +192,11 @@ $l['redirect_banuser'] = "Uživatel byl úspěšně zabanován.";
 $l['redirect_banuser_updated'] = "Ban uživatele byl úspěšně zaktualizován.";
 $l['invalid_username'] = "Zadané jméno uživatele není správné. Přesvědčte se, že zadáváte platné.";
 $l['error_useralreadybanned'] = "Tento uživatel byl již zabanován a jeho ban stále trvá. Nelze jej nyní zabanovat.";
-$l['error_cannotbanuser'] = "Tohoto uživatele nemůžete zabanovat, protože má vyšší práva, než Vy. Chcete-li aby byl zabanován, můžete o to požádat administrátora.";
-$l['error_cannotbanself'] = "Nemůžete zabanovat sebe. Zadejte prosím jiné jméno.";
+$l['error_cannotbanuser'] = "Tohoto uživatele nemůžete zabanovat, protože má vyšší oprávnění, než Vy. Chcete-li aby byl(a) zabanován(a), můžete o to požádat administrátora.";
+$l['error_cannotbanself'] = "Nemůžete zabanovat sebe. Prosím, zadete jiné jméno.";
 $l['error_no_perm_to_ban'] = "Nemáte oprávnění zabanovat tohoto uživatele.";
-$l['error_nobanreason'] = "Není uveden důvod banu. Prosím uveďte jej níže.";
-$l['error_nobangroup'] = "Nezvolili jste platnou skupinu, do které si přejete uživatele přesunout.";
+$l['error_nobanreason'] = "Není uveden důvod banu. Prosím, uveďte jej níže.";
+$l['error_nobangroup'] = "Nezvolil(a) jste platnou skupinu, do které si přejete uživatele přesunout.";
 $l['edit_ban'] = "Upravit ban";
 $l['lift_ban'] = "Zrušit ban";
 $l['ban'] = "Ban";
@@ -258,10 +259,10 @@ $l['suspendsignature_for'] = "Omezit dokud {1}.<br />Odškrtněte pro odstraněn
 $l['suspendposting_perm'] = "Omezit trvale.<br />Odškrtněte pro odstranění, nebo změňte níže.";
 $l['moderateposts_perm'] = "Moderovat trvale.<br />Odškrtněte pro odstranění, nebo změňte níže.";
 $l['suspendsignature_perm'] = "Omezit trvale.<br />Odškrtněte pro odstranění, nebo změňte níže.";
-$l['suspendsignature_error'] = "Zvolili jste omezení podpisu uživatele, ale nezadali platnou dobu omezení. Pokračovat lze zadáním platné doby, nebo odškrtnutím volby akci stornujte.";
-$l['moderateposting_error'] = "Zvolili(a) jste nutnost moderování příspěvků tohoto uživatele, ale nezadali platnou dobu omezení. Pokračovat lze zadáním platné doby, nebo odškrtnutím volby akci stornujte.";
-$l['suspendposting_error'] = "Zvolili jste omezení práva publikovat tomuto uživateli, ale nezadali platnou dobu omezení. Pokračovat lze zadáním platné doby, nebo odškrtnutím volby akci stornujte.";
-$l['suspendmoderate_error'] = "Zvolili jste omezení práva publikovat a současně nutnost moderování příspěvků tohoto uživatele. Prosím zvolte jen jedno omezení.";
+$l['suspendsignature_error'] = "Zvolil(a) jste omezení podpisu uživatele, ale nezadal(a) platnou dobu omezení. Pokračovat lze zadáním platné doby, nebo odškrtnutím volby akci stornujte.";
+$l['moderateposting_error'] = "Zvolili(a) jste nutnost moderování příspěvků tohoto uživatele, ale nezadal(a) platnou dobu omezení. Pokračovat lze zadáním platné doby, nebo odškrtnutím volby akci stornujte.";
+$l['suspendposting_error'] = "Zvolil(a) jste omezení práva přispívat tomuto uživateli, ale nezadal(a) platnou dobu omezení. Pokračovat lze zadáním platné doby, nebo odškrtnutím volby akci stornujte.";
+$l['suspendmoderate_error'] = "Zvolil(a) jste omezení práva přispívat a současně nutnost moderování příspěvků tohoto uživatele. Prosím, zvolte jen jedno omezení.";
 
 $l['expire_hours'] = "hodin";
 $l['expire_days'] = "dnů";
@@ -310,9 +311,9 @@ $l['confirm_delete_announcement'] = "Opravdu chcete toto oznámení odstranit?";
 $l['redirect_add_announcement'] = "Oznámení bylo vytvořeno.";
 $l['redirect_edit_announcement'] = "Oznámení bylo upraveno.";
 $l['redirect_delete_announcement'] = "Oznámení bylo odstraněno.";
-$l['error_missing_title'] = "Neuvedli jste předmět.";
-$l['error_missing_message'] = "Neuvedli jste text oznámení.";
-$l['error_missing_forum'] = "Nevybrali jste fórum.";
+$l['error_missing_title'] = "Neuvedl(a) jste předmět.";
+$l['error_missing_message'] = "Neuvedl(a) jste text oznámení.";
+$l['error_missing_forum'] = "Nevybral(a) jste fórum.";
 $l['error_invalid_start_date'] = "Začátek oznámení je zadán chybně.";
 $l['error_invalid_end_date'] = "Konec oznámení je zadán chybně.";
 $l['error_end_before_start'] = "Konec oznámení musí následovat po jeho začátku.";
@@ -324,13 +325,13 @@ $l['announcement_deleted'] = "Odstraněné oznámení";
 
 $l['preview'] = 'Náhled';
 
-$l['you_cannot_view_mod_logs'] = "Nemáte dostatečná práva prohlížet logy moderátorů.";
-$l['you_cannot_view_reported_posts'] = "Nemáte dostatečná práva prohlížet ohlášené příspěvky.";
-$l['you_cannot_manage_announcements'] = "Nemáte dostatečná práva spravovat oznámení.";
-$l['you_cannot_moderate_threads'] = "Nemáte dostatečná práva moderovat témata.";
-$l['you_cannot_moderate_posts'] = "Nemáte dostatečná práva moderovat příspěvky.";
-$l['you_cannot_moderate_attachments'] = "Nemáte dostatečná práva moderovat přílohy.";
-$l['you_cannot_use_mod_queue'] = "Nemáte dostatečná práva použít frontu k moderování.";
+$l['you_cannot_view_mod_logs'] = "Nemáte dostatečná oprávnění prohlížet logy moderátorů.";
+$l['you_cannot_view_reported_posts'] = "Nemáte dostatečná oprávnění prohlížet ohlášené příspěvky.";
+$l['you_cannot_manage_announcements'] = "Nemáte dostatečná oprávnění spravovat oznámení.";
+$l['you_cannot_moderate_threads'] = "Nemáte dostatečná oprávnění moderovat témata.";
+$l['you_cannot_moderate_posts'] = "Nemáte dostatečná oprávnění moderovat příspěvky.";
+$l['you_cannot_moderate_attachments'] = "Nemáte dostatečná oprávnění moderovat přílohy.";
+$l['you_cannot_use_mod_queue'] = "Nemáte dostatečná oprávnění použít frontu k moderování.";
 
 $l['post'] = 'Příspěvek';
 $l['search_user'] = "Hledat uživatele";

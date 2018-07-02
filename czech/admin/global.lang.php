@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -35,36 +35,36 @@ $l['generated_in'] = "Vygenerováno za {1} with <a href=\"{2}\" target=\"_blank\
 
 // Login page
 
-$l['enter_username_and_password'] = "Abys mohl pokračovat je nutné zadat {1} a heslo.";
-$l['login_username'] = 'uživatelská přezdívka';
-$l['login_email'] = 'e-mailová adresa';
-$l['login_username_and_password'] = 'přezdívka/e-mailová adresa';
+$l['enter_username_and_password'] = "Abyste mohl pokračovat je nutné zadat {1} a heslo.";
+$l['login_username'] = 'Uživatelské jméno';
+$l['login_email'] = 'E-mailová adresa';
+$l['login_username_and_password'] = 'Uživatelské jméno/E-mailová adresa';
 $l['mybb_admin_login'] = "MyBB ovladací panel - přihlášení";
 $l['return_to_forum'] = "Návrat do fóra";
 $l['please_login'] = "Administrační panel MyBB";
-$l['username'] = "Přezdívka:";
+$l['username'] = "Uživatelské jméno:";
 $l['username1'] = "E-mailová adresa:";
-$l['username2'] = "Přezdívka/E-mailová adresa:";
+$l['username2'] = "Uživatelské jméno/E-mailová adresa:";
 $l['password'] = "Heslo:";
 $l['secret_pin'] = "Tajný PIN:";
 $l['login'] = "Přihlašovací údaje";
-$l['lost_password'] = "Zapomněl si přihlašovací údaje?";
+$l['lost_password'] = "Zapomněl jste heslo?";
 
-$l['error_invalid_admin_session'] = "Neplatné administratorské sezení. (= session?)";
+$l['error_invalid_admin_session'] = "Neplatné administratorské sezení.";
 $l['error_admin_session_expired'] = "Vypršela platnost tvého administrátorského přihlášení.";
-$l['error_invalid_ip'] = "Tvá IP adresa není platné pro sezení. (session?)";
+$l['error_invalid_ip'] = "Vaše IP adresa není platná pro sezení.";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
-$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli tvůj účet zablokovat, protože si zadal {1}x krát po sobě nesprávné přihlašovací údaje.  <br /> Na e-mailovou adresu vlastníka účtu, pod kterým ses přihlašoval, byl odeslán e-mail, jak odblokovat účet.";
+$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje. <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi jak odblokovat účet.";
 
-$l['error_invalid_username'] = "Přezdívka, kterou jsi zadal, je neplatná.";
-$l['error_invalid_uid'] = "Uživatelské ID, které jsi zadal, je neplatné.";
-$l['error_invalid_token'] = "Aktivační kód, který si zadal, je neplatný.";
+$l['error_invalid_username'] = "Uživatelské jméno, které jste zadal, je neplatné.";
+$l['error_invalid_uid'] = "Uživatelské ID, které jste zadal, je neplatné.";
+$l['error_invalid_token'] = "Aktivační kód, který jste zadal, je neplatný.";
 
-$l['success_logged_out'] = "Byl jsi úspěšně odhlášen.";
-$l['error_invalid_username_password'] = " Přihlašovací údaje, které jsi zadal, jsou nesprávné.";
+$l['success_logged_out'] = "Byl jste úspěšně odhlášen.";
+$l['error_invalid_username_password'] = " Přihlašovací údaje, které jste zadal, jsou nesprávné.";
 
 // Action Confirmation
-$l['confirm_action'] = "Jsi si doopravdy jistý, že chceš provést tuto akci?";
+$l['confirm_action'] = "Jste si doopravdy jistý, že chcete provést následující akci?";
 
 // Common words and phrases
 $l['home'] = "Domov";
@@ -145,18 +145,18 @@ $l['guest'] = 'Návštěvník';
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
 $l['rel_less_than'] = "Před méně než ";
-$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
+$l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
 $l['rel_minutes_single'] = "minuta";
-$l['rel_minutes_plural'] = "minuty";
+$l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "hodina";
-$l['rel_hours_plural'] = "hodiny";
+$l['rel_hours_plural'] = "hodin(y)";
 
 // Parser bits
 $l['quote'] = "Citace:";
 $l['wrote'] = "Napsal:";
 $l['code'] = "Kód:";
 $l['php_code'] = "PHP kód:";
-$l['linkback'] = "Originální příspěvek";
+$l['linkback'] = "Původní příspěvek";
 
 // The months of the year
 $l['january'] = "Leden";
@@ -174,13 +174,13 @@ $l['december'] = "Prosinec";
 
 // Access Denied
 $l['access_denied'] = "Přístup zamítnut.";
-$l['access_denied_desc'] = "Nemáš přístup do této části administračního rozhraní…";
+$l['access_denied_desc'] = "Nemáte přístup do této části administračního rozhraní…";
 
 // Super Administrator required
-$l['cannot_perform_action_super_admin_general'] = "Bohužel, nemůžeš provést tuto akci, protože nejsi super administrator.<br /><br /> Aby si mohl vykonat tuto akci, tak tvé user ID musí být přidáno na list super administratorů v inc/config.php.";
+$l['cannot_perform_action_super_admin_general'] = "Bohužel, nemůžete provést tuto akci, protože nejste super administrator.<br /><br /> Abyste mohl vykonat tuto akci, tak Vaše user ID musí být na seznamu super administratorů v inc/config.php.";
 
 // AJAX
-$l['loading_text'] = "Načítání<br />Prosím počkej…";
+$l['loading_text'] = "Načítání<br />Prosím, počkejte…";
 
 // Time zone selection boxes
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Howlandovy a Bakerovy ostrovy";
@@ -236,7 +236,7 @@ $l['delete_all'] = "Smazat všechny vyfiltrované (?)";
 
 // Misc
 $l['encountered_errors'] = "Byly zjištěny následující chyby:";
-$l['invalid_post_verify_key'] = "Došlo k neshodě autorizačního kódu. Potvrďte prosím, že chcete provést akci.";
+$l['invalid_post_verify_key'] = "Došlo k neshodě autorizačního kódu. Potvrďte, prosím, že chcete provést akci.";
 $l['invalid_post_verify_key2'] = "Došlo k neshodě autorizačního kódu. Zkontrolujte prosím, zda máte přístup k této stránce správně.";
 $l['unknown_error'] = "Vyskytla se neznámá chyba.";
 
@@ -258,44 +258,44 @@ $l['editor_removeformatting'] = "Smazat formátování";
 $l['editor_cut'] = "Vyjmout";
 $l['editor_copy'] = "Zkopírovat";
 $l['editor_paste'] = "Vložit";
-$l['editor_cutnosupport'] = "Tvůj prohlížeč nepodporuje vyjmutí. Vyzkoušej, prosím, použít klásové zkrátku Ctrl/Cmd-X";
-$l['editor_copynosupport'] = "Tvůj prohlížeč nepodporuje zkopírování. Vyzkoušej, prosím, použít klásové zkrátku Ctrl/Cmd-C";
-$l['editor_pastenosupport'] = "Tvůj prohlížeč nepodporuje vložení. Vyzkoušej, prosím, použít klásové zkrátku Ctrl/Cmd-V";
-$l['editor_pasteentertext'] = "Vlož text do následucujího rámečku:";
+$l['editor_cutnosupport'] = "Váš prohlížeč nepovoluje funkci vyjmutí. Použijte, prosím, klávesovou zkratku Ctrl/Cmd-X";
+$l['editor_copynosupport'] = "Váš prohlížeč nepovoluje funkci kopírování. Použijte, prosím, klávesovou zkratku Ctrl/Cmd-C";
+$l['editor_pastenosupport'] = "Váš prohlížeč nepovoluje funckci pro vkládání. Použijte, prosím, klávesovou zkratku Ctrl/Cmd-V";
+$l['editor_pasteentertext'] = "Vložte text do následucujího pole:";
 $l['editor_pastetext'] = "Vložit text";
 $l['editor_numlist'] = "Číselný seznam";
 $l['editor_bullist'] = "Odrážkový seznam";
 $l['editor_undo'] = "Zpět";
-$l['editor_redo'] = "Opakovat";
+$l['editor_redo'] = "Znovu";
 $l['editor_rows'] = "Řádky:";
 $l['editor_cols'] = "Sloupce:";
 $l['editor_inserttable'] = "Vložit tabulku";
-$l['editor_inserthr'] = "Vložit horizontální pravítko";
+$l['editor_inserthr'] = "Vložit vodorovnou čáru";
 $l['editor_code'] = "Kód";
 $l['editor_php'] = "PHP";
 $l['editor_width'] = "Šířka (volitelný údaj):";
 $l['editor_height'] = "Výška (volitelný údaj):";
 $l['editor_insertimg'] = "Vložit obrázek";
-$l['editor_email'] = "E-mail:";
+$l['editor_email'] = "e-mail:";
 $l['editor_insertemail'] = "Vložit e-mail";
 $l['editor_url'] = "URL:";
 $l['editor_insertlink'] = "Vložit odkaz";
-$l['editor_unlink'] = "Odlinkovat";
+$l['editor_unlink'] = "Odstranit odkaz";
 $l['editor_more'] = "Více";
 $l['editor_insertemoticon'] = "Vložit smajlíka";
-$l['editor_videourl'] = "Video URL:";
-$l['editor_videotype'] = "Video typ:";
+$l['editor_videourl'] = "URL adresa videa:";
+$l['editor_videotype'] = "Typ videa:";
 $l['editor_insert'] = "Vložit";
 $l['editor_insertyoutubevideo'] = "Vložit YouTube video";
-$l['editor_currentdate'] = "Vložit aktuální";
-$l['editor_currenttime'] = "Vložit aktuální datum";
+$l['editor_currentdate'] = "Vložit aktuální datum";
+$l['editor_currenttime'] = "Vložit aktuální čas";
 $l['editor_print'] = "Tisk";
 $l['editor_viewsource'] = "Ukázat zdroj";
 $l['editor_description'] = "Popis (volitelný):";
-$l['editor_enterimgurl'] = "Vložit URL (odkaz) obrázku:";
-$l['editor_enteremail'] = "Vložit e-mail addresu:";
+$l['editor_enterimgurl'] = "Vložit URL adresu obrázku:";
+$l['editor_enteremail'] = "Vložit e-mail adresu:";
 $l['editor_enterdisplayedtext'] = "Zadejte zobrazený text:";
-$l['editor_enterurl'] = "Vložit URL:";
+$l['editor_enterurl'] = "Vložit URL adresu:";
 $l['editor_enteryoutubeurl'] = "Vložit URL odkaz nebo ID videa na YouTube:";
 $l['editor_insertquote'] = "Vložit citaci";
 $l['editor_invalidyoutube'] = "Nesprávné YouTube video";
@@ -309,10 +309,10 @@ $l['editor_liveleak'] = "LiveLeak";
 $l['editor_insertvideo'] = "Vložit video";
 $l['editor_maximize'] = "Maximalizovat";
 
-$l['missing_task'] = "Chyba! Soubor úlohy neexistuje.";
-$l['task_backup_cannot_write_backup'] = "Chyba! Úloha: Databázové zálohy nemmůže zapisovat do složky backups (nachází se v /admin).";
-$l['task_backup_ran'] = "Naplánovaná úloha - Databázové úlohy úspěšně proběhla.";
-$l['task_checktables_ran'] = "Kontrola tabulky úspěšně proběhla a nebyla nalezena žádná chyba.";
+$l['missing_task'] = "Chyba! Soubor úloh neexistuje.";
+$l['task_backup_cannot_write_backup'] = "Chyba! Úloha: Databázové zálohy nemůže zapisovat do složky backups (nachází se v /admin).";
+$l['task_backup_ran'] = "Pravidelné zalohování databáze proběhlo v pořádku.";
+$l['task_checktables_ran'] = "Kontrola tabulek proběhla v pořádku a nebyly zjištěny žádné poškozené tabulky.";
 $l['task_checktables_ran_found'] = "Oznámení: Kontrola tabulky proběhla úspěšně a bylo upraveno {1} tabulek.";
 $l['task_dailycleanup_ran'] = "Úloha: Denní pročištění fóra - úspěšně proběhla.";
 $l['task_hourlycleanup_ran'] = "Úloha: Hodinové pročištění fóra: - úspěšně proběhla.";
@@ -323,20 +323,20 @@ $l['task_usercleanup_ran'] = "Úloha: Pročištění uživatelů úspěšně pro
 $l['task_massmail_ran'] = "Úloha: Hromadných e-mailů byla úspěšně spuštěna.";
 $l['task_userpruning_ran'] = "Promazání uživatelů úspěšně proběhlo.";
 $l['task_delayedmoderation_ran'] = "Opožděné moderátorství úspěšně proběhlo.";
-$l['task_massmail_ran_errors'] = "Nastal jeden nebo více problémů, odeslaných na \"{1}\":
+$l['task_massmail_ran_errors'] = "Vyskytl se jeden nebo více problémů při posílání \"{1}\":
 {2}";
 $l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB - proběhla v pořádku.";
-$l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit se serverem MyBB pro kontrolu verze fóra.";
-$l['task_recachestylesheets_ran'] = 'Re-cached {1} stylů.';
+$l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit serverem MyBB z důvodu kontroly verze.";
+$l['task_recachestylesheets_ran'] = 'Obnovena cache {1} stylů.';
 
-$l['massmail_username'] = "Přezdívka";
+$l['massmail_username'] = "Uživatelské jméno";
 $l['email_addr'] = "E-mailová adresa";
 $l['board_name'] = "Název fóra";
-$l['board_url'] = "URL (odkaz) fóra";
+$l['board_url'] = "URL adresa fóra";
 
 // Unlock ACP
 $l['lockout_unlock'] = "Odemknout administrační rozhraní fóra";
-$l['enter_username_and_token'] = "Prosím, zadej svojí přezdívku a aktivační kód pro pokračování.";
+$l['enter_username_and_token'] = "Prosím, zadejte Vaší přezdívku a aktivační kód pro pokračování.";
 $l['unlock_token'] = "Aktivační kód:";
 $l['unlock_account'] = "Odemknout účet";
 
@@ -344,20 +344,20 @@ $l['unlock_account'] = "Odemknout účet";
 $l['locked_out_subject'] = "{1}: Administrátorský účet byl zablokován z důvodu mnoha neúspěšných pokusů o přihlášení";
 $l['locked_out_message'] = "Ahoj {1},
 
-Tvůj administrátorský účet na stránce {2} byl zablokován.
+Váš administrátorský účet na stránce {2} byl zablokován.
 
-Je možné, že sis nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit za tebe
-Z bezpečnostních důvodu proto došlo k blokaci tvého účtu.
+Je možné, že jste si nevzpomněl/a na heslo nebo se někdo pokoušel přihlásit na Váš účet.
+Z bezpečnostních důvodu proto došlo k blokaci Vašeho účtu.
 
-Pro odblokování účtu, prosím, klikni na níže uvedený odkaz:
+Pro odblokování účtu, prosím, klikněte na níže uvedený odkaz:
 
 {4}/{5}/index.php?action=unlock&uid={7}&token={6}
 
-Pokud výše uvedený odkaz nefunguje, prosím, přejdi sem:
+Pokud výše uvedený odkaz nefunguje, prosím, přejděte sem:
 
 {4}/{5}/index.php?action=unlock
 
-Kde budeš muset zadat:
+Kde budete muset zadat:
 Přezdívku: {1}
 Aktivační kód: {6}
 
@@ -375,7 +375,7 @@ $l['mybb_engine'] = "MyBB engine";
 // $l['login_field_width'] = "0";
 
 $l['my2fa'] = "Dvoufázové ověření";
-$l['my2fa_failed'] = "Tvůj kod byl špatně zadán, tak si byl odhlášen.";
-$l['my2fa_code'] = "Prosím, zadej tvůj autorizační kód.";
+$l['my2fa_failed'] = "Váš kod jste zadal(a) špatně, a proto jste byl(a) odhlášen.";
+$l['my2fa_code'] = "Prosím, zadejte Váš autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
-$l['my2fa_no_codes'] = "Poznámka: Použil jsi všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštiv <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
+$l['my2fa_no_codes'] = "Poznámka: Použil jte všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštivte <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";

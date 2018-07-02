@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -16,7 +16,7 @@ $l['prune_admin_logs_desc'] = "Here you can prune the administrator logs matchin
 
 $l['no_adminlogs'] = "Nejsou zde žádné záznamy s požadovanými kritérii.";
 
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
 $l['date'] = "Datum";
 $l['information'] = "Informace";
 $l['ipaddress'] = "IP adresa";
@@ -60,7 +60,7 @@ $l['admin_log_config_banning_delete_username'] = "Smazal nepovolenou přezdívku
 $l['admin_log_config_banning_delete_email'] = "Smazal nepovolenou přezdívku #{1} ({2})";
 
 $l['admin_log_config_calendars_add'] = "Přidal kalendář #{1} ({2})";
-$l['admin_log_config_calendars_permissions'] = "Upravil práva pro kalendář #{1} ({2})";
+$l['admin_log_config_calendars_permissions'] = "Upravil oprávnění pro kalendář #{1} ({2})";
 $l['admin_log_config_calendars_edit'] = "Upravil kalendář #{1} ({2})";
 $l['admin_log_config_calendars_delete'] = "Smazal kalendář #{1} ({2})";
 $l['admin_log_config_calendars_update_order'] = "Aktualizovat zobrazení věcí v kalendáří";
@@ -188,7 +188,7 @@ $l['admin_log_style_templates_edit_template_group'] = "Upravil template group #{
 $l['admin_log_style_templates_delete_template_group'] = "Smazal template group #{1} ({2})";
 
 $l['admin_log_style_themes_import'] = "Naimportoval vzhled #{1}";
-$l['admin_log_style_themes_duplicate'] = "Duplikoval vzhled z  #{2} na #{1}";
+$l['admin_log_style_themes_duplicate'] = "Duplikoval vzhled z #{2} na #{1}";
 $l['admin_log_style_themes_add'] = "Vytvořil vzhled #{2} ({1})";
 $l['admin_log_style_themes_edit_stylesheet'] = "Upravil stylesheet (CSS) {2} in {1}";
 $l['admin_log_style_themes_delete_stylesheet'] = "Smazal / Vrátil stylesheet (CSS) #{1} ({2}) ve vzhledu #{3} ({4})";
@@ -254,22 +254,22 @@ $l['admin_log_tools_tasks_add'] = "Přidal naplánovanou úlohu #{1} ({2})";
 $l['admin_log_tools_tasks_edit'] = "Upravil naplánovanou úlohu #{1} ({2})";
 $l['admin_log_tools_tasks_delete'] = "Smazal naplánovanou úlohu #{1} ({2})";
 $l['admin_log_tools_tasks_enable'] = "Povolil naplánovanou úlohu #{1} ({2})";
-$l['admin_log_tools_tasks_disable'] = "Zakázal naplánovanou úlohu  #{1} ({2})";
+$l['admin_log_tools_tasks_disable'] = "Zakázal naplánovanou úlohu #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "Spustil naplánovanou úlohu #{1} ({2})";
 
 $l['admin_log_user_awaiting_activation_activate_activated'] = "Aktivoval uživatele s ID {2} čekajícího na potvrzení";
 $l['admin_log_user_awaiting_activation_activate_Smazal'] = "Smazal {2} uživatele, který čekal na potvrzení";
 
-$l['admin_log_user_admin_permissions_delete_user'] = "Smazal práva administrátora uživateli #{1} ({2})";
-$l['admin_log_user_admin_permissions_delete_group'] = "Smazal skupinová práva pro uživatelskou skupinu  #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit_user'] = "Upravil práva administrátora pro uživatele #{1} ({2})";
-$l['admin_log_user_admin_permissions_edit_group'] = "Upravil skupinová práva pro uživatelskou skupinu #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_user'] = "Smazal oprávnění administrátora uživateli #{1} ({2})";
+$l['admin_log_user_admin_permissions_delete_group'] = "Smazal skupinová oprávnění pro uživatelskou skupinu #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit_user'] = "Upravil oprávnění administrátora pro uživatele #{1} ({2})";
+$l['admin_log_user_admin_permissions_edit_group'] = "Upravil skupinová oprávnění pro uživatelskou skupinu #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit'] = "Upravil default administrator permissions";
 
-$l['admin_log_user_banning_lift'] = "Dal milost uživateli #{1} ({2})";
+$l['admin_log_user_banning_lift'] = "Udělil milost uživateli #{1} ({2})";
 $l['admin_log_user_banning_edit'] = "Upravil ban for user #{1} ({2})";
 $l['admin_log_user_banning_prune'] = "Pruned posts and threads for user #{1} ({2})";
-$l['admin_log_user_banning_add_permanent'] = "Zabanonoval uživatele  #{1} ({2}) doživotně";
+$l['admin_log_user_banning_add_permanent'] = "Zabanonoval uživatele #{1} ({2}) doživotně";
 $l['admin_log_user_banning_add_temporary'] = "Zabanoval uživatele #{1} ({2}) do {3}";
 
 $l['admin_log_user_group_promotions_disable'] = "Disabled group promotion #{1} ({2})";
@@ -309,4 +309,4 @@ $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 
 $l['admin_log_user_mass_mail_delete'] = "Smazal hromadný e-mail (newsletter) #{1} ({2})";
 
-$l['admin_log_admin_locked_out'] = 'Z bezpečnostních důvodu došlo k zablokování přístupu do administračního panelu  #{1} uživateli/ce ({2}) - mnoho neúspěšných pokusů o přihlášení.';
+$l['admin_log_admin_locked_out'] = 'Z bezpečnostních důvodu došlo k zablokování přístupu do administračního panelu #{1} uživateli/ce ({2}) - mnoho neúspěšných pokusů o přihlášení.';

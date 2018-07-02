@@ -1,14 +1,16 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group 
+ * All Rights Reserved 
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['boardstats'] = "Statistiky fóra";
 $l['new_posts'] = "Ve fóru jsou nové příspěvky";
 $l['no_new_posts'] = "Ve fóru nejsou žádné nové příspěvky";
-$l['forum_locked'] = "Fórum je uzavřeno";
+$l['forum_closed'] = "Fórum je uzavřeno";
 $l['forum_unapproved_posts_count'] = "Ve fóru je nyní {1} ks neschválených příspěvků.";
 $l['forum_unapproved_post_count'] = "Ve fóru je nyní jeden neschválený příspěvek.";
 $l['forum_unapproved_threads_count'] = "Ve fóru je nyní {1} ks neschválených témat.";

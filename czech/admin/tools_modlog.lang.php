@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -14,7 +14,8 @@ $l['prune_mod_logs_desc'] = "Here you can prune the moderator logs matching a sp
 
 $l['no_modlogs'] = "Nejsou zde žádné záznamy s požadovanými kritérii.";
 
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
+$l['na_deleted'] = "N/A - byl(a) smazán(a)";
 $l['date'] = "Datum";
 $l['action'] = "Akce";
 $l['information'] = "Informace";

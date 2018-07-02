@@ -1,15 +1,15 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['board_settings'] = "Nastavení fóra";
 $l['change_settings'] = "Změnit nastavení";
-$l['change_settings_desc'] = "Tato část ti umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
+$l['change_settings_desc'] = "Tato část Vám umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
 $l['add_new_setting'] = "Přidat nové nastavení";
 $l['add_new_setting_desc'] = "V této části můžeš přidat nové nastavení pro tvé fórum.";
 $l['modify_existing_settings'] = "Upravit nastavení";
@@ -67,16 +67,16 @@ $l['plugin_settings'] = "Nastavení pluginu";
 $l['show_all_settings'] = "Ukázat všechno nastavení";
 $l['settings_search'] = "Hledat nastavení";
 
-$l['confirm_setting_group_deletion'] = "Jsi si naprosto jistý, že chceš vymazat nastavení skupiny? (možná pro skupinu)";
-$l['confirm_setting_deletion'] = "Jsi si naprosto jistý, že chceš smazat tohle nastavení?";
+$l['confirm_setting_group_deletion'] = "Jste si naprosto jistý, že chcete vymazat nastavení skupiny? (možná pro skupinu)";
+$l['confirm_setting_deletion'] = "Jste si naprosto jistý, že chcete smazat tohle nastavení?";
 
-$l['error_missing_title'] = "Nezadal jsi název pro tohle nastavení.";
-$l['error_missing_group_title'] = "Nezadal jsi název pro tuto skupinu nastavení.";
-$l['error_invalid_gid'] = "Nevybral jsi platnou skupinu pro umístění tohoto nastavení v";
-$l['error_invalid_gid2'] = "Zvolil jsi odkaz na neplatnou skupinu nastavení. Zkontrolujte, zda existuje.";
-$l['error_missing_name'] = "Nezadal jsi identifikátor pro toto nastavení.";
-$l['error_missing_group_name'] = "Nezadal jsi identifikátor pro tuto skupinu nastavení.";
-$l['error_invalid_type'] = "Pro toto nastavení jste nevybrali platný typ.";
+$l['error_missing_title'] = "Nezadal(a) jste název pro tohle nastavení.";
+$l['error_missing_group_title'] = "Nezadal(a) jste název pro tuto skupinu nastavení.";
+$l['error_invalid_gid'] = "Nevybral(a) jste platnou skupinu pro umístění tohoto nastavení v";
+$l['error_invalid_gid2'] = "Zvolil(a) jste odkaz na neplatnou skupinu nastavení. Zkontrolujte, zda existuje.";
+$l['error_missing_name'] = "Nezadal(a) jste identifikátor pro toto nastavení.";
+$l['error_missing_group_name'] = "Nezadal(a) jste identifikátor pro tuto skupinu nastavení.";
+$l['error_invalid_type'] = "Pro toto nastavení jste nevybral(a) platný typ.";
 $l['error_invalid_sid'] = "Zadané nastavení neexistuje.";
 $l['error_duplicate_name'] = "Zadaný identifikátor již byl použit pro nastavení \"{1}\" - Identifikátor musí být jedinečný.";
 $l['error_duplicate_group_name'] = "Zadaný identifikátor již byl použit pro skupinu \"{1}\" nastavení - Identifikátor musí být jedinečný.";
@@ -85,7 +85,7 @@ $l['error_cannot_edit_default'] = "Výchozí nastavení a skupiny nelze upravit 
 $l['error_cannot_edit_php'] = "Jedná se o zvláštní typ nastavení, které nelze upravit.";
 $l['error_ajax_search'] = "Při hledání nastavení došlo k potížím:";
 $l['error_ajax_unknown'] = "Při hledání nastavení došlo k neznámé chybě.";
-$l['error_chmod_settings_file'] = "Soubor nastavení \"./inc/settings.php\" nelze zapisovat. Prosím, změň CHMOD na 777.<br />Další informace o CHMODing naleznete v tématu <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">MyBB Docs</a>.";
+$l['error_chmod_settings_file'] = "Soubor nastavení \"./inc/settings.php\" nelze zapisovat. Prosím, změňte CHMOD na 777.<br />Další informace o CHMODing naleznete v tématu <a href=\"https://docs.mybb.com/1.8/administration/security/file-permissions\" target=\"_blank\" rel=\"noopener\">MyBB Docs</a>.";
 
 $l['success_setting_added'] = "Nastavení bylo úspěšně přidáno.";
 $l['success_setting_updated'] = "Nastavení bylo úspěšně upraveno";

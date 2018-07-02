@@ -1,19 +1,19 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 $l['mass_mail'] = "Hromadné e-maily";
 
 $l['mass_mail_queue'] = "Fronta hromadných e-mailů";
-$l['mass_mail_queue_desc'] = "Zde můžeš spravovat hromadné e-maily, které jsou v současné době odesílány a nebo jsou ve frontě do budoucna.";
+$l['mass_mail_queue_desc'] = "Zde můžete spravovat hromadné e-maily, které jsou v současné době odesílány a nebo jsou ve frontě do budoucna.";
 $l['create_mass_mail'] = "Vytvořit novou poštu";
-$l['create_mass_mail_desc'] = "Zde můžeš vytvořit nové hromadné e-maily a nastavit jejich možnosti.";
+$l['create_mass_mail_desc'] = "Zde můžete vytvořit nové hromadné e-maily a nastavit jejich možnosti.";
 $l['mass_mail_archive'] = "Archiv hromadných e-mailů";
-$l['mass_mail_archive_desc'] = "Zde si můžeš prohlédnout log hromadných e-mailů, které již byly odeslány.";
+$l['mass_mail_archive_desc'] = "Zde si můžete prohlédnout log hromadných e-mailů, které již byly odeslány.";
 $l['edit_mass_mail'] = "Upravit hromadnýho e-mailu";
 $l['edit_mass_mail_desc'] = "Zde můžete upravit hromadné e-maily a jeho možnosti.";
 $l['send_mass_mail'] = "Odeslat hromadný e-mail";
@@ -40,11 +40,11 @@ $l['html_only'] = "Pouze HTML";
 $l['html_and_plain_text'] = "HTML a prostý text";
 $l['message_format'] = "Formát zprávy";
 $l['define_html_message'] = "Definovat HTML zprávu";
-$l['define_html_message_desc'] = "Zadej HTML verzi zprávy";
+$l['define_html_message_desc'] = "Zadejte HTML verzi zprávy";
 $l['auto_gen_plain_text'] = "Pokus o automatické generování verze textu";
 $l['define_text_version'] = "Definování verze textu";
-$l['define_text_version_desc'] = "Zadej textovou verzi zprávy.";
-$l['define_the_recipients'] = "Zadej příjemce";
+$l['define_text_version_desc'] = "Zadejte textovou verzi zprávy.";
+$l['define_the_recipients'] = "Zadejte příjemce";
 $l['username_contains'] = "Uživatelské jméno obsahuje…";
 $l['email_addr_contains'] = "E-mailová adresa obsahuje…";
 $l['members_of'] = "Členové skupin…";
@@ -78,7 +78,7 @@ $l['change_recipient_conds'] = "Změna podmínek příjemce";
 $l['review_message'] = "Zkontroluj tvojí zprávu";
 $l['define_delivery_date'] = "Definuj datum dodání";
 $l['schedule_for_delivery'] = "Nastavení doručení";
-$l['username'] = "Přezdívka";
+$l['username'] = "Uživatelské jméno";
 
 $l['step_three'] = "3. krok";
 $l['next_step'] = "Následující krok";
@@ -106,11 +106,11 @@ $l['no_unsent_messages'] = "Ve frontě nejsou žádné neodeslané nebo čekají
 $l['error_invalid_mid'] = "Vybral jsi neplatný hromadný e-mail";
 $l['error_only_in_future'] = "Hromadný e-mail můžeš odeslat pouze v budoucnu.";
 $l['error_no_users'] = "Kritéria vyhledávání nenašla žádné uživatele. Uprav kritéria a opakuj akci.";
-$l['error_missing_plain_text'] = "Nezadal jsi verzi této zprávy ve formátu prostého textu.";
-$l['error_missing_subject'] = "Nezadal jsi předmět pro tuto hromadnou korespondenci.";
-$l['error_missing_message'] = "Nezadal jsi zprávu, kterou chcete odeslat.";
-$l['error_missing_html'] = "Nezadal jsi HTML verzi této zprávy.";
-$l['error_delete_invalid_mid'] = "Vybral jsi neplatnou hromadnou korespondenci, kterou chcete odstranit.";
+$l['error_missing_plain_text'] = "Nezadal jste verzi této zprávy ve formátu prostého textu.";
+$l['error_missing_subject'] = "Nezadal jste předmět pro tuto hromadnou korespondenci.";
+$l['error_missing_message'] = "Nezadal jste zprávu, kterou chcete odeslat.";
+$l['error_missing_html'] = "Nezadal jste HTML verzi této zprávy.";
+$l['error_delete_invalid_mid'] = "Vybral jste neplatnou hromadnou korespondenci, kterou chcete odstranit.";
 
 $l['success_mass_mail_saved'] = "Hromadný e-mail byl úspěšně uložena.";
 $l['success_mass_mail_deleted'] = "Vybrané hromadné e-maily byly úspěšně odstraněny.";

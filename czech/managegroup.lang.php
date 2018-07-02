@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['nav_group_management'] = "{1} Správa skupin";
@@ -41,7 +43,7 @@ $l['group_no_members'] = "V této skupině nyní nejsou žádní členové.<br /
 $l['group_public_moderated'] = "Tato veřejná skupina je takovou skupinou, do které se může přihlásit každý. Všechny žádosti o členství však musí být moderovány vedoucím skupiny.";
 $l['group_public_not_moderated'] = "Tato veřejná skupina je takovou skupinou, jejímž členem se může stát kdokoliv.";
 $l['group_public_invite'] = "K členství v této veřejné skupině je nutné, aby uživatele pozval vedoucí této skupiny.";
-$l['group_private'] = "Tato skupina je soukromá.  Členy skupiny mohou být pouze ti uživatelé, které přidal vedoucí skupiny.";
+$l['group_private'] = "Tato skupina je soukromá. Členy skupiny mohou být pouze ti uživatelé, které přidal vedoucí skupiny.";
 $l['group_default'] = "Tato skupina je hlavní skupinou tohoto fóra.";
 $l['group_leaders'] = "Vedoucí skupiny";
 $l['search_user'] = "Hledat uživatele";
@@ -51,15 +53,14 @@ $l['error_alreadyingroup'] = "Daný uživatel je již členem této skupiny.";
 $l['error_alreadyinvited'] = "Daný uživatel již byl pozván.";
 
 $l['user_invited'] = "Uživatel byl pozván k připojení do skupiny.";
-$l['invite_pm_subject'] = "Byli jste pozváni do skupiny \"{1}\"";
-$l['invite_pm_message'] = "Dostali jste pozvánku k připojení do skupiny \"{1}\".
+$l['invite_pm_subject'] = "Byl(a) jste pozván(a) do skupiny \"{1}\"";
+$l['invite_pm_message'] = "Dostal(a) jste pozvánku k připojení do skupiny \"{1}\".
 
-Pro přidání do skupiny prosím navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
+Pro přidání do skupiny, prosím, navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
 
 Toto pozvání má neomezenou platnost.";
-$l['invite_pm_message_expires'] = "Obdrželi jste pozvánku k připojení do skupiny \"{1}\".
+$l['invite_pm_message_expires'] = "Obdržel(a) jste pozvánku k připojení do skupiny \"{1}\".
 
-Pro přidání se do skupiny prosím navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
+Pro přidání se do skupiny, prosím, navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
 
-Toto pozvání vyprší za {3} dny.";
-
+Pozvánka vyprší za {3} dny.";

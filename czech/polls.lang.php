@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8 Czech Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['nav_postpoll'] = "Založit hlasování";
@@ -41,8 +43,8 @@ $l['redirect_pollposted'] = "Vaše hlasování byla založeno.<br />Nyní budete
 $l['redirect_pollpostedmoderated'] = "Vaše hlasování bylo založeno, ale Vaše téma stále čeká na schválení moderátorem.<br />Nyní budete přesměrováni do fóra.";
 $l['redirect_pollupdated'] = "Anketa byla aktualizována.<br />Nyní budete přesměrováni do tématu.";
 $l['redirect_votethanks'] = "Děkujeme za Váš hlas.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_unvoted'] = "Vaše hlasování v tomto tématu bylo odstraněno.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_polldeleted'] = "Anketa byla z tématu úspěšně odstraněna.<br />Nyní budete přesměrováni do tématu.";
+$l['redirect_unvoted'] = "Vaše hlasování v tomto tématu bylo odstraněno.<br />Nyní budete přesměrován(a) do tématu.";
+$l['redirect_polldeleted'] = "Anketa byla z tématu úspěšně odstraněna.<br />Nyní budete přesměrován(a) do tématu.";
 
 $l['error_polloptiontoolong'] = "Nejméně jedna z Vámi zadaných odpovědí v hlasování přesáhla povolený limit. Vraťte se prosím a zkraťte ji.";
 $l['error_noquestionoptions'] = "Buď nebyla zadána otázka, nebo je příliš málo odpovědí (minimálně 2).<br />Vraťte se prosím a opravte to.";
@@ -53,7 +55,7 @@ $l['error_alreadyvoted'] = "V této anketě jste již hlasoval(a).";
 $l['error_notvoted'] = "V této anketě jste nehlasoval(a).";
 $l['error_invalidpoll'] = "Zadaná anketa neexistuje, nebo je chybná.";
 $l['error_pollclosed'] = "Nelze hlasovat v anketě, která je uzavřená.";
-$l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor nastavil možnost vkládání anket pouze během {1} hodin po založení tématu.";
+$l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor(ka) nastavil(a) možnost vkládání anket pouze během {1} hodin po založení tématu.";
 
 $l['poll_deleted'] = "Odstraněná anketa";
 $l['poll_edited'] = "Upravená anketa";

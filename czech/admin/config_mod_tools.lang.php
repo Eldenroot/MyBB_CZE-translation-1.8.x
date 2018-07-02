@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -73,7 +73,7 @@ $l['delete_redirect_after'] = "Smazat přesměrování po";
 $l['do_not_move_thread'] = "Nepřesouvat téma";
 $l['do_not_copy_thread'] = "Nekopírovat téma";
 $l['move_thread'] = "Přesunout vlákno?";
-$l['move_thread_desc'] = "Pokud přesunete téma, pole \"delete redirect after... days\" vyplníte pouze v případě, že bude povolené přesměrování.";
+$l['move_thread_desc'] = "Pokud přesunete téma, pole \"odstranit přesměrování po … dnech\" vyplníte pouze v případě, že bude povolené přesměrování.";
 $l['forum_to_copy_to'] = "Fórum se nakopíruje do:";
 $l['copy_thread'] = "Kopírovat vlákno?";
 $l['open_close_thread'] = "Otevřít/uzavřít vlákno?";

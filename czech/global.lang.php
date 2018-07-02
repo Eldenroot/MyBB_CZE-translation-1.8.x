@@ -1,8 +1,10 @@
 <?php
 /**
- * MyBB 1.8.x Czech Language Pack
- * Copyright 2017 MyBB Group & Czech translators (See: https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x); All Rights Reserved (Všechna práva vyhrazena)
+ * MyBB 1.8.x Official Czech Language Pack
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
  *
+ * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
 $l['redirect_width'] = "50%";
@@ -49,7 +51,7 @@ $l['forumbit_moderated_by'] = "Moderuje:";
 $l['new_posts'] = "Fórum obsahuje nové příspěvky";
 $l['no_new_posts'] = "Fórum neobsahuje nové příspěvky";
 $l['click_mark_read'] = "Kliknutím označíte fórum jako přečtené";
-$l['forum_locked'] = "Fórum je uzavřené";
+$l['forum_closed'] = "Fórum je uzavřené";
 $l['forum_redirect'] = "Přesměrované fórum";
 $l['lastpost_never'] = "Nikdy";
 $l['viewing_one'] = " (prohlíží 1 uživatel)";
@@ -61,17 +63,20 @@ $l['password_required'] = "Je vyžadováno heslo";
 $l['forum_password_note'] = "Pro vstup do tohoto fóra je vyžadováno heslo.";
 $l['enter_password_below'] = "Zadejte heslo:";
 $l['verify_forum_password'] = "Ověřte heslo";
-$l['wrong_forum_password'] = "Zadané heslo je neplatné. Prosím zkuste to znovu.";
+$l['wrong_forum_password'] = "Zadané heslo je neplatné. Prosím, zkuste to znovu.";
 
 $l['reset_button'] = "Reset";
 $l['username'] = "Uživatelské jméno:";
+$l['username1'] = "E-mailová adresa:";
+$l['username2'] = "Uživatelské jméno/E-mailová adresa:";
 $l['password'] = "Heslo:";
 $l['login_username'] = "Uživatelské jméno:";
-$l['login_username2'] = "Uživ. jméno/e-mail:";
+$l['login_username'] = "E-mail";
+$l['login_username2'] = "Uživatelské jméno/E-mail:";
 $l['login_password'] = "Heslo:";
-$l['lost_password'] = "Zapom. heslo?";
+$l['lost_password'] = "Zapomněl(a) jste heslo?";
 $l['remember_me'] = "Zapamatovat si mě";
-$l['remember_me_desc'] = "Pokud je zvoleno, budou vaše přihlašovací údaje uložené v tomto počítači. V opačném případě budete odhlášeni okamžitě po zavření browseru.";
+$l['remember_me_desc'] = "Pokud je zvoleno, budou Vaše přihlašovací údaje uložené v tomto zařízení. V opačném případě budete odhlášeni okamžitě po zavření prohlížeče.";
 
 $l['month_1'] = "Leden";
 $l['month_2'] = "Únor";
@@ -131,8 +136,8 @@ $l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes
 
 $l['today_rel'] = "<span title=\"{1}\">dnes</span>";
 $l['yesterday_rel'] = "<span title=\"{1}\">včera</span>";
-$l['today'] = "<span title=\"{1}\">dnes</span>";
-$l['yesterday'] = "<span title=\"{1}\">včera</span>";
+$l['today'] = "Dnes";
+$l['yesterday'] = "Včera";
 $l['error'] = "Zpráva fóra";
 
 $l['multipage_pages'] = "Stránky ({1}):";
@@ -140,8 +145,8 @@ $l['multipage_last'] = "Poslední";
 $l['multipage_first'] = "První";
 $l['multipage_next'] = "Další";
 $l['multipage_previous'] = "Předchozí";
-$l['multipage_link_start'] = " ...";
-$l['multipage_link_end'] = "... ";
+$l['multipage_link_start'] = " …";
+$l['multipage_link_end'] = "… ";
 $l['multipage_jump'] = "Jít na stránku";
 
 $l['editor_bold'] = "Tučně";
@@ -161,9 +166,9 @@ $l['editor_removeformatting'] = "Odstranit formátování";
 $l['editor_cut'] = "Vyjmout";
 $l['editor_copy'] = "Kopírovat";
 $l['editor_paste'] = "Vložit";
-$l['editor_cutnosupport'] = "Váš prohlížec nepovoluje příkaz Vyjmout. Použijte prosím klávesovou zkratku Ctrl/Cmd-X";
-$l['editor_copynosupport'] = "Váš prohlížec nepovoluje příkaz Kopírovat. Použijte prosím klávesovou zkratku Ctrl/Cmd-C";
-$l['editor_pastenosupport'] = "Váš prohlížec nepovoluje příkaz Vložit. Použijte prosím klávesovou zkratku Ctrl/Cmd-V";
+$l['editor_cutnosupport'] = "Váš prohlížeč nepovoluje funkci vyjmutí. Použijte, prosím, klávesovou zkratku Ctrl/Cmd-X";
+$l['editor_copynosupport'] = "Váš prohlížeč nepovoluje funkci kopírování. Použijte, prosím, klávesovou zkratku Ctrl/Cmd-C";
+$l['editor_pastenosupport'] = "Váš prohlížeč nepovoluje funckci pro vkládání. Použijte, prosím, klávesovou zkratku Ctrl/Cmd-V";
 $l['editor_pasteentertext'] = "Vložte text do následujícího pole:";
 $l['editor_pastetext'] = "Vložit text";
 $l['editor_numlist'] = "Vložit číslovaný seznam";
@@ -176,32 +181,32 @@ $l['editor_inserttable'] = "Vožit tabulku";
 $l['editor_inserthr'] = "Vložit vodorovnou čáru";
 $l['editor_code'] = "Kód";
 $l['editor_php'] = "PHP";
-$l['editor_width'] = "Šířka (volitelné):";
-$l['editor_height'] = "Výška (volitelné):";
+$l['editor_width'] = "Šířka (volitelný údaj):";
+$l['editor_height'] = "Výška (volitelný údaj):";
 $l['editor_insertimg'] = "Vložit obrázek";
 $l['editor_email'] = "e-mail:";
 $l['editor_insertemail'] = "Vložit e-mailovou adresu";
-$l['editor_url'] = "Odkaz URL:";
+$l['editor_url'] = "URL:";
 $l['editor_insertlink'] = "Vložit odkaz";
 $l['editor_unlink'] = "Odstranit odkaz";
 $l['editor_more'] = "Další";
 $l['editor_insertemoticon'] = "Vložit smajlíka";
-$l['editor_videourl'] = "Adresa videa:";
+$l['editor_videourl'] = "URL adresa videa:";
 $l['editor_videotype'] = "Typ videa:";
 $l['editor_insert'] = "Vložit";
-$l['editor_insertyoutubevideo'] = "Vložit video z YouTube";
+$l['editor_insertyoutubevideo'] = "Vložit YouTube video";
 $l['editor_currentdate'] = "Vložit aktuální datum";
 $l['editor_currenttime'] = "Vložit aktuální čas";
 $l['editor_print'] = "Tisk";
 $l['editor_viewsource'] = "Přepnout na zdroj";
 $l['editor_description'] = "Popis (volitelné):";
 $l['editor_enterimgurl'] = "Vložit URL adresu obrázku:";
-$l['editor_enteremail'] = "Vložit e-mail:";
+$l['editor_enteremail'] = "Vložit e-mail adresu:";
 $l['editor_enterdisplayedtext'] = "Vložit zobrazený text:";
-$l['editor_enterurl'] = "Vložit URL odkaz:";
-$l['editor_enteryoutubeurl'] = "Vložit odkaz či číslo videa z YouTube:";
+$l['editor_enterurl'] = "Vložit URL adresu:";
+$l['editor_enteryoutubeurl'] = "Vložit URL odkaz nebo ID videa na YouTube:";
 $l['editor_insertquote'] = "Vložit citaci";
-$l['editor_invalidyoutube'] = "Neplatné YouTube video";
+$l['editor_invalidyoutube'] = "Nesprávné YouTube video";
 $l['editor_dailymotion'] = "Dailymotion";
 $l['editor_metacafe'] = "MetaCafe";
 $l['editor_veoh'] = "Veoh";
@@ -274,7 +279,7 @@ $l['postbit_thread_unapproved'] = "Tohle vlákno čeká na schválení.";
 $l['postbit_deleted_post_user'] = "Příspěvek od {1} byl smazán.";
 
 $l['postbit_button_reputation_add'] = 'Hodnotit';
-$l['postbit_button_website'] = 'Web';
+$l['postbit_button_website'] = 'Webová stránka';
 $l['postbit_button_find'] = 'Hledat';
 $l['postbit_button_report'] = 'Ohlásit';
 $l['postbit_button_quote'] = 'Odpovědět';
@@ -307,6 +312,7 @@ $l['smilieinsert'] = "Smajlíci";
 $l['smilieinsert_getmore'] = "další";
 $l['on'] = "zapnuté";
 $l['off'] = "vypnuté";
+$l['remote_avatar_disabled_default_avatar'] = "V současné době používáte globalně poznatelného avatara, což bylo zakazáno. Na místo toho se použije výchozí avatar.";
 $l['unread_report'] = "Poznámka pro moderátora: máte jedno nepřečtené oznámení.";
 $l['unread_reports'] = "Poznámka pro moderátora: máte {1} nepřečtených oznámení.";
 $l['pending_joinrequest'] = "Poznámka pro vedoucí skupiny: máte 1 požadavek pro udělení členství ve skupině.";
@@ -345,7 +351,7 @@ $l['seconds_short'] = "s";
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
-$l['rel_less_than'] = "méně než ";
+$l['rel_less_than'] = "Před méně než ";
 $l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
@@ -363,9 +369,10 @@ $l['banned_lifted_never'] = "Nikdy";
 $l['banned_email_warning'] = "Používáte e-mail, který na tomto fóru není povolen. Změňte si jej.";
 $l['powered_by'] = "Fórum používá software";
 $l['copyright'] = "Copyright";
-$l['attach_quota'] = "Právě využíváte <strong>{1}</strong> příloh z Vašeho celkového prostoru ({2})";
+$l['attach_quota'] = "Vaše přidělaná kvóta pro přílohy je: {1}.";
+$l['attach_usage'] = "V tuto chvíli používáte <strong>{1}</strong>.";
 $l['view_attachments'] = "[zobrazit moje přílohy]";
-$l['unlimited'] = "Neomezené";
+$l['unlimited'] = "∞";
 
 $l['click_hold_edit'] = "(Pro editaci kliknout a držet)";
 
@@ -406,8 +413,9 @@ $l['custom_mod_tools'] = "Vlastní nástroje";
 
 $l['error_loadlimit'] = "Bylo dosaženo maximální zátěže serveru. Prosím, vraťte se později, až zde nebude takový provoz.";
 $l['error_boardclosed'] = "Toto fórum je právě uzavřeno. Důvody naleznete níže.";
-$l['error_banned'] = "Lituji, ale jste zabanováni. Nemůžete v tomto fóru ani číst, ani psát. Pokud nevíte proč jste ban dostal(a), nebo jej nechcete, kontaktujte administrátora fóra.";
+$l['error_banned'] = "Lituji, ale jste zabanován(a). Nemůžete v tomto fóru ani číst, ani psát. Pokud nevíte proč jste ban dostal(a), nebo jej chcete zrušit, kontaktujte administrátora fóra.";
 $l['error_cannot_upload_php_post'] = "Soubor nelze nahrát - je příliš veliký s ohledem na nastavení php (post_max_size). Prosím, klikněte na tlačítko Zpět.";
+$l['error_empty_post_input'] = "Bohužel, došlo k chybě. Váš příspěvek může být prázdný. Mohlo to být způsobeno obnovením stránky v prohlížeči, případně přímým přístupem na tuto stránku. Doporučujeme Vám, abyste prohlížeči klikli na tlačítko Zpět a začli znovu.";
 $l['error_database_repair'] = "MyBB automaticky opravuje poškozenou tabulku.";
 
 $l['unknown_user_trigger'] = "Došlo k neočekávané chybě.";
@@ -422,11 +430,11 @@ $l['select_theme'] = "Změna vzhledu fóra";
 $l['invalid_post_code'] = "Autorizační kód nesouhlasí. Používáte tuto funkci správně? Prosím, vraťte se a zkuste to znovu.";
 $l['invalid_captcha'] = "Prosím, vyplňte ověřovací kód z obrázku a zadej ho přesně, jak se ukazuje na obrázku.";
 $l['invalid_nocaptcha'] = "Prosím vyřešte reCAPTCHA pro oveření, že nejste robot.";
-$l['invalid_captcha_verify'] = "Verifikační kód z obrázku, který si vložil není správný. Prosím, zadej kód přesně, jak je na obrázku.";
+$l['invalid_captcha_verify'] = "Verifikační kód z obrázku, který jste vložil(a) není správný. Prosím, zadejte kód přesně, jak je na obrázku.";
 $l['image_verification'] = "Image Verification";
 $l['human_verification'] = "Human Verification";
 $l['verification_note'] = "Vyplňte, prosím, text, který je v obrázku do textového políčka níže. Tento proces by měl zabránit spam botům.";
-$l['verification_note_nocaptcha'] = "Označte, prosím, políčko, které vidíš níže. Tento proces by měl zabránit spam botům.";
+$l['verification_note_nocaptcha'] = "Označte, prosím, políčko, které vidíte níže. Tento proces by měl zabránit spam botům.";
 $l['verification_subnote'] = "(nerozlišuje velikost písmen)";
 $l['invalid_captcha_transmit'] = "Vyskytla se chyba s verifikačním obrázkem. Zkuste to, prosím, znovu.";
 $l['invalid_nocaptcha_transmit'] = "Vyskytla se chyba s lidskou verifikací. Zkuste to, prosím, znovu.";
@@ -476,9 +484,9 @@ $l['timezone_gmt_1300'] = "(GMT +13:00) Samoa, Tonga, Tokelau";
 $l['timezone_gmt_1400'] = "(GMT +14:00) Liniové ostrovy";
 $l['timezone_gmt_short'] = "GMT {1}({2})";
 
-$l['missing_task'] = "Chyba: soubor úloh neexistuje!";
-$l['task_backup_cannot_write_backup'] = "Chyba: úloha zálohování databáze nemůže zapisovat do zálohovací složky.";
-$l['task_backup_ran'] = "Zálohování databáze proběhlo v pořádku.";
+$l['missing_task'] = "Chyba! Soubor úloh neexistuje!";
+$l['task_backup_cannot_write_backup'] = "Chyba! Úloha: Zálohování databáze nebylo provedeno, protože není možné zapisovat do složky backups (nachází se v /admin).";
+$l['task_backup_ran'] = "Pravidelné zálohování databáze proběhlo v pořádku.";
 $l['task_checktables_ran'] = "Kontrola tabulek proběhla v pořádku a nebyly zjištěny žádné poškozené tabulky.";
 $l['task_checktables_ran_found'] = "Kontrola tabulek proběhla v pořádku a během ní bylo opraveno {1} tabulek.";
 $l['task_dailycleanup_ran'] = "Denní úklid proběhl v pořádku.";
@@ -492,9 +500,9 @@ $l['task_userpruning_ran'] = "Proces úklidu uživatelů proběhl v pořádku.";
 $l['task_delayedmoderation_ran'] = "Proces zpožděného moderování proběhl v pořádku.";
 $l['task_massmail_ran_errors'] = "Vyskytl se jeden nebo více problémů při posílání \"{1}\":
 {2}";
-$l['task_versioncheck_ran'] = "Proces kontroly verze proběhl v pořádku.";
-$l['task_versioncheck_ran_errors'] = "Nelze se připojit k serveru MyBB z důvodu kontroly verze.";
-$l['task_recachestylesheets_ran'] = 'Obnovena cache {1} ks stylů.';
+$l['task_versioncheck_ran'] = "Úloha: Zkontrolování verze MyBB - proběhla v pořádku.";
+$l['task_versioncheck_ran_errors'] = "Nepodařilo se spojit serverem MyBB z důvodu kontroly verze.";
+$l['task_recachestylesheets_ran'] = 'Obnovena cache {1} stylů.';
 
 $l['dismiss_notice'] = "Zrušit toto oznámení";
 
@@ -502,7 +510,8 @@ $l['next'] = "Další";
 $l['previous'] = "Předchozí";
 $l['delete'] = "Smazat";
 
-$l['massmail_username'] = "Uživ. jméno";
+$l['massmail_username'] = "Uživatelské jméno";
+$l['email_addr'] = "E-mailová adresa";
 $l['board_name'] = "Název fóra";
 $l['board_url'] = "URL adresa fóra";
 
@@ -520,11 +529,11 @@ $l['error_emailflooding_seconds'] = "Lituji, ale můžete poslat pouze 1 e-mail 
 $l['error_emailflooding_1_minute'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Počkejte, prosím, 1 minutu.";
 $l['error_emailflooding_minutes'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Počkejte, prosím, {2} minut(y).";
 $l['error_invalidfromemail'] = "Nezadali jste platnou e-mailovou adresu.";
-$l['error_noname'] = "Nezadali jste platné jméno.";
+$l['error_noname'] = "Nezadali jste platnou přezdívku.";
 $l['your_email'] = "Váš e-mail:";
 $l['email_note'] = "Zadejte svůj e-mail.";
 $l['your_name'] = "Vaše jméno:";
-$l['name_note'] = "Zadejte svoje jméno.";
+$l['name_note'] = "Zadejte svojí přezdívku.";
 
 $l['january'] = "Leden";
 $l['february'] = "Únor";
@@ -545,17 +554,17 @@ $l['moderation_user_posts'] = "Nové příspěvky, které jste napsal v tomto f�
 $l['moderation_forum_thread'] = "Nová témata v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits_quick'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
-$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Přejít do administrace</a>.";
-$l['awaiting_message_single'] = "Jeden účet čeká na aktivaci. Prosím, aktivujte ho v Administraci.";
-$l['awaiting_message_plural'] = "{1} účtů/účty čekají na aktivaci. Prosím, aktivujte je v Administraci.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Přejít do Administrace</a>.";
+$l['awaiting_message_single'] = "Jeden účet čeká na aktivaci. Aktivujte ho, prosím, v Administraci.";
+$l['awaiting_message_plural'] = "{1} účtů/účty čekají na aktivaci. Aktivujte je, prosím, v Administraci.";
 
 $l['select2_match'] = "Jeden výsledek je k dispozici, stiskem klávesy Enter jej vyberte.";
-$l['select2_matches'] = "{1} výsledků je k dispozici, použijte k navigaci klávesy nahoru a dolů.";
-$l['select2_nomatches'] = "Žádné výsledky nenalezeny.";
-$l['select2_inputtooshort_single'] = "Prosím zadejte 1 nebo více znaků";
-$l['select2_inputtooshort_plural'] = "Prosím zadejte {1} nebo více znaků";
-$l['select2_inputtoolong_single'] = "Prosím smažte 1 znak";
-$l['select2_inputtoolong_plural'] = "Prosím smažte {1} znaků";
+$l['select2_matches'] = "{1} výsledků je k dispozici, použijte k navigaci šipky nahoru a dolů.";
+$l['select2_nomatches'] = "Nenalezeny žádné shody.";
+$l['select2_inputtooshort_single'] = "Zadejte, prosím, 1 nebo více znaků";
+$l['select2_inputtooshort_plural'] = "Zadejte, prosím, {1} nebo více znaků";
+$l['select2_inputtoolong_single'] = "Smažte, prosím, 1 znak";
+$l['select2_inputtoolong_plural'] = "Smažte, prosím, {1} znaků";
 $l['select2_selectiontoobig_single'] = "Můžete zvolit pouze 1 položku";
 $l['select2_selectiontoobig_plural'] = "Můžete zvolit pouze {1} položek";
 $l['select2_loadmore'] = "Načítám další výsledky…";
@@ -566,8 +575,9 @@ $l['stopforumspam_error_retrieving'] = 'Nastala chyba při získávání dat ze 
 $l['stopforumspam_invalid_email'] = 'Nesprávná e-mailová adresa při kontrole ze serveru StopForumSpam.com';
 $l['stopforumspam_invalid_ip_address'] = 'Nesprávná IP adresa při kontrole ze serveru StopForumSpam.com';
 
-$l['sfs_error_username'] = 'Přezdívka';
+$l['sfs_error_username'] = 'Uživatelské jméno';
 $l['sfs_error_ip'] = 'IP';
+$l['sfs_error_email'] = 'E-mail';
 $l['sfs_error_or'] = 'nebo';
 
 $l['boardclosed_reason'] = 'Fórum je momentálně mimo provoz z důvodu údržby. Zkuste to, prosím, později.';
