@@ -136,8 +136,8 @@ $l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes
 
 $l['today_rel'] = "<span title=\"{1}\">dnes</span>";
 $l['yesterday_rel'] = "<span title=\"{1}\">včera</span>";
-$l['today'] = "<span title=\"{1}\">dnes</span>";
-$l['yesterday'] = "<span title=\"{1}\">včera</span>";
+$l['today'] = "Dnes";
+$l['yesterday'] = "Včera";
 $l['error'] = "Zpráva fóra";
 
 $l['multipage_pages'] = "Stránky ({1}):";
