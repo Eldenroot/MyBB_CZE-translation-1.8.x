@@ -280,6 +280,7 @@ $l['postbit_deleted_post_user'] = "Příspěvek od {1} byl smazán.";
 
 $l['postbit_button_reputation_add'] = 'Hodnotit';
 $l['postbit_button_website'] = 'Webová stránka';
+$l['postbit_button_email'] = 'E-mail';
 $l['postbit_button_find'] = 'Hledat';
 $l['postbit_button_report'] = 'Ohlásit';
 $l['postbit_button_quote'] = 'Odpovědět';
@@ -304,7 +305,7 @@ $l['forumjump_wol'] = "Kdo je online";
 $l['forumjump_search'] = "Hledat";
 $l['forumjump_home'] = "Domů";
 
-$l['redirect'] = "Budete přesměrováni";
+$l['redirect'] = "Budete přesměrován(a)";
 $l['unknown_error'] = "Nastala neznámá chyba.";
 $l['post_fetch_error'] = 'Chyba při načítání příspěvků.';
 
@@ -415,7 +416,7 @@ $l['error_loadlimit'] = "Bylo dosaženo maximální zátěže serveru. Prosím, 
 $l['error_boardclosed'] = "Toto fórum je právě uzavřeno. Důvody naleznete níže.";
 $l['error_banned'] = "Lituji, ale jste zabanován(a). Nemůžete v tomto fóru ani číst, ani psát. Pokud nevíte proč jste ban dostal(a), nebo jej chcete zrušit, kontaktujte administrátora fóra.";
 $l['error_cannot_upload_php_post'] = "Soubor nelze nahrát - je příliš veliký s ohledem na nastavení php (post_max_size). Prosím, klikněte na tlačítko Zpět.";
-$l['error_empty_post_input'] = "Bohužel, došlo k chybě. Váš příspěvek může být prázdný. Mohlo to být způsobeno obnovením stránky v prohlížeči, případně přímým přístupem na tuto stránku. Doporučujeme Vám, abyste prohlížeči klikli na tlačítko Zpět a začli znovu.";
+$l['error_empty_post_input'] = "Bohužel, došlo k chybě. Váš příspěvek může být prázdný. Mohlo to být způsobeno obnovením stránky v prohlížeči, případně přímým přístupem na tuto stránku. Doporučujeme Vám, abyste v prohlížeči klikli na tlačítko Zpět a začli znovu.";
 $l['error_database_repair'] = "MyBB automaticky opravuje poškozenou tabulku.";
 
 $l['unknown_user_trigger'] = "Došlo k neočekávané chybě.";
@@ -528,10 +529,10 @@ $l['error_emailflooding_1_second'] = "Lituji, ale můžete poslat pouze 1 e-mail
 $l['error_emailflooding_seconds'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Počkejte, prosím, {2} sekund(y).";
 $l['error_emailflooding_1_minute'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Počkejte, prosím, 1 minutu.";
 $l['error_emailflooding_minutes'] = "Lituji, ale můžete poslat pouze 1 e-mail každých {1} minut. Počkejte, prosím, {2} minut(y).";
-$l['error_invalidfromemail'] = "Nezadali jste platnou e-mailovou adresu.";
-$l['error_noname'] = "Nezadali jste platnou přezdívku.";
+$l['error_invalidfromemail'] = "Nezadal(a) jste platnou e-mailovou adresu.";
+$l['error_noname'] = "Nezadal(a) jste platné uživatelské jméno.";
 $l['your_email'] = "Váš e-mail:";
-$l['email_note'] = "Zadejte svůj e-mail.";
+$l['email_note'] = "Zadejte Váš e-mail.";
 $l['your_name'] = "Vaše jméno:";
 $l['name_note'] = "Zadejte svojí přezdívku.";
 
