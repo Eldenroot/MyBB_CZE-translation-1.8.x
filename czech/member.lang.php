@@ -36,7 +36,7 @@ $l['lostpw_note'] = "Zapomenuté heslo?";
 $l['lost_pw'] = "Zapomenuté heslo účtu";
 $l['lost_pw_form'] = "Formulář obnovy zapomenutého hesla";
 $l['email_address'] = "E-mailová adresa:";
-$l['request_user_pass'] = "Zaslat žádost o přihlašovací údaje";
+$l['request_user_pass'] = "Odeslat žádost pro nové heslo";
 $l['profile'] = "Profil uživatele: {1}";
 $l['registration_date'] = "Datum registrace:";
 $l['date_of_birth'] = "Datum narození:";
@@ -106,7 +106,7 @@ $l['receive_pms'] = "Dostávat soukromé zprávy od ostatních uživatelů.";
 $l['pm_notice'] = "Upozornit na nové soukromé zprávy oznámením.";
 $l['email_notify_newpm'] = "Upozornit na nové soukromé zprávy e-mailem.";
 $l['time_offset'] = "Časová zóna (<acronym title=\"letní čas\">DST</acronym>, bez korekce letního času):";
-$l['time_offset_desc'] = "Pokud žijete v jiné časové zóně, než kterou používá toto fórum, můžete si ji změnit zde.";
+$l['time_offset_desc'] = "Pokud žijete v jiné časové zóně, než kterou používá toto fórum, zde si ji můžete změnit.";
 $l['dst_correction'] = "Korekce letního času:";
 $l['dst_correction_auto'] = "Detekovat automaticky nastavení letního času";
 $l['dst_correction_enabled'] = "Vždy použít korekci na letní čas";
@@ -122,7 +122,7 @@ $l['birthdayprivacyall'] = "Zobrazit věk a datum narození";
 $l['birthdayprivacynone'] = "Skrýt věk a datum narození";
 $l['birthdayprivacyage'] = "Zobrazit pouze věk";
 $l['leave_this_field_empty'] = "Toto pole nechte prázdné:";
-$l['error_need_to_be_thirteen'] = "Pro registraci na toto fórum vám musí být nejméně 13 let.";
+$l['error_need_to_be_thirteen'] = "Pro registraci na toto fórum Vám musí být nejméně 13 let.";
 $l['coppa_registration'] = "COPPA registrační formulář";
 $l['coppa_form_instructions'] = "Tento formulář si vytiskněte, vyplňte jej a buď odfaxujte na níže uvedené číslo faxu, nebo jej zašlete na uvedenou e-mailovou adresu.";
 $l['fax_number'] = "Číslo faxu:";
@@ -142,10 +142,10 @@ $l['error_invalid_birthday'] = 'Zadal(a) jste chybné datum narození. Prosím, 
 $l['error_awaitingcoppa'] = "Pod tímto účtem se zatím nemůžete přihlásit, protože jsme ještě neobdrželi Soulad s COPPA od Vašeho rodiče, nebo zákonného zástupce.<br /><br />Rodič, nebo zákonný zástupce musí stáhnout, vyplnit a doručit formulář <a href=\"member.php?action=coppa_form\">Soulad s COPPA &amp; Udělení souhlasu</a>.<br /><br />Až jej dostaneme, aktivujeme příslušný účet uživatele.";
 
 $l['lang_select'] = "Změna jazyka fóra:";
-$l['lang_select_desc'] = "Pokud žijete v zemi, kde se mluví jiným jazykem, než je výchozí jazyk fóra, můžete si níže vybrat jiný jazykový balíček.";
+$l['lang_select_desc'] = "Pokud žijete v zemi ve které se mluví jiným jazykem než je výchozí jazyk fóra, níže si můžete jazyk fóra, který Vám vyhovuje.";
 $l['lang_select_default'] = "Použít přednastavený jazyk";
 
-$l['submit_registration'] = "Odeslat registraci";
+$l['submit_registration'] = "Odeslat registraci!";
 $l['confirm_password'] = "Potvrzení heslo:";
 $l['referrer'] = "Doporučující uživatel:";
 $l['referrer_desc'] = "Pokud Vás do tohoto fóra doporučil jiný uživatel fóra, můžete do políčka vložit jeho jméno. Pokud ne, nechte pole prázdné.";
@@ -164,7 +164,7 @@ $l['verification_subnote'] = "(necitlivé na velikost)";
 $l['registration_errors'] = "Během Vaší registrace došlo k následujícím chybám:";
 $l['timeonline'] = "Strávený čas online:";
 $l['timeonline_hidden'] = "(skrytý)";
-$l['registrations_disabled'] = "Bohužel se nyní nemůžete registrovat. Administrátor dočasně pozastavil registraci nových účtů. Vraťte se, prosím, později.";
+$l['registrations_disabled'] = "Bohužel se nyní nemůžete registrovat. Administrátor(ka) dočasně pozastavil(a) registraci nových účtů. Vraťte se, prosím, později.";
 $l['error_username_length'] = "Vaše uživatelské jméno není platné. Musí obsahovat od {1} do {2} znaků.";
 $l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo e-mailová adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vašeho účtu s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
@@ -177,7 +177,7 @@ $l['edit_in_mcp'] = "Upravit tohoto uživatele v Moderování";
 $l['ban_in_mcp'] = "Banovat tohoto uživatele v Moderování";
 $l['purgespammer'] = "Odstranit spamera";
 $l['edit_usernotes'] = "Upravit poznámky uživatele v Moderování";
-$l['no_usernotes'] = "Pro tohoto uživatele neexistují poznámky";
+$l['no_usernotes'] = "Pro tohoto uživatele neexistují žádné poznámky od moderátorů.";
 $l['view_all_notes'] = "Zobrazit všechny poznámky";
 $l['view_notes_for'] = "Zobrazit poznámky uživatele: {1}";
 $l['registration_ip'] = "Registrační adresa IP:";
@@ -236,7 +236,7 @@ $l['js_validator_checking_referrer'] = "Zjišťuji, zda doporučující uživate
 $l['js_validator_captcha_valid'] = "Zjišťuji, zda zadaný verifikační kód z obrázku souhlasí.";
 
 $l['security_question'] = "Bezpečnostní otázka";
-$l['question_note'] = "Prosím, odpovězte na uvedenou otázku. Toto zabraňuje registraci robotů.";
+$l['question_note'] = "Prosím, odpovězte na níže uvedenou otázku. Tento proces by měl zabránit registraci spam botům.";
 $l['error_question_wrong'] = "Vaše odpověď na bezpečnostní otázku není správná. Prosím, zkuste to znovu.";
 
 $l['subscription_method'] = "Předvolený způsob odběru témat:";

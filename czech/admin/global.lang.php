@@ -144,7 +144,7 @@ $l['guest'] = 'Návštěvník';
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
-$l['rel_less_than'] = "Před méně než ";
+$l['rel_less_than'] = "méně než";
 $l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
