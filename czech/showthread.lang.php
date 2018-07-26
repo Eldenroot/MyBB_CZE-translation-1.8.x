@@ -98,8 +98,6 @@ $l['quickreply_multiquote_deselect'] = "zrušit výběr";
 $l['search_thread'] = "Hledat v tématu";
 $l['enter_keywords'] = "Zadat klíčová slova";
 $l['image_verification'] = "Obrázková verifikace";
-$l['verification_note'] = "Do textového pole dole zadejte text, který vidíte na obrázku vlevo. Toto opatření má znemožnit psaní příspěvků spam robotům.";
-$l['verification_subnote'] = "(necitlivé na velikost písma)";
 $l['view_thread_notes'] = "Poznámky k tématu";
 $l['view_all_notes'] = "Prohlédnout všechny poznámky";
 
@@ -112,3 +110,5 @@ $l['quick_delete_success'] = 'Příspěvek byl úspěšně smazán.';
 $l['quick_delete_thread_success'] = 'Téma bylo úspěšně smazáno.';
 $l['quick_restore_error'] = 'Při obnově příspěvku došlo k chybě:';
 $l['quick_restore_success'] = 'Příspěvek byl úspěšně obnoven.';
+
+$l['post_deleted_error'] = 'Nemůžete provést tuto akci u odstraněného příspěvku.';

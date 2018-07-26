@@ -70,6 +70,11 @@ $l['settings_search'] = "Hledat nastavení";
 $l['confirm_setting_group_deletion'] = "Jste si naprosto jistý, že chcete vymazat nastavení skupiny? (možná pro skupinu)";
 $l['confirm_setting_deletion'] = "Jste si naprosto jistý, že chcete smazat tohle nastavení?";
 
+$l['error_format_dimension'] = "Zadaný {1} formát je nesprávný.";
+$l['error_field_postmaxavatarsize'] = "Maximální rozměry avataru";
+$l['error_field_useravatardims'] = "Výchozí rozměry avataru";
+$l['error_field_maxavatardims'] = "Maximální rozměry avataru";
+$l['error_field_memberlistmaxavatarsize'] = "Maximální rozměry zobrazeného avataru";
 $l['error_missing_title'] = "Nezadal(a) jste název pro tohle nastavení.";
 $l['error_missing_group_title'] = "Nezadal(a) jste název pro tuto skupinu nastavení.";
 $l['error_invalid_gid'] = "Nevybral(a) jste platnou skupinu pro umístění tohoto nastavení v";

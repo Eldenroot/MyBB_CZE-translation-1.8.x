@@ -89,6 +89,7 @@ $l['opened'] = "Otevřené";
 $l['closed'] = "Uzavřené";
 $l['stuck'] = "Přilepené";
 $l['unstuck'] = "Odlepené";
+$l['error'] = "Chyba!";
 $l['mod_process'] = "Téma {1}";
 $l['redirects_removed'] = "Přesměrování tématu bylo odstraněno";
 $l['thread_deleted'] = "Téma odstraněné trvale: {1}";
