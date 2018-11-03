@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -19,7 +19,7 @@ $l['post_icons'] = "Ikony příspěvků";
 $l['help_documents'] = "Nápověda pro uživatele";
 $l['plugins'] = "Pluginy";
 $l['attachment_types'] = "Typy příloh";
-$l['moderator_tools'] = "Nástroje moderátora";
+$l['moderator_tools'] = "Nástroje moderátorů";
 $l['spiders_bots'] = "Pavouci / Boti";
 $l['calendars'] = "Kalendář";
 $l['warning_system'] = "Systém upozornění";
@@ -34,7 +34,7 @@ $l['can_manage_smilies'] = "Může upravovat smajlíky?";
 $l['can_manage_bad_words'] = "Může upravovat filtr sprostých slov?";
 $l['can_manage_custom_mycode'] = "Může upravovat custom MyCode?";
 $l['can_manage_language_packs'] = "Může upravovat balíky jazyků?";
-$l['can_manage_post_icons'] = "Může upravovat ikonky příspěvků?";
+$l['can_manage_post_icons'] = "Může upravovat ikony příspěvků?";
 $l['can_manage_help_documents'] = "Může upravovat nápovědy uživatelům?";
 $l['can_manage_plugins'] = "Může spravovat pluginy?";
 $l['can_manage_attachment_types'] = "Může upravovat typy příloh?";

@@ -13,29 +13,29 @@ $l['add_multiple_post_icons'] = "Přidat více ikon najednou";
 $l['add_multiple_post_icons_desc'] = "Zde můžete přidat více ikon pro nové příspěvky.";
 $l['edit_post_icon'] = "Změnit ikonu příspěvku";
 $l['edit_post_icon_desc'] = "Zde můžete změnit novou ikonu příspěvku.";
-$l['manage_post_icons'] = "Spravovat ikony příspěvku";
+$l['manage_post_icons'] = "Spravovat ikony příspěvků";
 $l['manage_post_icons_desc'] = "V této sekci můžete editovat, mazat a spravovat ikony příspěvků.";
 
 $l['name_desc'] = "Toto je název ikony příspěvku.";
 $l['image_path'] = "Cesta k ikoně";
-$l['image_path_desc'] = "Toto je cesta k ikoně příspěvku. Pokud chcete použít jinou ikonu příspěvku pro jinou šablonu, použijte prosím <strong>{theme}</strong> pro adresář obrázků v každé šabloně.";
+$l['image_path_desc'] = "Toto je cesta k ikoně příspěvku. Pokud chcete použít jinou ikonku příspěvku pro jinou šablonu, použijte prosím <strong>{theme}</strong> pro adresář obrázků v každé šabloně.";
 $l['save_post_icon'] = "Uložit ikonu příspěvku";
 $l['reset'] = "Reset";
 
 $l['path_to_images'] = "Cesta k obrázkům";
 $l['path_to_images_desc'] = "Toto je cesta ke složce, kde se nacházejí obrázky.";
 $l['show_post_icons'] = "Ukaž ikonu příspěvku";
-$l['image'] = "Ikonka";
+$l['image'] = "Ikona";
 $l['add'] = "Přidat?";
 $l['save_post_icons'] = "Uložit ikonu příspěvku.";
 
-$l['no_post_icons'] = "Na fóru se momentálně nenachazí žádné ikony příspěvku.";
+$l['no_post_icons'] = "Na fóru se momentálně nenachazí žádné ikony příspěvků.";
 
-$l['error_missing_name'] = "Nezadal(a) jste název ikony příspěvku";
-$l['error_missing_path'] = "Nezadal(a) jste cestu k ikoně příspěvku";
+$l['error_missing_name'] = "Nezadal(a) jste název ikony příspěvků";
+$l['error_missing_path'] = "Nezadal(a) jste cestu k ikoně příspěvků";
 $l['error_missing_path_multiple'] = "Nezadal(a) jste cestu.";
 $l['error_invalid_path'] = "Nezadal(a) jste správnou cestu.";
-$l['error_no_images'] = "V adresáři se nenechází ikona příspěvku, nebo byly všechny ikony z adresáře již předány.";
+$l['error_no_images'] = "V adresáři se nenachází ikona příspěvku, nebo všechny ikony z adresáře byly již přidány.";
 $l['error_none_included'] = "Nevybral(a) jste žádnou ikonu.";
 $l['error_invalid_post_icon'] = "Tato ikona zřejmě neexistuje.";
 

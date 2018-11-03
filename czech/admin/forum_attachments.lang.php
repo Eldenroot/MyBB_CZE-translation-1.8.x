@@ -11,7 +11,7 @@
 $l['attachments'] = "Přílohy";
 $l['stats'] = "Statistiky";
 $l['find_attachments'] = "Přílohy";
-$l['find_attachments_desc'] = "Pomocí vyhledávacího systému příloh můžete vyhledávat konkrétní soubory, které uživatelé připojili k vašemu fóru. Začněte zadáním hledaných výrazů níže. Všechna pole jsou volitelná a nebudou zahrnuta do kritérií, pokud neobsahují hodnotu.";
+$l['find_attachments_desc'] = "Pomocí vyhledávacího systému příloh můžete vyhledávat konkrétní soubory, které uživatelé přidali na vaše fórum. Pro vyhledávání zadejte hledané výrazy níže. Všechna pole jsou volitelná a nebudou zahrnuta do kritérií, pokud neobsahují hodnotu.";
 $l['find_orphans'] = "Najít nepřiřazené přílohy";
 $l['find_orphans_desc'] = "Nepřiřazené přílohy jsou přílohy, které jsou z nějakého důvodu chybějící v databázi nebo v systému souborů. Tento nástroj Vám je pomůže najít a odstranit.";
 $l['attachment_stats'] = "Statistiky příloh";
@@ -36,7 +36,7 @@ $l['success_count'] = '{1} příloh bylo úspěšně odebráno.';
 $l['success_no_orphans'] = "Na Vašem fóru nejsou žádné nepřiřazené přílohy.";
 
 // Confirm
-$l['confirm_delete'] = "Jsi si doopravdy jistý, že chcete zvolené přílohy nenávratně vymazat?";
+$l['confirm_delete'] = "Jsi si opravdu jistý, že chcete zvolené přílohy nenávratně vymazat?";
 
 // == Pages
 // = Stats
@@ -53,7 +53,7 @@ $l['downloads'] = "Stažené";
 $l['date_uploaded'] = "Datum nahrání";
 $l['popular_attachments'] = "Top 5 nejpopulárnějších příloh";
 $l['largest_attachments'] = "Top 5 největších příloh";
-$l['users_diskspace'] = "Top 5 uživatelů využívající nejvíce místa";
+$l['users_diskspace'] = "Top 5 uživatelů využívajících nejvíce místa na disku";
 $l['username'] = "Uživatelské jméno";
 $l['total_size'] = "Celková velikost souboru";
 
@@ -91,7 +91,7 @@ $l['poster_is_guest'] = "Návštěvník";
 $l['more_than'] = "Více než";
 $l['greater_than'] = "Větší než";
 $l['is_exactly'] = "Přesně";
-$l['less_than'] = "Méně než";
+$l['less_than'] = "Méně než ";
 $l['date_posted_is'] = "Bylo odesláno";
 $l['days_ago'] = "před dny";
 $l['file_size_is'] = "Velikost souboru je";

@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -22,7 +22,7 @@ $l['attachments_awaiting_moderation'] = "Přílohy čekající na schválení";
 // Errors
 $l['error_no_posts'] = "Žádné příspěvky čekající na schválení.";
 $l['error_no_attachments'] = "Žádné přílohy čekající na schválení.";
-$l['error_no_threads'] = "Právě teď tu není žádné vlákno, příspěvek ani příloha, které čekájí na schválení moderátorem.";
+$l['error_no_threads'] = "Právě teď tu není žádné vlákno, příspěvek ani příloha, které čekají na schválení moderátorem.";
 
 // Success
 $l['success_threads'] = "Zvolená témata byla úspěšně schválena.";
@@ -48,5 +48,3 @@ $l['mark_as_ignored'] = "Označit všechny jako ignorované";
 $l['mark_as_deleted'] = "Označit všechny jako smazané";
 $l['mark_as_approved'] = "Označit všechny jako schválené";
 $l['perform_action'] = "Provést akce";
-
-

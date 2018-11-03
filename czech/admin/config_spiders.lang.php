@@ -39,4 +39,4 @@ $l['success_bot_created'] = "Bot byl úspěšně vytvořen.";
 $l['success_bot_updated'] = "Bot byl úspěšně upraven.";
 $l['success_bot_deleted'] = "Bot byl úspěšně smazaný.";
 
-$l['confirm_bot_deletion'] = "Jste si doopravdy jistý, že chcete smazat tohoto bota?";
+$l['confirm_bot_deletion'] = "Jste si opravdu jistý, že chcete smazat tohoto bota?";

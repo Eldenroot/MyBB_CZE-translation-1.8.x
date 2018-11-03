@@ -55,6 +55,6 @@ $l['success_updated_mycode'] = "MyCode byl úspěšně upraven.";
 $l['success_deactivated_mycode'] = "Zvolený MyCode byl úspěšně zrušený.";
 $l['success_activated_mycode'] = "Zvolený MyCode byl úspěšně aktivovaný.";
 
-$l['confirm_mycode_deletion'] = "Jste si doopravdy jistý, že chcete odstranit tento MyCode?";
+$l['confirm_mycode_deletion'] = "Jste si opravdu jistý, že chcete odstranit tento MyCode?";
 
 $l['mycode_sandbox_test_error'] = 'Vyskytla se chyba při načítání výsledků.';

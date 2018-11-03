@@ -19,4 +19,4 @@ $l['setting_hello_display2'] = 'Zobrazit zprávu Postbit';
 $l['setting_hello_display2_desc'] = 'Nastav tuto hodnotu na "ne", pokud nechceš, aby se zprávy nezobrazovaly pod každým příspěvkem.';
 
 $l['hello_uninstall'] = 'Odinstalace pluginu - Zdravím zeměkouli!';
-$l['hello_uninstall_message'] = 'Doopravdy chcete smazat všechny zprávy z databáze?';
+$l['hello_uninstall_message'] = 'Chcete doopravdy smazat všechny zprávy z databáze?';

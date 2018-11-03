@@ -9,7 +9,7 @@
 
 $l['board_settings'] = "Nastavení fóra";
 $l['change_settings'] = "Změnit nastavení";
-$l['change_settings_desc'] = "Tato část Vám umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
+$l['change_settings_desc'] = "Tato část umožní spravovat všechna různá nastavení týkající se tvého fóra. To begin, select a group below to manage settings relating to that group.";
 $l['add_new_setting'] = "Přidat nové nastavení";
 $l['add_new_setting_desc'] = "V této části můžeš přidat nové nastavení pro tvé fórum.";
 $l['modify_existing_settings'] = "Upravit nastavení";

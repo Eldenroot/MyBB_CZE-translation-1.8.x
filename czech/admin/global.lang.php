@@ -31,7 +31,7 @@ $l['view_board'] = "Přejít na fórum";
 $l['logout'] = "Odhlásit se";
 
 // Footer language strings
-$l['generated_in'] = "Vygenerováno za {1} with <a href=\"{2}\" target=\"_blank\">{3} dotazy</a>. Využití paměti: {4}";
+$l['generated_in'] = "Vygenerováno za {1} pomocí <a href=\"{2}\" target=\"_blank\">{3} dotazů</a>. Využití paměti: {4}";
 
 // Login page
 
@@ -51,7 +51,7 @@ $l['login'] = "Přihlašovací údaje";
 $l['lost_password'] = "Zapomněl jste heslo?";
 
 $l['error_invalid_admin_session'] = "Neplatné administratorské sezení.";
-$l['error_admin_session_expired'] = "Vypršela platnost tvého administrátorského přihlášení.";
+$l['error_admin_session_expired'] = "Vypršela platnost Vašeho administrátorského přihlášení.";
 $l['error_invalid_ip'] = "Vaše IP adresa není platná pro sezení.";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
 $l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje. <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi jak odblokovat účet.";
@@ -64,7 +64,7 @@ $l['success_logged_out'] = "Byl jste úspěšně odhlášen.";
 $l['error_invalid_username_password'] = " Přihlašovací údaje, které jste zadal, jsou nesprávné.";
 
 // Action Confirmation
-$l['confirm_action'] = "Jste si doopravdy jistý, že chcete provést následující akci?";
+$l['confirm_action'] = "Jste si opravdu jistý, že chcete provést následující akci?";
 
 // Common words and phrases
 $l['home'] = "Domov";
@@ -144,7 +144,7 @@ $l['guest'] = 'Návštěvník';
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
-$l['rel_less_than'] = "méně než";
+$l['rel_less_than'] = "méně než ";
 $l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";

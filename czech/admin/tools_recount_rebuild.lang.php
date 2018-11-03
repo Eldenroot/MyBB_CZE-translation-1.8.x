@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2017-2018 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2017-2018 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -14,13 +14,13 @@ $l['data_per_page'] = "Dat na stránku";
 $l['recount_stats'] = "Přepočítat statistiky";
 $l['recount_stats_desc'] = "Přepočítá a aktualizuje statistiky vašeho fóra na hlavní stránce a na stránce se statistikami.";
 $l['recount_reputation'] = "Přepočítat reputaci";
-$l['recount_reputation_desc'] = "Přepočíta reputaci každého uživatele.";
+$l['recount_reputation_desc'] = "Přepočítá reputaci každého uživatele.";
 $l['recount_warning'] = "Přepočítat varování";
 $l['recount_warning_desc'] = "Přepočítat varování všech uživatelů.";
 $l['recount_private_messages'] = "Přepočítat soukromé zprávy";
-$l['recount_private_messages_desc'] = "Přepočíta soukromé zprávy všech uživatelů.";
+$l['recount_private_messages_desc'] = "Přepočítá soukromé zprávy všech uživatelů.";
 $l['recount_referrals'] = "Přepočítat referaly";
-$l['recount_referrals_desc'] = "Přepočíta referaly všech uživatelů.";
+$l['recount_referrals_desc'] = "Přepočítá referaly všech uživatelů.";
 $l['recount_thread_ratings'] = "Přepočítat hodnocení téma";
 $l['recount_thread_ratings_desc'] = "Přepočítá hodnocení všech témat.";
 $l['rebuild_forum_counters'] = "Znovu sestavit počítadlo";
@@ -51,4 +51,3 @@ $l['success_rebuilt_thread_ratings'] = "Hodnocení témat bylo úspěšně změn
 
 $l['confirm_proceed_rebuild'] = "Klik \"Proceed\" ke změně počítadel.";
 $l['automatically_redirecting'] = "Automatické přesměrování…";
-

@@ -28,8 +28,8 @@ $l['admin_activation_coppa'] = "Čeká se na aktivaci administrátorem.(COPPA)";
 $l['activate_users'] = "Aktivovat uživatele";
 $l['delete_users'] = "Smazat uživatele";
 
-$l['confirm_activate_users'] = "Jste si doopravdy jistý, že chcete aktivovat vybrané uživatele?";
-$l['confirm_delete_users'] = "Jste si doopravdy jistý, že chcete smazat vybrané uživatelé?";
+$l['confirm_activate_users'] = "Jste si opravdu jistý, že chcete aktivovat vybrané uživatele?";
+$l['confirm_delete_users'] = "Jste si opravdu jistý, že chcete smazat vybrané uživatelé?";
 
 $l['no_users_selected'] = "Nevybral(a) jste žádného uživatele.";
 

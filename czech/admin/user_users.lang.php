@@ -11,7 +11,7 @@ $l['users'] = "Uživatelé";
 
 $l['search_for_user'] = "Najít uživatele";
 $l['browse_users'] = "Hledat mezi uživateli";
-$l['browse_users_desc'] = "Níže můžeš listovat mezi zaregistrovanými uživateli a zobrazit je. Zobrazení jsou zvláště užitečná pro generování různých sad výsledků s různými informacemi - považujte je za vyhledávání.";
+$l['browse_users_desc'] = "Níže můžeš listovat mezi zaregistrovanými uživateli a zobrazit je. Zobrazení jsou zvláště užitečná pro generování různých sad výsledků s různými informacemi a považujte je za vyhledávání.";
 $l['find_users'] = "Najít uživatele";
 $l['find_users_desc'] = "Zde můžeš vyhládat uživatele tvého fóra. Čím méně polí vyplníte, tím širší je vyhledávání; Čím více vyplníte, tím užší je vaše hledání.";
 $l['create_user'] = "Vytvořit nového uživatele";
@@ -47,7 +47,7 @@ $l['success_ban_lifted'] = "Bany pro {1} uživatele, které jste vybral(a), byly
 $l['edit_ban'] = "Upravit ban";
 $l['lift_ban'] = "Odebrat ban";
 $l['lift_bans'] = "Odebrat bany";
-$l['confirm_multidelete'] = "Jste si doopravdy jistý, že chcete smazat tolik uživatelů {1} najednou? Tento krok nelze vrátit.";
+$l['confirm_multidelete'] = "Jste si opravdu jistý, že chcete smazat tolik uživatelů {1} najednou? Tento krok nelze vrátit.";
 $l['users_deleted'] = "{1} uživatele byli smazáni";
 $l['mass_prune_info'] = "Tato akce se dotkne {1} uživatelů. Pokud budete pokračovat, příspěvky vybraných uživatelů staršího data budou smazány<br /><br /><strong>Pozor, pokud je některý z příspěvků první v tématu, dojde ke smazání celého vlákna.</strong>";
 $l['mass_prune_posts'] = "Hromadné promazání příspěvků";
@@ -109,7 +109,7 @@ $l['error_inline_no_users_selected'] = "Promiňte, ale nevybral(a) jste žádné
 $l['error_cannot_delete_user'] = "Tento uživatel nemůže být smazán.";
 $l['error_no_referred_users'] = "Zvolený uživatel nemá žádné referaly.";
 
-$l['user_deletion_confirmation'] = "Jste si doopravdy jistý, že chcete smazat vybraného uživatele?";
+$l['user_deletion_confirmation'] = "Jste si opravdu jistý, že chcete smazat vybraného uživatele?";
 
 $l['success_coppa_activated'] = "Vybraný uživatel COPPA byl úspěšně aktivován.";
 $l['success_activated'] = "Vybraný uživatel byl úspěšně aktivován.";

@@ -8,7 +8,7 @@
  */
 
 $l['system_health'] = "Stav fóra";
-$l['system_health_desc'] = "Zde můžete najít informace o stavu Vašeho fóra.";
+$l['system_health_desc'] = "Zde můžete najít statistiky a informace o stavu fóra.";
 $l['utf8_conversion'] = "UTF-8 konverze";
 $l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti Vašeho fóra a vybrané tabulky. Po dokončení budeš přesměrován hlavní stránku konverze UTF-8.";
 $l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak ti pomůže je převést formát UTF-8.";
@@ -36,7 +36,7 @@ $l['attachments'] = "Přílohy";
 $l['total_database_size'] = "Celková velikost databáze";
 $l['attachment_space_used'] = "Celková velikost všech příloh";
 $l['total_cache_size'] = "Celková velikost mezipaměti";
-$l['estimated_attachment_bandwidth_usage'] = "Přílohy: odhadované využití trafficu";
+$l['estimated_attachment_bandwidth_usage'] = "Odhadované využití trafficu příloh";
 $l['max_upload_post_size'] = "Maximální velikost pro nahrávání souborů / nahrání přílohy";
 $l['average_attachment_size'] = "Průměrná velikost příloh";
 $l['stats'] = "Statistiky";

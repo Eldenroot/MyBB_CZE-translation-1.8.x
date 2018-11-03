@@ -11,7 +11,7 @@ $l['attachment_types'] = "Typy příloh";
 $l['attachment_types_desc'] = "V této sekci můžete vytvářet a upravovat přípony, kterými definujete typy souborů, které mohou uživatelé přiložit k příspěvku.";
 $l['add_new_attachment_type'] = "Přidat novou příponu přílohy";
 $l['add_attachment_type'] = "Přidat novou příponu přílohy";
-$l['add_attachment_type_desc'] = "Přidáním nového typu přílohy umožníte uživatelům přiložit tento typ příloh do jejich příspěvků. Máte možnost upravit typ MIME, maximální velikost nebo zobrazení ikonky pro každou přílohu.";
+$l['add_attachment_type_desc'] = "Přidáním nového typu přílohy umožníte uživatelům přiložit tento typ příloh do jejich příspěvků. Máte možnost upravit typ MIME, maximální velikost nebo zobrazení ikony pro každou přílohu.";
 $l['edit_attachment_type'] = "Upravit příponu přílohy";
 $l['edit_attachment_type_desc'] = "Máte možnost upravit MIME typy nebo maximální velikost pro tento typ přílohy.";
 

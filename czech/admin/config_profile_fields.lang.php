@@ -7,7 +7,7 @@
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 $l['custom_profile_fields'] = "Vlastní profilové pole";
-$l['custom_profile_fields_desc'] = "Tato sekce Vám umožnuje upravit, smazat a spravovat vlastní profilové pole.";
+$l['custom_profile_fields_desc'] = "Tato sekce umožní upravit, smazat a spravovat vlastní profilové pole.";
 $l['add_profile_field'] = "Přidat profilové pole";
 $l['add_new_profile_field'] = "Přidat nové profilové pole";
 $l['add_new_profile_field_desc'] = "Zde můžete přidat nové profilové pole.";
@@ -57,7 +57,7 @@ $l['parse_allowimgcode'] = "Ano, povolit [img] kód v tomto poli.";
 $l['parse_allowvideocode'] = "Ano, povolit [video] kód v tomto poli.";
 $l['save_profile_field'] = "Uložit pole";
 $l['name'] = "Jmnéno";
-$l['registration'] = "Zobrazeno během registrace?";
+$l['registration'] = "Zobrazit během registrace?";
 $l['editable'] = "Lze upravit?";
 $l['profile'] = "Profil?";
 $l['postbit'] = "Postbit?";

@@ -77,5 +77,5 @@ $l['success_warning_type_created'] = "Level varování byl úspěšně vytvořen
 $l['success_warning_type_updated'] = "Level varování byl úspěšně upraven.";
 $l['success_warning_type_deleted'] = "Vybraný level varování byl úspěšně vymazán.";
 
-$l['confirm_warning_level_deletion'] = "Jste si doopravdy jistý, že chcete smazat warning level?";
-$l['confirm_warning_type_deletion'] = "Jste si doopravdy jistý, že chcete smazat warning type?";
+$l['confirm_warning_level_deletion'] = "Jste si opravdu jistý, že chcete smazat warning level?";
+$l['confirm_warning_type_deletion'] = "Jste si opravdu jistý, že chcete smazat warning type?";

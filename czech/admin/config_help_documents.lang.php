@@ -58,5 +58,5 @@ $l['success_help_document_updated'] = "Dokument nápovědy byl úspěšně změn
 $l['success_section_deleted'] = "Zvolená sekce nápovědy byla úspěšně vymazána.";
 $l['success_document_deleted'] = "Zvolený dokument nápovědy byl úspěšně vymazán.";
 
-$l['confirm_section_deletion'] = "Jste si doopravdy jistý, že chcete vymazat tuhle sekci?";
-$l['confirm_document_deletion'] = "Jste si doopravdy jistý, že chcete vymazat tento dokument?";
+$l['confirm_section_deletion'] = "Jste si opravdu jistý(á), že chcete vymazat tuhle sekci?";
+$l['confirm_document_deletion'] = "Jste si opravdu jistý(á), že chcete vymazat tento dokument?";

@@ -9,7 +9,7 @@
 
 $l['cache'] = "Mezipaměť:";
 $l['cache_manager'] = "Správce mezipaměti";
-$l['cache_manager_description'] = "Zde můžete spravovat mezipaměťi, které se používají jako metoda pro optimalizování MyBB. Reloading a cache will reload it into the selected cache handler (disk, eaccelerator, memcache, etc). Reloading is useful when switching from the database or file system to xcache, eaccelerator, or another cache handler.";
+$l['cache_manager_description'] = "Zde můžete spravovat mezipaměti, které se používají optimalizování MyBB. Opětovné načtení mezipaměti jej znovu načte do vybraného cache handleru (disk, eAccelerator, memcache, atd). Opětovné načtení je užitečné při změně databáze nebo file systému na XCache, eAccelerator nebo na jiný cache handler.";
 $l['rebuild_cache'] = "Znovu vytvořit mezipaměť";
 $l['reload_cache'] = "Znovu načíst mezipaměť";
 $l['rebuild_reload_all'] = "(Znovu vytvořit & načíst mezipaměť)";
