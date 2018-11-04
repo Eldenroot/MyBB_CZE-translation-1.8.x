@@ -7,8 +7,8 @@
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-$l['today'] = "<span title=\"{1}\">Dnes</span>";
-$l['yesterday'] = "<span title=\"{1}\">Včera</span>";
+$l['today_rel'] = "<span title=\"{1}\">Dnes</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">Včera</span>";
 $l['today'] = "Dnes";
 $l['yesterday'] = "Včera";
 
