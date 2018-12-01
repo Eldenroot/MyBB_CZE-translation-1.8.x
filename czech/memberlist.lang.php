@@ -40,6 +40,7 @@ $l['search_member_list'] = "Hledat v seznamu uživatelů";
 $l['search_criteria'] = "Kritéria vyhledávání";
 $l['begins_with'] = "začíná na";
 $l['username_contains'] = "obsahuje";
+$l['username_exact'] = "přesně";
 $l['search_website'] = "URL webu";
 $l['search_skype'] = "Skype kontakt";
 $l['search_google'] = "Google Hangouts kontakt";
