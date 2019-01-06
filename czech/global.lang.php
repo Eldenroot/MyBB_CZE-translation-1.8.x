@@ -316,10 +316,17 @@ $l['smilieinsert_getmore'] = "další";
 $l['on'] = "zapnuté";
 $l['off'] = "vypnuté";
 $l['remote_avatar_disabled_default_avatar'] = "V současné době používáte globalně poznatelného avatara, což bylo zakazáno. Na místo toho se použije výchozí avatar.";
-$l['unread_report'] = "Poznámka pro moderátora: máte jedno nepřečtené oznámení.";
-$l['unread_reports'] = "Poznámka pro moderátora: máte {1} nepřečtených oznámení.";
-$l['pending_joinrequest'] = "Poznámka pro vedoucí skupiny: máte 1 požadavek pro udělení členství ve skupině.";
-$l['pending_joinrequests'] = "Poznámka pro vedoucí skupiny: máte {1} požadavků pro udělení členství ve skupině.";
+$l['mod_notice'] = "Upozornění pro moderátory: {1}.";
+$l['unapproved_thread'] = "1 neschválené vlákno";
+$l['unapproved_threads'] = "{1} neschválená vlákna";
+$l['unapproved_post'] = "1 neschválený příspěvek";
+$l['unapproved_posts'] = "{1} neschválené příspěvky";
+$l['unapproved_attachment'] = "1 neschválená příloha";
+$l['unapproved_attachments'] = "{1} neschválené přílohy";
+$l['unread_report'] = "1 nepřečtené nahlášení";
+$l['unread_reports'] = "{1} nepřečtená nahlášení";
+$l['pending_joinrequest'] = "Upozornění pro vedoucí skupiny: máte 1 žádost pro udělení členství ve skupině.";
+$l['pending_joinrequests'] = "Upozornění pro vedoucí skupiny: máte {1} žádosti pro udělení členství ve skupině.";
 
 $l['search_user'] = "Hledat uživatele";
 
@@ -373,7 +380,7 @@ $l['banned_email_warning'] = "Používáte e-mail, který na tomto fóru není p
 $l['powered_by'] = "Fórum používá software";
 $l['copyright'] = "Copyright";
 $l['attach_quota'] = "Vaše přidělená kvóta pro přílohy je: {1}.";
-$l['attach_usage'] = "V tuto chvíli používáte <strong>{1}</strong>.";
+$l['attach_usage'] = "V tuto chvíli využíváte <strong>{1}</strong>.";
 $l['view_attachments'] = "[zobrazit moje přílohy]";
 $l['unlimited'] = "∞";
 
@@ -398,8 +405,8 @@ $l['with_trout'] = "around a bit with a large trout (slovní hříčka).";
 $l['mybb_engine'] = "MyBB Engine";
 $l['quickdelete_confirm'] = "Opravdu chcete odstranit tento příspěvek?";
 $l['quickrestore_confirm'] = "Opravdu chcete obnovit tento příspěvek?";
-$l['newpm_notice_one'] = "<strong>Máte jednu nepřečtenou soukromou zprávu</strong> od {1} nazvanou <a href=\"{2}/private.php?action=read&amp;pmid={3}\" style=\"font-weight: bold;\">{4}</a>";
-$l['newpm_notice_multiple'] = "<strong>Máte {1} nepřečtených soukromých zpráv.</strong> Nejnovější je od {2} s názvem <a href=\"{3}/private.php?action=read&amp;pmid={4}\" style=\"font-weight: bold;\">{5}</a>";
+$l['newpm_notice_one'] = "<strong>Máte 1 nepřečtenou soukromou zprávu</strong> od {1} s předmětem zprávy <a href=\"{2}/private.php?action=read&amp;pmid={3}\" style=\"font-weight: bold;\">{4}</a>";
+$l['newpm_notice_multiple'] = "<strong>Máte {1} nepřečtených soukromých zpráv.</strong> Nejnovější je od {2} s předmětem zprávy <a href=\"{3}/private.php?action=read&amp;pmid={4}\" style=\"font-weight: bold;\">{5}</a>";
 $l['deleteevent_confirm'] = "Opravdu chcete odstranit tuto událost?";
 $l['removeattach_confirm'] = "Opravdu chcete odstranit z příspěvku zvolenou přílohu?";
 
@@ -408,7 +415,7 @@ $l['latest_threads'] = "Nejnovější témata";
 $l['folder_inbox'] = "Doručené zprávy";
 $l['folder_sent_items'] = "Odeslané zprávy";
 $l['folder_drafts'] = "Koncepty zpráv";
-$l['folder_trash'] = "Odpadkový koš";
+$l['folder_trash'] = "Koš";
 $l['folder_untitled'] = "Nepojmenovaná složka";
 
 $l['standard_mod_tools'] = "Standardní nástroje";
@@ -416,8 +423,8 @@ $l['custom_mod_tools'] = "Vlastní nástroje";
 
 $l['error_loadlimit'] = "Bylo dosaženo maximální zátěže serveru. Vraťte se, prosím, později, až zde nebude takový provoz.";
 $l['error_boardclosed'] = "Toto fórum je právě uzavřeno. Důvody naleznete níže.";
-$l['error_banned'] = "Lituji, ale jste zabanován(a). Nemůžete v tomto fóru ani číst, ani psát. Pokud nevíte proč jste ban dostal(a), nebo jej chcete zrušit, kontaktujte administrátora fóra.";
-$l['error_cannot_upload_php_post'] = "Soubor nelze nahrát - je příliš veliký s ohledem na nastavení php (post_max_size). Prosím, klikněte na tlačítko Zpět.";
+$l['error_banned'] = "Lituji, ale byl jste zabanován(a). Nemůžete v tomto fóru ani číst, ani psát. Jestliže nevíte proč jste ban dostal(a), nebo jej chcete zrušit, kontaktujte administrátora fóra.";
+$l['error_cannot_upload_php_post'] = "Soubor nelze nahrát, protože je příliš veliký s ohledem na nastavení PHP (post_max_size). Prosím, klikněte na tlačítko Zpět.";
 $l['error_empty_post_input'] = "Bohužel, došlo k chybě. Váš příspěvek může být prázdný. Mohlo to být způsobeno obnovením stránky v prohlížeči, případně přímým přístupem na tuto stránku. Doporučujeme Vám, abyste v prohlížeči klikli na tlačítko Zpět a začli znovu.";
 $l['error_database_repair'] = "MyBB automaticky opravuje poškozené tabulky.";
 
