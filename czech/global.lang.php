@@ -413,6 +413,7 @@ $l['removeattach_confirm'] = "Opravdu chcete odstranit z příspěvku zvolenou p
 $l['latest_threads'] = "Nejnovější témata";
 
 $l['folder_inbox'] = "Doručené zprávy";
+$l['folder_unread'] = "Nepřečtené zprávy";
 $l['folder_sent_items'] = "Odeslané zprávy";
 $l['folder_drafts'] = "Koncepty zpráv";
 $l['folder_trash'] = "Koš";
