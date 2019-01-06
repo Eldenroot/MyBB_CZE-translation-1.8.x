@@ -1,8 +1,13 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
+<<<<<<< HEAD
  * Copyright © 2014-2019 MyBB Group 
  * All Rights Reserved 
+=======
+ * Copyright © 2014-2018 MyBB Group
+ * All Rights Reserved
+>>>>>>> index.lang.php, global.lang.php: přesunutí překladu pro tým fóra
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -16,7 +21,6 @@ $l['forum_unapproved_post_count'] = "Ve fóru je nyní jeden neschválený pří
 $l['forum_unapproved_threads_count'] = "Ve fóru je nyní {1} ks neschválených témat.";
 $l['forum_unapproved_thread_count'] = "Ve fóru je nyní jedno neschválené téma.";
 $l['markread'] = "Všechna fóra označit jako přečtená";
-$l['forumteam'] = "Tým fóra";
 $l['forumstats'] = "Statistiky fóra";
 $l['todays_birthdays'] = "Dnešní narozeniny";
 $l['birthdayhidden'] = "Skryté";

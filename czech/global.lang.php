@@ -17,6 +17,7 @@ $l['toplinks_search'] = "Hledat";
 $l['toplinks_calendar'] = "Kalendář";
 $l['toplinks_help'] = "Nápověda";
 $l['toplinks_portal'] = "Portál";
+$l['bottomlinks_forumteam'] = "Tým fóra";
 $l['bottomlinks_contactus'] = "Kontakty";
 $l['bottomlinks_returntop'] = "Nahoru";
 $l['bottomlinks_syndication'] = "RSS";
