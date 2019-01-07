@@ -562,7 +562,7 @@ $l['december'] = "Prosinec";
 
 $l['moderation_forum_attachments'] = "Nové přílohy v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_posts'] = "Nové příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
-$l['moderation_user_posts'] = "Nové příspěvky, které jste napsal v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
+$l['moderation_user_posts'] = "Nové příspěvky, které jste napsal, v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_thread'] = "Nová témata v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
 $l['moderation_forum_edits_quick'] = "Nově upravené příspěvky v tomto fóru musí před zveřejněním nejdříve schválit moderátor.";
