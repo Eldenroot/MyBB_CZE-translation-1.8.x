@@ -20,8 +20,8 @@ $l['call_on_skype'] = "Zavolat {1} přes Skype";
 $l['yahoo_center'] = "Yahoo! Center";
 
 $l['send_me_instant'] = "Poslat mi IM";
-$l['add_me_buddy_list'] = "Přidat mě na Seznam přátel";
-$l['add_remote_to_page'] = "Přidejte si Remote na vaší stránku";
+$l['add_me_buddy_list'] = "Přidat mě na seznam přátel";
+$l['add_remote_to_page'] = "Přidejte si Remote na Vaší stránku";
 
 $l['buddy_list'] = "Seznam přátel";
 $l['online'] = "Online";
@@ -32,7 +32,7 @@ $l['delete_buddy'] = "X";
 $l['pm_buddy'] = "Poslat SZ";
 $l['last_active'] = "<strong>Poslední aktivita:</strong> {1}";
 $l['close'] = "Zavřít";
-$l['no_buddies'] = "<em>Váš Seznam přátel je prázdný. Přátele lze na Seznam přidat v Nastavení uživatele nebo při návštěvě profilu daného uživatele.</em>";
+$l['no_buddies'] = "<em>Váš seznam přátel je prázdný. Přátele lze na seznam přidat v Nastavení uživatele nebo při návštěvě profilu daného uživatele.</em>";
 
 $l['help_docs'] = "Nápověda";
 
