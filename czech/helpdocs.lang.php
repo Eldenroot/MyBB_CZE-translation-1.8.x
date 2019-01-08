@@ -40,14 +40,14 @@ $l['d5_document'] = "Když procházíte fórum, které Vás zajímá, budete mo�
 
 // Help Document 6
 $l['d6_name'] = "Psaní příspěvků";
-$l['d6_desc'] = "Jak odpovídat na téma ve fóru.";
+$l['d6_desc'] = "Jak odpovídat na témata ve fóru.";
 $l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\" které naleznete na začátku i konci tématu. Prosím, vezměte na vědomí, že administrátor nemusí všem uživatelům v každém fóru tohle umožnit.
 <br /><br />Navíc moderátor fóra může téma uzavřít. To znamená, že už nikdo nemůže do tohoto tématu přispívat bez speciální pomoci moderátora fóra, nebo administrátora celého fóra.";
 
 // Help Document 7
 $l['d7_name'] = "MyCode - formátování příspěvků";
 $l['d7_desc'] = "Jak používat MyCode pro formátování Vašich příspěvků.";
-$l['d7_document'] = "Pro lepší vzhled Vašich příspěvků lze využít myCode - zjednodušenou verzi značkovacího jazyka HTML.
+$l['d7_document'] = "Pro lepší vzhled Vašich příspěvků lze využít MyCode - zjednodušenou verzi hypertextového značkovacího jazyka HTML.
 <p><br />[b]Tento text je tučně.[/b]<br />&nbsp;&nbsp;&nbsp;<b>Tento text je tučně.</b>
 <p>[i]Tento text je kurzívou.[/i]<br />&nbsp;&nbsp;&nbsp;<i>Tento text je kurzívou.</i>
 <p>[u]Tento text je podtržený.[/u]<br />&nbsp;&nbsp;&nbsp;<u>Tento text je podtržený text.</u>
