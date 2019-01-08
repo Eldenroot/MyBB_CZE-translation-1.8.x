@@ -21,10 +21,10 @@ $l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytn
 
 // Help Document 3
 $l['d3_name'] = "Používání cookies v tomto fóru";
-$l['d3_desc'] = "Toto fórum používá cookies pro ukládání některých informací registrovaných uživatelů.";
-$l['d3_document'] = "Toto fórum využívá cookies pro ukládání informací o přihlášení registrovaných uživatelů nebo době poslední návštěvy neregistrovaných uživatelů.
+$l['d3_desc'] = "Tohle fórum používá cookies pro ukládání některých informací registrovaných uživatelů.";
+$l['d3_document'] = "Tohle fórum využívá cookies pro ukládání informací o přihlášení registrovaných uživatelů nebo době poslední návštěvy neregistrovaných uživatelů.
 <br /><br />Cookies jsou drobné textové dokumenty, které se ukládají do Vašeho zařízení. Cookies z našeho fóra mohou být využity opět jenom v tomto fórum a nepředstavují žádné bezpečnostní riziko.
-<br /><br />Toto fórum využívá cookies i pro sledování konkrétních příspěvků, které uživatel četl a kdy je naposledy četl.
+<br /><br />Tohle fórum využívá cookies i pro sledování konkrétních příspěvků, které uživatel četl a kdy je naposledy četl.
 <br /><br />Všechna cookies tohoto fóra můžete snadno odstranit tak, že kliknete <a href=\"misc.php?action=clearcookies&amp;my_post_key={1}\">zde</a>.";
 
 // Help Document 4
@@ -41,17 +41,17 @@ $l['d5_document'] = "Když procházíte fórum, které Vás zajímá, budete mo�
 // Help Document 6
 $l['d6_name'] = "Psaní příspěvků";
 $l['d6_desc'] = "Jak odpovídat na téma ve fóru.";
-$l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\" které naleznete na začátku i konci tématu. Prosím, vezměte na vědomí, že administrátor nemusí všem uživatelům v každém fóru toto umožnit.
+$l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\" které naleznete na začátku i konci tématu. Prosím, vezměte na vědomí, že administrátor nemusí všem uživatelům v každém fóru tohle umožnit.
 <br /><br />Navíc moderátor fóra může téma uzavřít. To znamená, že už nikdo nemůže do tohoto tématu přispívat bez speciální pomoci moderátora fóra, nebo administrátora celého fóra.";
 
 // Help Document 7
 $l['d7_name'] = "MyCode - formátování příspěvků";
 $l['d7_desc'] = "Jak používat MyCode pro formátování Vašich příspěvků.";
 $l['d7_document'] = "Pro lepší vzhled Vašich příspěvků lze využít myCode - zjednodušenou verzi značkovacího jazyka HTML.
-<p><br />[b]Tento text je tučně[/b]<br />&nbsp;&nbsp;&nbsp;<b>Tento text je tučně</b>
-<p>[i]Tento text je kurzívou[/i]<br />&nbsp;&nbsp;&nbsp;<i>Tento text je kurzívou</i>
-<p>[u]Toto je podtržený text[/u]<br />&nbsp;&nbsp;&nbsp;<u>Toto je podtržený text</u>
-<p>[s]Toto je přeškrtnuto[/s]<br />&nbsp;&nbsp;&nbsp;<strike>Toto je přeškrtnuto</strike>
+<p><br />[b]Tento text je tučně.[/b]<br />&nbsp;&nbsp;&nbsp;<b>Tento text je tučně.</b>
+<p>[i]Tento text je kurzívou.[/i]<br />&nbsp;&nbsp;&nbsp;<i>Tento text je kurzívou.</i>
+<p>[u]Tento text je podtržený.[/u]<br />&nbsp;&nbsp;&nbsp;<u>Tento text je podtržený text.</u>
+<p>[s]Tento text je přeškrtnuto.[/s]<br />&nbsp;&nbsp;&nbsp;<strike>Tento text je přeškrtnut.</strike>
 <p><br />[url]http://www.example.com/[/url]<br />&nbsp;&nbsp;&nbsp;<a href=\"http://www.example.com/\">http://www.example.com/</a>
 <p>[url=http://www.example.com/]Example.com[/url]<br />&nbsp;&nbsp;&nbsp;<a href=\"http://www.example.com/\">Example.com</a>
 <p>[email]example@example.com[/email]<br />&nbsp;&nbsp;&nbsp;<a href=\"mailto:example@example.com\">example@example.com</a>

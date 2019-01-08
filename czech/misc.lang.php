@@ -81,7 +81,7 @@ $l['syndicate_all_forums'] = "Odběr všech fór";
 
 $l['redirect_markforumread'] = "Vybrané fórum bylo označeno jako přečtené.";
 $l['redirect_markforumsread'] = "Všechna fóra byla označena jako přečtená.";
-$l['redirect_forumpasscleared'] = "Uložené heslo pro toto fórum bylo odstraněno.";
+$l['redirect_forumpasscleared'] = "Uložené heslo pro tohle fórum bylo odstraněno.";
 $l['redirect_cookiescleared'] = "Všechna cookies byla odstraněna.";
 
 $l['error_invalidimtype'] = "Tento uživatel nemá tento typ instant messenger účtu uvedený ve svém profilu.";

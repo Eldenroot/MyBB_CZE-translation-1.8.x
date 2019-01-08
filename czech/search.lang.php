@@ -2,10 +2,14 @@
 /**
  * MyBB 1.8.x Official Czech Language Pack
 <<<<<<< HEAD
+<<<<<<< HEAD
  * Copyright © 2014-2019 MyBB Group 
  * All Rights Reserved 
 =======
  * Copyright © 2014-2018 MyBB Group 
+=======
+ * Copyright © 2014-2018 MyBB Group
+>>>>>>> treewide: toto (hovorové) za tohle
  * All Rights Reserved
 >>>>>>> search.lang.php: přeložení nových stringů
  *
@@ -92,8 +96,8 @@ $l['icon_no_new'] = "Žádné nové příspěvky.";
 $l['icon_new'] = "Nové příspěvky.";
 $l['icon_hot'] = " Nejčtenější téma.";
 $l['icon_close'] = " Uzavřené téma.";
-$l['attachment_count'] = "Toto téma obsahuje 1 přílohu.";
-$l['attachment_count_multiple'] = "Toto téma obsahuje {1} příloh.";
+$l['attachment_count'] = "Tohle téma obsahuje 1 přílohu.";
+$l['attachment_count_multiple'] = "Tohle téma obsahuje {1} příloh.";
 $l['goto_first_unread'] = "Jít na první nepřečtený příspěvek";
 $l['page_selected'] = "Všech <strong>{1}</strong> výsledků na stránce je vybráno.";
 $l['all_selected'] = "Všech <strong>{1}</strong> výsledků z tohoto hledání je vybráno.";

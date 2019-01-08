@@ -25,13 +25,13 @@ $l['num_options'] = "Počet možností:";
 $l['max_options'] = "(Maximum: {1})";
 $l['mod_options'] ="Možnosti moderátora:";
 $l['close_thread'] = "<b>Zavřít téma:</b> znemožňuje publikaci nových příspěvků do tématu.";
-$l['stick_thread'] = "<b>Přilepit téma:</b> toto téma bude přilepeno na samý začátek fóra.";
+$l['stick_thread'] = "<b>Přilepit téma:</b> tohle téma bude přilepeno na samý začátek fóra.";
 $l['draft_saved'] = "Nové téma bylo úspěšně uloženo jako koncept.<br />Nyní budete přesměrováni do seznamu konceptů.";
 $l['image_verification'] = "Obrázková verifikace";
-$l['verification_note'] = "Do textového pole dole zadejte text z obrázku vlevo. Toto opatření má zabránit spam botům psát příspěvky.";
+$l['verification_note'] = "Do textového pole dole zadejte text z obrázku vlevo. Tohle opatření má zabránit spam botům psát příspěvky.";
 $l['verification_subnote'] = "(necitlivé na velikost)";
 $l['invalid_captcha'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
-$l['error_post_already_submitted'] = "Toto téma jste již do tohoto fóra odeslali. Přejděte do fóra a uvidíte Váš příspěvek.";
+$l['error_post_already_submitted'] = "Tohle téma jste již do tohoto fóra odeslali. Přejděte do fóra a uvidíte Váš příspěvek.";
 $l['no_prefix'] = "Bez prefixu";
 $l['forum_rules'] = "{1} - Pravidla";
 

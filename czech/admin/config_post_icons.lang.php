@@ -16,14 +16,14 @@ $l['edit_post_icon_desc'] = "Zde můžete změnit novou ikonu příspěvku.";
 $l['manage_post_icons'] = "Spravovat ikony příspěvků";
 $l['manage_post_icons_desc'] = "V této sekci můžete editovat, mazat a spravovat ikony příspěvků.";
 
-$l['name_desc'] = "Toto je název ikony příspěvku.";
+$l['name_desc'] = "Tohle je název ikony příspěvku.";
 $l['image_path'] = "Cesta k ikoně";
-$l['image_path_desc'] = "Toto je cesta k ikoně příspěvku. Pokud chcete použít jinou ikonku příspěvku pro jinou šablonu, použijte prosím <strong>{theme}</strong> pro adresář obrázků v každé šabloně.";
+$l['image_path_desc'] = "Tohle je cesta k ikoně příspěvku. Pokud chcete použít jinou ikonku příspěvku pro jinou šablonu, použijte prosím <strong>{theme}</strong> pro adresář obrázků v každé šabloně.";
 $l['save_post_icon'] = "Uložit ikonu příspěvku";
 $l['reset'] = "Reset";
 
 $l['path_to_images'] = "Cesta k obrázkům";
-$l['path_to_images_desc'] = "Toto je cesta ke složce, kde se nacházejí obrázky.";
+$l['path_to_images_desc'] = "Tohle je cesta ke složce, kde se nacházejí obrázky.";
 $l['show_post_icons'] = "Ukaž ikonu příspěvku";
 $l['image'] = "Ikona";
 $l['add'] = "Přidat?";
