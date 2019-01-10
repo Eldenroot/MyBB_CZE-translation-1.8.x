@@ -36,7 +36,7 @@ $l['welcome_todaysposts'] = "Zobrazit příspěvky za 24h";
 $l['welcome_pms'] = "Soukromé zprávy";
 $l['welcome_pms_usage'] = "(nepřečtené {1}, celkem {2})";
 $l['welcome_back'] = "<strong>Vítejte, {1}</strong>. Vaše poslední návštěva: {2}.";
-$l['welcome_guest'] = "Vítej návštevníku!";
+$l['welcome_guest'] = "Vítejte návštevníku!";
 $l['welcome_current_time'] = "<strong>Aktuální čas:</strong> {1}";
 
 $l['moved_prefix'] = "Přesunuto:";
