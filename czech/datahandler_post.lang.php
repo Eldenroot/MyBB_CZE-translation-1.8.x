@@ -19,8 +19,8 @@ $l['postdata_bad_characters_username'] = 'Vámi zadané uživatelské jméno obs
 $l['postdata_invalid_username_length'] = 'Vámi zadané uživatelské jméno má nepovolenou délku. Prosím, zadejte jméno dlouhé od {1} do {2} znaků.';
 $l['postdata_post_flooding'] = 'Snažíte se odeslat příspěvek příliš krátce po odeslání příspěvku předchozího. Prosím, počkejte ještě {1} sekund.';
 $l['postdata_post_flooding_one_second'] = 'Snažíte se odeslat příspěvek příliš krátce po odeslání příspěvku předchozího. Prosím, počkejte ještě 1 sekundu.';
-$l['postdata_too_many_images'] = 'Váš příspěvek obsahuje {1} obrázků, zatímco povolené množství obrázků je {2} ks na jeden příspěvek. Prosím, snižte počet obrázků v příspěvku, abyste se do uvedeného limitu vešli.';
-$l['postdata_too_many_videos'] = 'Váš příspěvek obsahuje {1} videí, zatímco povolené množství videí je {2} ks na jeden příspěvek. Prosím, snižte počet videí v příspěvku, abyste se do uvedeného limitu vešli.';
+$l['postdata_too_many_images'] = 'Váš příspěvek obsahuje {1} obrázků, zatímco povolené množství obrázků je {2} na jeden příspěvek. Prosím, snižte počet obrázků v příspěvku, abyste se do uvedeného limitu vešli.';
+$l['postdata_too_many_videos'] = 'Váš příspěvek obsahuje {1} videí, zatímco povolené množství videí je {2} na jeden příspěvek. Prosím, snižte počet videí v příspěvku, abyste se do uvedeného limitu vešli.';
 $l['postdata_invalid_prefix'] = 'Zvolený prefix je chybný. Prosím, zadejte jej znovu.';
 $l['postdata_require_prefix'] = 'Tohle fórum vyžaduje nastavení prefixu u tématu. Prosím, vyberte platný prefix.';
 

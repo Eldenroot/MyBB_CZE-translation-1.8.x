@@ -36,7 +36,7 @@ $l['no_prefix'] = "Bez prefixu";
 $l['forum_rules'] = "{1} - Pravidla";
 
 $l['multiquote_external_one'] = "Byl vybrán jeden příspěvek z jiného tématu.";
-$l['multiquote_external'] = "Bylo vybráno {1} ks příspěvků z jiných témat.";
+$l['multiquote_external'] = "Bylo vybráno {1} příspěvků z jiných témat.";
 $l['multiquote_external_one_deselect'] = "zrušit výběr příspěvku";
 $l['multiquote_external_deselect'] = "zrušit výběr příspěvků";
 $l['multiquote_external_one_quote'] = "Citovat i tento příspěvek";

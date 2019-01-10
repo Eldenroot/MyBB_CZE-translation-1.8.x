@@ -16,8 +16,8 @@ $l['nav_login'] = "Přihlásit se";
 $l['nav_emailuser'] = "Napsat e-mail uživateli";
 $l['nav_profile'] = "Profil uživatele {1}";
 
-$l['tpp_option'] = "Zobrazit na jedné stránce {1} ks témat";
-$l['ppp_option'] = "Zobrazit na jedné stránce {1} ks příspěvků";
+$l['tpp_option'] = "Zobrazit na jedné stránce {1} témat";
+$l['ppp_option'] = "Zobrazit na jedné stránce {1} příspěvků";
 $l['account_activation'] = "Aktivace účtu";
 $l['activate_account'] = "Aktivovat účet";
 $l['activation_code'] = "Aktivační kód:";
