@@ -28,7 +28,7 @@ $l['text_replace_desc'] = "Tento text bude nahrazen smajlíkem (jeden na řádek
 $l['image_path'] = "Cesta k obrázku";
 $l['image_path_desc'] = "Tady je cesta obrázku smajlíka. Pokud chcete použít jiné obrázky smajlíků pro jiný vzhled fóra, prosím, použijte <strong>{theme}</strong>, což Vám zastoupí složku smajlíků pro každý vzhled.";
 $l['order'] = "Pořadí";
-$l['display_order'] = "Zobrazit/zobrazit pořadí";
+$l['display_order'] = "Ukázat/zobrazit pořadí";
 $l['display_order_desc'] = "Pořadí smajlíků, kteří se zobrazí. Tohle číslo by nemělo být stejné, jako číslo jiných smajlíků.";
 $l['mass_edit_show_clickable'] = "Zobrazit ve výběru smajlíků v editoru příspěvků?";
 $l['show_clickable'] = "Zobrazit ve výběru smajlíků v editoru příspěvků?";
@@ -39,7 +39,7 @@ $l['path_to_images_desc'] = "Tohle je cesta k složce ve které máte obrázky s
 $l['smilie_delete'] = "Smazat?";
 $l['save_smilie'] = "Uložit smajlíka";
 $l['save_smilies'] = "Uložit smajlíky";
-$l['show_smilies'] = "Ukázat smajlíky";
+$l['show_smilies'] = "Zobrazit smajlíky";
 $l['reset'] = "Reset";
 
 $l['error_missing_name'] = "Nezadal(a) jste název pro tohohle smajlíka.";

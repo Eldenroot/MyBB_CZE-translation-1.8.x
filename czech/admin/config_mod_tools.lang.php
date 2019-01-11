@@ -44,7 +44,7 @@ $l['general_options'] = "Obecné nastavení";
 $l['short_description'] = "Krátký popis";
 $l['available_in_forums'] = "Dostupný na fóru";
 $l['available_to_groups'] = "Dostupný skupině";
-$l['show_confirmation'] = "Ukázat potvrzovací stránku";
+$l['show_confirmation'] = "Zobrazit potvrzovací stránku";
 $l['save_thread_tool'] = "Uložit nástroj pro správu témat";
 
 $l['title'] = "Titul";

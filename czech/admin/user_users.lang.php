@@ -20,7 +20,7 @@ $l['merge_users'] = "Sloučit uživatele";
 $l['merge_users_desc'] = "Zde můžete sloužit dva uživatelské účty do jednoho. <br /> Ze <strong>Sekundárního účtu</strong> se přesunou příspěvky, vlákna, soukromé zprávy, události v kalendáři, počet příspěvků a také seznam (ne)přátel do <strong>Primárního účtu</strong><br /><span style=\"font-size: 15px;\">Protože bude Vedlejší účet smazán je tento proces je nevratný!</span>";
 $l['edit_user'] = "Upravit uživatele";
 $l['edit_user_desc'] = "Zde můžete upravit uživatelovi profil a jeho nastavení, podpis. Také zde můžete vidět základní statistiky uživatele nebo rozšířené statistiky na další stránce.";
-$l['show_referrers'] = "Ukázat referaly";
+$l['show_referrers'] = "Zobrazit referaly";
 $l['show_referrers_desc'] = "Výsledky vyhledávání podle zadaných kritérií vidíte níže. Výsledky můžete vidět také v další tabulce.";
 $l['show_ip_addresses'] = "Ukazát IP adresy";
 $l['show_ip_addresses_desc'] = "registrační IP adresu a IP adresy jednotlivých příspěvků pro konrétního uživatele můžete vidět níže. První IP adresa je registrační. Ostatní IP adresy jsou adresy jednotlivých příspěvků.";
@@ -326,14 +326,14 @@ $l['manage_views'] = "Spravovat zobrazení";
 $l['none'] = "Žádné";
 $l['search'] = "Hledat";
 
-$l['view_profile'] = "Ukázat profil";
+$l['view_profile'] = "Zobrazit profil";
 $l['edit_profile_and_settings'] = "Upravit profil &amp; nastavení";
 $l['ban_user'] = "Zabanovat uživatele";
 $l['approve_coppa_user'] = "Aktivovat COPPA uživatele";
 $l['approve_user'] = "Aktivovat uživatele";
 $l['delete_user'] = "Smazat uživatele";
-$l['show_referred_users'] = "Ukázat uživatelovy referaly";
-$l['show_attachments'] = "Ukázat přílohy";
+$l['show_referred_users'] = "Zobrazit uživatelovy referaly";
+$l['show_attachments'] = "Zobrazit přílohy";
 $l['table_view'] = "Zobrazení tabulka";
 $l['card_view'] = "Zobrazení karty";
 

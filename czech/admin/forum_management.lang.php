@@ -130,7 +130,7 @@ $l['parent_forum_desc'] = "Fórum, které obsahuje tohle fórum. Kategorie nemaj
 $l['none'] = "Žádné";
 $l['display_order'] = "Zobrazit pořadí";
 
-$l['show_additional_options'] = "Ukázat další nastavení";
+$l['show_additional_options'] = "Zobrazit další nastavení";
 $l['hide_additional_options'] = "Skrýt další nastavení";
 $l['additional_forum_options'] = "Další nastavení fóra";
 $l['forum_link'] = "Forum link";

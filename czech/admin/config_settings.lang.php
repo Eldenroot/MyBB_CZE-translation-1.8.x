@@ -64,7 +64,7 @@ $l['modify_setting'] = "Modifikovat upravení";
 $l['search'] = "Hledat";
 $l['plugin_settings'] = "Nastavení pluginu";
 
-$l['show_all_settings'] = "Ukázat všechno nastavení";
+$l['show_all_settings'] = "Zobrazit všechno nastavení";
 $l['settings_search'] = "Hledat nastavení";
 
 $l['confirm_setting_group_deletion'] = "Jste si naprosto jistý, že chcete vymazat nastavení skupiny? (možná pro skupinu)";

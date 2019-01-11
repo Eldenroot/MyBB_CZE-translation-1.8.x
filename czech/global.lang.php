@@ -270,7 +270,7 @@ $l['postbit_edit'] = "Upravit tento příspěvek";
 $l['postbit_multiquote'] = "Citovat tento příspěvek";
 $l['postbit_quick_edit'] = "Rychlá úprava";
 $l['postbit_full_edit'] = "Úprava se všemi možnostmi";
-$l['postbit_show_ignored_post'] = "Ukázat tento příspěvek";
+$l['postbit_show_ignored_post'] = "Zobrazit tento příspěvek";
 $l['postbit_currently_ignoring_user'] = "Obsah této zprávy není vidět, protože {1} je na Vašem <a href=\"usercp.php?action=editlists\">seznamu ignorovaných uživatelů</a>.";
 $l['postbit_warning_level'] = "Úroveň varování:";
 $l['postbit_warn'] = "Varovat autora tohoto příspěvku";
