@@ -60,7 +60,7 @@ $l['edit_theme'] = "Upravit vzhled";
 $l['delete_theme'] = "Smazat vzhled";
 $l['set_as_default'] = "Nastavit jako vychozí";
 $l['default_theme'] = "Výchozí vzhled";
-$l['force_on_users'] = "Force on Users";
+$l['force_on_users'] = "Nastavit všem uživatelům";
 $l['delete_revert'] = "Odstranit / Vrátit";
 
 $l['local_file'] = "Místní soubor";
