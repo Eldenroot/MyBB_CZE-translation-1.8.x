@@ -36,7 +36,7 @@ $l['no_buddies'] = "<em>Váš seznam přátel je prázdný. Přátele lze na sez
 
 $l['help_docs'] = "Nápověda";
 
-$l['search_help_documents'] = "Hledat v Nápovědě";
+$l['search_help_documents'] = "Hledat v nápovědě";
 $l['search_by_name'] = "Hledat podle jména";
 $l['search_by_document'] = "Hledat v dokumentech";
 $l['enter_keywords'] = "Vložit hledaná slova";
