@@ -40,7 +40,7 @@ $l['welcome_guest'] = "Vítejte návštevníku!";
 $l['welcome_current_time'] = "<strong>Aktuální čas:</strong> {1}";
 
 $l['moved_prefix'] = "Přesunuto:";
-$l['poll_prefix'] = "Hlasování:";
+$l['poll_prefix'] = "Anketa:";
 
 $l['forumbit_announcements'] = "Oznámení";
 $l['forumbit_stickies'] = "Důležitá témata";

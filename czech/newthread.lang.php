@@ -18,7 +18,7 @@ $l['options_emailnotify'] = "<b>Oznámení e-mailem:</b> dostávat oznámení o 
 $l['options_disablesmilies'] = "<b>Zablokovat smajlíky:</b> v tomto příspěvku nebudou zobrazeni smajlíci.";
 $l['post_thread'] = "Založit téma";
 $l['preview_post'] = "Náhled příspěvku";
-$l['poll'] = "Hlasování:";
+$l['poll'] = "Anketa:";
 $l['poll_desc'] = "K tomuto tématu můžete také vytvořit anketu.";
 $l['poll_check'] = "Chci vytvořit anketu";
 $l['num_options'] = "Počet možností:";
@@ -43,7 +43,7 @@ $l['multiquote_external_one_quote'] = "Citovat i tento příspěvek";
 $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newthread'] = "Váše téma bylo založeno.";
-$l['redirect_newthread_poll'] = "<br />Nyní budete přesměrováni na stránku nastavení hlasování.";
+$l['redirect_newthread_poll'] = "<br />Nyní budete přesměrováni na stránku nastavení ankety.";
 $l['redirect_newthread_moderation'] = "<br />Administrátor(ka) určil(a), že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
 $l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte oprávnění k jeho prohlížení.";
