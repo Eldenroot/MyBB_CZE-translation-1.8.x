@@ -31,8 +31,8 @@ $l['edit_thread_tool_desc'] = "Zde můžete upravit nastavení a akce nástrojů
 $l['no_thread_tools'] = "Na fóru nejsou žádné nástroje pro moderování témat.";
 $l['no_post_tools'] = "Na fóru nejsou žádné nástroje pro moderování příspěvků.";
 
-$l['confirm_thread_tool_deletion'] = "Jsi si jistý, že chceš smazat tento nástroj pro moderování témat?";
-$l['confirm_post_tool_deletion'] = "Jsi si jistý, že chceš smazat tento nástroj pro moderování příspěvků?";
+$l['confirm_thread_tool_deletion'] = "Jste si jistý(á), že chcete smazat tento nástroj pro moderování témat?";
+$l['confirm_post_tool_deletion'] = "Jste si jistý(á), že chcete smazat tento nástroj pro moderování příspěvků?";
 
 $l['success_post_tool_deleted'] = "Vybraný nástroj pro moderování příspěvků byl úspěšně smazaný.";
 $l['success_thread_tool_deleted'] = "Vybraný nástroj pro moderování témat byl úspěšně smazaný.";

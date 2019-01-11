@@ -104,7 +104,7 @@ $l['mass_mail_cancel_confirmation'] = "Opravdu chete zrušit odesílání tohoto
 $l['no_unsent_messages'] = "Ve frontě nejsou žádné neodeslané nebo čekající hromadné e-maily.";
 
 $l['error_invalid_mid'] = "Vybral jsi neplatný hromadný e-mail";
-$l['error_only_in_future'] = "Hromadný e-mail můžeš odeslat pouze v budoucnu.";
+$l['error_only_in_future'] = "Hromadný e-mail můžete odeslat pouze v budoucnu.";
 $l['error_no_users'] = "Kritéria vyhledávání nenašla žádné uživatele. Uprav kritéria a opakuj akci.";
 $l['error_missing_plain_text'] = "Nezadal jste verzi této zprávy ve formátu prostého textu.";
 $l['error_missing_subject'] = "Nezadal jste předmět pro tuto hromadnou korespondenci.";

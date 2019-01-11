@@ -24,7 +24,7 @@ $l['global_announcements'] = "Globalní oznámení";
 $l['no_global_announcements'] = "Momentálně na fóru nejsou žádná globální oznámení.";
 $l['no_forums'] = "Momentálně zde není žádné nastavení oznámení.";
 
-$l['confirm_announcement_deletion'] = "Opravdu si přeješ tohle oznámení smazat?";
+$l['confirm_announcement_deletion'] = "Opravdu si přejete tohle oznámení smazat?";
 
 $l['success_announcement_deleted'] = "Vybrané oznámení bylo úspěšně smazáno.";
 $l['success_added_announcement'] = "Oznámení bylo úspěšně vytvořeno.";

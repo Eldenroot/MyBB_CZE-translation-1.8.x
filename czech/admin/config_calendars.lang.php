@@ -12,9 +12,9 @@ $l['calendars'] = "Kalendář";
 $l['manage_calendars'] = "Spravovat kalendář";
 $l['manage_calendars_desc'] = "Tato sekce Vám umožnuje spravovat/upravit kalendář ve Vašem fóru. If you change the display order for one or more calendars make sure you submit the form at the bottom of the page.";
 $l['add_calendar'] = "Přidat nový kalendář";
-$l['add_calendar_desc'] = "Zde můžeš vytvořit nový kalendář.";
+$l['add_calendar_desc'] = "Zde můžete vytvořit nový kalendář.";
 $l['edit_calendar'] = "Upravit kalendář";
-$l['edit_calendar_desc'] = "Zde můžeš upravit nastavení pro kalendář.";
+$l['edit_calendar_desc'] = "Zde můžete upravit nastavení pro kalendář.";
 
 $l['calendar'] = "Kalendář";
 $l['order'] = "Pořadí";

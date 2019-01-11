@@ -43,7 +43,7 @@ $l['find_and_replace'] = "Najít a nahradit";
 $l['search_template_names'] = "Najít název šablony";
 $l['ungrouped_templates'] = "Nezařazené šablony";
 
-$l['search_noneset'] = "Nezadal jste řetezec, který chceš vyhledat.";
+$l['search_noneset'] = "Nezadal jste řetezec, který chcete vyhledat.";
 $l['search_results'] = "Výsledky vyhledávání šablon";
 $l['search_header'] = "Hledání \"{1}\" v {2}";
 $l['search_updated'] = "Upraveno {1}";
@@ -153,8 +153,8 @@ $l['no_updated_templates'] = "Momentálně nejsou k dispozici žádné šablony,
 
 $l['confirm_template_set_deletion'] = "Opravdu chcete odstranit tuto sadu šablon?";
 $l['confirm_template_group_delete'] = "Opravdu chcete odstranit tuto skupinu šablon? Tato akce neodebere šablony ve skupině.";
-$l['confirm_template_deletion'] = "Opravdu chceš smazat tuto šablonu?";
-$l['confirm_template_revertion'] = "Opravdu chceš vrátit tuto šablonu?";
+$l['confirm_template_deletion'] = "Opravdu chcete smazat tuto šablonu?";
+$l['confirm_template_revertion'] = "Opravdu chcete vrátit tuto šablonu?";
 
 $l['error_security_problem'] = "V šabloně byl nalezen potenciální problém se zabezpečením. Zkontrolujte změny nebo se obraťte na skupinu MyBB.";
 $l['error_missing_input'] = "Přesvědčte se, zda máte všechny požadované vstupy pro úpravu této šablony (TID a SID).";

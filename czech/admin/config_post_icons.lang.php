@@ -24,7 +24,7 @@ $l['reset'] = "Reset";
 
 $l['path_to_images'] = "Cesta k obrázkům";
 $l['path_to_images_desc'] = "Tohle je cesta ke složce, kde se nacházejí obrázky.";
-$l['show_post_icons'] = "Ukaž ikonu příspěvku";
+$l['show_post_icons'] = "Zobrazit ikonu příspěvku";
 $l['image'] = "Ikona";
 $l['add'] = "Přidat?";
 $l['save_post_icons'] = "Uložit ikonu příspěvku.";

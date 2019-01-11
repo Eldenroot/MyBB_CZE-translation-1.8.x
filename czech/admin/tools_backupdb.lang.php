@@ -12,7 +12,7 @@ $l['database_backups'] = "Zálohování databáze";
 $l['database_backups_desc'] = "Zde můžete najít seznam záloh databáze, které se nacházejí ve složce backups, která se nachází ve složce /admin";
 $l['new_database_backup'] = "Nová záloha databáze";
 $l['new_backup'] = "Vytvořit novou zálohu databáze";
-$l['new_backup_desc'] = "Zde si můžeš vytvořit zálohu databáze.";
+$l['new_backup_desc'] = "Zde si můžete vytvořit zálohu databáze.";
 $l['backups'] = "Zálohy";
 $l['existing_database_backups'] = "Existující zálohy databáze";
 

@@ -1,13 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
-<<<<<<< HEAD
- * Copyright © 2014-2019 MyBB Group 
- * All Rights Reserved 
-=======
- * Copyright © 2014-2018 MyBB Group
+ * Copyright © 2014-2019 MyBB Group
  * All Rights Reserved
->>>>>>> index.lang.php, global.lang.php: přesunutí překladu pro tým fóra
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */

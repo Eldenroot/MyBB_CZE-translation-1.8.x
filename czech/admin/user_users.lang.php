@@ -11,15 +11,15 @@ $l['users'] = "Uživatelé";
 
 $l['search_for_user'] = "Najít uživatele";
 $l['browse_users'] = "Hledat mezi uživateli";
-$l['browse_users_desc'] = "Níže můžeš listovat mezi zaregistrovanými uživateli a zobrazit je. Zobrazení jsou zvláště užitečná pro generování různých sad výsledků s různými informacemi a považujte je za vyhledávání.";
+$l['browse_users_desc'] = "Níže můžete vyhledávat mezi zaregistrovanými uživateli a zobrazit je. Zobrazení jsou zvláště užitečná pro generování různých sad výsledků s různými informacemi a považujte je za vyhledávání.";
 $l['find_users'] = "Najít uživatele";
-$l['find_users_desc'] = "Zde můžeš vyhládat uživatele tvého fóra. Čím méně polí vyplníte, tím širší je vyhledávání; Čím více vyplníte, tím užší je vaše hledání.";
+$l['find_users_desc'] = "Zde můžete vyhledávat uživatele tvého fóra. Čím méně polí vyplníte, tím širší je vyhledávání; Čím více vyplníte, tím užší je vaše hledání.";
 $l['create_user'] = "Vytvořit nového uživatele";
-$l['create_user_desc'] = "Zde můžeš vytvořit nového uživatele fóra";
+$l['create_user_desc'] = "Zde můžete vytvořit nového uživatele fóra";
 $l['merge_users'] = "Sloučit uživatele";
-$l['merge_users_desc'] = "Zde můžeš sloužit dva uživatelské účty do jednoho. <br /> Ze <strong>Sekundárního účtu</strong> se přesunou příspěvky, vlákna, soukromé zprávy, události v kalendáři, počet příspěvků a také seznam (ne)přátel do <strong>Primárního účtu</strong><br /><span style=\"font-size: 15px;\">Protože bude Vedlejší účet smazán je tento proces je nevratný!</span>";
+$l['merge_users_desc'] = "Zde můžete sloužit dva uživatelské účty do jednoho. <br /> Ze <strong>Sekundárního účtu</strong> se přesunou příspěvky, vlákna, soukromé zprávy, události v kalendáři, počet příspěvků a také seznam (ne)přátel do <strong>Primárního účtu</strong><br /><span style=\"font-size: 15px;\">Protože bude Vedlejší účet smazán je tento proces je nevratný!</span>";
 $l['edit_user'] = "Upravit uživatele";
-$l['edit_user_desc'] = "Zde můžeš upravit uživatelovi profil a jeho nastavení, podpis. Také zde můžeš vidět základní statistiky uživatele nebo rozšířené statistiky na další stránce.";
+$l['edit_user_desc'] = "Zde můžete upravit uživatelovi profil a jeho nastavení, podpis. Také zde můžete vidět základní statistiky uživatele nebo rozšířené statistiky na další stránce.";
 $l['show_referrers'] = "Ukázat referaly";
 $l['show_referrers_desc'] = "Výsledky vyhledávání podle zadaných kritérií vidíte níže. Výsledky můžete vidět také v další tabulce.";
 $l['show_ip_addresses'] = "Ukazát IP adresy";
@@ -242,7 +242,7 @@ $l['suspend_sig_info'] = "Pokud je podpis pozastaven, uživatel jej nemůže upr
 $l['suspend_sig_extend'] = "<small>Zadejte nový čas, který chcete změnit, nebo zrušte zaškrtnutí tohoto políčka, chcete-li tohle pozastavení odstranit.</small>";
 $l['suspend_expire_info'] = "<small>Zbývá: <span style=\"color: {2};\">{1}</span></small>";
 $l['suspend_never_expire'] = "<small>pozastavení {1} nikdy nevyprší (trvale pozastaveno).</small>";
-$l['suspend_sig_error'] = "Zadal jsi špatný čas na jak dlouho chceš zakázat podpis uživatele. Zadej, prosím, správný čas.";
+$l['suspend_sig_error'] = "Zadal(a) jste špatný čas na jak dlouho chcete zakázat podpis uživatele. Zadejte, prosím, správný čas.";
 
 $l['moderate_posts'] = "Příspěvky moderátorů";
 $l['moderate_posts_info'] = "Nový příspěvěk od moderátora {1}.";
