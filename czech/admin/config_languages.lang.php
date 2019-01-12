@@ -8,7 +8,7 @@
  */
 
 $l['languages'] = "Jazyky";
-$l['languages_desc'] = "Které jazykové balíky máte nainstalované můžete vidět níže. Můžete jazykové soubory upravit, případně změnit nastavení jazyka.";
+$l['languages_desc'] = "Které jazykové balíky máte nainstalované můžete vidět níže. Můžete jednotlivé jazykové soubory upravit, případně změnit nastavení jazyka.";
 $l['find_language_packs'] = "Vyhledat jazykové balíky";
 $l['language_files'] = "Jazykové soubory";
 $l['language_files_desc'] = "Níže jsou soubory ve vybraném jazyce pro frontend i administrační panel. Zde si můžete vybrat, jak tyto soubory upravit.";
@@ -18,7 +18,7 @@ $l['quick_phrases_desc'] = "Rychlý přístup k často modifikovaným frázím."
 $l['edit_with'] = "Změnit s {1}";
 $l['edit_language_variables'] = "Upravit jazykové mutace";
 $l['edit_language_variables_desc'] = "Zde můžete upravit jazykové řetezce dle svých představ.";
-$l['edit_properties_desc'] = "Zde můžete změni vlastnosti jazykového balíčku.";
+$l['edit_properties_desc'] = "Zde můžete změnit vlastnosti jazykového balíčku.";
 $l['installed_language_packs'] = "Nainstalované jazykové mutace";
 $l['front_end'] = "Frontend";
 $l['admin_cp'] = "Administrační rozhraní";
