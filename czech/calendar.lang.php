@@ -14,7 +14,7 @@ $l['nav_addevent'] = "Přidat událost";
 $l['nav_editevent'] = "Upravit událost";
 $l['nav_move_event'] = "Přesunout událost";
 
-$l['calendar_disabled'] = "Nemůžete používat funkci kalendáře, protože ji administrátor zakázal.";
+$l['calendar_disabled'] = "Nemůžete používat kalendář, protože ho administrátor/ka zakázal/a.";
 
 // In some languages these months need to be slightly different than those defined in global.lang.php
 $l['alt_month_1'] = "Leden";
@@ -133,7 +133,7 @@ $l['all_day'] = "Celý den";
 $l['starts'] = "Začíná: ";
 $l['finishes'] = "Končí: ";
 
-$l['error_incorrectday'] = "Zadaný den neexistuje. Vraťte se, prosím, a zkuste to znovu.";
+$l['error_incorrectday'] = "Zadaný den neexistuje. Vraťte se, prosím, zkuste to znovu.";
 $l['error_invalidevent'] = "Zadaná událost neexistuje.";
 $l['invalid_calendar'] = "Zadaný kalendář neexistuje. Jste si jistý, že jste jej správně zadali?";
 $l['redirect_eventdeleted'] = "Událost byla úspěšně odstraněna.<br />Nyní budete přesměrován(a) zpět do kalendáře.";
