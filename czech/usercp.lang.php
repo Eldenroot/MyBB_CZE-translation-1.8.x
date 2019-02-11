@@ -52,7 +52,7 @@ $l['avatar_mine'] = "Tohle je Váš avatar";
 $l['change_avatar'] = "Změnit avatar";
 $l['avatar_url'] = "URL avataru:";
 $l['avatar_url_note'] = "Zadejte URL adresu avataru.";
-$l['avatar_url_gravatar'] = "Pro použití <a href=\"http://gravatar.com\" target=\"_blank\" rel=\"noopener\">Gravataru</a> zadejte svůj Gravatar e-mail.";
+$l['avatar_url_gravatar'] = "Pro použití <a href=\"http://gravatar.com\" target=\"_blank\" rel=\"noopener\">Gravataru</a> zadejte e-mail, který používáte pro Gravatar";
 $l['avatar_upload'] = "Nahrát avatar:";
 $l['avatar_upload_note'] = "Na svém zařízení si vyberte avatar k nahrání do fóra.";
 $l['no_avatar'] = "Žádný avatar";
