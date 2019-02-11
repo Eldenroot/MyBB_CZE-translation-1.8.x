@@ -31,7 +31,7 @@ $l['export_theme'] = "Export vzhledu";
 $l['export_theme_desc'] = "Zde můžete exportovat Vaše motivy a přizpůsobené šablony. Exportování motivů je užitečné, pokud je chcete sdílet s ostatními nebo je importovat do jiného fóra.";
 
 $l['duplicate_theme'] = "Duplikovat vzhled";
-$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To vám pomůže, pokud chcete vyvíjet jinou verzi.";
+$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To Vám pomůže, pokud chcete vyvíjet jinou verzi.";
 
 $l['colors_manage'] = "Upravit barvy";
 $l['colors_attached_to'] = "Nastavení barev:";

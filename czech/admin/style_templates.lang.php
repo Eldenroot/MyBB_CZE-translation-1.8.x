@@ -14,13 +14,13 @@ $l['templates'] = "{1} šablon";
 $l['manage_template_sets'] = "Spravovat sety šablon";
 $l['manage_template_sets_desc'] = "Zde můžete spravovat sady šablon, zobrazit šablony pomocí těchto sad a začít přizpůsobovat rozvržení nástěnky.";
 $l['add_set'] = "Přidat set";
-$l['add_set_desc'] = "Zde můžete vytvořit novou sadu šablon. Nová sada šablon vytvoří kopii předlohy MyBB šablon a umožní vám je upravovat, aniž by zasahoval do změn v jiných sadách šablon, které již pravděpodobně máte";
+$l['add_set_desc'] = "Zde můžete vytvořit novou sadu šablon. Nová sada šablon vytvoří kopii předlohy MyBB šablon a umožní Vám je upravovat, aniž by zasahoval do změn v jiných sadách šablon, které již pravděpodobně máte";
 $l['add_template'] = "Přidat šablonu";
 $l['add_template_desc'] = "Zde můžete vytvořit novou šablonu.";
 $l['add_template_group'] = "Přidat skupinu šablon";
 $l['add_template_group_desc'] = "Přidání skupiny šablon pro společné skládání šablon.";
 $l['search_replace'] = "Najít/nahradit";
-$l['search_replace_desc'] = "Tento nástroj vám umožní vyhledávat názvy šablon nebo šablony, které obsahují určitý text, a případně jej automaticky nahradit jiným textem";
+$l['search_replace_desc'] = "Tento nástroj Vám umožní vyhledávat názvy šablon nebo šablony, které obsahují určitý text, a případně jej automaticky nahradit jiným textem";
 $l['find_updated'] = "Najít aktualizovanou šablonu";
 $l['find_updated_desc'] = "Umožňuje vám najít změněné šablony v nových verzích MyBB, takže můžete správně aplikovat změny.";
 $l['edit_template'] = "Upravit šablonu";
@@ -31,7 +31,7 @@ $l['edit_set_desc'] = "Zde můžete upravit vlastnosti této sady šablon.";
 $l['manage_templates'] = "Spravovat šablony";
 $l['manage_templates_desc'] = "Zde můžete spravovat šablony v tomto setu šablon. Pro úpravu šablony klikněte na\"Full Edit\" pro správu všech vlastností na samostatné stránce.";
 $l['diff_report'] = "Rozdíly";
-$l['diff_report_desc'] = "Provede analýzu rozdílů mezi šablonami a ukáže vám přesně, jaké změny byly provedeny mezi vlastní kopií a nejnovější hlavní kopií.";
+$l['diff_report_desc'] = "Provede analýzu rozdílů mezi šablonami a ukáže Vám přesně, jaké změny byly provedeny mezi vlastní kopií a nejnovější hlavní kopií.";
 
 $l['title'] = "Název";
 $l['save'] = "uložit";
@@ -146,7 +146,7 @@ $l['search_names_header'] = "Hledání názvů šablon obsahujících \"{1}\"";
 
 $l['updated_template_welcome1'] = "Upravit-umožňuje upravit aktuální šablonu pro tuto šablonu nastavit tak, aby zahrnovala aktualizace provedené mezi verzemi.";
 $l['updated_template_welcome2'] = "Vrátit-vrátí přizpůsobenou šablonu zpět, ale ztratíte všechny provedené vlastní změny.";
-$l['updated_template_welcome3'] = "Rozdíly-provede analýzu rozdílů mezi šablonami a ukáže vám přesně, jaké změny byly provedeny mezi vlastní kopií a nejnovější hlavní kopií.";
+$l['updated_template_welcome3'] = "Rozdíly-provede analýzu rozdílů mezi šablonami a ukáže Vám přesně, jaké změny byly provedeny mezi vlastní kopií a nejnovější hlavní kopií.";
 
 $l['no_global_templates'] = "Není zde žádné hlavní téma.";
 $l['no_updated_templates'] = "Momentálně nejsou k dispozici žádné šablony, které byly aktualizovány od posledního upgradu.";
