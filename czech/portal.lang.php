@@ -32,7 +32,7 @@ $l['welcome'] = "Vítejte, {1}!";
 $l['guest_welcome_registration'] = "Pro psaní příspěvků se musíte nejdříve <a href=\"{1}\">zaregistrovat</a>.";
 $l['username'] = "Uživatelské jméno:";
 $l['password'] = "Heslo:";
-$l['login'] = "Přihlásit!";
+$l['login'] = "Přihlásit se";
 $l['member_welcome_lastvisit'] = "Poslední návštěva:";
 $l['since_then'] = "Od té doby zde bylo:";
 $l['new_announcements'] = "{1} nových oznámení";
