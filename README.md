@@ -1,4 +1,4 @@
-[![MyBB](https://raw.github.com/mybb/mybb/feature/images/logo.png "MyBB")](https://mybb.com "MyBB")
+[![MyBB](https://raw.githubusercontent.com/mybb/mybb/feature/images/logo.png "MyBB")](https://mybb.com "MyBB")
 
 # Čeština pro MyBB 1.8 
 (Czech official translation for [MyBB open source forum software - v1.8.X](https://mybb.com/))
