@@ -144,7 +144,7 @@ $l['receive_pms_desc'] = "Tato volba Vám umožňuje posílat a dostávat soukro
 $l['receive_from_buddy'] = "Přijímat soukromé zprávy pouze od uživatelů na mém <a href=\"#\" onclick=\"MyBB.popupWindow('/misc.php?action=buddypopup'); return false;\" target=\"_blank\">Seznamu přátel</a>. (Tohle nastavení nebude mít žádný efekt, jestliže není v seznamu alespoň jeden přítel.)";
 $l['pm_notice'] = "Při příchodu nové soukromé zprávy mě informovat vyskakovacím oknem.";
 $l['pm_notify'] = "Při příchodu nové soukromé zprávy mě informovat e-mailem.";
-$l['show_codebuttons'] = "Při psaní zpráv zobrazovat značky MyCode.";
+$l['show_codebuttons'] = "Při psaní zpráv zobrazovat MyCode.";
 $l['source_editor'] = "Upravovat příspěvky ve zdrojovém režimu.";
 $l['show_redirect'] = "Zobrazovat přátelská přesměrování.";
 $l['thread_view_options'] = "Možnosti zobrazení témat";
