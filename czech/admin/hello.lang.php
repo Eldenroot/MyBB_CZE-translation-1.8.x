@@ -12,11 +12,11 @@ $l['hello_desc'] = 'Jednoduchý plugin, který Vám umožní vytvořit zprávu n
 $l['setting_group_hello'] = 'Zdravím zeměkouli!';
 $l['setting_group_hello_desc'] = 'Nastavení pro plugin - Zdravím zeměkouli.';
 
-$l['setting_hello_display1'] = 'Ukázat zprávy';
-$l['setting_hello_display1_desc'] = 'Nastav tuto hodnotu na "ne", pokud nechceš, aby se stránka nezobrazovala na index-u (?)';
+$l['setting_hello_display1'] = 'Zobrazit zprávy';
+$l['setting_hello_display1_desc'] = 'Nastav tuto hodnotu na "ne", pokud nechcete, aby se stránka nezobrazovala na index-u (?)';
 
 $l['setting_hello_display2'] = 'Zobrazit zprávu Postbit';
-$l['setting_hello_display2_desc'] = 'Nastav tuto hodnotu na "ne", pokud nechceš, aby se zprávy nezobrazovaly pod každým příspěvkem.';
+$l['setting_hello_display2_desc'] = 'Nastav tuto hodnotu na "ne", pokud nechcete, aby se zprávy nezobrazovaly pod každým příspěvkem.';
 
 $l['hello_uninstall'] = 'Odinstalace pluginu - Zdravím zeměkouli!';
 $l['hello_uninstall_message'] = 'Chcete doopravdy smazat všechny zprávy z databáze?';

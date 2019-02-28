@@ -16,7 +16,7 @@ $l['edit_bot_desc'] = "Zde můžete upravit existujícího bota.";
 
 $l['bot'] = "Bot";
 $l['last_visit'] = "Poslední návštěva";
-$l['no_bots'] = "Žádní roboti nenavštívili toto fórum.";
+$l['no_bots'] = "Žádní roboti nenavštívili tohle fórum.";
 
 $l['name'] = "Jméno";
 $l['name_desc'] = "Zadejte název bota, kterého chcete identifikovat";

@@ -10,7 +10,7 @@
 $l['optimize_database'] = "Optimalizování databáze";
 
 $l['table_selection'] = "Vyber tabulky";
-$l['tables_select_desc'] = "Zde si vyberte tabulky se kterými chceš pracovat. Podržením klávesy CTRL vyberete více tabulek najednou.";
+$l['tables_select_desc'] = "Zde si vyberte tabulky se kterými chcete pracovat. Podržením klávesy CTRL vyberete více tabulek najednou.";
 $l['select_all'] = "Označit všechny";
 $l['deselect_all'] = "Vše odznačit";
 $l['select_forum_tables'] = "Označit všechny tabulky fóra";

@@ -10,7 +10,7 @@
 $l['system_health'] = "Stav fóra";
 $l['system_health_desc'] = "Zde můžete najít statistiky a informace o stavu fóra.";
 $l['utf8_conversion'] = "UTF-8 konverze";
-$l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti Vašeho fóra a vybrané tabulky. Po dokončení budeš přesměrován hlavní stránku konverze UTF-8.";
+$l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti Vašeho fóra a vybrané tabulky. Po dokončení budete přesměrován(a) na hlavní stránku konverze UTF-8.";
 $l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak ti pomůže je převést formát UTF-8.";
 
 $l['convert_all'] = "Převést vše";
@@ -50,7 +50,7 @@ $l['existing_db_backups'] = "Vytvořené zálohy databáze";
 $l['writable'] = "Zapisovatelné";
 $l['not_writable'] = "Není zapisovatelné";
 $l['please_chmod_777'] = "Prosím, nastavte oprávnění (CHMOD) na 777.";
-$l['chmod_info'] = "Prosím, změňte CHMOD nastavení na jedno z uvedených v tabulce níže. Další informace o CHMODingu najdeš v";
+$l['chmod_info'] = "Prosím, změňte CHMOD nastavení na jedno z uvedených v tabulce níže. Další informace o CHMODingu najdete v";
 $l['file'] = "Soubor";
 $l['location'] = "Umístění";
 $l['settings_file'] = "Soubor nastavení";

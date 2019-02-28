@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2019 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2019 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
@@ -43,7 +43,7 @@ $l['all_time'] = "Celkem";
 $l['comments'] = "Komentáře";
 $l['close_window'] = "Zavřít okno";
 $l['add_reputation_vote'] = "Ohodnotit uživatele {1}";
-$l['add_reputation_to_post'] = "Toto hodnocení je pro příspěvek uživatele {1}.<br />";
+$l['add_reputation_to_post'] = "Tohle hodnocení je pro příspěvek uživatele {1}.<br />";
 $l['neg_rep_disabled'] = "<span class=\"smalltext\">* - <em>Negativní hodnocení je nyní zakázáno</em></span>";
 $l['pos_rep_disabled'] = "<span class=\"smalltext\">* - <em>Pozitivní hodnocení je nyní zakázáno</em></span>";
 $l['neu_rep_disabled'] = "<span class=\"smalltext\">* - <em>Neutrální hodnocení je nyní zakázáno</em></span>";
@@ -67,17 +67,17 @@ $l['report_vote'] = "Ohlásit hodnocení";
 $l['power_positive'] = "Pozitivní ({1})";
 $l['power_neutral'] = "Neutrální";
 $l['power_negative'] = "Negativní ({1})";
-$l['show_all'] = "Ukázat všechna hodnocení";
-$l['show_positive'] = "Ukázat pozitivní hodnocení";
-$l['show_neutral'] = "Ukázat neutrální hodnocení";
-$l['show_negative'] = "Ukázat negativní hodnocení";
+$l['show_all'] = "Zobrazit všechna hodnocení";
+$l['show_positive'] = "Zobrazit pozitivní hodnocení";
+$l['show_neutral'] = "Zobrazit neutrální hodnocení";
+$l['show_negative'] = "Zobrazit negativní hodnocení";
 $l['sort_updated'] = "Řadit podle nejnovější aktualizace";
 $l['sort_username'] = "Řadit podle uživatelského jména";
 $l['last_updated'] = "Nejnovější aktualizace {1}";
 $l['postrep_given'] = "Hodnocení uděleno pro <a href=\"{1}\">{2} za příspěvek</a> {3}<br />";
 $l['postrep_given_thread'] = "v <a href=\"{1}\">{2}</a>";
 $l['no_reputation_votes'] = "Podle zadaných kritérií nemá tento uživatel žádná hodnocení.";
-$l['delete_reputation_confirm'] = "Jste si jisti, že toto hodnocení chcete odstranit?";
+$l['delete_reputation_confirm'] = "Jste si jisti, že tohle hodnocení chcete odstranit?";
 $l['delete_reputation_log'] = "Odstranil hodnocení, udělené uživatelem: {1} (UID: {2})";
 $l['reputations_disabled_group'] = "Pro danou skupinu uživatelů není povoleno hodnocení.";
 $l['rate_user'] = "Ohodnotit uživatele";

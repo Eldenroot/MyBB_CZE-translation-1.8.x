@@ -21,7 +21,7 @@ $l['error_alreadyuploaded_perm'] = "Tento příspěvek již obsahuje jako příl
 $l['error_nomessage'] = "Nelze bohužel pokračovat, protože tato zpráva není validní. Prosím, vraťte se a opravte ji.";
 $l['error_invalidemail'] = "Uvedená e-mailová adresa není platná.";
 $l['error_nomember'] = "Zadaný uživatel neexistuje, nebo je chybně zadán.";
-$l['error_maxposts'] = "Limit Vašich příspěvků za 1 den byl vyčerpán. Pokračujte, prosím, zítra. Pokud si myslíte, že je to naše chyba, kontaktujte administrátora.<br /><br />Váš denní limit je nastaven na {1} ks";
+$l['error_maxposts'] = "Limit Vašich příspěvků za 1 den byl vyčerpán. Pokračujte, prosím, zítra. Pokud si myslíte, že je to naše chyba, kontaktujte administrátora.<br /><br />Váš denní limit je nastaven na {1}";
 $l['error_nohostname'] = "K zadané IP adrese nelze nalézt hostname.";
 $l['error_invalidthread'] = "Zadané téma neexistuje.";
 $l['error_invalidpost'] = "Zadaný příspěvek neexistuje.";
@@ -75,7 +75,7 @@ $l['error_too_many_images3'] = "<b>Poznámka:</b> Maximální počet obrázků n
 $l['error_attach_file'] = "Chyba s uložením souboru";
 $l['please_correct_errors'] = "Před pokračováním, prosím, opravte následující chyby:";
 $l['error_reachedattachquota'] = "Tento soubor nelze připojit, neboť jste již dosáhl(a) maxima příloh z počtu {1}";
-$l['error_maxattachpost'] = "Tento soubor nelze připojit, neboť jste již dosáhli maximálního povoleného počtu příloh na příspěvek: {1} ks.";
+$l['error_maxattachpost'] = "Tento soubor nelze připojit, neboť jste již dosáhli maximálního povoleného počtu příloh na příspěvek: {1}.";
 $l['error_invaliduser'] = "Zvolený uživatel je zadaný chybně, nebo neexistuje.";
 $l['error_invalidaction'] = "Chybná akce";
 $l['error_messagelength'] = "Váš příspěvek nelze odeslat, je příliš dlouhý. Zkraťte jej prosím a zkuste to znovu.";
@@ -330,7 +330,7 @@ Zde je část textu:
 Pro zobrazení tématu klikněte na následující odkaz:
 {6}/{7}
 
-Na toto téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte fórum.
+Na tohle téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte fórum.
 
 Děkujeme
 Vedení fóra {3}
@@ -344,7 +344,7 @@ Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto témat
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
 
-Toto je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
+Tohle je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
 
 Nejméně jeden uživatel se Vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
@@ -468,7 +468,7 @@ Zpráva:
 $l['pmsubject_subscription'] = "Nová odpověď na {1}";
 $l['pm_subscription'] = "{1},
 
-{2} právě odpověděl na téma, které odebíráte. Toto téma se nazývá: {3}.
+{2} právě odpověděl na téma, které odebíráte. Tohle téma se nazývá: {3}.
 
 Zde je část textu:
 ------------------------------------------
@@ -478,7 +478,7 @@ Zde je část textu:
 Pro zobrazení tématu klikněte na následující odkaz:
 [url]{5}/{6}[/url]
 
-Na toto téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte téma.
+Na tohle téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte téma.
 
 ------------------------------------------
 Odhlášení odběru:

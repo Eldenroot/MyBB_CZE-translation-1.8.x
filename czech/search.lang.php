@@ -1,12 +1,12 @@
 <?php
 /**
  * MyBB 1.8.x Official Czech Language Pack
- * Copyright © 2014-2019 MyBB Group 
- * All Rights Reserved 
+ * Copyright © 2014-2019 MyBB Group
+ * All Rights Reserved
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
- 
+
 $l['nav_search'] = "Hledat";
 $l['nav_results'] = "Výsledky";
 
@@ -36,6 +36,8 @@ $l['sorting_options'] = "Možnosti řazení";
 $l['sort_lastpost'] = "Řadit dle data posledního příspěvku";
 $l['sort_author'] = "Řadit dle autorů";
 $l['sort_forum'] = "Řadit dle fór";
+$l['sort_views'] = "Řadit dle počtu zhlednutí";
+$l['sort_replies'] = "Řadit dle počtu odpovědí";
 $l['sort_in'] = "s";
 $l['sort_asc'] = "vzestupným";
 $l['sort_desc'] = "sestupným";
@@ -85,8 +87,8 @@ $l['icon_no_new'] = "Žádné nové příspěvky.";
 $l['icon_new'] = "Nové příspěvky.";
 $l['icon_hot'] = " Nejčtenější téma.";
 $l['icon_close'] = " Uzavřené téma.";
-$l['attachment_count'] = "Toto téma obsahuje 1 přílohu.";
-$l['attachment_count_multiple'] = "Toto téma obsahuje {1} příloh.";
+$l['attachment_count'] = "Tohle téma obsahuje 1 přílohu.";
+$l['attachment_count_multiple'] = "Tohle téma obsahuje {1} příloh.";
 $l['goto_first_unread'] = "Jít na první nepřečtený příspěvek";
 $l['page_selected'] = "Všech <strong>{1}</strong> výsledků na stránce je vybráno.";
 $l['all_selected'] = "Všech <strong>{1}</strong> výsledků z tohoto hledání je vybráno.";

@@ -31,8 +31,8 @@ $l['edit_thread_tool_desc'] = "Zde můžete upravit nastavení a akce nástrojů
 $l['no_thread_tools'] = "Na fóru nejsou žádné nástroje pro moderování témat.";
 $l['no_post_tools'] = "Na fóru nejsou žádné nástroje pro moderování příspěvků.";
 
-$l['confirm_thread_tool_deletion'] = "Jsi si jistý, že chceš smazat tento nástroj pro moderování témat?";
-$l['confirm_post_tool_deletion'] = "Jsi si jistý, že chceš smazat tento nástroj pro moderování příspěvků?";
+$l['confirm_thread_tool_deletion'] = "Jste si jistý(á), že chcete smazat tento nástroj pro moderování témat?";
+$l['confirm_post_tool_deletion'] = "Jste si jistý(á), že chcete smazat tento nástroj pro moderování příspěvků?";
 
 $l['success_post_tool_deleted'] = "Vybraný nástroj pro moderování příspěvků byl úspěšně smazaný.";
 $l['success_thread_tool_deleted'] = "Vybraný nástroj pro moderování témat byl úspěšně smazaný.";
@@ -44,7 +44,7 @@ $l['general_options'] = "Obecné nastavení";
 $l['short_description'] = "Krátký popis";
 $l['available_in_forums'] = "Dostupný na fóru";
 $l['available_to_groups'] = "Dostupný skupině";
-$l['show_confirmation'] = "Ukázat potvrzovací stránku";
+$l['show_confirmation'] = "Zobrazit potvrzovací stránku";
 $l['save_thread_tool'] = "Uložit nástroj pro správu témat";
 
 $l['title'] = "Titul";

@@ -25,7 +25,7 @@ $l['nav_multi_moveposts'] = "Přesunout vybrané příspěvky";
 $l['nav_multi_mergeposts'] = "Sloučit vybrané příspěvky";
 $l['nav_multi_movethreads'] = "Přesunout témata";
 
-$l['no_mod_options'] = "Toto téma zatím nebylo moderováno.";
+$l['no_mod_options'] = "Tohle téma zatím nebylo moderováno.";
 $l['no_delayed_mods'] = "Na vybraná témata nejsou naplánována žádná zpožděná moderování.";
 $l['delete_poll'] = "Odstranit anketu";
 $l['delete_posts'] = "Odstranit příspěvky trvale";
@@ -76,7 +76,7 @@ $l['forum'] = "Fórum:";
 $l['confirm_execute_tool'] = "Spustit utilitu";
 $l['confirm_execute_tool_desc'] = "Opravdu chcete spustit <strong>{1}</strong> vlastní utilitu pro moderování? Jakmile ji spustíte, provedené změny nepůjde vzít zpět.";
 $l['delete_threads'] = "Odstranit témata trvale";
-$l['confirm_delete_threads'] = "Určitě chcete vybraná témata odstranit? Po odstranění tématu nebude možné nijak obnovit ani toto téma, ani jeho příspěvky, přílohy a ankety.";
+$l['confirm_delete_threads'] = "Určitě chcete vybraná témata odstranit? Po odstranění tématu nebude možné nijak obnovit ani tohle téma, ani jeho příspěvky, přílohy a ankety.";
 $l['move_threads'] = "Přesunout témata";
 $l['confirm_delete_posts'] = "Určitě chcete z tématu odstranit vybrané příspěvky? Po jejich odstranění je již nebude možné nijak obnovit. Pokud v tématu nezůstane ani jeden příspěvek, bude odstraněno také téma.";
 $l['post_separator'] = "Separátor příspěvků";

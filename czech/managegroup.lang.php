@@ -58,7 +58,7 @@ $l['invite_pm_message'] = "Dostal(a) jste pozvánku k připojení do skupiny \"{
 
 Pro přidání do skupiny, prosím, navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
 
-Toto pozvání má neomezenou platnost.";
+Tohle pozvání má neomezenou platnost.";
 $l['invite_pm_message_expires'] = "Obdržel(a) jste pozvánku k připojení do skupiny \"{1}\".
 
 Pro přidání se do skupiny, prosím, navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.

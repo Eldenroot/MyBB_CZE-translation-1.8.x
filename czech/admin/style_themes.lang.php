@@ -31,7 +31,7 @@ $l['export_theme'] = "Export vzhledu";
 $l['export_theme_desc'] = "Zde můžete exportovat Vaše motivy a přizpůsobené šablony. Exportování motivů je užitečné, pokud je chcete sdílet s ostatními nebo je importovat do jiného fóra.";
 
 $l['duplicate_theme'] = "Duplikovat vzhled";
-$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To vám pomůže, pokud chcete vyvíjet jinou verzi.";
+$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To Vám pomůže, pokud chcete vyvíjet jinou verzi.";
 
 $l['colors_manage'] = "Upravit barvy";
 $l['colors_attached_to'] = "Nastavení barev:";
@@ -60,20 +60,20 @@ $l['edit_theme'] = "Upravit vzhled";
 $l['delete_theme'] = "Smazat vzhled";
 $l['set_as_default'] = "Nastavit jako vychozí";
 $l['default_theme'] = "Výchozí vzhled";
-$l['force_on_users'] = "Force on Users";
+$l['force_on_users'] = "Nastavit všem uživatelům";
 $l['delete_revert'] = "Odstranit / Vrátit";
 
 $l['local_file'] = "Místní soubor";
 $l['url'] = "URL";
 $l['import_from'] = "Import z";
-$l['import_from_desc'] = "Vybrat soubor k importu. Můžeš naimportovat soubor vzhledu ze svého počítače nebo z URL.";
+$l['import_from_desc'] = "Vybrat soubor k importu. Soubor vzhledu můžete naimportovat ze svého počítače nebo z URL.";
 $l['parent_theme'] = "Nadřazený motiv";
 $l['parent_theme_desc'] = "Vyberte motiv, který má být podřízený.";
 $l['new_name'] = "Nový název";
 $l['new_name_desc'] = "Nový název importovaného motivu. Pokud pole ponecháte prázdné, bude použito jméno v souboru motivu.";
 $l['advanced_options'] = "Pokročilé možnosti";
 $l['ignore_version_compatibility'] = "Ignorovat kompatibilitu verzí";
-$l['ignore_version_compat_desc'] = "Má být toto téma nainstalováno bez ohledu na verzi MyBB, pro kterou byl vytvořen?";
+$l['ignore_version_compat_desc'] = "Má být tohle téma nainstalováno bez ohledu na verzi MyBB, pro kterou byl vytvořen?";
 $l['import_stylesheets'] = "Importovat styly";
 $l['import_stylesheets_desc'] = "Pokud tento motiv obsahuje vlastní šablony stylů, měly by být importovány?";
 $l['import_templates'] = "Importovat šablony";
@@ -105,9 +105,9 @@ $l['img_directory_desc'] = "Kořenový adresář pro umístění obrázků použ
 $l['logo'] = "Hlavní logo";
 $l['logo_desc'] = "Umístění loga použitého v tomto tématu (logo, které se objeví v horní části každé stránky).";
 $l['table_spacing'] = "Mezery mezi tabulkami";
-$l['table_spacing_desc'] = "Šířka vnitřního odsazení buněk tabulky v pixelech. Toto je atribut <em>CellPadding</em> jazyka HTML značky <em>Table</em>.";
+$l['table_spacing_desc'] = "Šířka vnitřního odsazení buněk tabulky v pixelech. Tohle je atribut <em>CellPadding</em> jazyka HTML značky <em>Table</em>.";
 $l['inner_border'] = "Šířka ohraničení vnitřní tabulky";
-$l['inner_border_desc'] = "Velikost odsazení mezi každou buňkou tabulky v pixelech. Toto je atribut <em>CellSpacing</em> jazyka HTML značky <em>Table</em>.";
+$l['inner_border_desc'] = "Velikost odsazení mezi každou buňkou tabulky v pixelech. Tohle je atribut <em>CellSpacing</em> jazyka HTML značky <em>Table</em>.";
 $l['save_theme_properties'] = "Uložit nastavení vzhledu";
 $l['save_stylesheet_order'] = "Uložit pořadí stylů";
 
