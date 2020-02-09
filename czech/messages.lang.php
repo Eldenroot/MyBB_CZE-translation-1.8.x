@@ -484,6 +484,6 @@ Na tohle téma mohou existovat ještě další odpovědi. Upozornění na ně bu
 Odhlášení odběru:
 
 Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto tématu, navštivte prostřednictvím svého internetového prohlížeče následující URL odkaz:
-[url]{5}/usercp.php?action=removesubscription&tid={7}&key={8}&my_post_key={9}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------";
