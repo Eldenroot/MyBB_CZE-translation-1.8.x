@@ -487,3 +487,8 @@ Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto témat
 [url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------";
+
+$l['email_broken_task_subject'] = "Úloha MyBB selhala na {1}";
+$l['email_broken_task'] = "Došlo k chybě v systému úloh na MyBB běžící na {1} ({2}).
+Úloha souboru pro {3} chybí.
+Úloha byla zakázana do té doby než chyba bude opravena.";
