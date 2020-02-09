@@ -51,10 +51,10 @@ $l['error_usernametaken'] = "Zvolené uživatelské jméno je již bohužel regi
 $l['error_nousername'] = "Nebylo zadáno uživatelské jméno.";
 $l['error_invalidusername'] = "Zadané uživatelské jméno není platné.";
 $l['error_invalidpassword'] = "Zadané heslo je chybné. Pokud jste heslo zapomněl(a), klikněte <a href=\"member.php?action=lostpw\">zde</a> nebo se vraťte zpět a zkuste to znovu.";
-$l['error_postflooding'] = "Váš příspěvek nelze publikovat. Administrátor určil, že je možné publikovat pouze jednou za každých {1} sekund.";
+$l['error_postflooding'] = "Váš příspěvek nelze publikovat. Administrátor(ka) určil(a), že je možné publikovat pouze jednou za každých {1} sekund.";
 $l['error_nopermission_guest_1'] = "Buď nejste přihlášen(a), nebo nemáte oprávnění ke shlédnutí této stránky. Může to být z několika následujících důvodů:";
 $l['error_nopermission_guest_2'] = "Nejste přihlášen(a), nebo registrován(a). K přihlášení použijte formulář dole na stránce.";
-$l['error_nopermission_guest_3'] = "Nemáte přístupová práva ke stránce. Pokoušíte se shlédnout něco, co byste neměl(a)? Podívejte se na pravidla fóra, zda k této akci máte oprávnění.";
+$l['error_nopermission_guest_3'] = "Nemáte přístupové oprávnění k této stránce. Pokoušíte se shlédnout něco, co byste neměl(a)? Podívejte se na pravidla fóra, zda k této akci máte oprávnění.";
 $l['error_nopermission_guest_4'] = "Váš účet mohl být zablokován administrátorem, nebo Váš uživatelský účet ještě není aktivní.";
 $l['error_nopermission_guest_5'] = "Snažíte se o přímý přístup na tuto stránku, což lze jen z patřičných formulářů či odkazů.";
 $l['login'] = "Přihlásit se";
@@ -83,7 +83,8 @@ $l['error_message_too_short'] = "Váš příspěvek nelze odeslat, je příliš 
 $l['failed_login_wait'] = "Vyčerpal(a) jste maximum možných pokusů pro přihlášení. Před dalšími pokusy musíte počkat {1}h {2}m {3}s.";
 $l['failed_login_again'] = "<br />Máte ještě <strong>{1}</strong> další pokus(y) na přihlášení.";
 $l['error_max_emails_day'] = "Nemůžete použít funkci 'Odeslat téma příteli' nebo 'Napsat uživateli e-mail', neboť jste během 24 hodin odeslal {1} zpráv.";
-$l['attachments_disabled'] = "Nemůžete použít přílohy, protože je administrátor zakázal.";
+$l['attachments_disabled'] = "Nemůžete přiložit přílohu, protože je administrátor(ka) zakázal(a).";
+$l['error_attach_filename_length'] = "Název souboru {1} překračuje maximální povolenou délku názvu souboru {2}. Prosím, nahrajte soubor s kratším názvem souboru.";
 
 $l['emailsubject_lostpw'] = "Reset hesla na {1}";
 $l['emailsubject_passwordreset'] = "Nové heslo do {1}";
@@ -98,7 +99,7 @@ $l['emailsubject_newpm'] = "Nová soukromá zpráva na {1} - {2}";
 $l['emailsubject_newjoinrequest'] = "Nová žádost o připojení v {1}";
 $l['emailsubject_sendtofriend'] = "Zajímavý diskuze na {1}";
 $l['emailsubject_changepassword'] = "Změna hesla v {1}";
-$l['emailbit_viewthread'] = "…(pro pokračování ve čtení navštivte téma ve fóru.)";
+$l['emailbit_viewthread'] = "…(pro pokračování ve čtení navštivte vlákno ve fóru.)";
 
 $l['email_lostpw'] = "{1},
 
@@ -110,7 +111,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 
 {3}/member.php?action=resetpassword
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Uživatelské jméno: {1}
 Aktivační kód: {5}
 
@@ -126,7 +127,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 
 {3}/member.php?action=resetpassword
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Vaši e-mailovou adresu,
 aktivační kód: {5}
 
@@ -142,7 +143,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 
 {3}/member.php?action=resetpassword
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Uživatelské jméno/e-mailová adresa: {1}
 Aktivační kód: {5}
 
@@ -277,7 +278,7 @@ Pokud uvedený odkaz nefunguje, jděte na:
 
 {3}/member.php?action=activate
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Uživatelské jméno: {1}
 Aktivační kód: {5}
 
@@ -294,7 +295,7 @@ Pokud uvedený odkaz nefunguje, jděte na:
 
 {3}/member.php?action=activate
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Vaší e-mailovou adresu,
 Aktivační kód: {5}
 
@@ -311,7 +312,7 @@ Pokud uvedený odkaz nefunguje, jděte na:
 
 {3}/member.php?action=activate
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Uživatelské jméno/E-mailová adresa: {1}
 Aktivační kód: {5}
 
@@ -320,17 +321,17 @@ Vedení fóra {2}";
 
 $l['email_subscription'] = "{1},
 
-{2} odpověděl(a) na téma, k jehož odběru novinek jste se přihlásil(a) na {3}. Téma se jmenuje: {4}.
+{2} odpověděl(a) na téma, k jehož odběru novinek jste se přihlásil(a) na {3}. Vlákno má název: {4}.
 
 Zde je část textu:
 ------------------------------------------
 {5}
 ------------------------------------------
 
-Pro zobrazení tématu klikněte na následující odkaz:
+Pro zobrazení vlákna klikněte na následující odkaz:
 {6}/{7}
 
-Na tohle téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte fórum.
+Ve vlákně mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat až když znovu navštívíte fórum.
 
 Děkujeme
 Vedení fóra {3}
@@ -348,14 +349,14 @@ Tohle je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaš�
 
 Nejméně jeden uživatel se Vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
-Náprava je snadná: odstraňte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
+Náprava je snadná odstraňte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
 
 Děkujeme
 Vedení fóra {2}
 {3}";
 $l['email_changeemail'] = "{1},
 
-obdrželi jsme Vaši žádost z {2}, týkající se změny Vaší e-mailové adresy. Detaily:
+obdrželi jsme Vaši žádost z {2}, týkající se změny Vaší e-mailové adresy.
 
 Stará e-mailová adresa: {3}
 Nová e-mailová adresa: {4}
@@ -364,11 +365,11 @@ Pokud jsou tyto změny správné, dokončete změnu na {2} kliknutím na násled
 
 {5}/member.php?action=activate&uid={8}&code={6}
 
-Pokud uvedený odkaz nefunguje, jděte na:
+Pokud uvedený odkaz nefunguje správně, přejděte na:
 
 {5}/member.php?action=activate
 
-Budete muset zadat následující údaje:
+Budete muset zadat následující údaje.
 Uživatelské jméno: {7}
 Aktivační kód: {6}
 
@@ -380,12 +381,12 @@ Vedení fóra {2}
 
 $l['email_changeemail_noactivation'] = "{1},
 
-obdrželi jsme Vaši žádost z {2}, týkající se změny Vaší e-mailové adresy. Detaily:
+obdrželi jsme Vaši žádost z {2}, týkající se změny Vaší e-mailové adresy.
 
 Stará e-mailová adresa: {3}
 Nová e-mailová adresa: {4}
 
-Tato změna byla automaticky zpracována. Pokud jste si tuto změnu nevyžádal/a, prosím, kontaktujte administrátora.
+Tato změna byla automaticky zpracována. Pokud jste si tuto změnu nevyžádal/a, prosím, kontaktujte neprodleně administrátora.
 
 Děkujeme
 Vedení fóra {2}
@@ -393,12 +394,12 @@ Vedení fóra {2}
 
 $l['email_changepassword'] = "{1},
 
-zasíláme Vám tento e-mail, protože jste si buď Vy, nebo někdo s přístupem k Vašemu účtu právě změnil Vaše heslo.
+zasíláme Vám tento e-mail, protože jste si buď Vy, nebo někdo s přístupem k Vašemu účtu právě změnil heslo.
 
 Uživatelské jméno: {1}
 Vaše e-mailová adresa: {2}
 
-Pokud jste si tuto změnu nevyžádali, prosím, kontaktujte administrátora.
+Pokud jste si tuto změnu nevyžádali, prosím, kontaktujte neprodleně administrátora fóra.
 
 Děkujeme
 Vedení fóra {3}
@@ -460,7 +461,7 @@ Vedení fóra {4}";
 
 $l['email_contact_subject'] = "Kontakt: {1}";
 $l['email_contact'] = "E-mail: {1}
-Profil ve fóru: {2}
+Profil na fóru: {2}
 IP adresa: {3}
 Zpráva:
 {4}";
