@@ -46,23 +46,23 @@ $l['no_logs'] = "Nyní nejsou logovány akce moderátorů.";
 $l['error_noselected_reports'] = "Nevybral(a) jste žádnou nahlášenou věc, která by měla být označena jako přečtená.";
 $l['error_missing_ipaddress'] = "Pro vyhledávání dle IP adresy ji nejprve musíte zadat.";
 $l['error_no_results'] = "Podle Vámi zadaných kritérií nebylo nic nalezeno.";
-$l['redirect_reportsmarked'] = "Vybrané ohlášené věci byly označeny jako přečtené.";
-$l['redirect_allreportsmarked'] = "Všechny nahlášené věci byly označeny jako přečtené.";
+$l['redirect_reportsmarked'] = "Vybraný nahlášený obsah byl označen jako přečtený.";
+$l['redirect_allreportsmarked'] = "Veškerý nahlášený obsah byl označen jako přečtený.";
 $l['redirect_modnotes'] = "Poznámky moderátora byly úspěšně zaktualizovány.";
 
 $l['for'] = "Pro";
 $l['report_info'] = "Nahlášený obsah";
 $l['report_type'] = "Důvod nahlášení";
-$l['report_count'] = "Hlášení č.";
-$l['report_lastpost'] = "Nejnověji nahlášené";
+$l['report_count'] = "Počet nahlášení";
+$l['report_lastpost'] = "Nejnověji nahlášeno";
 
 $l['report_reason_other'] = "Jiný důvod";
 
 $l['report_info_post'] = "<a href=\"{1}\">Příspěvek</a> od {2}";
-$l['report_info_post_thread'] = "<br /><span class=\"smalltext\">V <a href=\"{1}\">{2}</a></span>";
+$l['report_info_post_thread'] = "<br /><span class=\"smalltext\">v <a href=\"{1}\">{2}</a></span>";
 $l['report_info_profile'] = "Profil {1}";
 $l['report_info_reputation'] = "<a href=\"{1}\">Hodnocení</a> od {2}";
-$l['report_info_rep_profile'] = "<br /><span class=\"smalltext\">V profilu {1}</span>";
+$l['report_info_rep_profile'] = "<br /><span class=\"smalltext\"v profilu {1}</span>";
 $l['report_info_lastreporter'] = "{1}<br />od {2}";
 
 $l['page_selected'] = "Všechny <strong>{1}</strong> nepřečtené hlášení na této stránce jsou označeny.";
