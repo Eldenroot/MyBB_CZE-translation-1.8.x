@@ -11,18 +11,6 @@ $l['nav_helpdocs'] = "Nápověda";
 $l['nav_smilies'] = "Seznam smajlíků";
 $l['nav_syndication'] = "Odběr novinek přes RSS";
 
-$l['skype'] = "Skype";
-$l['yahoo_im'] = "Yahoo IM";
-$l['skype_center'] = "Skype Center";
-$l['skype_status'] = "Skype status";
-$l['chat_on_skype'] = "Napsat {1} přes Skype";
-$l['call_on_skype'] = "Zavolat {1} přes Skype";
-$l['yahoo_center'] = "Yahoo! Center";
-
-$l['send_me_instant'] = "Poslat mi IM";
-$l['add_me_buddy_list'] = "Přidat mě na seznam přátel";
-$l['add_remote_to_page'] = "Přidejte si Remote na Vaší stránku";
-
 $l['buddy_list'] = "Seznam přátel";
 $l['online'] = "Online";
 $l['online_none'] = "<em>Nemáte žádné online přátele</em>";
@@ -84,7 +72,6 @@ $l['redirect_markforumsread'] = "Všechna fóra byla označena jako přečtená.
 $l['redirect_forumpasscleared'] = "Uložené heslo pro tohle fórum bylo odstraněno.";
 $l['redirect_cookiescleared'] = "Všechna cookies byla odstraněna.";
 
-$l['error_invalidimtype'] = "Tento uživatel nemá tento typ instant messenger účtu uvedený ve svém profilu.";
 $l['error_invalidhelpdoc'] = "Zdá se, že daná nápověda neexistuje.";
 
 $l['dst_settings_updated'] = "Vaše nastavení letního času bylo automaticky upraveno.<br /><br />Nyní budete přesměrován(a) na hlavní stránku fóra.";
