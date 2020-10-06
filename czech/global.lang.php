@@ -325,7 +325,7 @@ $l['unapproved_posts'] = "{1} neschválené příspěvky";
 $l['unapproved_attachment'] = "1 neschválená příloha";
 $l['unapproved_attachments'] = "{1} neschválené přílohy";
 $l['unread_report'] = "1 nepřečtené hlášení";
-$l['unread_reports'] = "{1} nepřečtená nahlášení";
+$l['unread_reports'] = "{1} nepřečtených hlášení";
 $l['pending_joinrequest'] = "Upozornění pro vedoucí skupiny: máte 1 žádost pro udělení členství ve skupině.";
 $l['pending_joinrequests'] = "Upozornění pro vedoucí skupiny: máte {1} žádosti pro udělení členství ve skupině.";
 
