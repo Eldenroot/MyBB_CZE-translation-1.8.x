@@ -109,7 +109,6 @@ $l['members_were_online_today'] = "<strong>{1}</strong> uživatelé(ů) byli(o) 
 $l['member_online_hidden'] = " ({1} uživatel byl skrytý)";
 $l['members_online_hidden'] = " ({1} uživatelé(ů) byli(o) skrytí(o)";
 $l['rating_thread'] = "Hodnotí téma";
-$l['viewing_imcenter'] = "Zobrazuje IM Center";
 $l['managing_favorites'] = "Spravuje oblíbená témata";
 $l['managing_subscriptions'] = "Spravuje odebíraná témata";
 $l['managing_group'] = "Spravuje uživatelské skupiny";
