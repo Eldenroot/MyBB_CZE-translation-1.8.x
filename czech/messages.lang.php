@@ -53,7 +53,7 @@ $l['error_invalidusername'] = "Zadané uživatelské jméno není platné.";
 $l['error_invalidpassword'] = "Zadané heslo je chybné. Pokud jste heslo zapomněl(a), klikněte <a href=\"member.php?action=lostpw\">zde</a> nebo se vraťte zpět a zkuste to znovu.";
 $l['error_postflooding'] = "Váš příspěvek nelze publikovat. Administrátor(ka) určil(a), že je možné publikovat pouze jednou za každých {1} sekund.";
 $l['error_nopermission_guest_1'] = "Buď nejste přihlášen(a), nebo nemáte oprávnění ke shlédnutí této stránky. Může to být z několika následujících důvodů:";
-$l['error_nopermission_guest_2'] = "Nejste přihlášen(a), nebo registrován(a). K přihlášení použijte formulář dole na stránce.";
+$l['error_nopermission_guest_2'] = "Nejste přihlášen(a), nebo registrován(a). Prosím, přihlašte se a akci opakujte.";
 $l['error_nopermission_guest_3'] = "Nemáte přístupové oprávnění k této stránce. Pokoušíte se shlédnout něco, co byste neměl(a)? Podívejte se na pravidla fóra, zda k této akci máte oprávnění.";
 $l['error_nopermission_guest_4'] = "Váš účet mohl být zablokován administrátorem, nebo Váš uživatelský účet ještě není aktivní.";
 $l['error_nopermission_guest_5'] = "Snažíte se o přímý přístup na tuto stránku, což lze jen z patřičných formulářů či odkazů.";
@@ -99,7 +99,7 @@ $l['emailsubject_newpm'] = "Nová soukromá zpráva na {1} - {2}";
 $l['emailsubject_newjoinrequest'] = "Nová žádost o připojení v {1}";
 $l['emailsubject_sendtofriend'] = "Zajímavý diskuze na {1}";
 $l['emailsubject_changepassword'] = "Změna hesla v {1}";
-$l['emailbit_viewthread'] = "…(pro pokračování ve čtení navštivte vlákno ve fóru.)";
+$l['emailbit_viewthread'] = "&hellip;(pro pokračování ve čtení navštivte vlákno ve fóru&hellip;)";
 
 $l['email_lostpw'] = "{1},
 
@@ -264,7 +264,7 @@ Vedení fóra {4}
 Odhlášení odběru:
 
 Pokud již nechcete dostávat žádná oznámení o nových tématech tohoto fóra, navštivte prostřednictvím svého internetového prohlížeče následující URL odkaz:
-{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}
 
 ------------------------------------------";
 
@@ -340,7 +340,7 @@ Vedení fóra {3}
 Odhlášení odběru:
 
 Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto tématu, navštivte prostřednictvím svého internetového prohlížeče následující URL odkaz:
-{6}/usercp.php?action=removesubscription&tid={8}&key={9}&my_post_key={10}
+{6}/usercp.php?action=removesubscription&tid={8}
 
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
@@ -485,7 +485,7 @@ Na tohle téma mohou existovat ještě další odpovědi. Upozornění na ně bu
 Odhlášení odběru:
 
 Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto tématu, navštivte prostřednictvím svého internetového prohlížeče následující URL odkaz:
-[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}[/url]
 
 ------------------------------------------";
 
