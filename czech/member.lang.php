@@ -196,7 +196,7 @@ $l['reputation_details'] = "Detaily hodnocení";
 $l['already_logged_in'] = "Poznámka: již jste přihlášen jako {1}.";
 $l['admin_edit_in_acp'] = "Upravit tohoto uživatele v Administraci";
 $l['admin_ban_in_acp'] = "Banovat tohoto uživatele v Administraci";
-$l['admin_lift_ban_in_acp'] = "Zrušit ban v administraci";
+$l['admin_lift_ban_in_acp'] = "Zrušit ban v Administraci";
 $l['admin_edit_ban_in_acp'] = "Upravit ban v Administraci";
 $l['admin_options'] = "Nastavení administrátora";
 
