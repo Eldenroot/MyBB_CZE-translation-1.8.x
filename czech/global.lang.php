@@ -311,6 +311,7 @@ $l['forumjump_home'] = "Domů";
 $l['redirect'] = "Budete přesměrován(a)";
 $l['unknown_error'] = "Nastala neznámá chyba.";
 $l['post_fetch_error'] = 'Chyba při načítání příspěvků.';
+$l['ratings_update_error'] = 'Nastala chyba při aktualizaci hodnocení.';
 
 $l['smilieinsert'] = "Smajlíci";
 $l['smilieinsert_getmore'] = "další";
