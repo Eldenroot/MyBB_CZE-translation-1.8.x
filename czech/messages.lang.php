@@ -111,7 +111,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 
 {3}/member.php?action=resetpassword
 
-Budete muset zadat následující údaje.
+Kde zadejte následující údaje.
 Uživatelské jméno: {1}
 Aktivační kód: {5}
 
@@ -128,8 +128,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 {3}/member.php?action=resetpassword
 
 Budete muset zadat následující údaje.
-Vaši e-mailovou adresu,
-aktivační kód: {5}
+Vaši e-mailovou adresu, aktivační kód: {5}
 
 Děkujeme
 Vedení fóra {2}";
@@ -143,7 +142,7 @@ Pokud uvedený odkaz nefunguje, přejděte na:
 
 {3}/member.php?action=resetpassword
 
-Budete muset zadat následující údaje.
+Zadejte následující údaje:
 Uživatelské jméno/e-mailová adresa: {1}
 Aktivační kód: {5}
 
@@ -161,7 +160,7 @@ Důvod, který uživatel uvedl k nahlášení:
 
 Tato zpráva byla odeslána všem moderátorům fóra. Pokud neexistují, tak jeho administrátorům a supermoderátorům.
 
-Nahlášený příspěvek si, prosím, přečtěte co nejdříve.";
+Nahlášený příspěvek přečtěte, co nejdříve.";
 
 $l['email_reportprofile'] = "{1} z {2} nahlásil následujícího uživatele:
 {3}
@@ -169,14 +168,14 @@ $l['email_reportprofile'] = "{1} z {2} nahlásil následujícího uživatele:
 Důvod nahlášení tohoto uživatele:
 {6}
 Tato zpráva byla odeslána všem moderátorům tohoto fóra nebo všem administrátorům a super moderátorům, pokud fórum nemá žádného moderátora.
-Prosím, nahlášeného uživatele zkontrolujte, co nejdříve.";
+Nahlášeného uživatele zkontrolujte, co nejdříve.";
 $l['email_reportreputation'] = "{1} z {2} nahlásil následující hodnocení:
 {3}
 {4}/{5}
 Důvod proč uživatel oznámil hodnocení uživatele:
 {6}
 Tato zpráva byla odeslána všem moderátorům tohoto fóra nebo všem administrátorům a super moderátorům, pokud fórum nemá žádného moderátora.
-Prosím, zkontrolujte reputaci, co nejdříve to bude možné.";
+Zkontrolujte reputaci, co nejdříve to bude možné.";
 $l['email_report_comment_extra'] = "{1}: {2}";
 
 $l['email_passwordreset'] = "{1},
