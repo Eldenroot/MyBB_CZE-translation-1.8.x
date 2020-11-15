@@ -157,7 +157,7 @@ $l['email_reportpost'] = "{1} z {2} nahlásil tento příspěvek:
 {4}/{5}
 
 Důvod, který uživatel uvedl k nahlášení:
-{7}
+{6}
 
 Tato zpráva byla odeslána všem moderátorům fóra. Pokud neexistují, tak jeho administrátorům a supermoderátorům.
 
