@@ -163,7 +163,7 @@ Tato zpráva byla odeslána všem moderátorům fóra. Pokud neexistují, tak je
 
 Nahlášený příspěvek si, prosím, přečtěte co nejdříve.";
 
-$l['email_reportprofile'] = "{1} z {2} nahlásil následujícího uživateel:
+$l['email_reportprofile'] = "{1} z {2} nahlásil následujícího uživatele:
 {3}
 {4}/{5}
 Důvod nahlášení tohoto uživatele:
