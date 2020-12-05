@@ -24,7 +24,7 @@ $l['update_options'] = "Aktualizovat volby";
 $l['poll_options_note'] = "Volby ankety by měly být krátké a k věci.";
 $l['options'] = "Možnosti:";
 $l['option_multiple'] = "<b>Povolit výběr více položek:</b> Uživatelé budou mít možnost zvolit zároveň více možností.";
-$l['option_multiple_maxoptions'] = "Maximální počet otázek na uživatele (0 = neomezeně):";
+$l['option_multiple_maxoptions'] = "Maximální počet možností na uživatele (0 = neomezeně):";
 $l['option_public'] = "<b>Veřejná anketa:</b> Tímto dáte uživatelům možnost vidět, jak kdo v anketě hlasoval.";
 $l['option_closed'] = "<b>Anketa je uzavřena:</b> Po zaškrtnutí již nebude možné v této anketě hlasovat.";
 $l['poll_timeout'] = "Trvání ankety:";
