@@ -151,7 +151,6 @@ $l['show_redirect'] = "Zobrazovat přátelská přesměrování.";
 $l['thread_view_options'] = "Možnosti zobrazení témat";
 $l['thread_mode'] = "Režim zobrazení témat:";
 $l['thread_mode_desc'] = "Tento režim bude zobrazen jen Vám. Zvolíte-li 'použít výchozí', budete používat přednastavený režim.";
-$l['use_default'] = "Použít výchozí";
 $l['threaded'] = "Tématický";
 $l['linear'] = "Lineární";
 $l['show_classic_postbit'] = "Zobrazovat příspěvky v klasickém režimu.";
@@ -404,6 +403,7 @@ $l['icon_new'] = "Nové příspěvky.";
 $l['icon_hot'] = " Nejčtenější téma.";
 $l['icon_close'] = " Uzavřené téma.";
 $l['search_user'] = "Hledat uživatele";
+$l['goto_first_unread'] = "Přejít na první nepřečtený příspěvek";
 
 $l['buddylist_error'] = 'Chyba při načítání Seznamu přátel.';
 
