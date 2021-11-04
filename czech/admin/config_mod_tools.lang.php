@@ -14,7 +14,7 @@ $l['thread_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet
 
 $l['add_thread_tool'] = "Přidat nástroje témat";
 $l['add_new_thread_tool'] = "Přidat nový nástroj témat";
-$l['add_thread_tool_desc'] = "Zde můžete přidat nový nástroj moderování vlastního vlákna. Tento nástroj bude přístupný z inline moderování vlákna které jsou uvedeny s výchozími nástroji moderování.";
+$l['add_thread_tool_desc'] = "Zde můžete přidat nový nástroj moderování vlastního vlákna. Tento nástroj bude přístupný z inline moderování vlákna, které jsou uvedeny s výchozími nástroji moderování.";
 
 $l['post_tools'] = "Nástroje pro příspěvky";
 $l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
@@ -50,7 +50,7 @@ $l['save_thread_tool'] = "Uložit nástroj pro správu témat";
 $l['title'] = "Titul";
 
 $l['thread_moderation'] = "Správa témat";
-$l['approve_unapprove'] = "Schálit/Neschválit téma?";
+$l['approve_unapprove'] = "Schválit/Neschválit téma?";
 
 $l['no_change'] = "Beze změny";
 $l['approve'] = "Schválit";
@@ -95,7 +95,7 @@ $l['add_new_reply_desc'] = "Nechat prázdné pro nezodpovězení.";
 $l['reply_subject'] = "Předmět odpovědi.";
 $l['reply_subject_desc'] = "Používá se pouze v případě, že byla odeslána odpověď.<br />{subject} představuje původní předmět. {username} představuje jméno moderátora.";
 
-$l['success_mod_tool_created'] = "Moderatorský nástroj byl úspěšně přidaný.";
+$l['success_mod_tool_created'] = "Moderátorský nástroj byl úspěšně přidaný.";
 $l['success_mod_tool_updated'] = "Moderátorský nástroj byl úspěšně upraven.";
 
 $l['inline_post_moderation'] = "Inline moderování příspěvku";
@@ -113,7 +113,7 @@ $l['close_split_thread'] = "Uzavřít rozdělené téma?";
 $l['stick_split_thread'] = "Připnout rozdělené téma?";
 $l['unapprove_split_thread'] = "Zakázat rozdělené téma?";
 $l['split_thread_prefix'] = "Rozdělit předponu tématu";
-$l['split_thread_subject'] = "Rozdělit název témati";
+$l['split_thread_subject'] = "Rozdělit název tématu";
 $l['split_thread_subject_desc'] = "{subject} představuje původní předmět. Je vyžadován pouze v případě, že rozdělujete téma.";
 $l['add_new_split_reply'] = "Přidat odpověď do rozděleného fóra";
 $l['add_new_split_reply_desc'] = "Nechat prázdné pro nezodpovězení.";
@@ -129,6 +129,6 @@ $l['private_message_subject_desc'] = 'Zadej předmět soukromé zprávy.';
 
 $l['error_missing_title'] = "Zadej, prosím, název pro tento nástroj.";
 $l['error_missing_description'] = "Zadej, prosím, krátký popis nástroje.";
-$l['error_no_forums_selected'] = "Vyberte, prosím, fórum pro které bude tento nástroj dostupný.";
-$l['error_no_groups_selected'] = "Vyberte, prosím, skupinu pro kterou bude tento nástroj dostupný.";
+$l['error_no_forums_selected'] = "Vyberte, prosím, fórum, pro které bude tento nástroj dostupný.";
+$l['error_no_groups_selected'] = "Vyberte, prosím, skupinu, pro kterou bude tento nástroj dostupný.";
 $l['error_forum_is_category'] = "Nemůžete vybrat fórum kategorií jako cílové fórum.";

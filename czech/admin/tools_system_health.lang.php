@@ -22,8 +22,8 @@ $l['converting_to_utf8mb4'] = "MyBB právě převádí tabulku \"{1}\" na 4-Byte
 $l['please_wait'] = "Počkejte, prosím…";
 $l['converting_table'] = "Převádí se tabulka:";
 $l['convert_table'] = "Převést tabulku";
-$l['convert_tables'] = "Převeést všechny tabulky";
-$l['convert_database_table'] = "Převeést databázovou tabulku";
+$l['convert_tables'] = "Převést všechny tabulky";
+$l['convert_database_table'] = "Převést databázovou tabulku";
 $l['convert_database_tables'] = "Převést všechny databázové tabulky";
 $l['table'] = "Tabulka";
 $l['status_utf8'] = "UTF-8 status";
@@ -64,12 +64,12 @@ $l['themes_dir'] = "Složka pro vzhledy";
 $l['chmod_files_and_dirs'] = "Oprávnění (CHMOD) souborů a složek";
 
 $l['notice_process_long_time'] = "Tento proces může trvat několik hodin v závislosti na velikosti fóra a této tabulky. <strong>Důrazně doporučujeme vytvořit zálohu této databáze, protože tento proces je nevratný.</strong>";
-$l['notice_mb4_warning'] = "4 bitová podpora UTF-8 vyžaduje MySQL 5.5.3 a vyšší. Není možné importovat databázi z jiné verze MySQL.";
+$l['notice_mb4_warning'] = "Podpora 4-Byte UTF-8 vyžaduje MySQL 5.5.3 a vyšší. Není možné importovat databázi z jiné verze MySQL.";
 
 $l['check_templates'] = "Zkontrolovat šablony";
-$l['check_templates_desc'] = "Zkontroluje všechny nainstalované vzhledy pro znamé bezpečnostní problémy.";
-$l['check_templates_title'] = "Kontrola zabezpeččení šablony";
-$l['check_templates_info'] = "Tento proces zkontroluje všechny zablony proti bezpečnostním problémům, které by mohly ovlivnit fórum a server na kterém běží fórum. Pokud máš nainstalovaných mnoho vzhledů, tak tento proces bude chvíli trvat.
+$l['check_templates_desc'] = "Zkontroluje všechny nainstalované vzhledy pro známé bezpečnostní problémy.";
+$l['check_templates_title'] = "Kontrola zabezpečení šablony";
+$l['check_templates_info'] = "Tento proces zkontroluje všechny šablony proti bezpečnostním problémům, které by mohly ovlivnit fórum a server na kterém běží fórum. Pokud máš nainstalovaných mnoho vzhledů, tak tento proces bude chvíli trvat.
 <br /><br />Pro zahájení kontroly stiskni tlačítko 'Pokračovat'.";
 $l['check_templates_info_desc'] = "Níže uvedené šablony odpovídají známým bezpečnostním problémům. Prosím, zkontroluj je.";
 $l['full_edit'] = "Full Edit";

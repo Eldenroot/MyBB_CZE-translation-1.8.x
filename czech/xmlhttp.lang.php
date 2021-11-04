@@ -9,7 +9,7 @@
 
 $l['no_new_subject'] = "Nebyl vložen nový předmět.";
 $l['post_moderation'] = "Váš příspěvek je nyní moderován.";
-$l['thread_moderation'] = "Váše téma je nyní moderováno.";
+$l['thread_moderation'] = "Vaše téma je nyní moderováno.";
 $l['post_doesnt_exist'] = "Zvolený příspěvek neexistuje.";
 $l['thread_doesnt_exist'] = "Zvolené téma neexistuje.";
 $l['thread_closed_edit_subjects'] = "Téma bylo uzavřeno a předmět tématu již není možné měnit.";

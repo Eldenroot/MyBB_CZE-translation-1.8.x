@@ -21,21 +21,21 @@ $l['action'] = "Akce";
 $l['information'] = "Informace";
 $l['ipaddress'] = "IP adresa";
 
-$l['forum'] = "Forum:";
+$l['forum'] = "Fórum:";
 $l['thread'] = "Vlákno:";
 $l['post'] = "Příspěvek:";
 $l['user_info'] = "Uživatel:";
 $l['announcement'] = "Oznámení:";
 
 $l['filter_moderator_logs'] = "Filter Moderator Logs";
-$l['forum_moderator'] = "Forum Moderator:";
+$l['forum_moderator'] = "Moderátor fóra:";
 $l['sort_by'] = "Sort By:";
-$l['results_per_page'] = "Results Per Page:";
+$l['results_per_page'] = "Počet výsledků na stránce:";
 $l['all_moderators'] = "All Moderators";
 $l['older_than'] = "Starší než ";
 
-$l['forum_name'] = "Forum Name";
-$l['thread_subject'] = "Thread Subject";
+$l['forum_name'] = "Jméno fóra";
+$l['thread_subject'] = "Název vlákna";
 
 $l['asc'] = "Vzestupně";
 $l['desc'] = "Sestupně";
@@ -44,8 +44,8 @@ $l['in'] = "in";
 $l['order'] = "order";
 $l['days'] = "days";
 
-$l['prune_moderator_logs'] = "Prune Moderator Logs";
+$l['prune_moderator_logs'] = "Vyčistit logy moderátorů";
 $l['date_range'] = "Date range:";
 
-$l['success_pruned_mod_logs'] = "The moderator logs have been pruned successfully.";
-$l['note_logs_locked'] = "For security reasons, logs less than 24 hours old cannot be pruned.";
+$l['success_pruned_mod_logs'] = "Logy moderátorů byly úspěšně vyčištěny.";
+$l['note_logs_locked'] = "Z bezpečnostních důvodu není možné odstranit logy novější než 24 hodin.";

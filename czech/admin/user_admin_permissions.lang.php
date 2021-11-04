@@ -9,9 +9,9 @@
 
 $l['admin_permissions'] = "Oprávnění administrátorů";
 $l['user_permissions'] = "Oprávnění uživatelů";
-$l['user_permissions_desc'] = "Zde můžete spravovat oprávnění administrátora pro jednotlivé uživatele, což umožní odepřít přístup do konkretních sekcí administratorského ovládacího panelu.";
+$l['user_permissions_desc'] = "Zde můžete spravovat oprávnění administrátora pro jednotlivé uživatele, což umožní odepřít přístup do konkrétních sekcí administrátorského ovládacího panelu.";
 $l['group_permissions'] = "Oprávnění skupin";
-$l['group_permissions_desc'] = "Administrátorská oprávění lze použít také skupinu uživatelů, kteří mají přístup do administrátorské sekce. Tento nástroj můžete také k odepření přístupu do konkretních sekci administratorského ovládacího panelu.";
+$l['group_permissions_desc'] = "Administrátorská oprávnění lze použít také skupinu uživatelů, kteří mají přístup do administrátorské sekce. Tento nástroj můžete také k odepření přístupu do konkrétních sekcí administrátorského ovládacího panelu.";
 $l['default_permissions'] = "Výchozí oprávnění";
 $l['default_permissions_desc'] = "Výchozí oprávnění pro administrátory, kteří mají svá vlastní administrátorská oprávnění nebo nepatři do skupiny administrátorů.";
 
@@ -19,7 +19,7 @@ $l['admin_permissions_updated'] = "Administrátorská oprávnění byla úspěš
 $l['revoke_permissions'] = "Odebrat oprávnění";
 $l['edit_permissions'] = "Upravit oprávnění";
 $l['set_permissions'] = "Nastavit oprávnění";
-$l['edit_permissions_desc'] = "Zde můžete omezit přístup k jednotlivým částem administrátorského ovladacího panelu. Karta \"Home\" je přístupná všem administrátorům.";
+$l['edit_permissions_desc'] = "Zde můžete omezit přístup k jednotlivým částem administrátorského ovládacího panelu. Karta \"Home\" je přístupná všem administrátorům.";
 $l['update_permissions'] = "Aktualizovat oprávnění";
 $l['view_log'] = "Zobrazit záznam";
 $l['permissions_type_group'] = "Oprávnění pro skupiny";
@@ -27,10 +27,10 @@ $l['permissions_type_user'] = "Oprávnění pro uživatele";
 $l['no_group_perms'] = "Nejsou nastavena žádná skupinová oprávnění.";
 $l['no_user_perms'] = "Nejsou nastavena žádná oprávnění pro uživatele.";
 $l['edit_user'] = "Upravit uživatelský profil";
-$l['using_individual_perms'] = "Použivá individuální oprávnění";
+$l['using_individual_perms'] = "Používá individuální oprávnění";
 $l['using_custom_perms'] = "Používá vlastní oprávnění";
-$l['using_group_perms'] = "Použivá skupinová oprávnění";
-$l['using_default_perms'] = "Použivá výchozí oprávnění";
+$l['using_group_perms'] = "Používá skupinová oprávnění";
+$l['using_default_perms'] = "Používá výchozí oprávnění";
 $l['last_active'] = "Naposledy aktivní";
 $l['user'] = "Uživatel";
 $l['edit_group'] = "Upravit skupinu";

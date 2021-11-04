@@ -107,5 +107,5 @@ $l['success_setting_group_deleted'] = "Vybraná skupina nastavení byla úspěš
 $l['success_duplicate_settings_deleted'] = "Všechny skupiny nastavení duplicit byly úspěšně odstraněny.";
 
 $l['searching'] = 'Hledám…';
-$l['search_error'] = 'Vyskytl se error při načítání výsledků vyhledávání:';
+$l['search_error'] = 'Nastala chyba při načítání výsledků vyhledávání:';
 $l['search_done'] = 'Hotovo!';

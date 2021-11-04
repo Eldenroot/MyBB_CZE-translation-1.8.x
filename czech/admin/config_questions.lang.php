@@ -24,7 +24,7 @@ $l['delete_question'] = "Smazat otázku";
 $l['no_security_questions'] = "V tuto chvíli, zde nejsou žádné registrační bezpečnostní otázky.";
 
 $l['question'] = "Otázka";
-$l['question_desc'] = "Zadejte otázku na kterou chcete znát odpověď při registraci.";
+$l['question_desc'] = "Zadejte otázku, na kterou chcete znát odpověď při registraci.";
 $l['answers'] = "Odpověd/i";
 $l['answers_desc'] = "Zadejte odpovědi k výše uvedené otázce. Zadejte, prosím, každou odpověď na samostatný řádek.";
 $l['active'] = "Povolit otázku";
@@ -36,7 +36,7 @@ $l['error_missing_answer'] = "Nezadal jste žádné odpovědi pro tuto otázku."
 
 $l['success_question_created'] = "Otázka byla úspěšně vytvořena.";
 $l['success_question_updated'] = "Otázka byla úspěšně upravena.";
-$l['success_question_disabled'] = "Otázka byla úspěšně zakázana.";
+$l['success_question_disabled'] = "Otázka byla úspěšně zakázána.";
 $l['success_question_enabled'] = "Otázka byla úspěšně povolena.";
 $l['success_question_deleted'] = "Otázka byla úspěšně vymazána.";
 

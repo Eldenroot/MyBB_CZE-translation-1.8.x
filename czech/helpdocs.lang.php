@@ -17,7 +17,7 @@ $l['d1_document'] = "Kterákoliv část tohoto fóra, nebo celé fórum může v
 // Help Document 2
 $l['d2_name'] = "Aktualizace profilu uživatele";
 $l['d2_desc'] = "Změna aktuálních údajů uživatele.";
-$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve Vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází vlevém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
+$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve Vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází v levém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
 
 // Help Document 3
 $l['d3_name'] = "Používání cookies v tomto fóru";

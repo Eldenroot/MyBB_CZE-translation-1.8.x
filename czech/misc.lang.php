@@ -63,7 +63,7 @@ $l['syndication_version_atom1'] = "Atom 1.0";
 $l['syndication_version_rss2'] = "RSS 2.00 (výchozí)";
 $l['syndication_generate'] = "Generovat URL adresu RSS";
 $l['syndication_limit'] = "Limit:";
-$l['syndication_limit_desc'] = "Počet témat, která chcete odebírat.Maximální limit je 50 témat.";
+$l['syndication_limit_desc'] = "Počet témat, která chcete odebírat. Maximální limit je 50 témat.";
 $l['syndication_threads_time'] = "témat současně";
 $l['syndicate_all_forums'] = "Odběr všech fór";
 

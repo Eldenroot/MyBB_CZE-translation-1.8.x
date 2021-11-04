@@ -13,7 +13,7 @@ $l['stick_thread'] = "Přilepit téma";
 
 $l['author'] = "Autor";
 $l['message'] = "Zpráva";
-$l['threaded'] = "Tématický mód";
+$l['threaded'] = "Tematický mód";
 $l['linear'] = "Lineární mód";
 $l['next_oldest'] = "Starší";
 $l['next_newest'] = "Novější";

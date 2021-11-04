@@ -7,7 +7,6 @@
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-
 $l['database_backups'] = "Zálohování databáze";
 $l['database_backups_desc'] = "Zde můžete najít seznam záloh databáze, které se nacházejí ve složce backups, která se nachází ve složce /admin";
 $l['new_database_backup'] = "Nová záloha databáze";
@@ -49,11 +48,11 @@ $l['error_invalid_backup'] = "Soubor, který jste označil(a) buď neexistuje ne
 $l['error_backup_doesnt_exist'] = "Požadovaná záloha neexistuje.";
 $l['error_backup_not_deleted'] = "Záloha nebyla smazána.";
 $l['error_tables_not_selected'] = "Nevybral(a) jste tabulku, kterou chcete zálohovat.";
-$l['error_no_zlib'] = "Knihovna zlib pro PHP není povolena - nemůžete vytvořit kompresovanou GZIP zálohu.";
+$l['error_no_zlib'] = "Knihovna zlib pro PHP není povolena - nemůžete vytvořit komprimovanou GZIP zálohu.";
 
-$l['alert_not_writable'] = "Vaše složka s názvem backups, která se nachází ve složce /admin nemá oprávnění pro zápis. Skript nemůže zazálohovat Vaší databázi!";
+$l['alert_not_writable'] = "Vaše složka s názvem backups, která se nachází ve složce /admin nemá oprávnění pro zápis. Skript nemůže zazálohovat Vaši databázi!";
 
 $l['confirm_backup_deletion'] = "Jste si jistý, že chcete vymazat tuto zálohu?";
 
 $l['success_backup_deleted'] = "Zálohu jste smazal(a).";
-$l['success_backup_created'] = "Záloha byla úspešně vytvořena.";
+$l['success_backup_created'] = "Záloha byla úspěšně vytvořena.";

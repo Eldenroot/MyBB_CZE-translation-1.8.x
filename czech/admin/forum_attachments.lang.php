@@ -30,7 +30,7 @@ $l['error_not_attached'] = "Příloha byla nahrána před 24 hodinami, ale není
 $l['error_does_not_exist'] = "Téma nebo příspěvek pro tuto přílohu již neexistuje.";
 
 // Success
-$l['success_deleted'] = "Zvolené přílohy byly úspěšny vymazány.";
+$l['success_deleted'] = "Zvolené přílohy byly úspěšně vymazány.";
 $l['success_orphan_deleted'] = "Vybrané nepřiřazené přílohy byly úspěšně odstraněny.";
 $l['success_count'] = '{1} příloh bylo úspěšně odebráno.';
 $l['success_no_orphans'] = "Na Vašem fóru nejsou žádné nepřiřazené přílohy.";
@@ -73,7 +73,7 @@ $l['step1of2'] = "Krok 1 of 2 - Skenování file systému";
 $l['step2of2'] = "Krok 2 of 2 - Skenování databáze";
 $l['step1of2_line1'] = "Počkejte, prosím, systém souborů se právě prohledává nepřiřazené soubory.";
 $l['step2of2_line1'] = "Počkejte, prosím, databáze právě prohledává nepřiřazené soubory";
-$l['step_line2'] = "Budete automaticky přesměrováni na další krok jakmile bude tento proces hotový.";
+$l['step_line2'] = "Budete automaticky přesměrováni na další krok, jakmile bude tento proces hotový.";
 $l['scanning'] = 'Skenování…';
 
 // = Attachments / Index

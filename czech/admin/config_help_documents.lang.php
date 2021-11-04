@@ -47,7 +47,7 @@ $l['error_document_missing_description'] = "Musíte napsat krátký popis dokume
 $l['error_document_missing_document'] = "Musíte zadat dokument.";
 $l['error_document_missing_enabled'] = "Musíte specifikovat ano nebo ne pro \"Povoleno?\".";
 $l['error_document_missing_translation'] = "Musíte specifikovat ano nebo ne pro \"Použít překlad?\".";;
-$l['error_invalid_sid'] = "Zadáno neplatné ID dokumnetu.";
+$l['error_invalid_sid'] = "Zadáno neplatné ID dokumentu.";
 $l['error_missing_section_id'] = "Zvolená oblast neexistuje.";
 $l['error_missing_hid'] = "Vybraný dokument neexistuje.";
 

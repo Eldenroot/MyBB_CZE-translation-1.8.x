@@ -6,6 +6,7 @@
  *
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
+
 $l['mass_mail'] = "Hromadné e-maily";
 
 $l['mass_mail_queue'] = "Fronta hromadných e-mailů";
@@ -14,7 +15,7 @@ $l['create_mass_mail'] = "Vytvořit novou poštu";
 $l['create_mass_mail_desc'] = "Zde můžete vytvořit nové hromadné e-maily a nastavit jejich možnosti.";
 $l['mass_mail_archive'] = "Archiv hromadných e-mailů";
 $l['mass_mail_archive_desc'] = "Zde si můžete prohlédnout log hromadných e-mailů, které již byly odeslány.";
-$l['edit_mass_mail'] = "Upravit hromadnýho e-mailu";
+$l['edit_mass_mail'] = "Upravit hromadný e-mail";
 $l['edit_mass_mail_desc'] = "Zde můžete upravit hromadné e-maily a jeho možnosti.";
 $l['send_mass_mail'] = "Odeslat hromadný e-mail";
 
@@ -71,11 +72,11 @@ $l['subject'] = "Předmět";
 $l['message'] = "Zpráva";
 $l['text_based'] = "Na základě textu";
 $l['preview'] = "Náhled";
-$l['mass_mail_preview'] = "Náhled hromadného e-maili";
+$l['mass_mail_preview'] = "Náhled hromadného e-mailu";
 $l['html_based'] = "Založené na HTML";
 $l['total_recipients'] = "Celkový počet příjemců";
 $l['change_recipient_conds'] = "Změna podmínek příjemce";
-$l['review_message'] = "Zkontroluj tvojí zprávu";
+$l['review_message'] = "Zkontrolujte vaši zprávu";
 $l['define_delivery_date'] = "Definuj datum dodání";
 $l['schedule_for_delivery'] = "Nastavení doručení";
 $l['username'] = "Uživatelské jméno";
@@ -100,7 +101,7 @@ $l['draft'] = "Rozepsané";
 $l['queued'] = "Ve frontě";
 $l['delivering'] = "Odesílá se";
 $l['na'] = "N/A";
-$l['mass_mail_cancel_confirmation'] = "Opravdu chete zrušit odesílání tohoto hromadného e-mailu?";
+$l['mass_mail_cancel_confirmation'] = "Opravdu chcete zrušit odesílání tohoto hromadného e-mailu?";
 $l['no_unsent_messages'] = "Ve frontě nejsou žádné neodeslané nebo čekající hromadné e-maily.";
 
 $l['error_invalid_mid'] = "Vybral jsi neplatný hromadný e-mail";
