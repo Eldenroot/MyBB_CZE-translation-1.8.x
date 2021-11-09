@@ -28,7 +28,7 @@ $l['edit_properties'] = "Upravit vlastnosti jazykového balíčku";
 $l['friendly_name'] = "Popisný název";
 $l['language_in_html'] = "Jazyk v &lt;html&gt; tagu";
 $l['charset'] = "Znakové sady";
-$l['admin'] = "Obsahuje administrační panel jazykové proměnné?";
+$l['admin'] = "Obsahuje panel administrace jazykové proměnné?";
 $l['rtl'] = "Zprava doleva?";
 
 $l['quickphrases_agreement'] = 'Registrační podmínky - Nadpis';

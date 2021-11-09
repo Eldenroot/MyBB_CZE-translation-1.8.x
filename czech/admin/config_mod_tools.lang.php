@@ -21,7 +21,7 @@ $l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet k
 
 $l['add_post_tool'] = "Přidat nástroje příspěvků";
 $l['add_new_post_tool'] = "Přidat nový nástroj příspěvků";
-$l['add_post_tool_desc'] = "Zde můžete přidat nové nástroje pro moderování příspěvků. Tyto nástroje budou přístupné také z výchozího nastavení moderátorských nástrojů";
+$l['add_post_tool_desc'] = "Zde můžete přidat nové nástroje pro moderování příspěvků. Tyto nástroje budou přístupné také z výchozího nastavení nástrojů moderátora";
 
 $l['edit_post_tool'] = "Upravit nástroje příspěvků";
 $l['edit_post_tool_desc'] = "Zde můžete upravit nastavení a akce nástrojů pro příspěvky.";
@@ -95,8 +95,8 @@ $l['add_new_reply_desc'] = "Nechat prázdné pro nezodpovězení.";
 $l['reply_subject'] = "Předmět odpovědi.";
 $l['reply_subject_desc'] = "Používá se pouze v případě, že byla odeslána odpověď.<br />{subject} představuje původní předmět. {username} představuje jméno moderátora.";
 
-$l['success_mod_tool_created'] = "Moderátorský nástroj byl úspěšně přidaný.";
-$l['success_mod_tool_updated'] = "Moderátorský nástroj byl úspěšně upraven.";
+$l['success_mod_tool_created'] = "Nástroj moderátora byl úspěšně přidaný.";
+$l['success_mod_tool_updated'] = "Nástroj moderátora byl úspěšně upraven.";
 
 $l['inline_post_moderation'] = "Inline moderování příspěvku";
 $l['delete_posts'] = "Smazat příspěvek trvale?";
