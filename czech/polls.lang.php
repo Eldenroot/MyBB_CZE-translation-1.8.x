@@ -55,7 +55,7 @@ $l['error_alreadyvoted'] = "Této ankety jste se již zúčastnil(a).";
 $l['error_notvoted'] = "V této anketě jste nehlasoval(a).";
 $l['error_invalidpoll'] = "Zadaná anketa neexistuje, nebo je chybná.";
 $l['error_pollclosed'] = "Nelze hlasovat v anketě, která je uzavřená.";
-$l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor(ka) nastavil(a) možnost vkládání anket pouze během {1} hodin po založení tématu.";
+$l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor nastavil možnost vkládání anket pouze během {1} hodin po založení tématu.";
 
 $l['poll_deleted'] = "Odstraněná anketa";
 $l['poll_edited'] = "Upravená anketa";

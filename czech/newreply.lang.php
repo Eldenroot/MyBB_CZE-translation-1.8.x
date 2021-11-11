@@ -41,7 +41,7 @@ $l['multiquote_external_one_quote'] = "Citovat i tento příspěvek";
 $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newreply'] = "Váš příspěvek byl úspěšně odeslán.";
-$l['redirect_newreply_moderation'] = "Administrátor(ka) určil(a), že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
+$l['redirect_newreply_moderation'] = "Administrátor určil, že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
 $l['redirect_newreply_post'] = "<br />Nyní budete přesměrováni na Váš příspěvek.";
 $l['redirect_newreplyerror'] = "Váš příspěvek byl odmítnut, protože má nedostatečný obsah. <br />Nyní budete přesměrován(a) do tématu.";
 $l['redirect_threadclosed'] = "Do tohoto tématu již nelze přispívat, protože bylo moderátorem uzavřeno.";

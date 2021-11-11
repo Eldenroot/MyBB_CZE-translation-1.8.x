@@ -21,7 +21,7 @@ $l['old_pm'] = "Staré zprávy";
 $l['reply_pm'] = "Komu";
 $l['fwd_pm'] = "Přeposlat zprávu";
 
-$l['pms_disabled'] = "Administrátor(ka) neumožňuje používat službu soukromých zpráv.";
+$l['pms_disabled'] = "Administrátor neumožňuje používat službu soukromých zpráv.";
 
 $l['private_messaging'] = "Soukromé zprávy";
 $l['inbox'] = "Doručené zprávy";
@@ -170,7 +170,7 @@ $l['error_invalidpmrecipient'] = "Zadaný příjemce neexistuje, nebo byl zadán
 $l['error_invalidmovefid'] = "Vybraná složka, do které se snažíte přesunout vaši zprávu(y) je neplatná. Vraťte se, prosím, zpět a zkuste to znovu.";
 $l['error_invalidpm'] = "Chybná SZ";
 $l['error_pmrecipientreachedquota'] = "Soukromou zprávu pro {1} nelze poslat, protože příjemce vyčerpal svůj limit přijatých soukromých zpráv. Dokud nevyprázdní své složky, nemůže dostávat žádné soukromé zprávy. O této skutečnosti byl(a) již informován(a) e-mailem. Zkuste prosím odeslat svoji zprávu později.";
-$l['error_recipientpmturnedoff'] = "Uživatel(ka) {1} se rozhodl(a) nedostávat žádné soukromé zprávy, nebo k tomu nemá dostatečná oprávnění. Tomuto uživateli tedy nelze zasílat žádné soukromé zprávy.";
+$l['error_recipientpmturnedoff'] = "Uživatel {1} nechce nedostávat žádné soukromé zprávy, nebo k tomu nemá dostatečná oprávnění. Tomuto uživateli tedy nelze zasílat žádné soukromé zprávy.";
 $l['error_pmsturnedoff'] = "Ve svém profilu máte zakázané používat soukromé zprávy.<br />Abyste mohl(a) se soukromými zprávami pracovat, prosím, povolte si je.";
 $l['error_recipientignoring'] = "Vaši soukromou zprávu pro {1} nemůžeme doručit. Nemáte k tomu dostatečná oprávnění.";
 $l['error_pm_already_submitted'] = "V průběhu posledních pěti minut jste již danému uživateli odeslal(a) tu samou soukromou zprávu.";

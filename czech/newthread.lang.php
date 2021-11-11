@@ -44,7 +44,7 @@ $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newthread'] = "Vaše téma bylo založeno.";
 $l['redirect_newthread_poll'] = "<br />Nyní budete přesměrováni na stránku nastavení ankety.";
-$l['redirect_newthread_moderation'] = "<br />Administrátor(ka) určil(a), že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
+$l['redirect_newthread_moderation'] = "<br />Administrátor určil, že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
 $l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte oprávnění k jeho prohlížení.";
 
