@@ -31,8 +31,8 @@ $l['active'] = "Povolit otázku";
 $l['save_question'] = "Uložit otázku";
 
 $l['error_invalid_question'] = "Vybral jste neplatnou otázku.";
-$l['error_missing_question'] = "Nezadal jste otázku pro tuhle otázku.";
-$l['error_missing_answer'] = "Nezadal jste žádné odpovědi pro tuhle otázku.";
+$l['error_missing_question'] = "Nezadal jste otázku pro tuto otázku.";
+$l['error_missing_answer'] = "Nezadal jste žádné odpovědi pro tuto otázku.";
 
 $l['success_question_created'] = "Otázka byla úspěšně vytvořena.";
 $l['success_question_updated'] = "Otázka byla úspěšně upravena.";
@@ -40,4 +40,4 @@ $l['success_question_disabled'] = "Otázka byla úspěšně zakázana.";
 $l['success_question_enabled'] = "Otázka byla úspěšně povolena.";
 $l['success_question_deleted'] = "Otázka byla úspěšně vymazána.";
 
-$l['confirm_question_deletion'] = "Jste si jistý, že chcete smazat tuhle otázku?";
+$l['confirm_question_deletion'] = "Jste si jistý, že chcete smazat tuto otázku?";

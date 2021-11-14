@@ -22,7 +22,7 @@ $l['postdata_post_flooding_one_second'] = 'Snažíte se odeslat příspěvek př
 $l['postdata_too_many_images'] = 'Váš příspěvek obsahuje {1} obrázků, zatímco povolené množství obrázků je {2} na jeden příspěvek. Prosím, snižte počet obrázků v příspěvku, abyste se do uvedeného limitu vešli.';
 $l['postdata_too_many_videos'] = 'Váš příspěvek obsahuje {1} videí, zatímco povolené množství videí je {2} na jeden příspěvek. Prosím, snižte počet videí v příspěvku, abyste se do uvedeného limitu vešli.';
 $l['postdata_invalid_prefix'] = 'Zvolený prefix je chybný. Prosím, zadejte jej znovu.';
-$l['postdata_require_prefix'] = 'Tohle fórum vyžaduje nastavení prefixu u tématu. Prosím, vyberte platný prefix.';
+$l['postdata_require_prefix'] = 'Toto fórum vyžaduje nastavení prefixu u tématu. Prosím, vyberte platný prefix.';
 
 $l['thread_closed'] = "Téma je uzavřeno";
 $l['thread_opened'] = "Téma je otevřeno";
