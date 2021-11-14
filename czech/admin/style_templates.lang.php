@@ -43,7 +43,7 @@ $l['find_and_replace'] = "Najít a nahradit";
 $l['search_template_names'] = "Najít název šablony";
 $l['ungrouped_templates'] = "Nezařazené šablony";
 
-$l['search_noneset'] = "Nezadal jste řetezec, který chcete vyhledat.";
+$l['search_noneset'] = "Nezadal jste řetězec, který chcete vyhledat.";
 $l['search_results'] = "Výsledky vyhledávání šablon";
 $l['search_header'] = "Hledání \"{1}\" v {2}";
 $l['search_updated'] = "Upraveno {1}";
@@ -51,8 +51,8 @@ $l['search_found'] = "Nalezeno v {1}";
 $l['search_created_custom'] = "Vytvořit vlastní šablonu pro {1}";
 $l['search_edit'] = "upravit";
 $l['search_change_original'] = "změnit originál";
-$l['search_noresults'] = "Podle zadaného řetezce nebyla nalezena žádná shoda '<strong>{1}</strong>'";
-$l['search_noresults_title'] = "Podle názvu nebyla nalezene žádná šablona '<strong>{1}</strong>'";
+$l['search_noresults'] = "Podle zadaného řetězce nebyla nalezena žádná shoda '<strong>{1}</strong>'";
+$l['search_noresults_title'] = "Podle názvu nebyla nalezena žádná šablona '<strong>{1}</strong>'";
 $l['default_templates'] = "Výchozí šablona";
 
 $l['edit_template_breadcrumb'] = "Upravit šablonu: ";
@@ -62,7 +62,7 @@ $l['master_templates'] = "Hlavní šablony";
 
 $l['not_used_by_any_themes'] = "Nepoužívá žádné motivy";
 $l['used_by'] = "Používáno:";
-$l['used_by_all_themes'] = "Používáné všemi šablonami";
+$l['used_by_all_themes'] = "Používané všemi šablonami";
 
 $l['expand_templates'] = "Rozšířit šablonu";
 $l['edit_template_set'] = "Upravit sadu šablon";
@@ -91,7 +91,7 @@ $l['group_online'] = "Kdo je online";
 $l['group_forumbit'] = "Forum Bit";
 $l['group_editpost'] = "Upravit příspěvek";
 $l['group_forumjump'] = "Na fórum";
-$l['group_moderation'] = "Moderator";
+$l['group_moderation'] = "Moderátor";
 $l['group_nav'] = "Navigace";
 $l['group_search'] = "Vyhledávání";
 $l['group_showteam'] = "Zobrazit tým fóra";
@@ -176,6 +176,6 @@ $l['success_template_saved'] = "Zvolená šablona byla úspěšně uložena.";
 $l['success_template_deleted'] = "Zvolená šablona byla úspěšně smazána.";
 $l['success_template_reverted'] = "Zvolená šablona byla úspěšně navrácena.";
 $l['success_template_set_saved'] = "Zvolená sada šablon byla úspěšně uložena.";
-$l['success_template_set_deleted'] = "Zvolená sada šablon byla úspěšna smazána.";
+$l['success_template_set_deleted'] = "Zvolená sada šablon byla úspěšně smazána.";
 $l['success_template_group_saved'] = "Zvolená skupina šablon byla úspěšně uložena.";
 $l['success_template_group_deleted'] = "Zvolená skupina šablon byla úspěšně smazána.";

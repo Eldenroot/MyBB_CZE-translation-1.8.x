@@ -30,7 +30,7 @@ $l['available_to_groups'] = "Dostupné ve skupinách";
 
 $l['no_thread_prefixes'] = "Na vašem fóru nejsou nastaveny žádné předpony.";
 
-$l['confirm_thread_prefix_deletion'] = "Opravdu chcete odstranit tuto předponu vlákna?.";
+$l['confirm_thread_prefix_deletion'] = "Opravdu chcete odstranit tuto předponu vlákna?";
 
 $l['success_thread_prefix_created'] = "Předpona tématu byla úspěšně vytvořena.";
 $l['success_thread_prefix_updated'] = "Předpona tématu byla úspěšně upravena.";

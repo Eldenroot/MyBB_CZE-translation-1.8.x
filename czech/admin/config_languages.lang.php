@@ -17,7 +17,7 @@ $l['quick_phrases_desc'] = "Rychlý přístup k často modifikovaným frázím."
 
 $l['edit_with'] = "Změnit s {1}";
 $l['edit_language_variables'] = "Upravit jazykové mutace";
-$l['edit_language_variables_desc'] = "Zde můžete upravit jazykové řetezce dle svých představ.";
+$l['edit_language_variables_desc'] = "Zde můžete upravit jazykové řetězce dle svých představ.";
 $l['edit_properties_desc'] = "Zde můžete změnit vlastnosti jazykového balíčku.";
 $l['installed_language_packs'] = "Nainstalované jazykové mutace";
 $l['front_end'] = "Frontend";

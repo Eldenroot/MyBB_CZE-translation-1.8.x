@@ -42,7 +42,7 @@ $l['allow_html'] = "Povolit HTML v událostech?";
 $l['allow_mycode'] = "Povolit MyCode v událostech?";
 $l['allow_img'] = "Povolit [IMG] kód v událostech?";
 $l['allow_video'] = "Povolit [VIDEO] kód v událostech?";
-$l['allow_smilies'] = "Povlit smajlíky v událostech?";
+$l['allow_smilies'] = "Povolit smajlíky v událostech?";
 $l['save_calendar'] = "Uložit kalendář";
 
 $l['permissions'] = "Oprávnění";

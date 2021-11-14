@@ -21,7 +21,7 @@ $l['action'] = "Akce";
 $l['information'] = "Informace";
 $l['ipaddress'] = "IP adresa";
 
-$l['forum'] = "Forum:";
+$l['forum'] = "Fórum:";
 $l['thread'] = "Vlákno:";
 $l['post'] = "Příspěvek:";
 $l['user_info'] = "Uživatel:";

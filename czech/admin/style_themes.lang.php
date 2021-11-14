@@ -39,13 +39,13 @@ $l['colors_setting'] = "Základní barva:";
 $l['colors_setting_desc'] = "Vyberte barvu, kterou by měl tento motiv použít jako výchozí barvu. Styly připojené k této barvě budou použity.";
 $l['colors_no_color_setting'] = "Nejsou k dispozici žádné barvy. Chcete-li použít tuto funkci, vytvořte seznam barev níže.";
 $l['colors_add'] = "Upravit barvy";
-$l['colors_add_desc'] = "Seznam barev, které jsou k dispozici pro tento otiv. Barvy by měly být spárovány dle klíče název=barva. Například modrá=blue.";
+$l['colors_add_desc'] = "Seznam barev, které jsou k dispozici pro tento motiv. Barvy by měly být spárovány dle klíče název=barva. Například modrá=blue.";
 $l['colors_please_select'] = "Nic";
 $l['colors_add_edit_desc'] = "Vyberte barvu, ke které chcete připojit tento styl. Můžete vybrat více než jednu barvu.";
 $l['colors_specific_color'] = "Vybraná barva";
 
 $l['include_custom_only'] = "Zahrnout pouze vlastní položky?";
-$l['include_custom_only_desc'] = "Pokud si přejete zahrnout CSS a soubory stylů z nadřazeného motivu, zvolte \"no\", jinak budou exporotovány pouze vlastní prvky.";
+$l['include_custom_only_desc'] = "Pokud si přejete zahrnout CSS a soubory stylů z nadřazeného motivu, zvolte \"no\", jinak budou exportovány pouze vlastní prvky.";
 $l['include_templates'] = "Zahrnout také šablony do exportu?";
 $l['include_templates_desc'] = "Pokud chcete exportovat vlastní šablony použité v tomto motivu, vyberte Ano.";
 
@@ -58,7 +58,7 @@ $l['theme'] = "Název vzhledu";
 $l['num_users'] = "# Uživatelé";
 $l['edit_theme'] = "Upravit vzhled";
 $l['delete_theme'] = "Smazat vzhled";
-$l['set_as_default'] = "Nastavit jako vychozí";
+$l['set_as_default'] = "Nastavit jako výchozí";
 $l['default_theme'] = "Výchozí vzhled";
 $l['force_on_users'] = "Nastavit všem uživatelům";
 $l['delete_revert'] = "Odstranit / Vrátit";
@@ -119,7 +119,7 @@ $l['text_decoration'] = "Dekorace textu";
 $l['font_family'] = "Font Family";
 $l['font_size'] = "Velikost písma";
 $l['font_style'] = "Styl písma";
-$l['font_weight'] = "Śířka fontu";
+$l['font_weight'] = "Šířka fontu";
 
 $l['stylesheets'] = "Kaskádové styly (CSS)";
 $l['inherited_from'] = "Zkopírováno z:";

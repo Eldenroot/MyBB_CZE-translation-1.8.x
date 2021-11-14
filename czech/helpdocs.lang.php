@@ -17,7 +17,7 @@ $l['d1_document'] = "Kterákoliv část tohoto fóra, nebo celé fórum může v
 // Help Document 2
 $l['d2_name'] = "Aktualizace profilu uživatele";
 $l['d2_desc'] = "Změna aktuálních údajů uživatele.";
-$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve Vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází vlevém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
+$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve Vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází v levém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
 
 // Help Document 3
 $l['d3_name'] = "Používání cookies v tomto fóru";
@@ -41,7 +41,7 @@ $l['d5_document'] = "Když procházíte fórum, které Vás zajímá, budete mo�
 // Help Document 6
 $l['d6_name'] = "Psaní příspěvků";
 $l['d6_desc'] = "Jak odpovídat na témata ve fóru.";
-$l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\" které naleznete na začátku i konci tématu. Prosím, vezměte na vědomí, že administrátor nemusí všem uživatelům v každém fóru toto umožnit.
+$l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtěl(a) vyjádřit. Za tímto účelem klikněte na tlačítko \"Nová odpověď\", které naleznete na začátku i konci tématu. Prosím, vezměte na vědomí, že administrátor nemusí všem uživatelům v každém fóru toto umožnit.
 <br /><br />Navíc moderátor fóra může téma uzavřít. To znamená, že už nikdo nemůže do tohoto tématu přispívat bez speciální pomoci moderátora fóra, nebo administrátora celého fóra.";
 
 // Help Document 7

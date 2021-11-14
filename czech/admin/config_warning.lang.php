@@ -45,7 +45,7 @@ $l['banned_group'] = "Zabanovaná skupina:";
 $l['ban_length'] = "Délka trvání banu:";
 $l['suspend_posting_privileges'] = "Pozastavit možnost příspěvků";
 $l['suspension_length'] = "Délka pozastavení:";
-$l['moderate_posts'] = "Moderatovat příspěvky";
+$l['moderate_posts'] = "Moderovat příspěvky";
 $l['moderation_length'] = "Délka moderování:";
 $l['save_warning_level'] = "Uložit level varování";
 

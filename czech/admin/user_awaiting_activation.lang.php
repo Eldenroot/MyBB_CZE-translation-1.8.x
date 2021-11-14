@@ -47,5 +47,5 @@ Pokračujte, prosím, na
 
 Kde se budete moct přihlásit pomocí přezdívky a hesla, které jste si zvolil(a) při registraci.
 
-Budeme se těšit na Vaší návštěvu
+Budeme se těšit na Vaši návštěvu
 Vedení fóra {2}";

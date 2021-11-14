@@ -8,7 +8,7 @@
  */
 
 $l['system_email_log'] = "Historie systémových e-mailů";
-$l['system_email_log_desc'] = "E-maily, který byly vygenerovány MyBB a které se vrátily s chybou se zde zobrazí. Tato sekce je obvzláště určená pro identikování nesprávné konfigurace SMTP nebo k identifikování podpory e-mailů na Vašem serveru.";
+$l['system_email_log_desc'] = "E-maily, které byly vygenerovány MyBB a které se vrátily s chybou se zde zobrazí. Tato sekce je obzvláště určená pro identifikování nesprávné konfigurace SMTP nebo k identifikování podpory e-mailů na Vašem serveru.";
 $l['prune_system_email_log'] = "Promazat seznam systémových e-mailů";
 $l['filter_system_email_log'] = "Filtrovat seznam systémových e-mailů";
 

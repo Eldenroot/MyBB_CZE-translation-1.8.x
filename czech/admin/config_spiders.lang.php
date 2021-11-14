@@ -9,7 +9,7 @@
 $l['spiders_bots'] = "Spiders / Boti";
 $l['spiders_bots_desc'] = "Tato sekce umožní spravovat boty a vyhledávací roboty, kteří navštívili Vaše fórum. Můžete také vidět, který bot navštívil fórum naposledy.";
 $l['add_new_bot'] = "Přidat nového bota";
-$l['add_new_bot_desc'] = "Zde můžete přidat boty od kterých vyžadujete návštěvu fóra.";
+$l['add_new_bot_desc'] = "Zde můžete přidat boty, od kterých vyžadujete návštěvu fóra.";
 
 $l['edit_bot'] = "Upravit bota";
 $l['edit_bot_desc'] = "Zde můžete upravit existujícího bota.";
@@ -20,7 +20,7 @@ $l['no_bots'] = "Žádní roboti nenavštívili toto fórum.";
 
 $l['name'] = "Jméno";
 $l['name_desc'] = "Zadejte název bota, kterého chcete identifikovat";
-$l['user_agent'] = "Identifikační řetezec robota";
+$l['user_agent'] = "Identifikační řetězec robota";
 $l['user_agent_desc'] = "Zadejte řetězec, který bude porovnán s uživatelsky zadanými roboty (jsou přijímány částečné shody)";
 $l['language_str'] = "Jazyk";
 $l['language_desc'] = "Vyberte jazykový balíček, který bude bot prohledávat.";
@@ -33,7 +33,7 @@ $l['use_board_default'] = "Použít výchozí nástěnku";
 
 $l['error_invalid_bot'] = "Vybraný bot neexistuje.";
 $l['error_missing_name'] = "Nezadal(a) jste název tohoto bota";
-$l['error_missing_agent'] = "Nezadal(a) jste žádný řetezec pro tohoto bota";
+$l['error_missing_agent'] = "Nezadal(a) jste žádný řetězec pro tohoto bota";
 
 $l['success_bot_created'] = "Bot byl úspěšně vytvořen.";
 $l['success_bot_updated'] = "Bot byl úspěšně upraven.";

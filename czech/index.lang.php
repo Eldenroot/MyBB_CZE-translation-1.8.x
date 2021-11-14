@@ -39,4 +39,4 @@ $l['online_anon_singular'] = "je";
 $l['online_guest_plural'] = "hostů";
 $l['online_guest_singular'] = "host";
 $l['online_note'] = "Aktivních {1} {2} během uplynulých {3} minut (z toho {4} {5}, {6} neviditelných a {8} {9}).";
-$l['subforums'] = "<strong>Dceřinná fóra:</strong>";
+$l['subforums'] = "<strong>Dceřiná fóra:</strong>";
