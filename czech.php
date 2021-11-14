@@ -11,7 +11,7 @@
 $langinfo['name'] = "Čeština";
 
 // The author of the language
-$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Pepe & chodik";
+$langinfo['author'] = "Cu8eeeR /Eldenroot/ & Pepe & chodik & McLaynV";
 
 // The language authors website
 $langinfo['website'] = "https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x";
@@ -29,7 +29,7 @@ $langinfo['support_link'] = "https://github.com/Eldenroot/MyBB_CZE-translation-1
 $langinfo['additional_name'] = "MyBB_CZE-translation-1.8.x";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1827";
+$langinfo['version'] = "1829";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;
