@@ -62,7 +62,7 @@ $l['move_post_note'] = "Do textového pole vpravo zkopírujte adresu tématu, do
 $l['new_thread_info'] = "Informace o novém tématu";
 $l['posts_to_split'] = "Příspěvky k rozdělení";
 $l['thread_notes_editor'] = "Editor poznámek k tématu";
-$l['below_notes'] = "Níže můžete upravovat poznáky k tomuto tématu.";
+$l['below_notes'] = "Níže můžete upravovat poznámky k tomuto tématu.";
 $l['update_notes'] = "Aktualizovat poznámky k tématu";
 $l['mod_logs'] = "Log moderátora (zobrazení posledních 20 akcí)";
 $l['mod_username'] = "Uživatelské jméno";
@@ -152,7 +152,7 @@ $l['view_notes_for'] = "Prohlíží poznámky k {1}";
 
 $l['purgespammer'] = "Odstranit spamera";
 $l['purgespammer_purge'] = "Odstranit spamera {1}";
-$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel(ka) publikoval(a) (příspěvky, SZ, události atd.) a {1} ho nebo ji.";
+$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel(ka) publikoval(a) (příspěvky, SZ, události atd.) a {1} jej nebo ji.";
 $l['purgespammer_ban'] = "zabanuje";
 $l['purgespammer_delete'] = "odstraní";
 $l['purgespammer_submit'] = "Odstranit spamera";

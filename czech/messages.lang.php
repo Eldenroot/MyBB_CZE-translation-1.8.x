@@ -49,13 +49,13 @@ $l['error_uploadfailed_movefailed'] = "Při nahrávání souboru se vyskytl neid
 $l['error_uploadfailed_lost'] = "Uvedenou přílohu nelze na serveru nalézt.";
 $l['error_emailmismatch'] = "E-mailová adresa není platná. Prosím, vraťte se a zkuste to znovu.";
 $l['error_nopassword'] = "Nebylo zadáno správné heslo.";
-$l['error_usernametaken'] = "Zvolené uživatelské jméno je již bohužel registrováno. Pokud jste se již dříve registroval(a) <a href=\"member.php?action=login\">přihlašte se</a>.";
+$l['error_usernametaken'] = "Zvolené uživatelské jméno je již bohužel registrováno. Pokud jste se již dříve registroval(a) <a href=\"member.php?action=login\">přihlaste se</a>.";
 $l['error_nousername'] = "Nebylo zadáno uživatelské jméno.";
 $l['error_invalidusername'] = "Zadané uživatelské jméno není platné.";
 $l['error_invalidpassword'] = "Zadané heslo je chybné. Pokud jste heslo zapomněl(a), klikněte <a href=\"member.php?action=lostpw\">zde</a> nebo se vraťte zpět a zkuste to znovu.";
 $l['error_postflooding'] = "Váš příspěvek nelze publikovat. Administrátor(ka) určil(a), že je možné publikovat pouze jednou za každých {1} sekund.";
 $l['error_nopermission_guest_1'] = "Buď nejste přihlášen(a), nebo nemáte oprávnění ke shlédnutí této stránky. Může to být z několika následujících důvodů:";
-$l['error_nopermission_guest_2'] = "Nejste přihlášen(a), nebo registrován(a). Prosím, přihlašte se a akci opakujte.";
+$l['error_nopermission_guest_2'] = "Nejste přihlášen(a), nebo registrován(a). Prosím, přihlaste se a akci opakujte.";
 $l['error_nopermission_guest_3'] = "Nemáte přístupové oprávnění k této stránce. Pokoušíte se shlédnout něco, co byste neměl(a)? Podívejte se na pravidla fóra, zda k této akci máte oprávnění.";
 $l['error_nopermission_guest_4'] = "Váš účet mohl být zablokován administrátorem, nebo Váš uživatelský účet ještě není aktivní.";
 $l['error_nopermission_guest_5'] = "Snažíte se o přímý přístup na tuto stránku, což lze jen z patřičných formulářů či odkazů.";
@@ -72,7 +72,7 @@ $l['error_nopermission_user_resendactivation'] = "Znovu zaslat aktivační kód"
 $l['error_nopermission_user_username'] = "Nyní jste přihlášeni pod uživatelským jménem: '{1}'";
 $l['logged_in_user'] = "Přihlášený uživatel";
 $l['error_too_many_images'] = "Příliš mnoho obrázků.";
-$l['error_too_many_images2'] = "Nelze bohužel pokračovat se zpracování vašeho příspěvku, neboť obsahuje příliš mnoho obrázků. Aby bylo možné pokračovat, musíte některé obrázky z vašeho příspěvku odstranit.";
+$l['error_too_many_images2'] = "Nelze bohužel pokračovat se zpracováním vašeho příspěvku, neboť obsahuje příliš mnoho obrázků. Aby bylo možné pokračovat, musíte některé obrázky z vašeho příspěvku odstranit.";
 $l['error_too_many_images3'] = "<b>Poznámka:</b> Maximální počet obrázků na jeden příspěvek je";
 $l['error_attach_file'] = "Chyba s uložením souboru";
 $l['please_correct_errors'] = "Před pokračováním, prosím, opravte následující chyby:";
@@ -297,7 +297,7 @@ Pokud uvedený odkaz nefunguje, jděte na:
 {3}/member.php?action=activate
 
 Budete muset zadat následující údaje.
-Vaší e-mailovou adresu,
+Vaši e-mailovou adresu,
 Aktivační kód: {5}
 
 Děkujeme
@@ -346,7 +346,7 @@ Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto témat
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
 
-Toto je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
+Toto je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky přijatých soukromých zpráv byla vyčerpána.
 
 Nejméně jeden uživatel se Vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
@@ -387,7 +387,7 @@ obdrželi jsme Vaši žádost z {2}, týkající se změny Vaší e-mailové adr
 Stará e-mailová adresa: {3}
 Nová e-mailová adresa: {4}
 
-Tato změna byla automaticky zpracována. Pokud jste si tuto změnu nevyžádal/a, prosím, kontaktujte neprodleně administrátora.
+Tato změna byla automaticky zpracována. Pokud jste si tuto změnu nevyžádal(a), prosím, kontaktujte neprodleně administrátora.
 
 Děkujeme
 Vedení fóra {2}
@@ -493,4 +493,4 @@ Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto témat
 $l['email_broken_task_subject'] = "Úloha MyBB selhala na {1}";
 $l['email_broken_task'] = "Došlo k chybě v systému úloh na MyBB běžící na {1} ({2}).
 Úloha souboru pro {3} chybí.
-Úloha byla zakázana do té doby než chyba bude opravena.";
+Úloha byla zakázána do té doby, než chyba bude opravena.";

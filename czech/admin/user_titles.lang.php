@@ -36,4 +36,3 @@ $l['user_title_deletion_confirmation'] = "Are you sure you want to delete this u
 $l['manage_user_titles'] = "Manage User Titles";
 $l['user_title'] = "User Title";
 $l['no_user_titles'] = "You do not have any user titles defined at the moment";
-

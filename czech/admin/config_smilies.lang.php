@@ -16,7 +16,7 @@ $l['add_multiple_smilies'] = "Přidání více smajlíků najednou";
 $l['add_multiple_smilies_desc'] = "Zde přidáte více smajlíků najednou.";
 $l['edit_smilie'] = "Upravit smajlíka";
 $l['edit_smilie_desc'] = "Zde můžete upravit jednoho smajlíka.";
-$l['mass_edit'] = "Upravení více smajliků najednou";
+$l['mass_edit'] = "Upravení více smajlíků najednou";
 $l['mass_edit_desc'] = "Zde můžete snadněji upravit více smajlíků najednou.";
 
 $l['no_smilies'] = "Bohužel, ale v tuto chvíli, ve fóru nemůžete použít žádného smajlíka.";
@@ -35,7 +35,7 @@ $l['show_clickable'] = "Zobrazit ve výběru smajlíků v editoru příspěvků?
 $l['show_clickable_desc'] = "Chcete, abyste mohl(a) najít smajlíka při psaní příspěvku?";
 $l['include'] = "Přidat?";
 $l['path_to_images'] = "Cesta k obrázkům";
-$l['path_to_images_desc'] = "Toto je cesta k složce ve které máte obrázky smajlíků.";
+$l['path_to_images_desc'] = "Toto je cesta ke složce, ve které máte uloženy obrázky smajlíků.";
 $l['smilie_delete'] = "Smazat?";
 $l['save_smilie'] = "Uložit smajlíka";
 $l['save_smilies'] = "Uložit smajlíky";

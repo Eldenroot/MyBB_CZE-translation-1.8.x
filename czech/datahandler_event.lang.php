@@ -23,9 +23,9 @@ $l['eventdata_cant_specify_one_time'] = "Pokud uvádíte čas začátku událost
 $l['eventdata_start_time_invalid'] = "Čas začátku události není platný. Příklady platného zadání jsou 12am, 12:01am, 00:01.";
 $l['eventdata_end_time_invalid'] = "Čas konce události není platný. Příklady platného zadání jsou 12am, 12:01am, 00:01.";
 $l['eventdata_invalid_timezone'] = "Časová zóna, kterou jste si pro tuto událost vybrali, není platná.";
-$l['eventdata_end_in_past'] = "Konec události nastává dříve, než její začátek. To je možné v teoretické fyzice, nikoliv v tomto fóru. Prosím, opravte to.";
+$l['eventdata_end_in_past'] = "Konec události nastává dříve než její začátek. To je možné v teoretické fyzice, nikoliv v tomto fóru. Prosím, opravte to.";
 
-$l['eventdata_only_ranged_events_repeat'] = "Lze opakovat pouze časově vymezené události(události, pro které je definováno datum začátku a datum ukončení).";
+$l['eventdata_only_ranged_events_repeat'] = "Lze opakovat pouze časově vymezené události (události, pro které je definováno datum začátku a datum ukončení).";
 $l['eventdata_invalid_repeat_day_interval'] = "Interval opakování ve dnech byl zvolen chybně.";
 $l['eventdata_invalid_repeat_week_interval'] = "Interval opakování v týdnech byl zvolen chybně.";
 $l['eventdata_invalid_repeat_weekly_days'] = "Tato událost postrádá zadání dne v týdnu, ve kterém má nastat.";

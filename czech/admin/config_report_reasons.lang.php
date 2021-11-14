@@ -19,7 +19,7 @@ $l['order'] = "Pořadí";
 $l['extra_comment'] = "Vyžadují komentář?";
 $l['options'] = "Nastavení";
 $l['delete_reason'] = "Smazat důvod";
-$l['no_report_reasons'] = "Nejsou zde žádné důvody pro nahlášení příspěvku v tuto chíli.";
+$l['no_report_reasons'] = "Nejsou zde žádné důvody pro nahlášení příspěvku v tuto chvíli.";
 
 $l['reason_title'] = "Název";
 $l['reason_title_desc'] = "Zde zadejte název důvodu pro nahlášení příspěvku.";
@@ -46,7 +46,7 @@ $l['report_reason_spam'] = "Spam";
 $l['report_reason_wrong'] = "Špatná kategorie";
 $l['report_reason_other'] = "Ostatní";
 
-$l['default_report_reason'] = "Vychozí";
+$l['default_report_reason'] = "Výchozí";
 $l['custom_report_reason'] = "Jiný důvod";
 
 $l['update_reasons_order'] = "Aktualizovat pořadí důvodů.";

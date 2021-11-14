@@ -7,8 +7,6 @@
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 
-
-
 $l['admin_logs'] = "Historie administrátorů";
 $l['admin_logs_desc'] = "Here you can view, prune, and search the actions administrators have taken in the control panel.";
 $l['prune_admin_logs'] = "Prune Administrator Logs";

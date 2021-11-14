@@ -54,11 +54,11 @@ $l['user_group_change_type_desc'] = "Vyberte ' primární skupina uživatelů ',
 $l['enabled'] = "Povoleno?";
 $l['enable_logging'] = "Povolit záznamy?";
 $l['promotion_logs'] = "Záznamy povýšení";
-$l['view_promotion_logs'] = "Shléednout záznamy povýšení";
+$l['view_promotion_logs'] = "Shlédnout záznamy povýšení";
 $l['view_promotion_logs_desc'] = 'Zde můžete zobrazit protokoly povýšení, které byly dříve spuštěny.';
 $l['promoted_user'] = "Povýšený člen";
 $l['time_promoted'] = "Čas povýšení";
-$l['no_promotion_logs'] = "Nejsou zaznamenáná žádná povýšení.";
+$l['no_promotion_logs'] = "Nejsou zaznamenána žádná povýšení.";
 $l['promotion_manager'] = "Správce povýšení";
 $l['promotion'] = "Povýšení";
 $l['disable_promotion'] = "Zakázat povýšení";
@@ -71,7 +71,7 @@ $l['secondary'] = "Sekundární";
 $l['primary'] = "Primární";
 
 $l['error_no_promo_id'] = 'Nezadal jste ID povýšení.';
-$l['error_invalid_promo_id'] = 'Nezdal jste platné ID povýšení';
+$l['error_invalid_promo_id'] = 'Nezadal jste platné ID povýšení';
 
 $l['error_no_title'] = "Nezadal(a) jste název tohoto povýšení";
 $l['error_no_desc'] = "Nezadal(a) jste popis tohoto povýšení";

@@ -8,7 +8,7 @@
  */
 
 $l['preferences_and_personal_notes'] = "Nastavení ACP &amp; Osobní poznámky";
-$l['prefs_and_personal_notes_description'] = "Zde můžete spravovat Administrační controlního panelu, můžete si zde psát a ukládat Vaše osobní poznámky, které nikdo neuvidí krom Vás";
+$l['prefs_and_personal_notes_description'] = "Zde můžete spravovat panel administrace, můžete si zde psát a ukládat Vaše osobní poznámky, které nikdo neuvidí krom Vás";
 
 $l['preferences'] = "Preference";
 $l['global_preferences'] = "Obecné preference";

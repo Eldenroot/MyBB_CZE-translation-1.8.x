@@ -15,10 +15,10 @@ $l['bad_word_filters_desc'] = "Tato funkce Vám umožní spravovat seznam slov n
 
 $l['bad_word'] = "Slovo";
 $l['bad_word_desc'] = "Zadejte slovo, které si přejete, aby bylo filtrováno. Symbol '*' představuje libovolný počet znaků a symbol '+' představuje každý libovolný znak kromě mezery a nového řádku.";
-$l['bad_word_max'] = "Zakázáné slovo nemůže být delší než 100 znaků.";
+$l['bad_word_max'] = "Zakázané slovo nemůže být delší než 100 znaků.";
 $l['replacement'] = "Nahrazeno";
 $l['replacement_desc'] = "Zadejte řetězec, který nahradí filtrované slovo (pokud je pole prázdné, zobrazí se hvězdičky).";
-$l['regex'] = "Regular Expression";
+$l['regex'] = "Regulární výraz";
 $l['regex_desc'] = "Treat the \"Word\" field as a regular expression.";
 $l['replacement_word_max'] = "Nahrazené slovo nemůže být delší než 100 znaků.";
 $l['error_replacement_word_invalid'] = "Slovo, které chcete nahradit nemůže být zároveň tím stejným slovem, které nemohou uživatelé použít.";

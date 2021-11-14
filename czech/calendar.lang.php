@@ -14,7 +14,7 @@ $l['nav_addevent'] = "Přidat událost";
 $l['nav_editevent'] = "Upravit událost";
 $l['nav_move_event'] = "Přesunout událost";
 
-$l['calendar_disabled'] = "Nemůžete používat kalendář, protože ho administrátor/ka zakázal/a.";
+$l['calendar_disabled'] = "Nemůžete používat kalendář, protože ho administrátor(ka) zakázal(a).";
 
 // In some languages these months need to be slightly different than those defined in global.lang.php
 $l['alt_month_1'] = "Leden";

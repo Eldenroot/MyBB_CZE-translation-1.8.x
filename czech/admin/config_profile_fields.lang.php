@@ -56,7 +56,7 @@ $l['parse_allowsmilies'] = "Ano, povolit smajlíky v tomto poli.";
 $l['parse_allowimgcode'] = "Ano, povolit [img] kód v tomto poli.";
 $l['parse_allowvideocode'] = "Ano, povolit [video] kód v tomto poli.";
 $l['save_profile_field'] = "Uložit pole";
-$l['name'] = "Jmnéno";
+$l['name'] = "Jméno";
 $l['registration'] = "Zobrazit během registrace?";
 $l['editable'] = "Lze upravit?";
 $l['profile'] = "Profil?";
@@ -69,7 +69,7 @@ $l['error_missing_name'] = "Nezadal jste název vlastního pole";
 $l['error_missing_description'] = "Nezadal jste popis vlastního pole";
 $l['error_invalid_fid'] = "Zvolené pole neexistuje.";
 
-$l['success_profile_field_added'] = "Vlastní pole profilo bylo úspěšně vytvořeno.";
+$l['success_profile_field_added'] = "Vlastní pole profilu bylo úspěšně vytvořeno.";
 $l['success_profile_field_saved'] = "Vlastní pole profilu bylo úspěšně změněno.";
 $l['success_profile_field_deleted'] = "Zvolené vlastní pole profilu bylo úspěšně smazáno.";
 

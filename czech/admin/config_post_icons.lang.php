@@ -29,7 +29,7 @@ $l['image'] = "Ikona";
 $l['add'] = "Přidat?";
 $l['save_post_icons'] = "Uložit ikonu příspěvku.";
 
-$l['no_post_icons'] = "Na fóru se momentálně nenachazí žádné ikony příspěvků.";
+$l['no_post_icons'] = "Na fóru se momentálně nenachází žádné ikony příspěvků.";
 
 $l['error_missing_name'] = "Nezadal(a) jste název ikony příspěvků";
 $l['error_missing_path'] = "Nezadal(a) jste cestu k ikoně příspěvků";

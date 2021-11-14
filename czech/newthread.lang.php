@@ -42,7 +42,7 @@ $l['multiquote_external_deselect'] = "zrušit výběr příspěvků";
 $l['multiquote_external_one_quote'] = "Citovat i tento příspěvek";
 $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
-$l['redirect_newthread'] = "Váše téma bylo založeno.";
+$l['redirect_newthread'] = "Vaše téma bylo založeno.";
 $l['redirect_newthread_poll'] = "<br />Nyní budete přesměrováni na stránku nastavení ankety.";
 $l['redirect_newthread_moderation'] = "<br />Administrátor(ka) určil(a), že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
