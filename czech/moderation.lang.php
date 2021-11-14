@@ -152,7 +152,7 @@ $l['view_notes_for'] = "Prohlíží poznámky k {1}";
 
 $l['purgespammer'] = "Odstranit spamera";
 $l['purgespammer_purge'] = "Odstranit spamera {1}";
-$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel publikoval (příspěvky, SZ, události atd.) a {1} jej.";
+$l['purgespammer_purge_desc'] = "Odstraní vše, co uživatel(ka) publikoval(a) (příspěvky, SZ, události atd.) a {1} jej nebo ji.";
 $l['purgespammer_ban'] = "zabanuje";
 $l['purgespammer_delete'] = "odstraní";
 $l['purgespammer_submit'] = "Odstranit spamera";

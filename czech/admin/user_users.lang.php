@@ -92,7 +92,7 @@ $l['error_avatartoobig'] = "Promiňte, ale nemůžeme změnit Vašeho avatara, p
 $l['error_invalidavatarurl'] = "Odkaz, který jste zadal(a) pro Vašeho avatara je neplatný. Zkontrolujte, zda jste vložil(a) správný odkaz URL.";
 $l['error_remote_avatar_not_allowed'] = "Adresy URL vzdálených avatarů byly zakázány správcem fóra.";
 $l['error_invalid_user'] = "Vybral(a) jste neplatného uživatele.";
-$l['error_no_perms_super_admin'] = "Nemáte právo upravit uživatele, protože nejste super administrátor.";
+$l['error_no_perms_super_admin'] = "Nemáte právo upravit uživatele, protože nejste super administrátor(ka).";
 $l['error_invalid_user_source'] = "Sekundární účet, který jste zadal(a), neexistuje.";
 $l['error_invalid_user_destination'] = "Primární účet, který jste zadal(a), neexistuje.";
 $l['error_cannot_merge_same_account'] = "Nelze sloučit stejný účet.";
@@ -395,7 +395,7 @@ $l['view_title_1'] = "Všichni uživatelé";
 $l['emailsubject_activateaccount'] = "Aktivace účtu na {1}";
 $l['email_adminactivateaccount'] = "{1},
 
-Administrátor právě teď aktivoval Váš účet na {2}.
+Administrátor(ka) právě teď aktivoval(a) Váš účet na {2}.
 
 Pokračujte, prosím, na
 

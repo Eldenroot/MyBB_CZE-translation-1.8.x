@@ -14,7 +14,7 @@ $l['banned_accounts'] = "Zabanované účty";
 $l['disallowed_usernames'] = "Zakázané uživatelské přezdívky";
 $l['disallowed_usernames_desc'] = "Zde můžete spravovat seznam uživatelských přezdívek, které nemohou být zaregistrovány nebo nemohou být použity již zaregistrovanými uživateli. Tato funkce může být vhodná např. pro rezervaci uživatelské přezdívky.";
 $l['disallowed_email_addresses'] = "Nepovolené e-mailové adresy";
-$l['disallowed_email_addresses_desc'] = "Zde můžete spravovat seznam e-mailových adres se kterými se uživatelé nemohou zaregistrovat a nemohou být použity ani stávajícími uživateli.";
+$l['disallowed_email_addresses_desc'] = "Zde můžete spravovat seznam e-mailových adres, se kterými se uživatelé nemohou zaregistrovat a které nemohou být použity ani stávajícími uživateli.";
 
 $l['banned_ip_addresses'] = "Zabanové IP adresy";
 $l['username'] = "Uživatelské jméno";

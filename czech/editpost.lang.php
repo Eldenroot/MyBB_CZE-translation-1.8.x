@@ -42,8 +42,8 @@ $l['redirect_postdeleted'] = "Příspěvek byl odstraněn.<br />Nyní budete př
 $l['redirect_threadrestored'] = "Téma bylo obnoveno.<br />Nyní budete přesměrován(a) do fóra.";
 $l['redirect_postrestored'] = "Příspěvek byl obnoven.<br />Nyní budete přesměrován(a) do tématu.";
 $l['redirect_threadclosed'] = "Příspěvky v tomto tématu již nelze upravovat, protože moderátor celé téma uzavřel.";
-$l['redirect_post_moderation'] = "Administrátor určil, že všechny úpravy příspěvků musí být schváleny moderátorem. Nyní budete přesměrován(a) do tématu.";
-$l['redirect_thread_moderation'] = "Administrátor určil, že všechny úpravy témat musí být schváleny moderátorem. Nyní budete přesměrován(a) na hlavní stránku fóra.";
+$l['redirect_post_moderation'] = "Administrátor(ka) určil(a), že všechny úpravy příspěvků musí být schváleny moderátorem. Nyní budete přesměrován(a) do tématu.";
+$l['redirect_thread_moderation'] = "Administrátor(ka) určil(a), že všechny úpravy témat musí být schváleny moderátorem. Nyní budete přesměrován(a) na hlavní stránku fóra.";
 $l['error_already_delete'] = "Tento příspěvek je již odstraněn.";
 
 $l['thread_deleted'] = "Trvale odstraněné téma";

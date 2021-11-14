@@ -69,7 +69,7 @@ $l['notice_mb4_warning'] = "Podpora 4-Byte UTF-8 vyžaduje MySQL 5.5.3 a vyšš�
 $l['check_templates'] = "Zkontrolovat šablony";
 $l['check_templates_desc'] = "Zkontroluje všechny nainstalované vzhledy pro známé bezpečnostní problémy.";
 $l['check_templates_title'] = "Kontrola zabezpečení šablony";
-$l['check_templates_info'] = "Tento proces zkontroluje všechny šablony proti bezpečnostním problémům, které by mohly ovlivnit fórum a server na kterém běží fórum. Pokud máš nainstalovaných mnoho vzhledů, tak tento proces bude chvíli trvat.
+$l['check_templates_info'] = "Tento proces zkontroluje všechny šablony proti bezpečnostním problémům, které by mohly ovlivnit fórum a server, na kterém běží fórum. Pokud máš nainstalovaných mnoho vzhledů, tak tento proces bude chvíli trvat.
 <br /><br />Pro zahájení kontroly stiskni tlačítko 'Pokračovat'.";
 $l['check_templates_info_desc'] = "Níže uvedené šablony odpovídají známým bezpečnostním problémům. Prosím, zkontroluj je.";
 $l['full_edit'] = "Full Edit";
