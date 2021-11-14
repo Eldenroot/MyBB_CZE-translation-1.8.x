@@ -53,7 +53,7 @@ $l['title'] = "Název";
 $l['points_to_add'] = "Přidat body";
 $l['points_to_add_desc'] = "Počet bodů, které chcete přidat na úroveň pro upozornění uživatelů.";
 $l['warning_expiry'] = "Vypršení varování";
-$l['warning_expiry_desc'] = "Jak dlouho poté, co tohle upozornění je uvedeno chcete, aby vypršelo?";
+$l['warning_expiry_desc'] = "Jak dlouho poté, co toto upozornění je uvedeno chcete, aby vypršelo?";
 $l['save_warning_type'] = "Uložit typ varování";
 
 $l['expiration_hours'] = "Hodina(y)";

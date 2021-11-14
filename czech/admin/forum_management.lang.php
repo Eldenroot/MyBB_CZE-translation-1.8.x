@@ -10,7 +10,7 @@
 $l['forum_management'] = "Správa fóra";
 $l['forum_management_desc'] = "Tato sekce umožňuje spravovat kategorie a fóra na hlavní straně. Můžete také spravovat oprávnění fóra a moderátory pro konkrétní fórum. Pokud změníte pořadí zobrazení pro jedno nebo více fór nebo kategorií, ujistěte se, že jste odeslali formulář v dolní části stránky.";
 $l['add_forum'] = "Přidat nové fórum";
-$l['add_forum_desc'] = "Zde můžete na nástěnku přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro tohle fórum.";
+$l['add_forum_desc'] = "Zde můžete na nástěnku přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro toto fórum.";
 $l['copy_forum'] = "Kopírovat fórum";
 $l['copy_forum_desc'] = "Zde můžete zkopírovat nastavení fóra nebo oprávnění z existujícího fóra do jiného nebo do nového fóra.";
 $l['forum_permissions'] = "Oprávnění";
@@ -106,17 +106,17 @@ $l['success_moderator_deleted'] = "Vybraný moderátor byl úspěšně smazán.<
 $l['success_forum_permissions_updated'] = "Oprávnění fóra byla úspěšně aktualizována.";
 $l['success_forum_updated'] = "Nastavení fóra bylo úspěšně aktualizováno.";
 $l['success_moderator_updated'] = "Vybraný moderátor byl úspěšně aktualizován.";
-$l['success_custom_permission_cleared'] = "Vlastní oprávnění pro tohle fórum byla úspěšně vymazána.";
+$l['success_custom_permission_cleared'] = "Vlastní oprávnění pro toto fórum byla úspěšně vymazána.";
 
 $l['error_invalid_forum'] = "Vyberte, prosím, platné fórum.";
 $l['error_invalid_moderator'] = "Vyberte, prosím, platného moderátora, kterého chcete smazat.";
 $l['error_invalid_fid'] = "Bylo vybráno nesprávné ID fóra.";
-$l['error_forum_parent_child'] = "Nemůžete nastavit tohle fórum jako nadřazené.";
+$l['error_forum_parent_child'] = "Nemůžete nastavit toto fórum jako nadřazené.";
 $l['error_forum_parent_itself'] = "Fórum nemůže být samostatně nadřazené.";
 $l['error_incorrect_moderator'] = "Prosím vyberte platného moderátora.";
 
 $l['confirm_moderator_deletion'] = "Jste si naprosto jistý, že chcete odstranit moderátora z tohoto fóra?";
-$l['confirm_forum_deletion'] = "Jste si jistý, že chcete odstranit tohle fórum?";
+$l['confirm_forum_deletion'] = "Jste si jistý, že chcete odstranit toto fórum?";
 $l['confirm_clear_custom_permission'] = "Jste si jistý, že chcete smazat vlastní oprávnění?";
 
 $l['forum_type'] = "Typ fóra";
@@ -126,7 +126,7 @@ $l['title'] = "Název";
 $l['description'] = "Popis";
 $l['save_forum'] = "Uložit";
 $l['parent_forum'] = "Nadřazené fórum";
-$l['parent_forum_desc'] = "Fórum, které obsahuje tohle fórum. Kategorie nemají nadřazené fórum - v tomto případě vyberte ' žádné '- Nicméně, kategorie mohou být specifikovány a mít nadřazené fórum.";
+$l['parent_forum_desc'] = "Fórum, které obsahuje toto fórum. Kategorie nemají nadřazené fórum - v tomto případě vyberte ' žádné '- Nicméně, kategorie mohou být specifikovány a mít nadřazené fórum.";
 $l['none'] = "Žádné";
 $l['display_order'] = "Zobrazit pořadí";
 
@@ -136,7 +136,7 @@ $l['additional_forum_options'] = "Další nastavení fóra";
 $l['forum_link'] = "Odkaz fóra";
 $l['forum_link_desc'] = "Chcete-li, fórum přesměrovat na jiné místo, zadejte adresu URL cíle, na který chcete přesměrovat. Po zadání adresy URL do tohoto pole se funkce fóra odstraní; oprávnění však lze stále nastavit.";
 $l['forum_password'] = "Heslo fóra";
-$l['forum_password_desc'] = "Chcete-li tohle fórum chránit i nadále, můžete zvolit heslo, které je nutné zadat pro přístup. Poznámka: skupiny uživatelů stále potřebují oprávnění pro přístup k tomuto fóru.";
+$l['forum_password_desc'] = "Chcete-li toto fórum chránit i nadále, můžete zvolit heslo, které je nutné zadat pro přístup. Poznámka: skupiny uživatelů stále potřebují oprávnění pro přístup k tomuto fóru.";
 $l['access_options'] = "Nastavení přístupu";
 $l['forum_is_active'] = "Je fórum aktivní?";
 $l['forum_is_active_desc'] = "Poud není nic vybráno, nebude se fórum zobrazovat.";
@@ -211,7 +211,7 @@ $l['allow_img_code'] = "Ano, povolit [img] kód v příspěvcích (vyžaduje pov
 $l['allow_video_code'] = "Ano, povolit [video] kód v příspěvcích (vyžaduje povolené MyCode)";
 $l['allow_post_icons'] = "Ano, povolit ikony příspěvků z výběru ikon";
 $l['allow_thread_ratings'] = "Ano, povolit hodnocení témat";
-$l['show_forum_jump'] = "Ano, zobrazot tohle fórum v 'jump forum' v menu";
+$l['show_forum_jump'] = "Ano, zobrazot toto fórum v 'jump forum' v menu";
 $l['use_postcounts'] = "Ano, fórum může počítat příspěvky jednotivých uživatelů";
 $l['use_threadcounts'] = "Ano, fórum může počítat témata jednotlivých uživatelů";
 $l['require_thread_prefix'] = "Ano, požaduji předponu všech témat";
@@ -233,8 +233,8 @@ $l['error_not_empty'] = "Fórum s tématy nemůže být zkopírováno do kategor
 $l['error_forum_link_not_empty'] = "Forum s tématy nemůže být přesunuto na jinou adresu.";
 
 $l['success_forum_added'] = "Fórum bylo úspěeně vytvořeno.";
-$l['success_moderator_added'] = "Moderátor byl pro tohle fórum nastaven úspěšně.";
-$l['success_forum_permissions_saved'] = "Práva pro tohle fórum byla úspěšně uložena.";
+$l['success_moderator_added'] = "Moderátor byl pro toto fórum nastaven úspěšně.";
+$l['success_forum_permissions_saved'] = "Práva pro toto fórum byla úspěšně uložena.";
 $l['success_forum_copied'] = "Zvolené fórum bylo úspěšně uloženo.";
 
 $l['error_moderator_already_added'] = "Zvolený uživatel/skupina uživatelů již je moderátorem.";

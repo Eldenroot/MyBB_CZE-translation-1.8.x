@@ -27,7 +27,7 @@ $l['report_reason_other'] = "Ostatní";
 $l['success_report_voted'] = "Děkujeme, že udržujete pořádek na fóru.<br />Moderátoři se tím budou brzy zabývat.";
 
 $l['error_report_length'] = "Uveďte, prosím, důvod vašeho nahlášení.";
-$l['error_invalid_report'] = "Tohle {1} buď neexistuje nebo jej nelze nahlásit.";
+$l['error_invalid_report'] = "Toto {1} buď neexistuje nebo jej nelze nahlásit.";
 $l['error_invalid_report_reason'] = "Uvedený důvod je neplatný.";
 $l['error_comment_required'] = "Je vyžadován komentář pro zvolený důvod.";
 $l['error_report_duplicate'] = "Tento příspěvek již byl ohlášen jiným členem fóra.<br />Mužete jej také níže nahlásit.";

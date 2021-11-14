@@ -346,7 +346,7 @@ Pokud již nechcete dostávat žádná oznámení o odpovědích z tohoto témat
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
 
-Tohle je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
+Toto je automatický e-mail z {2}, kterým Vás informujeme, že kapacita Vaší složky došlých soukromých zpráv byla vyčerpána.
 
 Nejméně jeden uživatel se Vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
@@ -470,7 +470,7 @@ Zpráva:
 $l['pmsubject_subscription'] = "Nová odpověď na {1}";
 $l['pm_subscription'] = "{1},
 
-{2} právě odpověděl na téma, které odebíráte. Tohle téma se nazývá: {3}.
+{2} právě odpověděl na téma, které odebíráte. Toto téma se nazývá: {3}.
 
 Zde je část textu:
 ------------------------------------------
@@ -480,7 +480,7 @@ Zde je část textu:
 Pro zobrazení tématu klikněte na následující odkaz:
 [url]{5}/{6}[/url]
 
-Na tohle téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte téma.
+Na toto téma mohou existovat ještě další odpovědi. Upozornění na ně budete dostávat, až když znovu navštívíte téma.
 
 ------------------------------------------
 Odhlášení odběru:
