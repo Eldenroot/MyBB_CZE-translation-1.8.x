@@ -200,7 +200,7 @@ $l['admin_lift_ban_in_acp'] = "Zrušit ban v Administraci";
 $l['admin_edit_ban_in_acp'] = "Upravit ban v Administraci";
 $l['admin_options'] = "Nastavení administrátora";
 
-$l['redirect_registered_activation'] = "Děkujeme za registraci do fóra {1}, {2}.<p>Pro dokončení registrace jděte do své e-mailové schránky a přečtěte si došlý e-mail s aktivačními instrukcemi. Dokud je nesplníte, nebude Váš účet aktivován a do fóra se nebudete moci přihlásit.";
+$l['redirect_registered_activation'] = "Děkujeme za registraci do fóra {1}, {2}.<p>Pro dokončení registrace jděte do své e-mailové schránky a přečtěte si přijatý e-mail s aktivačními instrukcemi. Dokud je nesplníte, nebude Váš účet aktivován a do fóra se nebudete moci přihlásit.";
 $l['redirect_emailupdated'] = "Vaše e-mailová adresa byla úspěšně změněna.<br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_accountactivated'] = "Váš účet byl úspěšně aktivován.<br />Nyní budete přesměrováni na hlavní stránku.";
 $l['redirect_accountactivated_admin'] = "Vaše e-mailová adresa byla úspěšně ověřena.<br />Vaše registrace musí být aktivována administrátorem. Do té doby se do fóra nemůžete přispívat.<br />Nyní budete přesměrováni na hlavní stránku.";
@@ -218,7 +218,7 @@ $l['redirect_validated'] = "Váš účet byl ověřen.<br />Nyní budete přesm�
 $l['error_activated_by_admin'] = "Aktivační e-mail nelze poslat znovu, protože registrace musí být schválena administrátorem.";
 $l['error_alreadyregistered'] = "Naše záznamy ukazují, že jste se v tomto fóru již zaregistroval(a). Vícenásobné registrace nejsou povoleny.";
 $l['error_alreadyregisteredtime'] = "V registraci nelze pokračovat, neboť z Vaší IP adresy již bylo za období posledních {2} hodin učiněno {1} nových registrací. Zkuste to, prosím, později.";
-$l['error_badlostpwcode'] = "Zadal(a) jste chybný resetovací kód. Prosím, přečtěte si ještě jednou došlý e-mail, nebo kontaktujte administrátora s prosbou o další pomoc.";
+$l['error_badlostpwcode'] = "Zadal(a) jste chybný resetovací kód. Prosím, přečtěte si ještě jednou přijatý e-mail, nebo kontaktujte administrátora s prosbou o další pomoc.";
 $l['error_badactivationcode'] = "Zadal(a) jste chybný aktivační kód. Pro další odeslání aktivačního e-mailu klikněte <a href=\"member.php?action=resendactivation\">zde</a>.";
 $l['error_alreadyactivated'] = "Váš účet byl již aktivován nebo nepotřebuje e-mailovou verifikaci.";
 $l['error_alreadyvalidated'] = "Váš e-mail již byl ověřen.";
@@ -239,7 +239,7 @@ $l['js_validator_password_matches'] = "Zadané heslo musí souhlasit.";
 $l['js_validator_password_complexity'] = "Zjišťuji složitost hesla.";
 $l['js_validator_password_length'] = "Vaše heslo musí být dlouhé {1} nebo více znaků.";
 $l['js_validator_not_empty'] = "Je nutné pro toto pole vybrat nebo vložit údaj.";
-$l['js_validator_bad_password_security'] = 'Heslo, které si zadal je podobné tvé přezdívce nebo e-mailové adrese. Prosím, zadej silnější heslo.';
+$l['js_validator_bad_password_security'] = 'Heslo, které jsi zadal, je podobné tvé přezdívce nebo e-mailové adrese. Prosím, zadej silnější heslo.';
 $l['js_validator_checking_username'] = "Zjišťuji, zda je uživatelské jméno volné.";
 $l['js_validator_username_length'] = "Uživatelské jméno musí být dlouhé {1} až {2} znaků.";
 $l['js_validator_checking_referrer'] = "Zjišťuji, zda doporučující uživatel existuje.";
