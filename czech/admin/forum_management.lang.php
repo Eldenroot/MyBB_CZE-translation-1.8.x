@@ -10,7 +10,7 @@
 $l['forum_management'] = "Správa fóra";
 $l['forum_management_desc'] = "Tato sekce umožňuje spravovat kategorie a fóra na hlavní straně. Můžete také spravovat oprávnění fóra a moderátory pro konkrétní fórum. Pokud změníte pořadí zobrazení pro jedno nebo více fór nebo kategorií, ujistěte se, že jste odeslali formulář v dolní části stránky.";
 $l['add_forum'] = "Přidat nové fórum";
-$l['add_forum_desc'] = "Zde můžete na nástěnku přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro toto fórum.";
+$l['add_forum_desc'] = "Zde můžete do fóra přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro toto fórum.";
 $l['copy_forum'] = "Kopírovat fórum";
 $l['copy_forum_desc'] = "Zde můžete zkopírovat nastavení fóra nebo oprávnění z existujícího fóra do jiného nebo do nového fóra.";
 $l['forum_permissions'] = "Oprávnění";
@@ -70,17 +70,17 @@ $l['moderator_permissions'] = "Oprávnění moderátorů";
 $l['forum_desc'] = "Moderátor spravuje fórum.";
 $l['edit_mod_for'] = "Změnit moderátorské možnosti pro \"{1}\"";
 $l['can_edit_posts'] = "Může editovat příspěvky?";
-$l['can_soft_delete_posts'] = "Může odstranit příspěvky?";
-$l['can_restore_posts'] = "Může vrátit odstraněné příspěvky?";
+$l['can_soft_delete_posts'] = "Může smazat příspěvky?";
+$l['can_restore_posts'] = "Může vrátit smazané příspěvky?";
 $l['can_delete_posts'] = "Může smazat příspěvky trvale?";
 $l['can_soft_delete_threads'] = "Může smazat témata?";
-$l['can_restore_threads'] = "Může vrátit odstraněná témata?";
+$l['can_restore_threads'] = "Může vrátit smazaná témata?";
 $l['can_delete_threads'] = "Může smazat témata trvale?";
 $l['can_view_ips'] = "Může vidět IP adresy?";
 $l['can_view_unapprove'] = "Můžete zobrazit neschválená témata a příspěvky?";
 $l['can_view_deleted'] = "Může vidět smazané příspěvky a témata?";
 $l['can_open_close_threads'] = "Může otevírat/zavírat témata?";
-$l['can_stick_unstick_threads'] = "Může připojit/odpojit témata?";
+$l['can_stick_unstick_threads'] = "Může připínat/odepínat témata?";
 $l['can_approve_unapprove_threads'] = "Může schválit/neschválit témata?";
 $l['can_approve_unapprove_posts'] = "Může schválit/neschválit příspěvky?";
 $l['can_approve_unapprove_attachments'] = "Může schválit/odstranit přílohy?";
@@ -180,7 +180,7 @@ $l['default_date_cut'] = "Výchozí řazení data:";
 $l['default_sort_by'] = "Výchozí řazení:";
 $l['default_sort_order'] = "Výchozí seřazení:";
 
-$l['board_default'] = "Výchozí nástěnka";
+$l['board_default'] = "Výchozí nastavení fóra";
 
 $l['datelimit_1day'] = "Poslední den";
 $l['datelimit_5days'] = "Posledních 5 dní";
@@ -217,7 +217,7 @@ $l['use_threadcounts'] = "Ano, fórum může počítat témata jednotlivých už
 $l['require_thread_prefix'] = "Ano, požaduji předponu všech témat";
 
 $l['use_permissions'] = "Použít oprávnění";
-$l['use_permissions_desc'] = "Vyberte oprávnění, která chcete použít pro tuto skupinu uživatelů- zkopírovaná oprávnění (odstraní vlastní oprávnění) nebo vlastní oprávnění.";
+$l['use_permissions_desc'] = "Vyberte oprávnění, která chcete použít pro tuto skupinu uživatelů – zkopírovaná oprávnění (smaže vlastní oprávnění), nebo vlastní oprávnění.";
 $l['inherit_permissions'] = "Použít oprávnění skupiny uživatelů nebo kopírovat oprávnění z nadřazených fór";
 $l['custom_permissions'] = "Použít vlastní oprávnění";
 $l['custom_permissions_for'] = "Vlastní oprávnění pro";
@@ -262,8 +262,8 @@ $l['posting_rating_field_canpostattachments'] = "Může zaslat přílohu?";
 $l['posting_rating_field_canratethreads'] = "Může hodnotit téma?";
 
 $l['editing_field_caneditposts'] = "Může upravit vlastní příspěvek?";
-$l['editing_field_candeleteposts'] = "Může odstranit vlastní příspěvek?";
-$l['editing_field_candeletethreads'] = "Může odstranit vlastní téma?";
+$l['editing_field_candeleteposts'] = "Může smazat vlastní příspěvek?";
+$l['editing_field_candeletethreads'] = "Může smazat vlastní téma?";
 $l['editing_field_caneditattachments'] = "Může upravit vlastní přílohy?";
 $l['editing_field_canviewdeletionnotice'] = "Může vidět smazané poznámky?";
 

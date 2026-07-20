@@ -8,7 +8,7 @@
  */
 
 $l['mod_logs'] = "Logy moderátorů";
-$l['mod_logs_desc'] = "Tady můžete prohlížet, mazat a prohledávat logy moderátorů. Tyto logy obsahují akce, které může provádět jakýkoliv uživatel (odstranení svých vlastních příspěvků/témat) a všechny ostatní akce moderátorů.";
+$l['mod_logs_desc'] = "Tady můžete prohlížet, mazat a prohledávat logy moderátorů. Tyto logy obsahují akce, které může provádět jakýkoliv uživatel (smazání svých vlastních příspěvků/témat) a všechny ostatní akce moderátorů.";
 $l['prune_mod_logs'] = "Vyčistit logy moderátorů";
 $l['prune_mod_logs_desc'] = "Zde můžete vyčistit logy moderátorů odpovídající zadaným kritériím.";
 

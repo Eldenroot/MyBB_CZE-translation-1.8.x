@@ -45,7 +45,7 @@ Pokračujte, prosím, na
 
 {3}
 
-Kde se budete moct přihlásit pomocí přezdívky a hesla, které jste si zvolili při registraci.
+Kde se budete moct přihlásit pomocí uživatelského jména a hesla, které jste si zvolili při registraci.
 
 Budeme se těšit na vaši návštěvu
 Vedení fóra {2}";

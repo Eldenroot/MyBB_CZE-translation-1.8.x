@@ -31,7 +31,7 @@ $l['error_does_not_exist'] = "Téma nebo příspěvek pro tuto přílohu již ne
 
 // Success
 $l['success_deleted'] = "Zvolené přílohy byly úspěšně vymazány.";
-$l['success_orphan_deleted'] = "Vybrané nepřiřazené přílohy byly úspěšně odstraněny.";
+$l['success_orphan_deleted'] = "Vybrané nepřiřazené přílohy byly úspěšně smazány.";
 $l['success_count'] = '{1} příloh bylo úspěšně odebráno.';
 $l['success_no_orphans'] = "Na vašem fóru nejsou žádné nepřiřazené přílohy.";
 

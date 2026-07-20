@@ -55,7 +55,7 @@ $l['error_invalidusername'] = "Zadané uživatelské jméno není platné.";
 $l['error_invalidpassword'] = "Zadané heslo je chybné. Pokud jste heslo zapomněli, klikněte <a href=\"member.php?action=lostpw\">zde</a> nebo se vraťte zpět a zkuste to znovu.";
 $l['error_postflooding'] = "Váš příspěvek nelze publikovat. Administrátor určil, že je možné publikovat pouze jednou za každých {1} sekund.";
 $l['error_nopermission_guest_1'] = "Buď nejste přihlášeni, nebo nemáte oprávnění ke shlédnutí této stránky. Může to být z několika následujících důvodů:";
-$l['error_nopermission_guest_2'] = "nejste přihlášeni, nebo registrováni. Prosím, přihlaste se a akci opakujte.";
+$l['error_nopermission_guest_2'] = "Nejste přihlášeni nebo registrováni. Prosím, přihlaste se a akci opakujte.";
 $l['error_nopermission_guest_3'] = "Nemáte přístupové oprávnění k této stránce. Pokoušíte se shlédnout něco, co byste neměli? Podívejte se na pravidla fóra, zda k této akci máte oprávnění.";
 $l['error_nopermission_guest_4'] = "Váš účet mohl být zablokován administrátorem, nebo váš uživatelský účet ještě není aktivní.";
 $l['error_nopermission_guest_5'] = "Snažíte se o přímý přístup na tuto stránku, což lze jen z patřičných formulářů či odkazů.";
@@ -350,7 +350,7 @@ Toto je automatický e-mail z {2}, kterým vás informujeme, že kapacita vaší
 
 Nejméně jeden uživatel se vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
-Náprava je snadná odstraňte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
+Náprava je snadná – smažte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
 
 Děkujeme
 Vedení fóra {2}

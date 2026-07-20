@@ -48,7 +48,7 @@ právě vám bylo uděleno varování od vedení fóra {2}.
 
 --";
 $l['send_pm_options'] = "Možnosti:";
-$l['send_pm_options_anonymous'] = "<strong>Anonymní SZ</strong>: poslat tuto SZ jako anonym.";
+$l['send_pm_options_anonymous'] = "<strong>Anonymní zpráva</strong>: poslat tuto soukromou zprávu anonymně.";
 $l['expiration_never'] = "trvale";
 $l['expiration_hours'] = "hodin(y)";
 $l['expiration_days'] = "dny(ů)";
@@ -57,7 +57,7 @@ $l['expiration_months'] = "měsíce(ů)";
 $l['redirect_warned_banned'] = "<br /><br />Tento uživatel byl také přidán do skupiny {1}, protože {2}.";
 $l['redirect_warned_suspended'] = "<br /><br />Uživatelova oprávnění k publikaci byla pozastavena, protože {1}.";
 $l['redirect_warned_moderate'] = "<br /><br />Všechny příspěvky uživatele nyní budou moderovány, protože {1}.";
-$l['redirect_warned_pmerror'] = "<br /><br />SZ nebyla odeslána.";
+$l['redirect_warned_pmerror'] = "<br /><br />Soukromá zpráva nebyla odeslána.";
 $l['redirect_warned'] = "Úroveň varování {1} byla zvýšena na {2}%.{3}<br /><br />Nyní budete přesměrováni zpět, odkud jste přišli.";
 $l['error_warning_system_disabled'] = "Nemůžete použít systém varování, protože ho Administrátor fóra zakázal.";
 $l['error_cant_warn_group'] = "Nemáte oprávnění varovat uživatele z této skupiny.";

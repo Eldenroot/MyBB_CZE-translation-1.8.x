@@ -26,7 +26,7 @@ $l['activate'] = "Aktivovat";
 $l['install_and_activate'] = "Nainstalovat &amp; aktivovat";
 $l['uninstall'] = "Odinstalovat";
 $l['created_by'] = "Vytvořeno uživatelem";
-$l['no_plugins'] = "V tuto chvíli nemáš žádné nainstalované pluginy.";
+$l['no_plugins'] = "V tuto chvíli nemáte žádné nainstalované pluginy.";
 $l['no_active_plugins'] = "V tuto chvíli nemáte žádné povolené/aktivované pluginy.";
 $l['no_inactive_plugins'] = "V tuto zde nejsou žádné zakázané pluginy.";
 

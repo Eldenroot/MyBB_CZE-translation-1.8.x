@@ -18,7 +18,7 @@ $l['users'] = "Uživatelé";
 $l['threads'] = "Témata";
 $l['posts'] = "Příspěvky";
 
-$l['from'] = "od";
+$l['from'] = "Od";
 $l['to'] = "do";
 
 $l['increase'] = "Zvýšit";

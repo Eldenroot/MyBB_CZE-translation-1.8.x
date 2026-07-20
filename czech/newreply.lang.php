@@ -22,7 +22,7 @@ $l['post_reply'] = "Odeslat příspěvek";
 $l['preview_post'] = "Náhled příspěvku";
 $l['mod_options'] = "Možnosti moderátora:";
 $l['close_thread'] = "<strong>Uzavřít téma:</strong> znemožňuje publikaci dalších příspěvků do tématu.";
-$l['stick_thread'] = "<strong>Přilepit téma:</strong> toto téma bude přilepeno na začátek fóra.";
+$l['stick_thread'] = "<strong>Připnout téma:</strong> toto téma bude připnuto na začátek fóra.";
 $l['forum_rules'] = "{1} - Pravidla";
 $l['thread_review'] = "Náhled témat (nejdříve nové)";
 $l['thread_review_more'] = "Toto téma má více než {1} příspěvků. <a href=\"{2}\" target=\"_blank\">Přečíst celé téma.</a>";

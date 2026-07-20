@@ -13,5 +13,5 @@ $l['forum_announcement'] = "Oznámení fóra: {1}";
 $l['error_invalidannouncement'] = "Uvedené oznámení je neplatné.";
 
 $l['announcement_edit'] = "Upravit toto oznámení";
-$l['announcement_qdelete'] = "Odstranit toto oznámení";
-$l['announcement_quickdelete_confirm'] = "Opravdu chcete odstranit toto oznámení?";
+$l['announcement_qdelete'] = "Smazat toto oznámení";
+$l['announcement_quickdelete_confirm'] = "Opravdu chcete smazat toto oznámení?";

@@ -33,7 +33,7 @@ $l['yesno'] = "Volba Ano / Ne";
 $l['onoff'] = "Vypnuto / Zapnuto volba";
 $l['select'] = "Pole pro výběr";
 $l['radio'] = "Přepínač";
-$l['checkbox'] = "Checkboxy";
+$l['checkbox'] = "Zaškrtávací políčka";
 $l['language_selection_box'] = "Výběr jazyka";
 $l['forum_selection_box'] = "Výběr fóra";
 $l['forum_selection_single'] = "Výběr jednotlivého fóra";
@@ -44,7 +44,7 @@ $l['cpstyle'] = "Výběr kontrolního panelu";
 $l['php'] = "Hodnocení PHP";
 $l['type'] = "Typ";
 $l['extra'] = "Extra";
-$l['extra_desc'] = "Pokud je nastaveno zvolení, přepínač nebo checkbox, musí být vše řádně spárováno (klíč = položka). Jednotlivé položky zadávejte na jednotlivý řádek.";
+$l['extra_desc'] = "Pokud je nastaven výběr, přepínač nebo zaškrtávací políčko, musí být vše řádně spárováno (klíč = položka). Jednotlivé položky zadávejte na jednotlivý řádek.";
 $l['value'] = "Hodnota";
 $l['insert_new_setting'] = "Vložit nové nastavení";
 $l['edit_setting'] = "Upravit nastavení";
@@ -103,8 +103,8 @@ $l['success_settings_updated_captchaimage'] = '<div class="smalltext" style="fon
 $l['success_display_orders_updated'] = "Pořadí zobrazení nastavení bylo úspěšně aktualizováno.";
 $l['success_setting_group_added'] = "Skupina nastavení byla úspěšně vytvořena.";
 $l['success_setting_group_updated'] = "Skupina nastavení byla úspěšně aktualizována.";
-$l['success_setting_group_deleted'] = "Vybraná skupina nastavení byla úspěšně odstraněna.";
-$l['success_duplicate_settings_deleted'] = "Všechny skupiny nastavení duplicit byly úspěšně odstraněny.";
+$l['success_setting_group_deleted'] = "Vybraná skupina nastavení byla úspěšně smazána.";
+$l['success_duplicate_settings_deleted'] = "Všechny skupiny nastavení duplicit byly úspěšně smazány.";
 
 $l['searching'] = 'Hledám…';
 $l['search_error'] = 'Nastala chyba při načítání výsledků vyhledávání:';

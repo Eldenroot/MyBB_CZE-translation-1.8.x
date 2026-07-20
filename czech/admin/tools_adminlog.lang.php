@@ -47,11 +47,11 @@ $l['admin_log_config_badwords_edit'] = "Upravil filtr sprostých slov #{1} ({2})
 $l['admin_log_config_badwords_delete'] = "Smazal filtr sprostých slov #{1} ({2})";
 
 $l['admin_log_config_banning_add_ip'] = "Přidal IP ban #{1} ({2})";
-$l['admin_log_config_banning_add_username'] = "Přidal nepovolenou přezdívku #{1} ({2})";
+$l['admin_log_config_banning_add_username'] = "Přidal nepovolené uživatelské jméno #{1} ({2})";
 $l['admin_log_config_banning_add_email'] = "Přidal disallowed e-mail #{1} ({2})";
-$l['admin_log_config_banning_delete_ip'] = "Smazal IP ban #{1} ({2})";
-$l['admin_log_config_banning_delete_username'] = "Smazal nepovolenou přezdívku #{1} ({2})";
-$l['admin_log_config_banning_delete_email'] = "Smazal nepovolenou přezdívku #{1} ({2})";
+$l['admin_log_config_banning_delete_ip'] = "Odstranil zablokování IP adresy #{1} ({2})";
+$l['admin_log_config_banning_delete_username'] = "Odstranil nepovolené uživatelské jméno #{1} ({2})";
+$l['admin_log_config_banning_delete_email'] = "Odstranil nepovolenou e-mailovou adresu #{1} ({2})";
 
 $l['admin_log_config_calendars_add'] = "Přidal kalendář #{1} ({2})";
 $l['admin_log_config_calendars_permissions'] = "Upravil oprávnění pro kalendář #{1} ({2})";

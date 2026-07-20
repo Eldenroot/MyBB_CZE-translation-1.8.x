@@ -11,7 +11,7 @@ $l['themes'] = "Vzhledy";
 $l['themes_desc'] = "V této části můžete spravovat vzhledy, které můžete vytvořit, případně naimportovat. Také si můžete přizpůsobit vzhledy pro vaše fórum. Seznam vzhledů, které máte nainstalované najdete níže.";
 
 $l['create_new_theme'] = "Vytvořit nový vzhled";
-$l['create_new_theme_desc'] = "Zde můžete vytvořit skin, který bude založen na výchozím vzhledu MyBB.<strong>Template sets, stylesheets, and other settings are inherited from the parent theme.</strong>";
+$l['create_new_theme_desc'] = "Zde můžete vytvořit nový motiv založený na výchozím vzhledu MyBB. <strong>Sady šablon, styly a další nastavení se dědí z nadřazeného motivu.</strong>";
 
 $l['import_a_theme'] = "Import nového vzhledu";
 $l['import_a_theme_desc'] = "Zde můžete naimportovat nový vzhled. Vzhled můžete naimportovat ze svého počítače případně přes vzdálenou adresu URL.";
@@ -61,7 +61,7 @@ $l['delete_theme'] = "Smazat vzhled";
 $l['set_as_default'] = "Nastavit jako výchozí";
 $l['default_theme'] = "Výchozí vzhled";
 $l['force_on_users'] = "Nastavit všem uživatelům";
-$l['delete_revert'] = "Odstranit / Vrátit";
+$l['delete_revert'] = "Smazat / Vrátit";
 
 $l['local_file'] = "Místní soubor";
 $l['url'] = "URL";
@@ -192,7 +192,7 @@ $l['error_invalid_parent_theme'] = "Vybraný nadřazený motiv neexistuje. Vyber
 $l['error_invalid_templateset'] = "Vybraná sada šablon neexistuje. Vyberte platnou sadu šablon.";
 $l['error_invalid_color'] = "Definovaná množina barev \"{1}\" obsahuje neplatný znak nebo neplatí v předepsaném formátu. Jsou povoleny pouze alfanumerické znaky pro názvy oddělené znakem '='.";
 $l['error_invalid_editortheme'] = "Vybraný motiv editoru neexistuje. Vyberte platný motiv editoru.";
-$l['error_inheriting_stylesheets'] = "Tento motiv nelze odstranit, protože stále existují další motivy, které z něj kopírují styly.";
+$l['error_inheriting_stylesheets'] = "Tento motiv nelze smazat, protože stále existují další motivy, které z něj kopírují styly.";
 $l['error_cannot_parse'] = "MyBB nelze analyzovat tento styl pro jednoduchý editor. Lze jej upravovat pouze v rozšířeném režimu.";
 $l['error_communication_problem'] = "Při komunikaci se serverem MyBB Vzhledy došlo k potížím. Zkuste to prosím za pár minut.";
 $l['error_no_results_found'] = "Žádné výsledky pro zadaná klíčová slova.";
@@ -202,18 +202,18 @@ $l['error_no_display_order'] = "Při hledání seznamu stylů došlo k chybě. A
 $l['success_duplicated_theme'] = "Vybraný motiv byl úspěšně duplikován.";
 $l['success_imported_theme'] = "Vybraný motiv byl úspěšně importován.";
 $l['success_theme_created'] = "Motiv byl úspěšně vytvořen.";
-$l['success_theme_deleted'] = "Vybraný motiv byl úspěšně odstraněn.";
+$l['success_theme_deleted'] = "Vybraný motiv byl úspěšně smazán.";
 $l['success_stylesheet_properties_updated'] = "Vlastnosti stylů byly úspěšně aktualizovány.";
 $l['success_stylesheet_updated'] = "Vybrané styly byly úspěšně aktualizovány.";
-$l['success_stylesheet_deleted'] = "vybrané styly byly úspěšně odstraněny/obnoveny.";
+$l['success_stylesheet_deleted'] = "Vybrané styly byly úspěšně smazány/obnoveny.";
 $l['success_theme_set_default'] = "Vybraný motiv je nyní výchozím fórem.";
 $l['success_theme_forced'] = "Všichni uživatelé musejí použít vybraný vzhled.";
 $l['success_theme_properties_updated'] = "Vlastnosti pro vybraný motiv byly úspěšně aktualizovány.";
 $l['success_stylesheet_added'] = "Styly pro tento motiv byly úspěšně vytvořeny.";
 $l['success_stylesheet_order_updated'] = "Seznamy stylů byly úspěšně aktualizovány.";
 
-$l['confirm_theme_deletion'] = "Opravdu chcete odstranit tento motiv?";
-$l['confirm_stylesheet_deletion'] = "Opravdu chcete odstranit/vrátit tyto styly?";
+$l['confirm_theme_deletion'] = "Opravdu chcete smazat tento motiv?";
+$l['confirm_stylesheet_deletion'] = "Opravdu chcete smazat/vrátit tyto styly?";
 $l['confirm_theme_forced'] = "Opravdu chcete tento motiv vynutit u všech uživatelů?";
 
 $l['theme_info_fetch_error'] = 'Při načítání informací o stylu došlo k chybě.';

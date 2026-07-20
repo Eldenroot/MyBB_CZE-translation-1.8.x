@@ -12,10 +12,10 @@ $l['nav_editpoll'] = "Upravit anketu";
 $l['nav_pollresults'] = "Výsledky ankety";
 
 $l['edit_poll'] = "Upravit anketu";
-$l['delete_poll'] = "Odstranit anketu";
-$l['delete_q'] = "Odstranit?";
-$l['delete_note'] = "Pro odstranění ankety zaškrtněte checkbox vlevo a klikněte na tlačítko vpravo.";
-$l['delete_note2'] = "<b>Poznámka:</b> Jakmile odstraníte anketa, nebude ho již možné nijak obnovit.";
+$l['delete_poll'] = "Smazat anketu";
+$l['delete_q'] = "Smazat?";
+$l['delete_note'] = "Pro smazání ankety zaškrtněte políčko vlevo a klikněte na tlačítko vpravo.";
+$l['delete_note2'] = "<b>Poznámka:</b> Jakmile anketu smažete, nebude ji již možné nijak obnovit.";
 $l['question'] = "Otázka:";
 $l['num_options'] = "Počet možností:";
 $l['max_options'] = "Maximum:";
@@ -57,6 +57,6 @@ $l['error_invalidpoll'] = "Zadaná anketa neexistuje, nebo je chybná.";
 $l['error_pollclosed'] = "Nelze hlasovat v anketě, která je uzavřená.";
 $l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor nastavil možnost vkládání anket pouze během {1} hodin po založení tématu.";
 
-$l['poll_deleted'] = "Odstraněná anketa";
+$l['poll_deleted'] = "Smazaná anketa";
 $l['poll_edited'] = "Upravená anketa";
 $l['error_polloptionsequence'] = "Jedna nebo více zadaných možností ankety obsahují sekvenci, která by se v nich neměla používat: <strong>||~|~||</strong>. Vraťte se zpět a odstraňte ji.";

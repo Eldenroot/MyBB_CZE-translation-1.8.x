@@ -19,7 +19,7 @@ $l['group_management'] = "Správa skupin";
 $l['members_of'] = "Členové v \"{1}\"";
 $l['user_name'] = "Uživatelské jméno";
 $l['contact'] = "Kontakt";
-$l['reg_date'] = "registrováni";
+$l['reg_date'] = "Registrováni";
 $l['post_count'] = "Příspěvků";
 $l['remove_selected'] = "Odstranit vybrané uživatele ze skupiny";
 $l['add_member'] = "Přidat člena do \"{1}\"";
@@ -53,12 +53,12 @@ $l['error_alreadyinvited'] = "Daný uživatel již byl pozván.";
 
 $l['user_invited'] = "Uživatel byl pozván k připojení do skupiny.";
 $l['invite_pm_subject'] = "Byli jste pozváni do skupiny „{1}“";
-$l['invite_pm_message'] = "dostali jste pozvánku k připojení do skupiny \"{1}\".
+$l['invite_pm_message'] = "Dostali jste pozvánku k připojení do skupiny \"{1}\".
 
 Pro přidání do skupiny, prosím, navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
 
 Toto pozvání má neomezenou platnost.";
-$l['invite_pm_message_expires'] = "obdrželi jste pozvánku k připojení do skupiny \"{1}\".
+$l['invite_pm_message_expires'] = "Obdrželi jste pozvánku k připojení do skupiny \"{1}\".
 
 Pro přidání se do skupiny, prosím, navštivte stránku [url={2}/usercp.php?action=usergroups]Členství ve skupině[/url] a klikněte na 'Schválit'.
 

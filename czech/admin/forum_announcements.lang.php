@@ -7,7 +7,7 @@
  * Issues and pull request belongs to the https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/
  */
 $l['forum_announcements'] = "Oznámení fóra";
-$l['forum_announcements_desc'] = "Zde můžete spravovat oznámení fóra. Globální oznámení jsou zobrazena ve všech tématech.  are shown in all forums, whereas ones set for individual forums are shown in that forum and all child forums.";
+$l['forum_announcements_desc'] = "Zde můžete spravovat oznámení fóra. Globální oznámení se zobrazují ve všech fórech, zatímco oznámení nastavená pro jednotlivá fóra se zobrazují jen v daném fóru a ve všech jeho podfórech.";
 $l['add_announcement'] = "Přidat oznámení";
 $l['add_announcement_desc'] = "Zde můžete spravovat oznámení pro fórum nebo pro všechna fóra.";
 $l['update_announcement'] = "Uložit oznámení";

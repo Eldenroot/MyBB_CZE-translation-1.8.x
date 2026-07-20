@@ -16,7 +16,7 @@ $l['ban_a_user_desc'] = "Zde můžete udělit uživateli ban.";
 $l['edit_ban'] = "Upravit ban";
 $l['edit_ban_desc'] = "Zde můžete upravit důvod zabanování a také délku trvání banů.";
 $l['banned_ips'] = "Zabanované IP adresy";
-$l['disallowed_usernames'] = "Nepovolené/zakázáné přezdívky";
+$l['disallowed_usernames'] = "Nepovolená uživatelská jména";
 $l['disallowed_email_addresses'] = "Nepovolené/zakázáné e-mailové adresy";
 
 // Errors

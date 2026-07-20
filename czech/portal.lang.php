@@ -48,6 +48,6 @@ $l['online_user'] = "Jeden online uživatel";
 $l['online_users'] = "Nyní je <b>{1}</b> online uživatelů.";
 $l['online_counts'] = "<b>{1}</b> registrovaných uživatelů | <b>{2}</b> návštěvníků";
 $l['print_this_item'] = "Vytisknout tento příspěvek";
-$l['send_to_friend'] = "Sdílet tento příspěvek kamarádovi";
+$l['send_to_friend'] = "Poslat příteli";
 $l['latest_announcements'] = "Nejnovější oznámení";
 $l['portal_disabled'] = "Portál není možné použít, protože byl zakázán administrátorem.";

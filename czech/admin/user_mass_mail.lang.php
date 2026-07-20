@@ -109,12 +109,12 @@ $l['error_missing_plain_text'] = "Nezadal jste verzi této zprávy ve formátu p
 $l['error_missing_subject'] = "Nezadal jste předmět pro tuto hromadnou korespondenci.";
 $l['error_missing_message'] = "Nezadal jste zprávu, kterou chcete odeslat.";
 $l['error_missing_html'] = "Nezadal jste HTML verzi této zprávy.";
-$l['error_delete_invalid_mid'] = "Vybral jste neplatnou hromadnou korespondenci, kterou chcete odstranit.";
+$l['error_delete_invalid_mid'] = "Vybral jste neplatnou hromadnou korespondenci, kterou chcete smazat.";
 
 $l['success_mass_mail_saved'] = "Hromadný e-mail byl úspěšně uložena.";
-$l['success_mass_mail_deleted'] = "Vybrané hromadné e-maily byly úspěšně odstraněny.";
+$l['success_mass_mail_deleted'] = "Vybrané hromadné e-maily byly úspěšně smazány.";
 $l['success_mass_mail_resent'] = "Probíhá znovu odeslání e-mailu uživatelům, kterým se nepodařilo zprávu doručit. Viz níže.";
 $l['success_mass_mail_canceled'] = "Hromadné odeslání e-mailu bylo úspěšně zrušeno.";
 
-$l['mass_mail_deletion_confirmation'] = "Opravdu chcete odstranit tento hromadný e-mail?";
+$l['mass_mail_deletion_confirmation'] = "Opravdu chcete smazat tento hromadný e-mail?";
 $l['additional_user_groups_desc'] = "Pro výběr více skupin podržte klávesu CTRL";

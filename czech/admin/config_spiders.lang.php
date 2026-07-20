@@ -29,7 +29,7 @@ $l['theme_desc'] = "Vyberte šablonu, kterou bot uvidí.";
 $l['user_group'] = "Uživatelské skupiny";
 $l['user_group_desc'] = "Vyberte skupinu uživatelů, kteří budou na nástěnce (nedoporučuje se uživatelská skupina hostů)";
 $l['save_bot'] = "Uložit bota";
-$l['use_board_default'] = "Použít výchozí nástěnku";
+$l['use_board_default'] = "Použít výchozí nastavení fóra";
 
 $l['error_invalid_bot'] = "Vybraný bot neexistuje.";
 $l['error_missing_name'] = "Nezadali jste název tohoto bota";
