@@ -23,6 +23,7 @@ $l['disallowed_email_addresses'] = "Nepovolené/zakázáné e-mailové adresy";
 $l['error_invalid_ban'] = "Vybrali jste neplatný ban pro úpravu.";
 $l['error_invalid_username'] = "Zadané uživatelské jméno je nesprávné nebo neexistuje.";
 $l['error_no_perm_to_ban'] = "Nemáte dostatečná oprávnění, abyste mohli zabanovat daného uživatele.";
+$l['error_invalid_ban_group'] = "Nevybrali jste platnou zabanovanou skupinu.";
 $l['error_already_banned'] = "Uživatel již patří do skupiny, která je zabanovaná a nelze jej znovu zabanovat.";
 $l['error_ban_self'] = "Nemůžete sám sebe zabanovat.";
 $l['error_no_reason'] = "Zapomněl jste zadat důvod zabanování.";

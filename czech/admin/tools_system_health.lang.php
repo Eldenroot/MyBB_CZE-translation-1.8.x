@@ -70,9 +70,8 @@ $l['check_templates'] = "Zkontrolovat šablony";
 $l['check_templates_desc'] = "Zkontroluje všechny nainstalované vzhledy pro známé bezpečnostní problémy.";
 $l['check_templates_title'] = "Kontrola zabezpečení šablony";
 $l['check_templates_info'] = "Tento proces zkontroluje všechny šablony na známé bezpečnostní problémy, které by mohly ovlivnit fórum a server, na kterém běží. Pokud máte nainstalováno mnoho vzhledů, může tento proces chvíli trvat.<br /><br />Pro zahájení kontroly klikněte na tlačítko 'Pokračovat'.";
-<br /><br />Pro zahájení kontroly stiskni tlačítko 'Pokračovat'.";
 $l['check_templates_info_desc'] = "Níže uvedené šablony odpovídají známým bezpečnostním problémům. Prosím, zkontrolujte je.";
-$l['full_edit'] = "Full Edit";
+$l['full_edit'] = "Plně upravit";
 
 $l['error_chmod'] = "Požadované soubory a adresáře nemají správné nastavení CHMOD.";
 $l['error_invalid_table'] = "Zvolená tabulka neexistuje.";

@@ -2,8 +2,8 @@
 
 # Čeština pro MyBB 1.8.x
 
-[![MyBB Version](https://img.shields.io/badge/MyBB-1.8.40-blue.svg)](https://mybb.com/)
-[![Language Pack Version](https://img.shields.io/badge/%C4%8Ce%C5%A1tina-1.8.40-green.svg)](https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x)
+[![MyBB Version](https://img.shields.io/badge/MyBB-1.8.41-blue.svg)](https://mybb.com/)
+[![Language Pack Version](https://img.shields.io/badge/%C4%8Ce%C5%A1tina-1.8.41-green.svg)](https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x)
 [![License](https://img.shields.io/badge/licence-GPL%20v3-blue.svg)](LICENSE)
 
 Oficiální a kompletní jazykový balíček češtiny pro open-source diskusní systém **[MyBB (v1.8.x)](https://mybb.com/)**.

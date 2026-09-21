@@ -595,9 +595,9 @@ $l['stopforumspam_error_retrieving'] = 'Nastala chyba při získávání dat ze 
 $l['stopforumspam_invalid_email'] = 'Nesprávná e-mailová adresa při kontrole ze serveru StopForumSpam.com';
 $l['stopforumspam_invalid_ip_address'] = 'Nesprávná IP adresa při kontrole ze serveru StopForumSpam.com';
 
-$l['sfs_error_username'] = 'Uživatelské jméno';
+$l['sfs_error_username'] = 'uživatelské jméno';
 $l['sfs_error_ip'] = 'IP';
-$l['sfs_error_email'] = 'E-mail';
+$l['sfs_error_email'] = 'e-mail';
 $l['sfs_error_or'] = 'nebo';
 
 $l['expcol_collapse'] = '[-]';
@@ -605,7 +605,7 @@ $l['expcol_expand'] = '[+]';
 
 $l['boardclosed_reason'] = 'Fórum je momentálně mimo provoz z důvodu údržby. Zkuste to, prosím, později.';
 
-$l['use_default'] = "Use Default";
+$l['use_default'] = "Použít výchozí nastavení";
 $l['editor_twitch'] = "Twitch";
 $l['postbit_attachment_filename'] = "Název souboru:";
 $l['postbit_post_under_moderation'] = "Váš příspěvek čeká na schválení moderátorem a aktuálně není veřejně viditelný. Jakmile jej moderátor schválí, uvidí ho všichni.";
