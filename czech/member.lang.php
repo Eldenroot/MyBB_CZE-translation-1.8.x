@@ -212,6 +212,8 @@ $l['error_activated_by_admin'] = "Aktivační e-mail nelze poslat znovu, protož
 $l['error_alreadyregistered'] = "Naše záznamy ukazují, že jste se v tomto fóru již zaregistrovali. Vícenásobné registrace nejsou povoleny.";
 $l['error_alreadyregisteredtime'] = "V registraci nelze pokračovat, neboť z vaší IP adresy již bylo za období posledních {2} hodin učiněno {1} nových registrací. Zkuste to, prosím, později.";
 $l['error_badlostpwcode'] = "Zadali jste chybný resetovací kód. Prosím, přečtěte si ještě jednou přijatý e-mail, nebo kontaktujte administrátora s prosbou o další pomoc.";
+$l['error_resetpwcodeexpired'] = "Platnost tohoto resetovacího kódu vypršela. Požádejte, prosím, o nové obnovení hesla a použijte odkaz z e-mailu do 24 hodin.";
+$l['error_activationexpired'] = "Platnost tohoto potvrzovacího odkazu pro změnu e-mailu vypršela. Změňte, prosím, svou e-mailovou adresu znovu a potvrďte ji do 24 hodin.";
 $l['error_badactivationcode'] = "Zadali jste chybný aktivační kód. Pro další odeslání aktivačního e-mailu klikněte <a href=\"member.php?action=resendactivation\">zde</a>.";
 $l['error_alreadyactivated'] = "Váš účet byl již aktivován nebo nepotřebuje e-mailovou verifikaci.";
 $l['error_alreadyvalidated'] = "Váš e-mail již byl ověřen.";
