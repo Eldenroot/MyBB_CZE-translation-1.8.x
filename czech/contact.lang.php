@@ -23,5 +23,5 @@ $l['subject_too_long'] = 'Předmět je moc dlouhý. Prosím, uveďte kratší ne
 $l['message_too_short'] = 'Text zprávy je moc krátký. Prosím, uveďte zprávu delší než {1} znaků (nyní má {2}).';
 $l['message_too_long'] = 'Text zprávy je moc dlouhý. Prosím, uveďte zprávu kratší než {1} znaků (nyní má {2}).';
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, váš e-mail či IP adresa je na seznamu spamerů - vaše kontaktní údaje byly zablokovány.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, zadané údaje ({1}) odpovídají údajům známého spamera, a proto byla vaše zpráva zablokována.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to, prosím, později.';

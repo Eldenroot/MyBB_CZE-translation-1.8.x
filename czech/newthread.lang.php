@@ -44,7 +44,7 @@ $l['redirect_newthread_moderation'] = "<br />Administrátor určil, že všechna
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
 $l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte oprávnění k jeho prohlížení.";
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, vaše uživatelské jméno nebo IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, zadané údaje ({1}) odpovídají údajům známého spamera. Pokud se jedná o omyl, kontaktujte administrátora.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
 
 $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěvky {1}.<br /><br />

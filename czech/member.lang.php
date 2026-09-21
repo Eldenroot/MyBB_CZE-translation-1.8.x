@@ -165,7 +165,7 @@ $l['timeonline'] = "Strávený čas online:";
 $l['timeonline_hidden'] = "(skrytý)";
 $l['registrations_disabled'] = "Bohužel se nyní nemůžete registrovat. Administrátor dočasně pozastavil registraci nových účtů. Vraťte se prosím později.";
 $l['error_username_length'] = "Vaše uživatelské jméno není platné. Musí obsahovat od {1} do {2} znaků.";
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, vaše uživatelské jméno nebo e-mailová adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, zadané údaje ({1}) odpovídají údajům známého spamera. Pokud se jedná o omyl, kontaktujte administrátora.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání vašeho účtu s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
 
 $l['none_registered'] = "Bez registrace";
